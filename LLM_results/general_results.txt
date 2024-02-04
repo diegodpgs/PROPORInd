@@ -1,0 +1,38 @@
+
+Zero shot
+UDA 0.392 Todas as sentenças
+DDA 0.257 Todas as sentenças
+UDA:0.3617 DDA:0.2128 [90] até sentenças de tamanho 10    
+UDA:0.4223 DDA:0.2815 [678] até sentenças de tamanho 40
+UDA:0.4158 DDA:0.2772 [732] até sentenças de tamanho 100 
+
+
+One shot random
+UDA 0.437 Todas as sentenças
+DDA 0.324 Todas as sentenças
+UDA:0.4667 DDA:0.3444 [90] até sentenças de tamanho 10
+UDA:0.4661 DDA:0.3496 [678] até sentenças de tamanho 40 
+UDA:0.4604 DDA:0.3456 [732] até sentenças de tamanho 100
+
+
+One shot fixed
+UDA 0.440 Todas as sentenças
+DDA 0.349 Todas as sentenças
+UDA:0.5222 DDA:0.4111 [90] até sentenças de tamanho 10
+UDA:0.4676 DDA:0.3702 [678] até sentenças de tamanho 40
+UDA:0.4645 DDA:0.3702 [732] até sentenças de tamanho 100
+
+
+Two shot random
+UDA 0.445 Todas as sentenças
+DDA 0.358 Todas as sentenças
+UDA:0.5778 DDA:0.4778 [90] até sentenças de tamanho 10
+UDA:0.4808 DDA:0.3879 [678] até sentenças de tamanho 40
+UDA:0.4713 DDA:0.3839 [732] até sentenças de tamanho 100
+
+Two shot fixed
+UDA 0.432 Todas as sentenças
+DDA 0.324 Todas as sentenças
+UDA:0.5111 DDA:0.3889 [90] até sentenças de tamanho 10
+UDA:0.4676 DDA:0.3525 [678] até sentenças de tamanho 40
+UDA:0.4577 DDA:0.3484 [732] até sentenças de tamanho 100

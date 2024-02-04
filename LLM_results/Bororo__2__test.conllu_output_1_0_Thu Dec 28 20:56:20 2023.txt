@@ -1,0 +1,1061 @@
+Inoba boe erore barägy ji , inoba boe erore karo ji , inoba boe erore kiogy ji , tygä tabo , baiga tabo , baiga akorewu tabo
+MESSAGE|:|Na sentença "kaboba karoba ure kowuje ?",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(kaboba -> karoba)
+(karoba -> kowuje)
+(ure -> kowuje)
+(kowuje -> root)
+(? -> kowuje)..
+Liste as relações de dependência sintática na sentença "Inoba boe erore barägy ji , inoba boe erore karo ji , inoba boe erore kiogy ji , tygä tabo , baiga tabo , baiga akorewu tabo", usando o formato (token dependente -> token cabeça).
+REPLY|:|Seguem as relações de dependência sintática na sentença "Inoba boe erore barägy ji , inoba boe erore karo ji , inoba boe erore kiogy ji , tygä tabo , baiga tabo , baiga akorewu tabo":
+
+(Inoba -> barägy)
+(boe -> barägy)
+(erore -> barägy)
+(barägy -> ji)
+(Inoba -> karo)
+(boe -> karo)
+(erore -> karo)
+(karo -> ji)
+(Inoba -> kiogy)
+(boe -> kiogy)
+(erore -> kiogy)
+(kiogy -> ji)
+(tygä -> tabo)
+(baiga -> tabo)
+(akorewu -> tabo)
+(baiga -> akorewu)
+(tabo -> root)
+REFINE [(Inoba]
+REFINE [(Inoba]
+REFINE [(Inoba]
+REFINE [(Inoba]
+REFINE [Inoba]
+REFINE [Inoba]
+-----------END REFINE---------
+REFINE [barägy)]
+REFINE [barägy)]
+REFINE [barägy)]
+REFINE [barägy)]
+REFINE [barägy]
+-----------END REFINE---------
+REFINE [(boe]
+REFINE [(boe]
+REFINE [(boe]
+REFINE [(boe]
+REFINE [boe]
+REFINE [boe]
+-----------END REFINE---------
+REFINE [barägy)]
+REFINE [barägy)]
+REFINE [barägy)]
+REFINE [barägy)]
+REFINE [barägy]
+-----------END REFINE---------
+REFINE [(erore]
+REFINE [(erore]
+REFINE [(erore]
+REFINE [(erore]
+REFINE [erore]
+REFINE [erore]
+-----------END REFINE---------
+REFINE [barägy)]
+REFINE [barägy)]
+REFINE [barägy)]
+REFINE [barägy)]
+REFINE [barägy]
+-----------END REFINE---------
+REFINE [(barägy]
+REFINE [(barägy]
+REFINE [(barägy]
+REFINE [(barägy]
+REFINE [barägy]
+REFINE [barägy]
+-----------END REFINE---------
+REFINE [ji)]
+REFINE [ji)]
+REFINE [ji)]
+REFINE [ji)]
+REFINE [ji]
+-----------END REFINE---------
+REFINE [(Inoba]
+REFINE [(Inoba]
+REFINE [(Inoba]
+REFINE [(Inoba]
+REFINE [Inoba]
+REFINE [Inoba]
+-----------END REFINE---------
+REFINE [karo)]
+REFINE [karo)]
+REFINE [karo)]
+REFINE [karo)]
+REFINE [karo]
+-----------END REFINE---------
+REFINE [(boe]
+REFINE [(boe]
+REFINE [(boe]
+REFINE [(boe]
+REFINE [boe]
+REFINE [boe]
+-----------END REFINE---------
+REFINE [karo)]
+REFINE [karo)]
+REFINE [karo)]
+REFINE [karo)]
+REFINE [karo]
+-----------END REFINE---------
+REFINE [(erore]
+REFINE [(erore]
+REFINE [(erore]
+REFINE [(erore]
+REFINE [erore]
+REFINE [erore]
+-----------END REFINE---------
+REFINE [karo)]
+REFINE [karo)]
+REFINE [karo)]
+REFINE [karo)]
+REFINE [karo]
+-----------END REFINE---------
+REFINE [(karo]
+REFINE [(karo]
+REFINE [(karo]
+REFINE [(karo]
+REFINE [karo]
+REFINE [karo]
+-----------END REFINE---------
+REFINE [ji)]
+REFINE [ji)]
+REFINE [ji)]
+REFINE [ji)]
+REFINE [ji]
+-----------END REFINE---------
+REFINE [(Inoba]
+REFINE [(Inoba]
+REFINE [(Inoba]
+REFINE [(Inoba]
+REFINE [Inoba]
+REFINE [Inoba]
+-----------END REFINE---------
+REFINE [kiogy)]
+REFINE [kiogy)]
+REFINE [kiogy)]
+REFINE [kiogy)]
+REFINE [kiogy]
+-----------END REFINE---------
+REFINE [(boe]
+REFINE [(boe]
+REFINE [(boe]
+REFINE [(boe]
+REFINE [boe]
+REFINE [boe]
+-----------END REFINE---------
+REFINE [kiogy)]
+REFINE [kiogy)]
+REFINE [kiogy)]
+REFINE [kiogy)]
+REFINE [kiogy]
+-----------END REFINE---------
+REFINE [(erore]
+REFINE [(erore]
+REFINE [(erore]
+REFINE [(erore]
+REFINE [erore]
+REFINE [erore]
+-----------END REFINE---------
+REFINE [kiogy)]
+REFINE [kiogy)]
+REFINE [kiogy)]
+REFINE [kiogy)]
+REFINE [kiogy]
+-----------END REFINE---------
+REFINE [(kiogy]
+REFINE [(kiogy]
+REFINE [(kiogy]
+REFINE [(kiogy]
+REFINE [kiogy]
+REFINE [kiogy]
+-----------END REFINE---------
+REFINE [ji)]
+REFINE [ji)]
+REFINE [ji)]
+REFINE [ji)]
+REFINE [ji]
+-----------END REFINE---------
+REFINE [(tygä]
+REFINE [(tygä]
+REFINE [(tygä]
+REFINE [(tygä]
+REFINE [tygä]
+REFINE [tygä]
+-----------END REFINE---------
+REFINE [tabo)]
+REFINE [tabo)]
+REFINE [tabo)]
+REFINE [tabo)]
+REFINE [tabo]
+-----------END REFINE---------
+REFINE [(baiga]
+REFINE [(baiga]
+REFINE [(baiga]
+REFINE [(baiga]
+REFINE [baiga]
+REFINE [baiga]
+-----------END REFINE---------
+REFINE [tabo)]
+REFINE [tabo)]
+REFINE [tabo)]
+REFINE [tabo)]
+REFINE [tabo]
+-----------END REFINE---------
+REFINE [(akorewu]
+REFINE [(akorewu]
+REFINE [(akorewu]
+REFINE [(akorewu]
+REFINE [akorewu]
+REFINE [akorewu]
+-----------END REFINE---------
+REFINE [tabo)]
+REFINE [tabo)]
+REFINE [tabo)]
+REFINE [tabo)]
+REFINE [tabo]
+-----------END REFINE---------
+REFINE [(baiga]
+REFINE [(baiga]
+REFINE [(baiga]
+REFINE [(baiga]
+REFINE [baiga]
+REFINE [baiga]
+-----------END REFINE---------
+REFINE [akorewu)]
+REFINE [akorewu)]
+REFINE [akorewu)]
+REFINE [akorewu)]
+REFINE [akorewu]
+-----------END REFINE---------
+REFINE [(tabo]
+REFINE [(tabo]
+REFINE [(tabo]
+REFINE [(tabo]
+REFINE [tabo]
+REFINE [tabo]
+-----------END REFINE---------
+REFINE [root)]
+REFINE [root)]
+REFINE [root)]
+REFINE [root)]
+REFINE [root]
+-----------END REFINE---------
+chatGPT|:|<@><#>Inoba<@>barägy<#>boe<@>barägy<#>erore<@>barägy<#>barägy<@>ji<#>Inoba<@>karo<#>boe<@>karo<#>erore<@>karo<#>karo<@>ji<#>Inoba<@>kiogy<#>boe<@>kiogy<#>erore<@>kiogy<#>kiogy<@>ji<#>tygä<@>tabo<#>baiga<@>tabo<#>akorewu<@>tabo<#>baiga<@>akorewu<#>tabo<@>root|:|UDA:0.333<#>DDA: 0.000
+GoldTree |:|Inoba<@>erore<@>obj<#>boe<@>erore<@>nsubj<#>erore<@>root<@>root<#>barägy<@>erore<@>obl<#>ji<@>barägy<@>case<#>,<@>erore<@>punct<#>inoba<@>erore<@>obj<#>boe<@>erore<@>nsubj<#>erore<@>erore<@>parataxis<#>karo<@>erore<@>obl<#>ji<@>karo<@>case<#>,<@>erore<@>punct<#>inoba<@>erore<@>obj<#>boe<@>erore<@>case<#>erore<@>erore<@>parataxis<#>kiogy<@>erore<@>obl<#>ji<@>kiogy<@>case<#>,<@>erore<@>punct<#>tygä<@>erore<@>obl<#>tabo<@>tygä<@>case<#>,<@>tygä<@>punct<#>baiga<@>tygä<@>conj<#>tabo<@>baiga<@>case<#>,<@>baiga<@>punct<#>baiga<@>tygä<@>conj<#>akorewu<@>baiga<@>nmod<#>tabo<@>baiga<@>case
+>--<
+Pegareure rokare ino , mearydae bokwarewu , jorydae bokwarewu imedyre , rokare ino , aredyre rokare ino , dyre rokare ino
+MESSAGE|:|Na sentença "ure tugirimi",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(ure -> tugirimi)
+(tugirimi -> root)..
+Liste as relações de dependência sintática na sentença "Pegareure rokare ino , mearydae bokwarewu , jorydae bokwarewu imedyre , rokare ino , aredyre rokare ino , dyre rokare ino", usando o formato (token dependente -> token cabeça).
+REPLY|:|As relações de dependência sintática na sentença "Pegareure rokare ino , mearydae bokwarewu , jorydae bokwarewu imedyre , rokare ino , aredyre rokare ino , dyre rokare ino" são:
+
+(Pegareure -> rokare)
+(rokare -> ino)
+(jorydae -> bokwarewu)
+(bokwarewu -> imedyre)
+(mearydae -> bokwarewu)
+(rokare -> ino)
+(aredyre -> rokare)
+(rokare -> ino)
+(dyre -> rokare)
+(rokare -> ino)
+REFINE [(Pegareure]
+REFINE [(Pegareure]
+REFINE [(Pegareure]
+REFINE [(Pegareure]
+REFINE [Pegareure]
+REFINE [Pegareure]
+-----------END REFINE---------
+REFINE [rokare)]
+REFINE [rokare)]
+REFINE [rokare)]
+REFINE [rokare)]
+REFINE [rokare]
+-----------END REFINE---------
+REFINE [(rokare]
+REFINE [(rokare]
+REFINE [(rokare]
+REFINE [(rokare]
+REFINE [rokare]
+REFINE [rokare]
+-----------END REFINE---------
+REFINE [ino)]
+REFINE [ino)]
+REFINE [ino)]
+REFINE [ino)]
+REFINE [ino]
+-----------END REFINE---------
+REFINE [(jorydae]
+REFINE [(jorydae]
+REFINE [(jorydae]
+REFINE [(jorydae]
+REFINE [jorydae]
+REFINE [jorydae]
+-----------END REFINE---------
+REFINE [bokwarewu)]
+REFINE [bokwarewu)]
+REFINE [bokwarewu)]
+REFINE [bokwarewu)]
+REFINE [bokwarewu]
+-----------END REFINE---------
+REFINE [(bokwarewu]
+REFINE [(bokwarewu]
+REFINE [(bokwarewu]
+REFINE [(bokwarewu]
+REFINE [bokwarewu]
+REFINE [bokwarewu]
+-----------END REFINE---------
+REFINE [imedyre)]
+REFINE [imedyre)]
+REFINE [imedyre)]
+REFINE [imedyre)]
+REFINE [imedyre]
+-----------END REFINE---------
+REFINE [(mearydae]
+REFINE [(mearydae]
+REFINE [(mearydae]
+REFINE [(mearydae]
+REFINE [mearydae]
+REFINE [mearydae]
+-----------END REFINE---------
+REFINE [bokwarewu)]
+REFINE [bokwarewu)]
+REFINE [bokwarewu)]
+REFINE [bokwarewu)]
+REFINE [bokwarewu]
+-----------END REFINE---------
+REFINE [(rokare]
+REFINE [(rokare]
+REFINE [(rokare]
+REFINE [(rokare]
+REFINE [rokare]
+REFINE [rokare]
+-----------END REFINE---------
+REFINE [ino)]
+REFINE [ino)]
+REFINE [ino)]
+REFINE [ino)]
+REFINE [ino]
+-----------END REFINE---------
+REFINE [(aredyre]
+REFINE [(aredyre]
+REFINE [(aredyre]
+REFINE [(aredyre]
+REFINE [aredyre]
+REFINE [aredyre]
+-----------END REFINE---------
+REFINE [rokare)]
+REFINE [rokare)]
+REFINE [rokare)]
+REFINE [rokare)]
+REFINE [rokare]
+-----------END REFINE---------
+REFINE [(rokare]
+REFINE [(rokare]
+REFINE [(rokare]
+REFINE [(rokare]
+REFINE [rokare]
+REFINE [rokare]
+-----------END REFINE---------
+REFINE [ino)]
+REFINE [ino)]
+REFINE [ino)]
+REFINE [ino)]
+REFINE [ino]
+-----------END REFINE---------
+REFINE [(dyre]
+REFINE [(dyre]
+REFINE [(dyre]
+REFINE [(dyre]
+REFINE [dyre]
+REFINE [dyre]
+-----------END REFINE---------
+REFINE [rokare)]
+REFINE [rokare)]
+REFINE [rokare)]
+REFINE [rokare)]
+REFINE [rokare]
+-----------END REFINE---------
+REFINE [(rokare]
+REFINE [(rokare]
+REFINE [(rokare]
+REFINE [(rokare]
+REFINE [rokare]
+REFINE [rokare]
+-----------END REFINE---------
+REFINE [ino)]
+REFINE [ino)]
+REFINE [ino)]
+REFINE [ino)]
+REFINE [ino]
+-----------END REFINE---------
+chatGPT|:|<@><#>Pegareure<@>rokare<#>rokare<@>ino<#>jorydae<@>bokwarewu<#>bokwarewu<@>imedyre<#>mearydae<@>bokwarewu<#>rokare<@>ino<#>aredyre<@>rokare<#>rokare<@>ino<#>dyre<@>rokare<#>rokare<@>ino|:|UDA:0.429<#>DDA: 0.143
+GoldTree |:|Pegareure<@>rokare<@>ccomp<#>rokare<@>root<@>root<#>ino<@>rokare<@>advmod<#>,<@>rokare<@>punct<#>mearydae<@>imedyre<@>acl<#>bokwarewu<@>mearydae<@>dep<#>,<@>mearydae<@>punct<#>jorydae<@>mearydae<@>conj<#>bokwarewu<@>jorydae<@>dep<#>imedyre<@>rokare<@>nsubj<#>,<@>rokare<@>punct<#>rokare<@>rokare<@>parataxis<#>ino<@>rokare<@>advmod<#>,<@>rokare<@>punct<#>aredyre<@>rokare<@>nsubj<#>rokare<@>rokare<@>parataxis<#>ino<@>rokare<@>advmod<#>,<@>rokare<@>punct<#>dyre<@>rokare<@>ccomp<#>rokare<@>rokare<@>parataxis<#>ino<@>rokare<@>advmod
+>--<
+Deu ure boku to , ure itura to , Deu ure ju , kuiada , aroe nowu boe jamedy boe ure to boe enogwagewu ji
+MESSAGE|:|Na sentença "boekare imi",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(boekare -> root)
+(imi -> boekare)..
+Liste as relações de dependência sintática na sentença "Deu ure boku to , ure itura to , Deu ure ju , kuiada , aroe nowu boe jamedy boe ure to boe enogwagewu ji", usando o formato (token dependente -> token cabeça).
+REPLY|:|As relações de dependência sintática na sentença "Deu ure boku to, ure itura to, Deu ure ju, kuiada, aroe nowu boe jamedy boe ure to boe enogwagewu ji" são:
+
+(Deu -> ure)
+(ure -> boku)
+(boku -> root)
+(to -> boku)
+(ure -> itura)
+(itura -> to)
+(Deu -> ure)
+(ure -> ju)
+(ju -> Deu)
+(kuiada -> ju)
+(aroe -> kuiada)
+(nowu -> aroe)
+(boe -> nowu)
+(jamedy -> boe)
+(boe -> ure)
+(boe -> to)
+(enogwagewu -> boe)
+(ji -> enogwagewu)
+REFINE [(Deu]
+REFINE [(Deu]
+REFINE [(Deu]
+REFINE [(Deu]
+REFINE [Deu]
+REFINE [Deu]
+-----------END REFINE---------
+REFINE [ure)]
+REFINE [ure)]
+REFINE [ure)]
+REFINE [ure)]
+REFINE [ure]
+-----------END REFINE---------
+REFINE [(ure]
+REFINE [(ure]
+REFINE [(ure]
+REFINE [(ure]
+REFINE [ure]
+REFINE [ure]
+-----------END REFINE---------
+REFINE [boku)]
+REFINE [boku)]
+REFINE [boku)]
+REFINE [boku)]
+REFINE [boku]
+-----------END REFINE---------
+REFINE [(boku]
+REFINE [(boku]
+REFINE [(boku]
+REFINE [(boku]
+REFINE [boku]
+REFINE [boku]
+-----------END REFINE---------
+REFINE [root)]
+REFINE [root)]
+REFINE [root)]
+REFINE [root)]
+REFINE [root]
+-----------END REFINE---------
+REFINE [(to]
+REFINE [(to]
+REFINE [(to]
+REFINE [(to]
+REFINE [to]
+REFINE [to]
+-----------END REFINE---------
+REFINE [boku)]
+REFINE [boku)]
+REFINE [boku)]
+REFINE [boku)]
+REFINE [boku]
+-----------END REFINE---------
+REFINE [(ure]
+REFINE [(ure]
+REFINE [(ure]
+REFINE [(ure]
+REFINE [ure]
+REFINE [ure]
+-----------END REFINE---------
+REFINE [itura)]
+REFINE [itura)]
+REFINE [itura)]
+REFINE [itura)]
+REFINE [itura]
+-----------END REFINE---------
+REFINE [(itura]
+REFINE [(itura]
+REFINE [(itura]
+REFINE [(itura]
+REFINE [itura]
+REFINE [itura]
+-----------END REFINE---------
+REFINE [to)]
+REFINE [to)]
+REFINE [to)]
+REFINE [to)]
+REFINE [to]
+-----------END REFINE---------
+REFINE [(Deu]
+REFINE [(Deu]
+REFINE [(Deu]
+REFINE [(Deu]
+REFINE [Deu]
+REFINE [Deu]
+-----------END REFINE---------
+REFINE [ure)]
+REFINE [ure)]
+REFINE [ure)]
+REFINE [ure)]
+REFINE [ure]
+-----------END REFINE---------
+REFINE [(ure]
+REFINE [(ure]
+REFINE [(ure]
+REFINE [(ure]
+REFINE [ure]
+REFINE [ure]
+-----------END REFINE---------
+REFINE [ju)]
+REFINE [ju)]
+REFINE [ju)]
+REFINE [ju)]
+REFINE [ju]
+-----------END REFINE---------
+REFINE [(ju]
+REFINE [(ju]
+REFINE [(ju]
+REFINE [(ju]
+REFINE [ju]
+REFINE [ju]
+-----------END REFINE---------
+REFINE [Deu)]
+REFINE [Deu)]
+REFINE [Deu)]
+REFINE [Deu)]
+REFINE [Deu]
+-----------END REFINE---------
+REFINE [(kuiada]
+REFINE [(kuiada]
+REFINE [(kuiada]
+REFINE [(kuiada]
+REFINE [kuiada]
+REFINE [kuiada]
+-----------END REFINE---------
+REFINE [ju)]
+REFINE [ju)]
+REFINE [ju)]
+REFINE [ju)]
+REFINE [ju]
+-----------END REFINE---------
+REFINE [(aroe]
+REFINE [(aroe]
+REFINE [(aroe]
+REFINE [(aroe]
+REFINE [aroe]
+REFINE [aroe]
+-----------END REFINE---------
+REFINE [kuiada)]
+REFINE [kuiada)]
+REFINE [kuiada)]
+REFINE [kuiada)]
+REFINE [kuiada]
+-----------END REFINE---------
+REFINE [(nowu]
+REFINE [(nowu]
+REFINE [(nowu]
+REFINE [(nowu]
+REFINE [nowu]
+REFINE [nowu]
+-----------END REFINE---------
+REFINE [aroe)]
+REFINE [aroe)]
+REFINE [aroe)]
+REFINE [aroe)]
+REFINE [aroe]
+-----------END REFINE---------
+REFINE [(boe]
+REFINE [(boe]
+REFINE [(boe]
+REFINE [(boe]
+REFINE [boe]
+REFINE [boe]
+-----------END REFINE---------
+REFINE [nowu)]
+REFINE [nowu)]
+REFINE [nowu)]
+REFINE [nowu)]
+REFINE [nowu]
+-----------END REFINE---------
+REFINE [(jamedy]
+REFINE [(jamedy]
+REFINE [(jamedy]
+REFINE [(jamedy]
+REFINE [jamedy]
+REFINE [jamedy]
+-----------END REFINE---------
+REFINE [boe)]
+REFINE [boe)]
+REFINE [boe)]
+REFINE [boe)]
+REFINE [boe]
+-----------END REFINE---------
+REFINE [(boe]
+REFINE [(boe]
+REFINE [(boe]
+REFINE [(boe]
+REFINE [boe]
+REFINE [boe]
+-----------END REFINE---------
+REFINE [ure)]
+REFINE [ure)]
+REFINE [ure)]
+REFINE [ure)]
+REFINE [ure]
+-----------END REFINE---------
+REFINE [(boe]
+REFINE [(boe]
+REFINE [(boe]
+REFINE [(boe]
+REFINE [boe]
+REFINE [boe]
+-----------END REFINE---------
+REFINE [to)]
+REFINE [to)]
+REFINE [to)]
+REFINE [to)]
+REFINE [to]
+-----------END REFINE---------
+REFINE [(enogwagewu]
+REFINE [(enogwagewu]
+REFINE [(enogwagewu]
+REFINE [(enogwagewu]
+REFINE [enogwagewu]
+REFINE [enogwagewu]
+-----------END REFINE---------
+REFINE [boe)]
+REFINE [boe)]
+REFINE [boe)]
+REFINE [boe)]
+REFINE [boe]
+-----------END REFINE---------
+REFINE [(ji]
+REFINE [(ji]
+REFINE [(ji]
+REFINE [(ji]
+REFINE [ji]
+REFINE [ji]
+-----------END REFINE---------
+REFINE [enogwagewu)]
+REFINE [enogwagewu)]
+REFINE [enogwagewu)]
+REFINE [enogwagewu)]
+REFINE [enogwagewu]
+-----------END REFINE---------
+chatGPT|:|<@><#>Deu<@>ure<#>ure<@>boku<#>boku<@>root<#>to<@>boku<#>ure<@>itura<#>itura<@>to<#>Deu<@>ure<#>ure<@>ju<#>ju<@>Deu<#>kuiada<@>ju<#>aroe<@>kuiada<#>nowu<@>aroe<#>boe<@>nowu<#>jamedy<@>boe<#>boe<@>ure<#>boe<@>to<#>enogwagewu<@>boe<#>ji<@>enogwagewu|:|UDA:0.280<#>DDA: 0.160
+GoldTree |:|Deu<@>to<@>nsubj<#>ure<@>to<@>dep<#>boku<@>to<@>obj<#>to<@>root<@>root<#>,<@>to<@>punct<#>ure<@>to<@>dep<#>itura<@>to<@>obj<#>to<@>to<@>parataxis<#>,<@>to<@>punct<#>Deu<@>to<@>nsubj<#>ure<@>to<@>dep<#>ju<@>to<@>obj<#>,<@>ju<@>punct<#>kuiada<@>ju<@>conj<#>,<@>kuiada<@>punct<#>aroe<@>ju<@>conj<#>nowu<@>boe<@>nmod<#>boe<@>ju<@>conj<#>jamedy<@>boe<@>nmod<#>boe<@>ju<@>conj<#>ure<@>to<@>dep<#>to<@>to<@>parataxis<#>boe<@>enogwagewu<@>nsubj<#>enogwagewu<@>to<@>advcl<#>ji<@>enogwagewu<@>case
+>--<
+Deu ure ia aredu to , nowu oredu iere Adão , oreduje iere Eva
+MESSAGE|:|Na sentença "inakore imeruie",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(inakore -> root)
+(imeruie -> inakore)..
+Liste as relações de dependência sintática na sentença "Deu ure ia aredu to , nowu oredu iere Adão , oreduje iere Eva", usando o formato (token dependente -> token cabeça).
+REPLY|:|(Deu -> root)
+(ure -> Deu)
+(ia -> ure)
+(aredu -> Deu)
+(to -> aredu)
+(, -> aredu)
+(nowu -> Deu)
+(oredu -> nowu)
+(iere -> Eva)
+(Adão -> iere)
+(, -> iere)
+(oreduje -> nowu)
+(iere -> oreduje)
+(Eva -> Deu
+REFINE [(ure]
+REFINE [(ure]
+REFINE [(ure]
+REFINE [(ure]
+REFINE [ure]
+REFINE [ure]
+-----------END REFINE---------
+REFINE [Deu)]
+REFINE [Deu)]
+REFINE [Deu)]
+REFINE [Deu)]
+REFINE [Deu]
+-----------END REFINE---------
+REFINE [(ia]
+REFINE [(ia]
+REFINE [(ia]
+REFINE [(ia]
+REFINE [ia]
+REFINE [ia]
+-----------END REFINE---------
+REFINE [ure)]
+REFINE [ure)]
+REFINE [ure)]
+REFINE [ure)]
+REFINE [ure]
+-----------END REFINE---------
+REFINE [(aredu]
+REFINE [(aredu]
+REFINE [(aredu]
+REFINE [(aredu]
+REFINE [aredu]
+REFINE [aredu]
+-----------END REFINE---------
+REFINE [Deu)]
+REFINE [Deu)]
+REFINE [Deu)]
+REFINE [Deu)]
+REFINE [Deu]
+-----------END REFINE---------
+REFINE [(to]
+REFINE [(to]
+REFINE [(to]
+REFINE [(to]
+REFINE [to]
+REFINE [to]
+-----------END REFINE---------
+REFINE [aredu)]
+REFINE [aredu)]
+REFINE [aredu)]
+REFINE [aredu)]
+REFINE [aredu]
+-----------END REFINE---------
+REFINE [(,]
+REFINE [(,]
+REFINE [(,]
+REFINE [(,]
+REFINE [,]
+REFINE [,]
+-----------END REFINE---------
+REFINE [aredu)]
+REFINE [aredu)]
+REFINE [aredu)]
+REFINE [aredu)]
+REFINE [aredu]
+-----------END REFINE---------
+REFINE [(nowu]
+REFINE [(nowu]
+REFINE [(nowu]
+REFINE [(nowu]
+REFINE [nowu]
+REFINE [nowu]
+-----------END REFINE---------
+REFINE [Deu)]
+REFINE [Deu)]
+REFINE [Deu)]
+REFINE [Deu)]
+REFINE [Deu]
+-----------END REFINE---------
+REFINE [(oredu]
+REFINE [(oredu]
+REFINE [(oredu]
+REFINE [(oredu]
+REFINE [oredu]
+REFINE [oredu]
+-----------END REFINE---------
+REFINE [nowu)]
+REFINE [nowu)]
+REFINE [nowu)]
+REFINE [nowu)]
+REFINE [nowu]
+-----------END REFINE---------
+REFINE [(iere]
+REFINE [(iere]
+REFINE [(iere]
+REFINE [(iere]
+REFINE [iere]
+REFINE [iere]
+-----------END REFINE---------
+REFINE [Eva)]
+REFINE [Eva)]
+REFINE [Eva)]
+REFINE [Eva)]
+REFINE [Eva]
+-----------END REFINE---------
+REFINE [(Adão]
+REFINE [(Adão]
+REFINE [(Adão]
+REFINE [(Adão]
+REFINE [Adão]
+REFINE [Adão]
+-----------END REFINE---------
+REFINE [iere)]
+REFINE [iere)]
+REFINE [iere)]
+REFINE [iere)]
+REFINE [iere]
+-----------END REFINE---------
+REFINE [(,]
+REFINE [(,]
+REFINE [(,]
+REFINE [(,]
+REFINE [,]
+REFINE [,]
+-----------END REFINE---------
+REFINE [iere)]
+REFINE [iere)]
+REFINE [iere)]
+REFINE [iere)]
+REFINE [iere]
+-----------END REFINE---------
+REFINE [(oreduje]
+REFINE [(oreduje]
+REFINE [(oreduje]
+REFINE [(oreduje]
+REFINE [oreduje]
+REFINE [oreduje]
+-----------END REFINE---------
+REFINE [nowu)]
+REFINE [nowu)]
+REFINE [nowu)]
+REFINE [nowu)]
+REFINE [nowu]
+-----------END REFINE---------
+REFINE [(iere]
+REFINE [(iere]
+REFINE [(iere]
+REFINE [(iere]
+REFINE [iere]
+REFINE [iere]
+-----------END REFINE---------
+REFINE [oreduje)]
+REFINE [oreduje)]
+REFINE [oreduje)]
+REFINE [oreduje)]
+REFINE [oreduje]
+-----------END REFINE---------
+REFINE [(Eva]
+REFINE [(Eva]
+REFINE [(Eva]
+REFINE [(Eva]
+REFINE [Eva]
+REFINE [Eva]
+-----------END REFINE---------
+REFINE [Deu]
+REFINE [Deu]
+REFINE [Deu]
+REFINE [Deu]
+REFINE [Deu]
+-----------END REFINE---------
+chatGPT|:|ure<@>Deu<#>ia<@>ure<#>aredu<@>Deu<#>to<@>aredu<#>,<@>aredu<#>nowu<@>Deu<#>oredu<@>nowu<#>iere<@>Eva<#>Adão<@>iere<#>,<@>iere<#>oreduje<@>nowu<#>iere<@>oreduje<#>Eva<@>Deu|:|UDA:0.357<#>DDA: 0.071
+GoldTree |:|Deu<@>to<@>nsubj<#>ure<@>to<@>dep<#>ia<@>aredu<@>det<#>aredu<@>to<@>obj<#>to<@>root<@>root<#>,<@>to<@>punct<#>nowu<@>oredu<@>det<#>oredu<@>iere<@>nmod<#>iere<@>Adão<@>nsubj<#>Adão<@>to<@>parataxis<#>,<@>Adão<@>punct<#>oreduje<@>iere<@>nmod<#>iere<@>Eva<@>nsubj<#>Eva<@>to<@>parataxis
+>--<
+Deu koiare ure Satanae towuje ure bope towuje boekare etaidure etugoduwo pudumiwo tugurire , pudumiwo tugodure Deu kori kocare Deu ure rugadu barigu
+MESSAGE|:|Na sentença "Taregodui pobo to dy tabore , bire",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(taregodui -> bire)
+(pobo -> taregodui)
+(to -> pobo)
+(dy -> taregodui)
+(tabore -> taregodui)
+(, -> taregodui)
+(bire -> root)..
+Liste as relações de dependência sintática na sentença "Deu koiare ure Satanae towuje ure bope towuje boekare etaidure etugoduwo pudumiwo tugurire , pudumiwo tugodure Deu kori kocare Deu ure rugadu barigu", usando o formato (token dependente -> token cabeça).
+REPLY|:|(deu -> koiare)
+(koiare -> root)
+(ure -> satanae)
+(towuje -> ure)
+(bope -> ure)
+(towuje -> boekare)
+(etaidure -> etugoduwo)
+(pudumiwo -> etugoduwo)
+(tugurire -> etugoduwo)
+(pudumiwo -> tugodure)
+(tugodure -> deu)
+(ure -> kori)
+(kocare -> deu)
+(deu -> rugadu)
+(barigu -> rugadu)
+REFINE [(koiare]
+REFINE [(koiare]
+REFINE [(koiare]
+REFINE [(koiare]
+REFINE [koiare]
+REFINE [koiare]
+-----------END REFINE---------
+REFINE [root)]
+REFINE [root)]
+REFINE [root)]
+REFINE [root)]
+REFINE [root]
+-----------END REFINE---------
+REFINE [(ure]
+REFINE [(ure]
+REFINE [(ure]
+REFINE [(ure]
+REFINE [ure]
+REFINE [ure]
+-----------END REFINE---------
+REFINE [satanae)]
+REFINE [satanae)]
+REFINE [satanae)]
+REFINE [satanae)]
+REFINE [satanae]
+-----------END REFINE---------
+REFINE [(towuje]
+REFINE [(towuje]
+REFINE [(towuje]
+REFINE [(towuje]
+REFINE [towuje]
+REFINE [towuje]
+-----------END REFINE---------
+REFINE [ure)]
+REFINE [ure)]
+REFINE [ure)]
+REFINE [ure)]
+REFINE [ure]
+-----------END REFINE---------
+REFINE [(bope]
+REFINE [(bope]
+REFINE [(bope]
+REFINE [(bope]
+REFINE [bope]
+REFINE [bope]
+-----------END REFINE---------
+REFINE [ure)]
+REFINE [ure)]
+REFINE [ure)]
+REFINE [ure)]
+REFINE [ure]
+-----------END REFINE---------
+REFINE [(towuje]
+REFINE [(towuje]
+REFINE [(towuje]
+REFINE [(towuje]
+REFINE [towuje]
+REFINE [towuje]
+-----------END REFINE---------
+REFINE [boekare)]
+REFINE [boekare)]
+REFINE [boekare)]
+REFINE [boekare)]
+REFINE [boekare]
+-----------END REFINE---------
+REFINE [(etaidure]
+REFINE [(etaidure]
+REFINE [(etaidure]
+REFINE [(etaidure]
+REFINE [etaidure]
+REFINE [etaidure]
+-----------END REFINE---------
+REFINE [etugoduwo)]
+REFINE [etugoduwo)]
+REFINE [etugoduwo)]
+REFINE [etugoduwo)]
+REFINE [etugoduwo]
+-----------END REFINE---------
+REFINE [(pudumiwo]
+REFINE [(pudumiwo]
+REFINE [(pudumiwo]
+REFINE [(pudumiwo]
+REFINE [pudumiwo]
+REFINE [pudumiwo]
+-----------END REFINE---------
+REFINE [etugoduwo)]
+REFINE [etugoduwo)]
+REFINE [etugoduwo)]
+REFINE [etugoduwo)]
+REFINE [etugoduwo]
+-----------END REFINE---------
+REFINE [(tugurire]
+REFINE [(tugurire]
+REFINE [(tugurire]
+REFINE [(tugurire]
+REFINE [tugurire]
+REFINE [tugurire]
+-----------END REFINE---------
+REFINE [etugoduwo)]
+REFINE [etugoduwo)]
+REFINE [etugoduwo)]
+REFINE [etugoduwo)]
+REFINE [etugoduwo]
+-----------END REFINE---------
+REFINE [(pudumiwo]
+REFINE [(pudumiwo]
+REFINE [(pudumiwo]
+REFINE [(pudumiwo]
+REFINE [pudumiwo]
+REFINE [pudumiwo]
+-----------END REFINE---------
+REFINE [tugodure)]
+REFINE [tugodure)]
+REFINE [tugodure)]
+REFINE [tugodure)]
+REFINE [tugodure]
+-----------END REFINE---------
+REFINE [(tugodure]
+REFINE [(tugodure]
+REFINE [(tugodure]
+REFINE [(tugodure]
+REFINE [tugodure]
+REFINE [tugodure]
+-----------END REFINE---------
+REFINE [deu)]
+REFINE [deu)]
+REFINE [deu)]
+REFINE [deu)]
+REFINE [deu]
+-----------END REFINE---------
+REFINE [(ure]
+REFINE [(ure]
+REFINE [(ure]
+REFINE [(ure]
+REFINE [ure]
+REFINE [ure]
+-----------END REFINE---------
+REFINE [kori)]
+REFINE [kori)]
+REFINE [kori)]
+REFINE [kori)]
+REFINE [kori]
+-----------END REFINE---------
+REFINE [(kocare]
+REFINE [(kocare]
+REFINE [(kocare]
+REFINE [(kocare]
+REFINE [kocare]
+REFINE [kocare]
+-----------END REFINE---------
+REFINE [deu)]
+REFINE [deu)]
+REFINE [deu)]
+REFINE [deu)]
+REFINE [deu]
+-----------END REFINE---------
+REFINE [(deu]
+REFINE [(deu]
+REFINE [(deu]
+REFINE [(deu]
+REFINE [deu]
+REFINE [deu]
+-----------END REFINE---------
+REFINE [rugadu)]
+REFINE [rugadu)]
+REFINE [rugadu)]
+REFINE [rugadu)]
+REFINE [rugadu]
+-----------END REFINE---------
+REFINE [(barigu]
+REFINE [(barigu]
+REFINE [(barigu]
+REFINE [(barigu]
+REFINE [barigu]
+REFINE [barigu]
+-----------END REFINE---------
+REFINE [rugadu)]
+REFINE [rugadu)]
+REFINE [rugadu)]
+REFINE [rugadu)]
+REFINE [rugadu]
+-----------END REFINE---------

@@ -1,0 +1,163 @@
+Save dump_models/dmv/Bororo__3__train_40_viterbi_dmv.pickle
+16 tags
+------MARCADOR
+LOG->-modules/dmv_viterbi_model.py: DMV(object).__init__
+LOG->-modules/dmv_viterbi_model.py: DMV(object).init_params(self, train_tags, tag_set)
+initialize, sentence 0
+LOG->-modules/dmv_viterbi_model.py: eval(
+starting acc on length <= 10: #trees 74, undir 52.38, dir 29.84
+--MARCADOR while
+epoch 0, sentence 0
+
+
+avg_log_likelihood:-14.23979 time elapsed: 8.51 sec
+
+
+LOG->-modules/dmv_viterbi_model.py: eval(
+acc on length <= 10: #trees 74, undir 51.43, dir 27.62
+epoch 1, sentence 0
+
+
+avg_log_likelihood:-12.37608 time elapsed: 17.87 sec
+
+
+LOG->-modules/dmv_viterbi_model.py: eval(
+acc on length <= 10: #trees 74, undir 52.38, dir 29.21
+epoch 2, sentence 0
+
+
+avg_log_likelihood:-11.95100 time elapsed: 27.13 sec
+
+
+LOG->-modules/dmv_viterbi_model.py: eval(
+acc on length <= 10: #trees 74, undir 52.38, dir 29.21
+epoch 3, sentence 0
+
+
+avg_log_likelihood:-11.79631 time elapsed: 36.34 sec
+
+
+LOG->-modules/dmv_viterbi_model.py: eval(
+acc on length <= 10: #trees 74, undir 52.70, dir 29.21
+epoch 4, sentence 0
+
+
+avg_log_likelihood:-11.69347 time elapsed: 45.69 sec
+
+
+LOG->-modules/dmv_viterbi_model.py: eval(
+acc on length <= 10: #trees 74, undir 52.38, dir 29.52
+epoch 5, sentence 0
+
+
+avg_log_likelihood:-11.63282 time elapsed: 55.07 sec
+
+
+LOG->-modules/dmv_viterbi_model.py: eval(
+acc on length <= 10: #trees 74, undir 52.06, dir 29.21
+epoch 6, sentence 0
+
+
+avg_log_likelihood:-11.60079 time elapsed: 64.35 sec
+
+
+LOG->-modules/dmv_viterbi_model.py: eval(
+acc on length <= 10: #trees 74, undir 52.06, dir 29.21
+epoch 7, sentence 0
+
+
+avg_log_likelihood:-11.58392 time elapsed: 73.59 sec
+
+
+LOG->-modules/dmv_viterbi_model.py: eval(
+acc on length <= 10: #trees 74, undir 52.06, dir 29.21
+epoch 8, sentence 0
+
+
+avg_log_likelihood:-11.58137 time elapsed: 82.85 sec
+
+
+LOG->-modules/dmv_viterbi_model.py: eval(
+acc on length <= 10: #trees 74, undir 52.06, dir 29.21
+epoch 9, sentence 0
+
+
+avg_log_likelihood:-11.58133 time elapsed: 91.98 sec
+
+
+LOG->-modules/dmv_viterbi_model.py: eval(
+acc on length <= 10: #trees 74, undir 52.06, dir 29.21
+(0, 1)<#>(1, 2)<#>(2, -1)<#>(3, 2)<#>(4, 3)<#>(5, 4)<#>(6, 5)<#>(7, 6)<#>(8, 7)<#>(9, 10)<#>(10, 8)<#>(11, 10)<#>(12, 11)<#>(13, 12)<#>(14, 13)<#>(15, 14)<#>(16, 17)<#>(17, 15)<#>(18, 17) |  0.2.BEBE
+(0, 2)<#>(1, 0)<#>(2, 4)<#>(3, 2)<#>(4, 5)<#>(5, -1)<#>(6, 5) |  0.7.BEBE
+(0, -1)<#>(1, 2)<#>(2, 0)<#>(3, 2)<#>(4, 5)<#>(5, 6)<#>(6, 7)<#>(7, 3)<#>(8, 7)<#>(9, 10)<#>(10, 11)<#>(11, 12)<#>(12, 8)<#>(13, 12)<#>(14, 13) |  criacao_04
+(0, -1)<#>(1, 2)<#>(2, 0)<#>(3, 4)<#>(4, 5)<#>(5, 2)<#>(6, 7)<#>(7, 8)<#>(8, 10)<#>(9, 8)<#>(10, 5)<#>(11, 14)<#>(12, 11)<#>(13, 12)<#>(14, 15)<#>(15, 10) |  criacao_09
+(0, 5)<#>(1, 0)<#>(2, 1)<#>(3, 2)<#>(4, 3)<#>(5, -1)<#>(6, 5)<#>(7, 6)<#>(8, 9)<#>(9, 10)<#>(10, 7)<#>(11, 10)<#>(12, 11)<#>(13, 12)<#>(14, 21)<#>(15, 18)<#>(16, 17)<#>(17, 15)<#>(18, 14)<#>(19, 20)<#>(20, 18)<#>(21, 13) |  criacao_14
+(0, 1)<#>(1, -1)<#>(2, 1) |  ABE-21
+(0, 1)<#>(1, -1)<#>(2, 1) |  ABE-26
+(0, -1) |  ABE-32
+(0, -1)<#>(1, 3)<#>(2, 1)<#>(3, 0)<#>(4, 3) |  ABE-38
+(0, 1)<#>(1, -1) |  ABE-48
+(0, 1)<#>(1, -1)<#>(2, 1) |  ABE-152
+(0, 1)<#>(1, -1)<#>(2, 4)<#>(3, 2)<#>(4, 1) |  ABE-217
+(0, -1)<#>(1, 2)<#>(2, 0)<#>(3, 2)<#>(4, 3) |  ABE-222
+(0, 2)<#>(1, 0)<#>(2, 3)<#>(3, -1)<#>(4, 3)<#>(5, 4) |  ABE-230
+(0, 1)<#>(1, -1) |  ABE-239
+(0, 1)<#>(1, -1)<#>(2, 1) |  ABE-244
+(0, 1)<#>(1, -1)<#>(2, 1) |  ABE-249
+(0, 1)<#>(1, -1)<#>(2, 1)<#>(3, 2)<#>(4, 3) |  ABE-256
+(0, -1)<#>(1, 0) |  ABE-263
+(0, 2)<#>(1, 0)<#>(2, 3)<#>(3, -1) |  ABE-269
+(0, 1)<#>(1, -1)<#>(2, 3)<#>(3, 4)<#>(4, 1) |  ABE-274
+(0, -1)<#>(1, 2)<#>(2, 0) |  ABE-279
+(0, 2)<#>(1, 0)<#>(2, -1) |  ABE-290
+(0, 1)<#>(1, 2)<#>(2, -1)<#>(3, 4)<#>(4, 2) |  ABE-296
+(0, 1)<#>(1, -1)<#>(2, 1) |  ABE-301
+(0, 1)<#>(1, -1)<#>(2, 3)<#>(3, 5)<#>(4, 3)<#>(5, 1)<#>(6, 5) |  ABE-306
+(0, -1)<#>(1, 0)<#>(2, 1)<#>(3, 2) |  ABE-315
+(0, -1)<#>(1, 0)<#>(2, 1) |  ABE-320
+(0, -1)<#>(1, 0) |  ABE-325
+(0, -1)<#>(1, 0)<#>(2, 1) |  ABE-330
+(0, -1)<#>(1, 3)<#>(2, 1)<#>(3, 0) |  ABE-339
+(0, 1)<#>(1, 2)<#>(2, -1)<#>(3, 2) |  ABE-344
+(0, -1)<#>(1, 0) |  ABE-360
+(0, 1)<#>(1, -1)<#>(2, 1)<#>(3, 2) |  OBE-p75.2
+(0, -1)<#>(1, 0) |  CGPB-p13.4
+(0, 1)<#>(1, 2)<#>(2, -1)<#>(3, 2) |  CGPB-p19.5
+(0, 1)<#>(1, -1) |  CGPB-p31.1
+(0, 1)<#>(1, -1)<#>(2, 1) |  CGPB-p46.2
+(0, 1)<#>(1, 2)<#>(2, -1)<#>(3, 2) |  CGPB-p50.1
+(0, 1)<#>(1, -1) |  CGPB-p55.3
+(0, -1)<#>(1, 0) |  CGPB-p56.6
+(0, -1)<#>(1, 2)<#>(2, 3)<#>(3, 0)<#>(4, 5)<#>(5, 3)<#>(6, 5)<#>(7, 6) |  CGPB-p72.1
+(0, -1)<#>(1, 0) |  00.14dPessGr
+(0, 1)<#>(1, -1) |  00.46aPessGr
+(0, 1)<#>(1, -1)<#>(2, 1)<#>(3, 2) |  0055e.PessGr
+(0, 1)<#>(1, 3)<#>(2, 1)<#>(3, -1)<#>(4, 3) |  0057a.PessGr
+(0, 1)<#>(1, -1) |  0057f.PessGr
+(0, 1)<#>(1, -1)<#>(2, 1)<#>(3, 2)<#>(4, 3)<#>(5, 6)<#>(6, 4) |  0057k.PessGr
+(0, -1)<#>(1, 0) |  0057p.PessGr
+(0, -1) |  0062a.PessGr
+(0, 2)<#>(1, 0)<#>(2, 3)<#>(3, -1) |  0066b.PessGr
+(0, 6)<#>(1, 5)<#>(2, 1)<#>(3, 2)<#>(4, 3)<#>(5, 0)<#>(6, -1)<#>(7, 6) |  0067a.PessGr
+(0, 1)<#>(1, -1)<#>(2, 1)<#>(3, 2) |  0067f.PessGr
+(0, 1)<#>(1, -1)<#>(2, 1)<#>(3, 2)<#>(4, 3) |  0067k.PessGr
+(0, 1)<#>(1, -1)<#>(2, 1)<#>(3, 2) |  0067p.PessGr
+(0, -1)<#>(1, 0)<#>(2, 1) |  0068d.PessGr
+(0, -1)<#>(1, 0) |  0071e.PessGr
+(0, 1)<#>(1, -1) |  0072b.PessGr
+(0, 2)<#>(1, 0)<#>(2, -1) |  0072g.PessGr
+(0, 1)<#>(1, -1) |  0075a.PessGr
+(0, 1)<#>(1, -1) |  0077b.PessGr
+(0, -1)<#>(1, 0)<#>(2, 3)<#>(3, 1)<#>(4, 3) |  0088a.PessGr
+(0, -1)<#>(1, 0) |  0091a.PessGr
+(0, 1)<#>(1, -1) |  0093c.PessGr
+(0, 1)<#>(1, -1) |  0095a.PessGr
+(0, -1) |  00100a.PessGr
+(0, -1) |  101b.PessGr
+(0, -1) |  101g.PessGr
+(0, -1) |  101l.PessGr
+(0, -1) |  101q.PessGr
+(0, -1)<#>(1, 2)<#>(2, 0) |  00CrowellThesis-sent71
+(0, 1)<#>(1, -1) |  sabia.005
+(0, 11)<#>(1, 0)<#>(2, 10)<#>(3, 8)<#>(4, 3)<#>(5, 4)<#>(6, 5)<#>(7, 6)<#>(8, 2)<#>(9, 8)<#>(10, 1)<#>(11, -1)<#>(12, 11)<#>(13, 12)<#>(14, 13)<#>(15, 14) |  sabia.010
+(0, 10)<#>(1, 2)<#>(2, 3)<#>(3, 4)<#>(4, 5)<#>(5, 0)<#>(6, 5)<#>(7, 8)<#>(8, 6)<#>(9, 8)<#>(10, -1) |  sabia.015

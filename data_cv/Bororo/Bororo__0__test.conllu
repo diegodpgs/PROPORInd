@@ -1,0 +1,738 @@
+# sent_id = 0.1.BEBE
+# text = Itaidyre iwo taryduwadä boe enogiegidae ji , boe eno ie ji
+# text_eng = 
+# text_por = Eu quero ensinar-vos os nomes dos bororo, os nomes das coisas dos bororo.
+1	Itaidyre	aidy	VERB	v	Mood=Ind|Number=Sing|Person=1	0	root	_	[ˈai̯dɨ];want,like;querer,gostar
+2	iwo	bo	VERB	v	Number=Sing|Person=1	1	ccomp	_	_
+3	taryduwadä	jorydywadä	VERB	v	Number=Plur|Person=2|Voice=Cau	1	ccomp	_	[dʒɔɾɯˈdɯdɤ];teach;ensinar
+4	boe	boe	NOUN	n	_	5	nmod	_	_
+5	enogiegidae	okiegidae	NOUN	n	_	3	obl	_	_
+6	ji	ji	ADP	posp	_	5	case	_	_
+7	,	,	PUNCT	punct	_	5	punct	_	_
+8	boe	boe	NOUN	n	_	9	nmod	_	_
+9	eno	o	NOUN	n	Number=Plur|Person=3|Poss=Yes	10	nmod	_	_
+10	ie	ie	NOUN	n	_	3	obl	_	_
+11	ji	ji	ADP	posp	_	10	case	_	_
+
+# sent_id = 0.6.BEBE
+# text = Oinore boe erore . Boe enure togwagedo , boe enure toredyje okwagedo , boe enure tonaregedy okwagedo . Kodire boe ewikare tuge boi koia
+# text_eng = 
+# text_por = è assim que fazem os bororo. Eles se alimentam, eles alimentam suas esposas e alimentam os seus filhos. Por isso os bororo não morrem de fome
+1	Oinore	_	ADV	adv	Mood=Ind	3	advcl	_	_
+2	boe	_	NOUN	n	_	3	nsubj	_	_
+3	erore	ro	VERB	v	Mood=Ind|Number=Plur|Person=3	0	root	_	_
+4	.	.	PUNCT	punct	_	3	punct	_	_
+5	Boe	_	NOUN	n	_	7	nsubj	_	_
+6	enure	e	PRON	bi	Number=Plur|Person=3|PronType=Bi	7	dep	_	_
+7	togwagedo	okwa	VERB	v	Reflex=Yes|Voice=Cau	3	parataxis	_	_
+8	,	,	PUNCT	punct	_	7	punct	_	_
+9	boe	_	NOUN	n	_	10	nsubj	_	_
+10	enure	e	PRON	bi	Number=Plur|Person=3|PronType=Bi	12	dep	_	_
+11	toredyje	_	NOUN	n	Reflex=Yes	12	obj	_	_
+12	okwagedo	_	VERB	v	Number=Sing|Person=3|Voice=Cau	7	conj	_	_
+13	,	,	PUNCT	punct	_	12	punct	_	_
+14	boe	_	NOUN	n	_	17	nsubj	_	_
+15	enure	e	PRON	bi	Number=Plur|Person=3|PronType=Bi	17	dep	_	_
+16	tonaregedy	onaregedy	NOUN	n	Reflex=Yes	17	obj	_	_
+17	okwagedo	_	VERB	v	Number=Sing|Person=3|Voice=Cau	7	conj	_	_
+18	.	.	PUNCT	punct	_	17	punct	_	_
+19	Kodire	Kodire	ADV	adv	_	21	advmod	_	_
+20	boe	boe	NOUN	n	_	21	nsubj	_	_
+21	ewikare	bi	VERB	v	Mood=Ind|Number=Plur|Person=3	3	advcl	_	_
+22	tuge	ke	NOUN	n	Reflex=Yes	23	nmod	_	_
+23	boi	_	NOUN	n	_	21	obl	_	_
+24	koia	_	ADP	_	_	23	case	_	_
+
+# sent_id = criacao_03
+# text = Marigudu Deu ure moto to , ure baru to , ure pobo to , ure tori to
+# text_eng = 
+# text_por = Antigamente Deus fez a terra, o céu, a água e as pedras
+1	Marigudu	marigudu	ADV	adv	_	5	advcl	_	_
+2	Deu	Deu	NOUN	n	_	5	nsubj	_	_
+3	ure	re	PART	prcl	Mood=Ind|Number=Sing|Person=3	5	dep	_	_
+4	moto	moto	NOUN	n	_	5	obj	_	_
+5	to	to	VERB	v	Number=Sing|Person=3	0	root	_	_
+6	,	,	PUNCT	punct	_	5	punct	_	_
+7	ure	re	PART	prcl	Mood=Ind|Number=Sing|Person=3	9	dep	_	_
+8	baru	baru	NOUN	n	_	9	obj	_	_
+9	to	to	VERB	v	Number=Sing|Person=3	5	parataxis	_	_
+10	,	,	PUNCT	punct	_	9	punct	_	_
+11	ure	re	PART	prcl	_	13	dep	_	_
+12	pobo	pobo	NOUN	n	_	13	obj	_	water;água
+13	to	to	VERB	v	Number=Sing|Person=3	5	parataxis	_	_
+14	,	,	PUNCT	punct	_	13	punct	_	_
+15	ure	re	PART	prcl	Mood=Ind|Number=Sing|Person=3	17	dep	_	_
+16	tori	tori	NOUN	n	_	17	obj	_	stone;pedra
+17	to	to	VERB	v	Number=Sing|Person=3	5	parataxis	_	make,cause;fazer,criar
+
+# sent_id = criacao_08
+# text = Deu ure nowu boe jamedy ji boe akedudo tuje dykeje ure imedu to
+# text_eng = 
+# text_por = Depois que Ele terminou de fazer tudo isso, ele fez o homem
+1	Deu	Deu	NOUN	n	_	8	nsubj	_	_
+2	ure	ure	PART	prcl	Mood=Ind|Number=Plur|Person=3	8	dep	_	_
+3	nowu	nowu	DET	_	_	4	det	_	_
+4	boe	boe	NOUN	n	_	8	iobj	_	_
+5	jamedy	jamedy	ADV	adv	_	4	advmod	_	_
+6	ji	ji	ADP	posp	_	4	case	_	_
+7	boe	boe	NOUN	n	_	8	dep	_	_
+8	akedudo	akedudo	VERB	v	_	13	advcl	_	_
+9	tuje	tuje	VERB	v	Number=Plur|Person=3	8	xcomp	_	_
+10	dykeje	dy	X	_	_	8	mark	_	_
+11	ure	re	PART	prcl	Mood=Ind|Number=Plur|Person=3	13	dep	_	_
+12	imedu	imedu	NOUN	n	_	13	obj	_	man;homem
+13	to	to	VERB	v	Number=Plur|Person=3	0	root	_	_
+
+# sent_id = criacao_13
+# text = Deu akore ei akore enogwageiagu ji nowu boepa tadawu boe jamedy , nowu iguru jamedy boe ji , mare rakojere boe eiadadawu ekare eko
+# text_eng = 
+# text_por = Deus falou para eles comerem tudo que existia naquela roça, para comerem dos frutos da árvore, menos das arvores do meio
+1	Deu	Deu	NOUN	n	_	2	nsubj	_	_
+2	akore	ako	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	_	_
+3	ei	ji	ADP	posp	Number=Plur|Person=3	2	obl	_	_
+4	akore	ko	VERB	v	Mood=Ind|Number=Sing|Person=3	2	parataxis	_	say;dizer
+5	enogwageiagu	okwage	VERB	v	Number=Plur|Person=3	4	xcomp	_	eat;comer
+6	ji	ji	ADP	posp	_	5	iobj	_	for.a.long.time;por.muito.tempo
+7	nowu	nowu	DET	dem	_	8	det	_	_
+8	boepa	boepa	NOUN	n	_	9	nmod	_	slash,garden;roça
+9	tadawu	tada	NOUN	n	Nomzr=Rel	10	nmod	_	_
+10	boe	boe	NOUN	n	_	5	obj	_	_
+11	jamedy	jamedy	NOUN	n	_	10	fixed	_	_
+12	,	,	PUNCT	punct	_	11	punct	_	_
+13	nowu	nowu	DET	dem	_	14	nmod	_	_
+14	iguru	iguru	NOUN	n	_	15	nmod	_	tree,wood;madeira,árvore
+15	jamedy	jamedy	ADV	adv	_	10	conj	_	_
+16	boe	boe	NOUN	n	_	15	fixed	_	_
+17	ji	ji	ADP	posp	_	15	obl	_	_
+18	,	,	PUNCT	punct	_	17	punct	_	_
+19	mare	mare	CCONJ	conj	_	24	cc	_	but;mas,porém
+20	rakojere	rakoje	VERB	v	Mood=Ind	24	parataxis	_	_
+21	boe	boe	NOUN	n	_	20	nsubj	_	_
+22	eiadadawu	oiado	NOUN	n	Nomzr=Rel	21	acl	_	in.the.middle;no.meio.de
+23	ekare	re	PART	prcl	Mood=Ind|Number=Plur|Person=3|Polarity=Neg	24	dep	_	_
+24	eko	ko	VERB	v	Number=Plur|Person=3	5	conj	_	eat;comer
+
+# sent_id = ABE-20
+# text = iorydyre ji
+# text_eng = I saw him 
+# text_por = Eu o vi
+1	iorydyre	jorydyre	VERB	v	Mood=Ind|Number[subj]=Sing|Person[subj]=1	0	root	_	see;ver
+2	ji	ji	ADP	posp	Number=Sing|Person=3	1	obl	_	['dʒi]
+
+# sent_id = ABE-25
+# text = imi inokwa
+# text_eng = my mouth
+# text_por = minha boca
+1	imi	imi	PRON	pron	Number=Sing|Person=1|PronType=Prs	2	nmod	_	_
+2	inokwa	ia	NOUN	n	Number=Sing|Person=1	0	root	_	[ˈɔkʷa];mouth,lip;boca,lábio
+
+# sent_id = ABE-31
+# text = itaregädy
+# text_eng = I arrived
+# text_por = eu cheguei
+1	itaregädy	aregädy	VERB	v	Number=Sing|Person=1	0	root	_	arrive;chegar
+
+# sent_id = ABE-37
+# text = areme emode tamudä
+# text_eng = The women will rest
+# text_por = as mulheres vão descansar
+1	areme	areme	NOUN	n	Number=Plur	3	nsubj	_	women;mulheres
+2	emode	mody	X	x	Mood=Ind|Number=Plur|Person=3|Tense=Fut	3	dep	_	_
+3	tamudä	amudä	VERB	v	Person=3|Reflex=Yes	0	root	_	_
+
+# sent_id = ABE-42b
+# text = eimejeramode apoe ebito
+# text_eng = Their chief will kill the pacas
+# text_por = o chefe deles vai matar as pacas
+1	eimejeramode	imejera	NOUN	n	Mood=Ind|Number=Plur|Person=3|Tense=Fut	3	nsubj	_	chief;chefe
+2	apoe	apu	NOUN	n	Number=Plur	3	obj	_	paca;paca
+3	ebito	bi	VERB	v	Number=Plur|Person=3|Voice=Cau	0	root	_	die,morrer
+
+# sent_id = ABE-151
+# text = imedy utyre ibai kae tubaiga bagai
+# text_eng = The man is going home for his weapon
+# text_por = o homem está indo na minha casa para (pegar) a arma dele
+1	imedy	imedy	NOUN	n	_	2	nsubj	_	man;homem
+2	utyre	ty	VERB	v	Aspect=Prog|Mood=Ind|Number=Sing|Person=3	0	root	_	go;ir
+3	ibai	bai	NOUN	n	Number=Sing|Person=1	2	obl	_	house;casa
+4	kae	ae	ADP	posp	Number=Sing|Person=1	3	obl	_	house;casa
+5	tubaiga	baiga	NOUN	n	Person=3|Reflex=Yes	3	obl	_	weapon;arma
+6	bagai	bagai	ADP	posp	_	5	case	_	_
+
+# sent_id = ABE-216
+# text = boe ewogyre
+# text_eng = The Boror fished
+# text_por = os bororo pescaram
+1	boe	boe	NOUN	n	_	2	nsubj	_	people,boror;povo,gente,bororo
+2	ewogyre	wogy	VERB	v	Mood=Ind|Number=Plur|Person=3	0	root	_	fish;pescar
+
+# sent_id = ABE-221
+# text = itaidyre ikiguruduwo
+# text_eng = I want to urinate
+# text_por = eu quero urinar
+1	itaidyre	_	VERB	v	Mood=Ind|Number=Sing|Person=1	0	root	_	want;querer
+2	ikiguruduwo	kigurudu	VERB	v	Mood=Des|Number=Sing|Person=1	1	ccomp	_	urinate;urinar
+
+# sent_id = ABE-229
+# text = iorydyiwamode boe ebataru ji
+# text_eng = I will know the language of the Bororo
+# text_por = eu saberei (falar) a língua bororo
+1	iorydyiwamode	jorydyiwa	VERB	v	Mood=Ind|Number=Sing|Person=1|Tense=Fut	0	root	_	know;saber
+2	boe	boe	NOUN	n	_	3	nmod	_	_
+3	ebataru	bataru	NOUN	n	Number=Plur|Person=3	1	obl	_	language;língua
+4	ji	ji	NOUN	n	Number=Sing|Person=3	3	case	_	_
+
+# sent_id = ABE-236
+# text = imode ibaidoge etowuje
+# text_eng = I will make my houses
+# text_por = eu vou fazer as minhas casas
+1	imode	i	PRON	bi	Mood=Ind|Number=Sing|Person=1	3	nsubj	_	I,me;eu,me,mim
+2	ibaidoge	bai	NOUN	n	Number=Plur|Number[psor]=Sing|Person[psor]=1	3	obj	_	house;casa
+3	etowuje	towuje	VERB	v	Number[obj]=Sing|Person[obj]=1	0	root	_	_
+
+# sent_id = ABE-243
+# text = emage ere karo ko
+# text_eng = they are eating (the) fish
+# text_por = eles(as) estão comendo o peixe
+1	emage	ema	PRON	pron	Number=Plur|Person=3|PronType=Prs	4	nsubj	_	_
+2	ere	e	PRON	bi	Mood=Ind|Number=Plur|Person=3	1	dep	_	_
+3	karo	karo	NOUN	n	_	4	obj	_	_
+4	ko	ko(wuje)	VERB	v	_	0	root	_	eat;comer
+
+# sent_id = ABE-248
+# text = iadukeje pobu kurire
+# text_eng = Perhaps it is a big pacu
+# text_por = talvez o pacu seja grand
+1	iadukeje	_	ADV	adv	_	3	advcl	_	perhaps;talvez
+2	pobu	_	NOUN	n	_	3	nsubj	_	pacu;pacu
+3	kurire	kuri	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	_	be.big;ser.grande
+
+# sent_id = ABE-255
+# text = ju kudu kowujedy kurire
+# text_eng = Manioc flouer is eaten a lot (the eating of manioc flouer is a lot)
+# text_por = farinha de mandioca é muito comida
+1	ju	_	NOUN	n	_	2	nmod	_	_
+2	kudu	_	NOUN	n	_	3	nmod	_	_
+3	kowujedy	_	NOUN	n	Nomzr=Rel	4	nsubj	_	_
+4	kurire	kurire	VERB	v	Mood=Ind	0	root	_	_
+
+# sent_id = ABE-261
+# text = ere ju kudu kowujedy kuridä
+# text_eng = They eat a lot of manioc (Ingestion of manioc is caused a lot by them)
+# text_por = eles comem muito mandioca (lit. é causada por eles muita ingestão de mandioca)
+1	ere	e	PRON	bi	Mood=Ind	5	nsubj	_	_
+2	ju	ju	NOUN	n	_	3	nmod	_	_
+3	kudu	kudu	NOUN	n	_	4	nmod	_	_
+4	kowujedy	kowuje	NOUN	n	Nomzr=Rel	5	obj	_	_
+5	kuridä	kuri	VERB	v	Voice=Cau	0	root	_	_
+
+# sent_id = ABE-268
+# text = kaboba ure kowuje ?
+# text_eng = What did he eat?
+# text_por = o que ele comeu?
+1	kaboba	kabo	PRON	_	PronType=Int	3	obj	_	what;o.que
+2	ure	_	PRON	bi	Mood=Ind|Number=Sing|Person=3	3	nsubj	_	_
+3	kowuje	kowuje	VERB	v	_	0	root	_	eat;comer
+4	?	?	PUNCT	punct	_	3	punct	_	_
+
+# sent_id = ABE-273
+# text = awy imedy ure kowuje
+# text_eng = That man ate
+# text_por = aquele homem comeu
+1	awy	awy	DET	dem	_	2	det	_	that;aquele
+2	imedy	imedy	NOUN	n	_	4	nsubj	_	man;homem
+3	ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	4	dep	_	_
+4	kowuje	kowuje	VERB	v	Number=Sing|Person=3	0	root	_	eat;comer
+
+# sent_id = ABE-278
+# text = inoba akiere ?
+# text_eng = What is your name
+# text_por = como é o teu nome?
+1	inoba	ino	ADV	adv	Int=Yes	2	advmod	_	how;como
+2	akiere	ie	NOUN	n	Mood=Ind|Number=Sing|Person=2	0	root	_	name;nome
+3	?	?	PUNCT	punct	_	2	punct	_	_
+
+# sent_id = ABE-286
+# text = jawy meri ji kaeba tyre ?
+# text_eng = Where did he go yesterday?
+# text_por = ontem ele foi onde?
+1	jawy	jawy	X	x	_	5	dep	_	past;passado
+2	meri	meri	NOUN	n	_	5	obl	_	day;dia
+3	ji	ji	ADP	posp	Number=Sing|Person=3	2	case	_	_
+4	kaeba	kae	ADP	posp	Int=Yes	5	obl	_	_
+5	tyre	ty	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	_	go;ir
+6	?	?	PUNCT	punct	_	5	punct	_	_
+
+# sent_id = ABE-295
+# text = are ia karo rorewy bito
+# text_eng = You fished a fish that is tasty
+# text_por = você pescou um peixe gostoso (que é gostoso)
+1	are	a	PRON	bi	Mood=Ind|Number=Sing|Person=2	5	nsubj	_	I,me,my;eu,me,mim,meu,minha
+2	ia	ia	NUM	_	_	3	nummod	_	_
+3	karo	karo	NOUN	n	_	5	obj	_	_
+4	rorewy	ro	VERB	v	Mood=Ind|Subord=Yes	3	acl	_	_
+5	bito	bi	VERB	v	Number=Sing|Person=3|Voice=Cau	0	root	_	die;morrer
+
+# sent_id = ABE-300
+# text = ire iwogure bagaiwyge ebito
+# text_eng = I killed (those that) I fished
+# text_por = eu matei os que eu pesquei
+1	ire	i	PRON	bi	Mood=Ind|Number[subj]=Sing|Person[subj]=1	4	nsubj	_	_
+2	iwogure	wogu	VERB	v	Mood=Ind|Number[subj]=Sing|Person[subj]=1	4	ccomp	_	_
+3	bagaiwyge	bagai	ADP	posp	Nomzr=Rel|Number=Plur|Person=3	2	obl	_	_
+4	ebito	bi	VERB	v	Number[obj]=Plur|Person[obj]=3|Voice=Cau	0	root	_	die;morrer
+
+# sent_id = ABE-305
+# text = boecoji boe emerure taiwore kuiejedoge i dytabo
+# text_eng = At night the Bororo hunt by looking at the stars 
+# text_por = à noite os bororo caçam se orientando pelas estrelas
+1	boecoji	boecoji	ADV	adv	_	3	advmod	_	at.night;à.noite,de.noite
+2	boe	boe	NOUN	n	_	3	nsubj	_	_
+3	emerure	meru	VERB	v	Mood=Ind|Number[subj]=Plur|Person[subj]=3	0	root	_	hunt;caçar
+4	taiwore	aiwo	VERB	v	Mood=Ind|Number=Sing|Person=3	3	obl	_	_
+5	kuiejedoge	kuiejedoge	NOUN	n	_	4	obl	_	star;estrela
+6	i	ji	ADP	n	Number=Plur|Person=3	5	case	_	_
+7	dytabo	tabo	ADP	posp	Nomzr=Rel	4	case	_	with;com
+
+# sent_id = ABE-314
+# text = boere emage
+# text_eng = They are Bororo
+# text_por = eles são bororo
+1	boere	boe	NOUN	n	Mood=Ind	0	root	_	_
+2	emage	emage	PRON	pron	Number=Plur|Person=3|PronType=Prs	1	nsubj	_	they;eles,elas
+
+# sent_id = ABE-319
+# text = iiodore ce
+# text_eng = That is my cane/stick
+# text_por = Aquele é meu bastão
+1	iiodore	iodo	NOUN	n	Mood=Ind|Number=Sing|Person=1	0	root	_	_
+2	ce	cewu	DET	dem	_	1	det	_	that;aquele;aquela
+
+# sent_id = ABE-324
+# text = Tiago Fabrício etaregodyre
+# text_eng = Tiago and Fabrício (have) arrived
+# text_por = Tiago e Fabrício chegaram
+1	Tiago	Tiago	PROPN	propn	_	3	nsubj	_	_
+2	Fabrício	Fabrício	PROPN	propn	_	1	conj	_	_
+3	etaregodyre	aregody	VERB	v	Mood=Ind|Number=Plur|Person=3	0	root	_	arrive;chegar
+
+# sent_id = ABE-329
+# text = João Maria ebitodyre
+# text_eng = João and Maria died
+# text_por = João e Maria morreram
+1	João	João	PROPN	propn	_	3	nsubj	_	_
+2	Maria	Maria	PROPN	propn	_	1	conj	_	_
+3	ebitodyre	bi	VERB	v	Number[subj]=Plur|Person[subj]=3|Voice=Cau	0	root	_	die;morrer
+
+# sent_id = ABE-337
+# text = Eko butu pemegare
+# text_eng = The piqui fell well
+# text_por = O piqui caiu bem
+1	Eko	eko	NOUN	n	_	2	nsubj	_	_
+2	butu	butu	VERB	v	_	0	root	_	fall;cair
+3	pemegare	pemega	ADV	adv	Mood=Ind	2	advmod	_	_
+
+# sent_id = ABE-343
+# text = umode taredä
+# text_eng = He will jump
+# text_por = Ele vai pular
+1	umode	u	PRON	bi	Mood=Ind|Number=Sing|Person=3|PronType=Bi|Tense=Fut	2	dep	_	_
+2	taredä	are	VERB	v	Reflex=Yes|Voice=Cau	0	root	_	jump;pular
+
+# sent_id = ABE-359
+# text = João Maria etaregodyre jao
+# text_eng = João and Maria (have) arrived before
+# text_por = João e Maria já chegaram antes
+1	João	João	PROPN	propn	_	3	nsubj	_	_
+2	Maria	Maria	PROPN	propn	_	1	conj	_	_
+3	etaregodyre	aregodu	VERB	v	Mood=Ind|Number=Plur|Person=3	0	root	_	arrive;chegar
+4	jao	jao	ADV	adv	_	3	advmod	_	_
+
+# sent_id = OBE-p75.1
+# text = ure turemo pobo to
+# text_eng = He entered the water
+# text_por = Ele entrou na água
+1	ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3|PronType=Bi	2	nsubj	_	_
+2	turemo	remo	VERB	v	Number[subj]=Sing|Person[subj]=3	0	root	_	enter;entrar
+3	pobo	pobo	NOUN	n	_	2	obl	_	water;água
+4	to	to	ADP	posp	_	3	case	_	in;em
+
+# sent_id = CGPB-p13.3
+# text = Kodiba ?
+# text_eng = Why?
+# text_por = Por que?
+1	Kodiba	Kodi	PRON	pron	PronType=Int	0	root	_	why;por.que
+2	?	?	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = CGPB-p19.4
+# text = Itaidure iorudiwawo boe ero ji
+# text_eng = I want to know the traditions of the Bororo
+# text_por = Eu quero conhecer os costumes dos bororo
+1	Itaidure	aidu	VERB	v	Mood=Ind|Number[subj]=Sing|Person[subj]=1	0	root	_	want,like;querer,gostar
+2	iorudiwawo	rudiwa	VERB	v	Number=Sing|Person=1|Subord=Yes	1	ccomp	_	know,learn;saber,aprender
+3	boe	boe	NOUN	n	_	4	nmod	_	_
+4	ero	ro	NOUN	n	_	2	obl	_	habits,tradition;costume,tradição
+5	ji	ji	ADP	posp	Number=Plur|Person=3	4	case	_	_
+
+# sent_id = CGPB-p24.2
+# text = Itaidure amuguwo woe
+# text_eng = I want yo to live here
+# text_por = Eu quero que você more aqui
+1	Itaidure	aidu	VERB	v	Mood=Ind|Number[subj]=Sing|Person[subj]=1	0	root	_	_
+2	amuguwo	mugu	VERB	verb	Number=Sing|Person=2|Subord=Yes	1	ccomp	_	_
+3	woe	woe	ADV	adv	_	2	advcl	_	_
+
+# sent_id = CGPB-p46.1
+# text = Kaboba jiba aro ino ?
+# text_eng = What are you doing?
+# text_por = O que você está fazendo?
+1	Kaboba	kabo	PRON	_	PronType=Int	3	obl	_	what;oque
+2	jiba	ji	ADP	posp	_	1	case	_	_
+3	aro	ro	VERB	v	_	0	root	_	do;fazer
+4	ino	ino	ADV	adv	_	3	advmod	_	thus,this.way,like.this;assim,detsa.maneira
+5	?	?	PUNCT	punct	_	3	punct	_	_
+
+# sent_id = CGPB-p46.3.2
+# text = Inure aroia kabi
+# text_eng = I am washing clothes
+# text_por = Estou lavando roupa
+1	Inure	i	PRON	bi	Aspect=Prog|Mood=Ind|Number[subj]=Sing|Person[subj]=1|PronType=Bi	3	nsubj	_	_
+2	aroia	aroia	NOUN	n	Number=Sing|Person=1	3	obj	_	clothe;roupa
+3	kabi	kabi	VERB	v	Number=Sing|Person=3	0	root	_	wash;lavar
+
+# sent_id = CGPB-p55.2
+# text = U , boe pemegare . Ike boere ii . Pamode karo kowuje ?
+# text_eng = Ok, it is a good thing. I am hungry. Are we gong to eat the fish?
+# text_por = Tá bom, é uma boa notícia. Estou com fome. Nós vamos comer o peixe?
+1	U	u	INTJ	intj	_	4	discourse	_	_
+2	,	,	PUNCT	punct	_	1	punct	_	_
+3	boe	_	NOUN	n	_	4	nsubj	_	_
+4	pemegare	pemega	VERB	v	Mood=Ind	0	root	_	_
+5	.	_	PUNCT	punct	_	4	punct	_	_
+6	Ike	ke	NOUN	n	Number=Sing|Person=1	7	nsubj	_	food;comida
+7	boere	boe	VERB	v	Mood=Ind	4	parataxis	_	_
+8	ii	ji	ADP	posp	_	7	obl	_	_
+9	.	_	PUNCT	punct	_	7	punct	_	_
+10	Pamode	pa	PRON	bi	Clusivity=In|Mood=Ind|Number=Plur|Person=1|PronType=Bi|Tense=Fut	4	parataxis	_	_
+11	karo	karo	NOUN	n	_	12	obj	_	_
+12	kowuje	kowuje	VERB	v	_	10	xcomp	_	_
+13	?	?	PUNCT	punct	_	12	punct	_	_
+
+# sent_id = CGPB-p56.4
+# text = Are epagududo
+# text_eng = You scared them
+# text_por = Você os amedrontou
+1	Are	a	PRON	bi	Mood=Ind|Number[subj]=Sing|Person[subj]=2|PronType=Bi	2	nsubj	_	you,your;você;te,ti,teu
+2	epagududo	pagudu	VERB	v	Number[obj]=Plur|Person[obj]=3|Voice=Cau	0	root	_	fear;ter.medo
+
+# sent_id = CGPB-p65.1
+# text = Atudo pobo to
+# text_eng = Go to the river!
+# text_por = Vá para o rio!
+1	Atudo	tu	VERB	v	Mood=Imp|Number=Sing|Person=2	0	root	_	_
+2	pobo	pobo	NOUN	n	_	1	obl	_	water,river;água,rio
+3	to	to	ADP	posp	_	2	case	_	_
+
+# sent_id = 00.14cPessGr
+# text = Aredu kurireudo
+# text_eng = 
+# text_por = mulher grande
+1	Aredu	aredu	NOUN	n	Gender=Fem|Number=Sing	0	root	_	[aɾɛdɨ];woman;mulher
+2	kurireudo	kuri	ADJ	adj	Gender=Fem|Nomzr=Rel|Number=Plur	1	amod	_	[kɯɾi];big,thick;grande,grosso
+
+# sent_id = 00.43bPessGr
+# text = Ikodure
+# text_eng = 
+# text_por = I went
+1	Ikodure	tu	VERB	v	Mood=Ind|Number=Sing|Person=1	0	root	_	_
+
+# sent_id = 0055d.PessGr
+# text = Iorydyre amaragädui boepa tada dy ji
+# text_eng = 
+# text_por = Vi você trabalhando na roça
+1	Iorydyre	jordy	VERB	v	Mood=Ind|Number=Sing|Person=1	0	root	_	_
+2	amaragädui	maragädu	VERB	v	Number=Sing|Person=2|VerbForm=Ger	1	ccomp	_	[maɾaɣʌdɨ];work;trabalhar
+3	boepa	boepa	NOUN	n	_	2	obl	_	_
+4	tada	tada	ADP	posp	_	3	case	_	inside;dentro.de
+5	dy	dy	PART	prcl	Nomzr=Rel	2	dep	_	_
+6	ji	ji	ADP	posp	_	2	case	_	_
+
+# sent_id = 0056b.PessGr
+# text = Iorduware aregädymodewu imedu ji
+# text_eng = 
+# text_por = Eu conheço o homem que vai chegar
+1	Iorduware	_	VERB	v	Mood=Ind|Number=Sing|Person=1	0	root	_	_
+2	aregädymodewu	_	VERB	v	Mood=Ind|Nomzr=Rel|Number=Sing|Person=2|Tense=Fut	3	acl	_	_
+3	imedu	imedu	NOUN	n	Number=Sing	1	obj	_	_
+4	ji	ji	ADP	posp	_	3	case	_	_
+
+# sent_id = 0057e.PessGr
+# text = Iorudyware kaiba amerumode dy ji
+# text_eng = I know where you'll hunt
+# text_por = Eu sei onde você vai caçar
+1	Iorudyware	_	VERB	v	Mood=Ind|Number=Sing|Person=1	0	root	_	_
+2	kaiba	kaiba	ADV	adv	_	3	advmod	_	_
+3	amerumode	meru	VERB	v	Mood=Ind|Number=Sing|Person=2|Tense=Fut	1	ccomp	_	_
+4	dy	dy	X	x	_	3	dep	_	_
+5	ji	i	ADP	posp	Number=Sing|Person=3	3	case	_	_
+
+# sent_id = 0057j.PessGr
+# text = Imearudyre makoi iwagai dy ji
+# text_eng = 
+# text_por = escutei que me chamava
+1	Imearudyre	mearudy	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	_	_
+2	makoi	mako	VERB	v	Number=Sing|Person=3|VerbForm=Ger	1	ccomp	_	_
+3	iwagai	bagai	ADP	posp	Number=Sing|Person=1	2	obl	_	_
+4	dy	dy	X	x	_	2	mark	_	_
+5	ji	i	ADP	posp	Number=Sing|Person=3	2	mark	_	_
+
+# sent_id = 0057o.PessGr
+# text = Imearudymode makomodewy ji
+# text_eng = 
+# text_por = Escutarei aquele que falará
+1	Imearudymode	mearudy	VERB	v	Mood=Ind|Number=Sing|Person=1|Tense=Fut	0	root	_	_
+2	makomodewy	mako	VERB	v	Mood=Ind|Nomzr=Rel|Number=Sing|Person=3|Tense=Fut	1	obl	_	_
+3	ji	ji	ADP	posp	_	2	case	_	_
+
+# sent_id = 0058.PessGr
+# text = Imedu aregodyre tumaragodyrewy piji
+# text_eng = 
+# text_por = O homem chegou do lugar onde trabalha
+1	Imedu	imedu	NOUN	n	Number=Sing	2	nsubj	_	_
+2	aregodyre	aregody	VERB	v	Mood=Ind|Number=Sing|Person=1	0	root	_	_
+3	tumaragodyrewy	maragody	VERB	v	Mood=Ind|Nomzr=Rel|Number=Sing|Person=3	2	obl	_	_
+4	piji	piji	ADP	posp	_	3	case	_	[ˈpidʒi];from;de
+
+# sent_id = 0066a.PessGr
+# text = Kaboba are bito ?
+# text_eng = 
+# text_por = O que você matou?
+1	Kaboba	kaboba	PRON	_	PronType=Int	3	obj	_	_
+2	are	a	PRON	bi	Mood=Ind|Number=Sing|Person=2	3	nsubj	_	_
+3	bito	bito	VERB	v	Number=Sing|Person=3	0	root	_	_
+4	?	?	PUNCT	punct	_	3	punct	_	_
+
+# sent_id = 0066f.PessGr
+# text = Ioguduba aiba are maku ?
+# text_eng = 
+# text_por = A quem você o deu?
+1	Ioguduba	_	PRON	_	PronType=Int	4	obl	_	_
+2	aiba	_	ADP	posp	Int=Yes	1	case	_	_
+3	are	_	PRON	bi	Mood=Ind|Number=Sing|Person=2|PronType=Bi	4	nsubj	_	_
+4	maku	_	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	_	_
+5	?	_	PUNCT	punct	_	4	punct	_	_
+
+# sent_id = 0067e.PessGr
+# text = Boewy kodumode boetoji
+# text_eng = 
+# text_por = O que é o último irá de primeiro
+1	Boewy	boe	NOUN	n	_	2	nsubj	_	first;primeiro
+2	kodumode	kodu	VERB	vi	_	0	root	_	['kodu];exit,go,leave;sair,ir
+3	boetoji	_	ADV	adv	_	2	advmod	_	_
+
+# sent_id = 0067j.PessGr
+# text = Boe etore ere ipare ereruidy kado
+# text_eng = 
+# text_por = As crianças impediram que os rapazes dançassem
+1	Boe	boe	NOUN	n	_	6	nsubj	_	_
+2	etore	etore	NOUN	n	_	1	compound	_	_
+3	ere	e	PRON	bi	Mood=Ind|Number=Plur|Person=3	6	dep	_	_
+4	ipare	ipare	NOUN	n	_	5	nsubj	_	[i'paɾe];young.person;jovem
+5	ereruidy	reru	VERB	v	Nomzr=Rel|VerbForm=Ger	6	ccomp	_	['ɾɛɾu];dance;dançar
+6	kado	kado	VERB	v	_	0	root	_	['kadɔ];cut,interrupt;cortar,interromper
+
+# sent_id = 0067o.PessGr
+# text = Ire imearudae tugu amagoi inai dyto
+# text_eng = I reflected about what you told me
+# text_por = eu refleti o fato de você ter me falado
+1	Ire	i	PRON	bi	Mood=Ind|Number=Sing|Person=1	2	nsubj	_	_
+2	imearudae	mearudy	NOUN	n	Number=Sing|Person=1	3	obj	_	_
+3	tugu	tugu	VERB	v	Number=Sing|Person=3	0	root	_	_
+4	amagoi	mako	VERB	v	Number=Sing|Person=2|VerbForm=Ger	3	ccomp	_	_
+5	inai	ai	ADP	posp	Number=Sing|Person=1	4	obl	_	_
+6	dyto	dyto	X	x	_	4	dep	_	_
+
+# sent_id = 0068c.PessGr
+# text = Aregodyre jawujiwu aredy uture pugeje
+# text_eng = 
+# text_por = a mulher que veio ontem foi embora de novo
+1	Aregodyre	aregody	VERB	v	Mood=Ind|Number=Plur|Person=3	4	acl	_	_
+2	jawujiwu	jawujiwu	ADV	adv	_	1	advmod	_	_
+3	aredy	aredy	NOUN	n	Number=Sing	4	nsubj	_	[aˈɾɛdɨ];woman;mulher
+4	uture	tu	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	_	_
+5	pugeje	pugeje	ADV	adv	_	4	advmod	_	[puˈɡḛdʒe];again,still;aind,de.novo,novamente
+
+# sent_id = 0071d.PessGr
+# text = imearydyre amagoi ji tyji
+# text_eng = 
+# text_por = escutei você falando com ele
+1	imearydyre	mearydy	VERB	v	Mood=Ind|Number=Sing|Person=1	0	root	_	_
+2	amagoi	mako	VERB	v	Number=Sing|Person=2|VerbForm=Ger	1	ccomp	_	_
+3	ji	ji	ADP	posp	_	2	dep	_	_
+4	tyji	tyji	X	x	_	2	obl	_	_
+
+# sent_id = 0072a.PessGr
+# text = Maragädydädyre .
+# text_eng = 
+# text_por = Foi feito trabalhar
+1	Maragädydädyre	maragädydä	VERB	v	Mood=Ind|Number=Sing|Person=3|Voice=Pass	0	root	_	_
+2	.	.	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 0072f.PessGr
+# text = Mako pemegare
+# text_eng = He spoke well
+# text_por = Ele falou bem
+1	Mako	mako	VERB	v	Number=Sing|Person=3	0	root	_	_
+2	pemegare	pemega	ADV	adv	Mood=Ind	1	advmod	_	_
+
+# sent_id = 0073b.PessGr
+# text = imaragodyrumode
+# text_eng = 
+# text_por = terei que trabalhar
+1	imaragodyrumode	maragody	VERB	v	Mood=Ind|Number=Sing|Person=1|Tense=Fut	0	root	_	_
+
+# sent_id = 0077a.PessGr
+# text = Ure tore etaimo
+# text_eng = 
+# text_por = Ela deu banho nos seus filhos
+1	Ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	3	nsubj	_	_
+2	tore	tore	NOUN	n	Number=Plur|Person=3	3	obj	_	children,sons;filhos
+3	etaimo	taimo	VERB	vt	Number=Plur|Person=3	0	root	_	_
+
+# sent_id = 0087a.PessGr
+# text = Cedaiwore pui
+# text_eng = 
+# text_por =  olhamo nos mutuamente
+1	Cedaiwore	aiwo	VERB	v	Clusivity=Ex|Mood=Ind|Number=Plur|Person=1|PronType=Prs	0	root	_	[ˈaiwɔ];look.at;olhar
+2	pui	i	ADP	posp	Reflex=Yes	1	obl	_	_
+
+# sent_id = 0089b.PessGr
+# text = Akore pudumi kaegae
+# text_eng = He said it was not himself
+# text_por = falou que não era ele próprio
+1	Akore	ako	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	_	_
+2	pudumi	ema	PRON	pron	Reflex=Yes	3	nsubj	_	[ˈema];he,she,it;ele,ela
+3	kaegae	kae	PART	prcl	Polarity=Neg|Speech=Ind	1	ccomp	_	_
+
+# sent_id = 0093b.PessGr
+# text = Imaragädymode dukeje
+# text_eng = Quando eu trabalahr / depois que eu trabalhar
+# text_por = When I work / After I work
+1	Imaragädymode	maragädy	VERB	v	Mood=Ind|Number=Sing|Person=1|PronType=Bi|Tense=Fut	0	root	_	_
+2	dukeje	ma	SCONJ	sconj	_	1	mark	_	_
+
+# sent_id = 0094f.PessGr
+# text = Imaragädywy
+# text_eng = (In order) for me to work
+# text_por = Para eu trabalhar
+1	Imaragädywy	maragädy	VERB	vi	Nomzr=Rel|Number=Sing|Person=1|PronType=Bi	0	root	_	_
+
+# sent_id = 0099b.PessGr
+# text = Tamaragädydo !
+# text_eng = work!
+# text_por = trabalhai!
+1	Tamaragädydo	maragädy	VERB	v	Number=Plur|Person=2|Voice=Cau	0	root	_	_
+2	!	!	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 101a.PessGr
+# text = makydyre
+# text_eng = (It) was given
+# text_por = foi dado
+1	makydyre	maky	VERB	v	Mood=Ind|Voice=Pass	0	root	_	_
+
+# sent_id = 101f.PessGr
+# text = Makydymodykare
+# text_eng = (it) will not be given
+# text_por = não será dado
+1	Makydymodykare	maky	VERB	v	Mood=Ind|Polarity=Neg|Tense=Fut|Voice=Pass	0	root	_	_
+
+# sent_id = 101k.PessGr
+# text = Makydyrewu
+# text_eng = which was given
+# text_por = o que foi dado
+1	Makydyrewu	maky	VERB	v	Nomzr=Rel|Voice=Pass	0	root	_	_
+
+# sent_id = 101p.PessGr
+# text = Maragädydädymodykare
+# text_eng = 
+# text_por =
+1	Maragädydädymodykare	maragödy	VERB	v	Mood=Ind|Polarity=Neg|Tense=Fut|Voice=Cau	0	root	_	_
+
+# sent_id = 00FFW.001-antonioWWA.1
+# text = Kaba kejeba atumode mato cewy gai pugeje ?
+# text_eng = 
+# text_por =
+1	Kaba	kaba	ADV	adv	PronType=Int	3	advmod	_	_
+2	kejeba	keje	ADV	adv	Int=Yes	1	dep	_	_
+3	atumode	atumode	VERB	vi	Mood=Ind|Number=Sing|Person=2|Tense=Fut	0	root	_	_
+4	mato	mato	NOUN	n	_	3	obl	_	_
+5	cewy	cewy	DET	dem	_	4	det	_	_
+6	gai	kai	ADP	posp	_	4	case	_	_
+7	pugeje	pugeje	ADV	adv	_	3	advmod	_	_
+8	?	?	PUNCT	punct	_	3	punct	_	_
+
+# sent_id = sabia.004
+# text = Oinore akagomode nowu baru piji . Amearydure , amearydure , amearydure ?
+# text_eng = 
+# text_por = Assim que você vai falar para a água do céu. Escutou? Escutou? Escutou?
+1	Oinore	oino	ADV	adv	Mood=Ind	0	root	_	thus,this way;assim
+2	akagomode	ako	VERB	v	Mood=Ind|Number=Sing|Person=1|Tense=Fut	1	ccomp	_	speak;falar
+3	nowu	nowu	DET	_	_	4	nsubj	_	this;este
+4	baru	baru	NOUN	n	_	2	obl	_	sky;céu
+5	piji	piji	ADP	posp	_	4	case	_	from;de
+6	.	.	PUNCT	punct	_	4	punct	_	_
+7	Amearydure	mearydu	VERB	v	Mood=Ind|Number=Sing|Person=2	1	parataxis	_	hear,listen;ouvir,escutar
+8	,	,	PUNCT	punct	_	7	punct	_	_
+9	amearydure	mearydu	VERB	v	Mood=Ind|Number=Sing|Person=2	7	parataxis	_	_
+10	,	,	PUNCT	punct	_	9	punct	_	_
+11	amearydure	mearydu	VERB	v	Mood=Ind|Number=Sing|Person=2	7	parataxis	_	_
+12	?	?	PUNCT	punct	_	11	punct	_	_
+
+# sent_id = sabia.009
+# text = Uw !
+# text_eng = 
+# text_por = Sim !
+1	Uw	uw	PART	_	_	0	root	_	yes;sim
+2	!	!	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = sabia.014
+# text = Icare Birimodo akore : Baru kuru ciri , baru kuru ciri , oinore akore
+# text_eng = 
+# text_por = Então Birimodo disse: Céu líquido se derrama, céu liquido se derrama, assim que ele falou.
+1	Icare	icare	ADV	adv	_	3	advmod	_	_
+2	Birimodo	Birimodo	PROPN	_	_	3	nsubj	_	_
+3	akore	ako	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	_	_
+4	:	:	PUNCT	punct	_	3	punct	_	_
+5	Baru	baru	NOUN	n	_	7	nsubj	_	_
+6	kuru	kuru	NOUN	n	_	5	nmod	_	_
+7	ciri	_	VERB	v	_	3	ccomp	_	_
+8	,	,	PUNCT	punct	_	7	punct	_	_
+9	baru	_	NOUN	n	_	11	nsubj	_	_
+10	kuru	_	NOUN	n	_	9	nmod	_	_
+11	ciri	_	VERB	v	_	7	conj	_	_
+12	,	,	PUNCT	punct	_	11	punct	_	_
+13	oinore	_	ADV	adv	Mood=Ind	3	parataxis	_	_
+14	akore	_	VERB	v	Mood=Ind|Number=Sing|Person=3	13	ccomp	_	_
+
+# sent_id = sabia.019
+# text = Kocare iere oinono Baru kuru ciri , nowy tuwadaru kae . Ie remawure Kogae Cereu rema .
+# text_eng = 
+# text_por = Por isso se chama assim "Baru kuru ciri"(céu líquido se derrama), por causa de seu canto. O seu nome verdadeiro é Kogae Cereu.
+1	Kocare	_	ADV	adv	_	2	advmod	_	_
+2	iere	ie	VERB	v	Number=Sing|Person=3	0	root	_	_
+3	oinono	_	ADV	adv	_	2	advmod	_	_
+4	Baru	_	NOUN	n	_	2	nsubj	_	_
+5	kuru	_	NOUN	n	_	4	flat	_	_
+6	ciri	_	VERB	v	_	5	flat	_	_
+7	,	,	PUNCT	punct	_	6	punct	_	_
+8	nowy	_	DET	dem	_	9	det	_	_
+9	tuwadaru	bataru	NOUN	n	_	2	obl	_	_
+10	kae	_	ADP	_	Number=Sing|Person=3	9	obl	_	_
+11	.	_	PUNCT	punct	_	9	punct	_	_
+12	Ie	ie	NOUN	n	_	2	parataxis	_	_
+13	remawure	_	ADV	adv	Mood=Ind	12	advmod	_	_
+14	Kogae	_	PROPN	_	_	12	nsubj	_	_
+15	Cereu	_	PROPN	_	_	14	flat	_	_
+16	rema	rema	AUX	cop	_	12	cop	_	_
+17	.	.	PUNCT	punct	_	12	punct	_	_
+

@@ -1,0 +1,2346 @@
+# sent_id = GL-CLX16.1
+# text = Aibö te mo . Pi’õ te mo . Ba'õno te mo . Õhã te mo .
+# text_por = Uni homem vai. Uma mulher vai. A menina vai. Ele (ela) vai.
+# text_eng = One man goes. A woman goes. The girl goes. He (she) goes.
+1	Aibö	aibö	NOUN	n	_	3	nsubj	_	man;homem
+2	te	te	PART	prcl	Htp=Yes|Tense=Pres	3	dep	_	heterophoric.marker;marcardor.heterofórico
+3	mo	mo	VERB	v	_	0	root	_	go;ir
+4	.	.	PUNCT	punct	_	3	punct	_	_
+5	Pi’õ	pi'õ	NOUN	n	_	7	nsubj	_	woman;mulher
+6	te	te	PART	prcl	Htp=Yes|Tense=Pres	7	dep	_	heterophoric.marker;marcardor.heterofórico
+7	mo	mo	VERB	v	_	3	parataxis	_	go;ir
+8	.	.	PUNCT	punct	_	7	punct	_	_
+9	Ba'õno	ba'õno	NOUN	n	_	11	nsubj	_	girl;menina
+10	te	te	PART	prcl	Htp=Yes|Tense=Pres	11	dep	_	heterophoric.marker;marcardor.heterofórico
+11	mo	mo	VERB	v	_	3	parataxis	_	go;ir
+12	.	.	PUNCT	punct	_	11	punct	_	_
+13	Õhã	õhã	PRON	pron	Emph=Yes|Number=Sing|Person=3|PronType=Prs	15	nsubj	_	he,she,it;ele,ela
+14	te	te	PART	prcl	Htp=Yes|Tense=Pres	15	dep	_	heterophoric.marker;marcardor.heterofórico
+15	mo	mo	VERB	v	_	3	parataxis	_	go;ir
+16	.	.	PUNCT	punct	_	15	punct	_	_
+
+# sent_id = GL-CLX16.2
+# text = Wapté te wara . Tsa'ẽtè te wara . Uhödö te wara .
+# text_por = Um adolescente corre. Ele corre depressa. Uma anta corre.
+# text_eng = A teenager runs. He runs fast. A tapir runs.
+1	Wapté	wapté	NOUN	n	_	3	nsubj	_	teenager;adolescente
+2	te	te	PART	prcl	Htp=Yes|Tense=Pres	3	dep	_	heterophoric.marker;marcardor.heterofórico
+3	wara	wara	VERB	v	_	0	root	_	run;correr
+4	.	.	PUNCT	punct	_	3	punct	_	_
+5	Tsa'ẽtè	tsa'ẽtè	ADV	adv	_	7	advmod	_	in.a.hurry,quickly,loud;depressa,em.voz.alta
+6	te	te	PART	prcl	Htp=Yes|Tense=Pres	7	dep	_	heterophoric.marker;marcardor.heterofórico
+7	wara	wara	VERB	v	_	3	parataxis	_	run;correr
+8	.	.	PUNCT	punct	_	7	punct	_	_
+9	Uhödö	uhödö	NOUN	n	_	11	nsubj	_	tapir;anta
+10	te	te	PART	prcl	Htp=Yes|Tense=Pres	11	dep	_	heterophoric.marker;marcardor.heterofórico
+11	wara	wara	VERB	v	_	3	parataxis	_	run;correr
+12	.	.	PUNCT	punct	_	11	punct	_	_
+
+# sent_id = GL-CLX16.3
+# text = Aibö te mo buru u . Pi’õ dzéma te mo buru u .
+# text_por = Um homem vai à roça. Também uma mulher vai à roça.
+# text_eng = A man goes to the fields. A woman also goes to the fields.
+1	Aibö	aibö	NOUN	n	_	3	nsubj	_	man;homem
+2	te	te	PART	prcl	Htp=Yes|Tense=Pres	3	dep	_	heterophoric.marker;marcardor.heterofórico
+3	mo	mo	VERB	v	_	0	root	_	go;ir
+4	buru	buru	NOUN	n	_	3	obl	_	slash;roça
+5	u	u	ADP	posp	_	4	case	_	to;a,para
+6	.	.	PUNCT	punct	_	3	punct	_	_
+7	Pi’õ	pi'õ	NOUN	n	_	10	nsubj	_	woman;mulher
+8	dzéma	dzéma	ADV	adv	_	10	advmod	_	also;também
+9	te	te	PART	prcl	Htp=Yes|Tense=Pres	10	dep	_	heterophoric.marker;marcardor.heterofórico
+10	mo	mo	VERB	v	_	3	parataxis	_	go;ir
+11	buru	buru	NOUN	n	_	10	obl	_	slash;roça
+12	u	u	ADP	posp	_	11	case	_	to;a,para
+13	.	.	PUNCT	punct	_	10	punct	_	_
+
+# sent_id = GL-CLX16.4
+# text = Aibö pi'õi me te tineb dzahuré buru u .
+# text_por = Um homem e uma mulher vão à roça.
+# text_eng = A man and a woman go to the fields.
+1	Aibö	aibö	NOUN	n	_	5	nsubj	_	man;homem
+2	pi'õi	pi'õ	NOUN	n	_	1	nmod	_	woman;mulher
+3	me	me	ADP	posp	_	2	case	_	with;com
+4	te	te	PART	prcl	Htp=Yes|Tense=Pres	5	dep	_	heterophoric.marker;marcardor.heterofórico
+5	tineb	ne	VERB	v	Person[abs]=3	0	root	_	walk;andar,caminhar
+6	dzahuré	dzahuré	NUM	num	Number=Dual	1	nummod	_	_
+7	buru	buru	NOUN	n	_	5	obl	_	slash;roça
+8	u	u	ADP	posp	_	7	case	_	to;a,para
+9	.	.	PUNCT	punct	_	5	punct	_	_
+
+# sent_id = GL-CLX16.5
+# text = 'Watébrémi te mo 'ri tẽme , tina u .
+# text_por = Um menino vai para casa, à mãe dele.
+# text_eng = A boy goes home to his mother.
+1	'Watébrémi	'watébrémi	NOUN	n	_	3	nsubj	_	boy;menino
+2	te	te	PART	prcl	Htp=Yes|Tense=Pres	3	dep	_	heterophoric.marker;marcardor.heterofórico
+3	mo	mo	VERB	v	_	0	root	_	go;ir
+4	'ri	'ri	NOUN	n	_	3	obl	_	house;casa
+5	tẽme	tẽme	ADP	posp	_	4	case	_	to;para,até
+6	,	,	PUNCT	punct	_	3	punct	_	_
+7	tina	na	NOUN	n	Person=3|Reflex=Yes	3	dislocated	_	mother;mãe
+8	u	u	ADP	posp	_	7	case	_	to;a,para
+9	.	.	PUNCT	punct	_	3	punct	_	_
+
+# sent_id = GL-CLX16.6
+# text = Aibö te wara pe'a dzô .
+# text_por = Um homem corre em busca de um peixe.
+# text_eng = A man runs in search of a fish.
+1	Aibö	aibö	NOUN	n	_	3	nsubj	_	man;homem
+2	te	te	PART	prcl	Htp=Yes|Tense=Pres	3	dep	_	heterophoric.marker;marcardor.heterofórico
+3	wara	wara	VERB	v	_	0	root	_	run;correr
+4	pe'a	pe'a	NOUN	n	_	3	obl	_	fish;peixe
+5	dzô	dzô	ADP	posp	_	4	case	_	after,in.search.of;atrás.de,em.busca.de
+6	.	.	PUNCT	punct	_	3	punct	_	_
+
+# sent_id = GL-CLX16.7
+# text = Pe'a te tiwi wara .
+# text_por = Um peixe foge dele.
+# text_eng = A fish runs away from him.
+1	Pe'a	pe'a	NOUN	n	_	4	nsubj	_	fish;peixe
+2	te	te	PART	prcl	Htp=Yes|Tense=Pres	4	dep	_	heterophoric.marker;marcardor.heterofórico
+3	tiwi	wi	ADP	posp	Person=3	4	obl	_	far.from;longe.de
+4	wara	wara	VERB	v	_	0	root	_	run;correr
+5	.	.	PUNCT	punct	_	4	punct	_	_
+
+# sent_id = GL-CLX16.8
+# text = Tsô wara wa te tiwi wara .
+# text_por = Porque ele corre atrás dele, ele foge.
+# text_eng = Because he runs after him, he runs away.
+1	Tsô	tsô	ADP	posp	_	6	obl	_	after,towards,in.search.of;em.busca.de,atrás.de
+2	wara	wara	VERB	v	_	6	advcl	_	run;correr
+3	wa	wa	SCONJ	sconj	_	2	mark	_	because;por.que
+4	te	te	PART	prcl	Htp=Yes|Tense=Pres	6	dep	_	heterophoric.marker;marcardor.heterofórico
+5	tiwi	wi	ADP	posp	Person=3	6	obl	_	far.from;longe.de
+6	wara	wara	VERB	v	_	0	root	_	run;correr
+7	.	.	PUNCT	punct	_	6	punct	_	_
+
+# sent_id = GL-CLX16.9
+# text = Aibö ma wei wi .
+# text_por = Um homem veio.
+# text_eng = A man came.
+1	Aibö	aibö	NOUN	n	_	3	nsubj	_	man;homem
+2	ma	ma	PART	prcl	Htp=Yes|Tense=Past	3	dep	_	heterophoric.marker.perfective.aspect;marcardor.heterofórico.aspecto.perfectivo
+3	wei	we	ADV	adv	_	0	root	_	hither;para.cá
+4	wi	wi	ADP	posp	_	3	obl	_	far.from;longe.de
+5	.	.	PUNCT	punct	_	3	punct	_	_
+
+# sent_id = GL-CLX16.10
+# text = E marĩ dzô ma wei wi .
+# text_por = Para que ele veio?
+# text_eng = What did he come for?
+1	E	e	PART	prcl	Int=Yes	2	dep	_	question.particle;partícula.interrogativa
+2	marĩ	marĩ	NOUN	n	_	5	obl	_	something,what;algo,o.que,alguma.coisa
+3	dzô	dzô	ADP	posp	_	2	case	_	after,in.search.of;atrás.de,em.busca.de
+4	ma	ma	PART	prcl	Htp=Yes|Tense=Past	5	dep	_	heterophoric.marker.perfective.aspect;marcardor.heterofórico.aspecto.perfectivo
+5	wei	we	ADV	adv	_	0	root	_	hither;para.cá
+6	wi	wi	ADP	posp	_	5	obl	_	far.from;longe.de
+7	.	.	PUNCT	punct	_	5	punct	_	_
+
+# sent_id = GL-CLX16.11
+# text = Ti'ra tete tsabu da ma wei wi .
+# text_por = Para ver seu filho, ele veio.
+# text_eng = To see his son, he came.
+1	Ti'ra	'ra	NOUN	n	Person=3	3	obj	_	son,daughter;filho,filha
+2	tete	te	AUX	aux	Number=Sing|Person=3	3	aux	_	_
+3	tsabu	tsabu	VERB	v	_	6	advcl	_	see,take.care.of;ver,enxergar,olhar,cuidar
+4	da	da	SCONJ	sconj	_	3	mark	_	for,in.order.to,so.that;para,afim.de,para.que
+5	ma	ma	PART	prcl	Htp=Yes|Tense=Past	6	dep	_	heterophoric.marker.perfective.aspect;marcardor.heterofórico.aspecto.perfectivo
+6	wei	we	X	x	_	0	root	_	hither;para.cá
+7	wi	wi	ADP	posp	_	6	obl	_	far.from;longe.de
+8	.	.	PUNCT	punct	_	6	punct	_	_
+
+# sent_id = GL-CLX16.12
+# text = E te dza apö mo .
+# text_por = Ele voltará?
+# text_eng = Will he come back?
+1	E	e	PART	prcl	Int=Yes	5	dep	_	question.particle;partícula.interrogativa
+2	te	te	PART	prcl	Htp=Yes|Tense=Pres	5	dep	_	heterophoric.marker;marcardor.heterofórico
+3	dza	dza	PART	prcl	Tense=Fut	5	dep	_	future.marker;marcador.de.futuro
+4	apö	apö	ADV	adv	_	5	advmod	_	back,again;de.volta,outra.vez
+5	mo	mo	VERB	v	_	0	root	_	go;ir
+6	.	.	PUNCT	punct	_	5	punct	_	_
+
+# sent_id = GL-CLX16.13
+# text = Ĩhe te dza apö mo .
+# text_por = Sim, ele voltará.
+# text_eng = Yes, he will come back.
+1	Ĩhe	ĩhe	INTJ	intj	_	5	discourse	_	yes;sim
+2	te	te	PART	prcl	Htp=Yes|Tense=Pres	5	dep	_	heterophoric.marker;marcardor.heterofórico
+3	dza	dza	PART	prcl	Tense=Fut	5	dep	_	future.marker;marcador.de.futuro
+4	apö	apö	ADV	adv	_	5	advmod	_	back,again;de.volta,outra.vez
+5	mo	mo	VERB	v	_	0	root	_	go;ir
+6	.	.	PUNCT	punct	_	5	punct	_	_
+
+# sent_id = GL-CLX18.1
+# text = Pi'õ te mo buru u . Tame te wapa aibö mreme hã .
+# text_por = Uma mulher vai à roça. Lá ela escuta a conversa de um homem.
+# text_eng = A woman goes to the slash. There she listens to a man's conversation.
+1	Pi'õ	pi'õ	NOUN	n	_	3	nsubj	_	woman;mulher
+2	te	te	PART	prcl	Htp=Yes|Tense=Pres	3	dep	_	heterophoric.marker;marcardor.heterofórico
+3	mo	mo	VERB	v	_	0	root	_	go;ir
+4	buru	buru	NOUN	n	_	3	obl	_	slash;roça
+5	u	u	ADP	posp	_	4	case	_	to;a,para
+6	.	.	PUNCT	punct	_	3	punct	_	_
+7	Tame	tame	ADV	adv	_	9	advcl	_	there;lá
+8	te	te	PART	prcl	Htp=Yes|Tense=Pres	9	dep	_	heterophoric.marker;marcardor.heterofórico
+9	wapa	wapari	VERB	v	_	3	parataxis	_	hear;escutar
+10	aibö	aibö	NOUN	n	_	11	nmod	_	man;homem
+11	mreme	mreme	NOUN	n	_	9	obj	_	conversation,talk;conversa
+12	hã	hã	DET	det	_	11	det	_	_
+13	.	.	PUNCT	punct	_	9	punct	_	_
+
+# sent_id = GL-CLX18.2
+# text = Aibö te wei mo 'watébrémi me . 'Watébrémi marĩ na te aibö tsadanha .
+# text_por = Um homem vem com um menino. Um menino pergunta alguma coisa a um homem.
+# text_eng = A man comes with a boy. A boy asks a man something.
+1	Aibö	aibö	NOUN	n	_	4	nsubj	_	man;homem
+2	te	te	PART	prcl	Htp=Yes|Tense=Pres	4	dep	_	heterophoric.marker;marcardor.heterofórico
+3	wei	we	ADV	adv	_	4	advmod	_	hither;para.cá
+4	mo	mo	VERB	v	_	0	root	_	go;ir
+5	'watébrémi	'watébrémi	NOUN	n	_	4	obl	_	boy;menino
+6	me	me	ADP	posp	_	5	case	_	with;com
+7	.	.	PUNCT	punct	_	4	punct	_	_
+8	'Watébrémi	'watébrémi	NOUN	n	_	13	nsubj	_	boy;menino
+9	marĩ	marĩ	NOUN	n	_	13	obl	_	something,what;algo,o.que,alguma.coisa
+10	na	na	ADP	posp	_	9	case	_	in;from;em,de
+11	te	te	PART	prcl	Htp=Yes|Tense=Pres	13	dep	_	heterophoric.marker;marcardor.heterofórico
+12	aibö	aibö	NOUN	n	_	13	obj	_	man;homem
+13	tsadanha	tsadanharĩ	VERB	v	_	4	parataxis	_	ask;perguntar
+14	.	.	PUNCT	punct	_	13	punct	_	_
+
+# sent_id = GL-CLX18.3
+# text = Aibö ma atsa tsada'ö marĩ na .
+# text_por = Um homem lhe responde alguma coisa.
+# text_eng = A man answers him something.
+1	Aibö	aibö	NOUN	n	_	4	nsubj	_	man;homem
+2	ma	ma	PART	prcl	Htp=Yes|Tense=Past	4	dep	_	heterophoric.marker.perfective.aspect;marcardor.heterofórico.aspecto.perfectivo
+3	atsa	atsa	PRON	pron	_	4	iobj	_	_
+4	tsada'ö	tsada'öbö	VERB	v	_	0	root	_	reply;responder
+5	marĩ	marĩ	NOUN	n	_	4	obl	_	something,what;algo,o.que,alguma.coisa
+6	na	na	ADP	posp	_	5	case	_	in;from;em,de
+7	.	.	PUNCT	punct	_	4	punct	_	_
+
+# sent_id = GL-CLX18.4
+# text = Apötsi , 'watébrémi te marĩ aibö wi waptẽ , tsa da .
+# text_por = Em seguida, um menino pede algo a um homem, para comer.
+# text_eng = Then a boy asks a man for something to eat.
+1	Apötsi	apötsi	ADV	adv	_	8	dislocated	_	later,after,then;mais.tarde,depois,em.seguida
+2	,	,	PUNCT	punct	_	8	punct	_	_
+3	'watébrémi	'watébrémi	NOUN	n	_	8	nsubj	_	boy;menino
+4	te	te	PART	prcl	Htp=Yes|Tense=Pres	8	dep	_	heterophoric.marker;marcardor.heterofórico
+5	marĩ	marĩ	NOUN	n	_	8	obj	_	something,what;algo,o.que,alguma.coisa
+6	aibö	aibö	NOUN	n	_	8	iobj	_	man;homem
+7	wi	wi	ADP	posp	_	8	obl	_	far.from;longe.de
+8	waptẽ	waptẽrẽ	VERB	v	_	0	root	_	ask,request;pedir,solicitar
+9	,	,	PUNCT	punct	_	8	punct	_	_
+10	tsa	tsa	NOUN	n	_	8	advcl	_	food;comida,alimento
+11	da	da	SCONJ	sconj	_	10	mark	_	for,in.order.to,so.that;para,afim.de,para.que
+12	.	.	PUNCT	punct	_	8	punct	_	_
+
+# sent_id = GL-CLX18.5
+# text = Pi’õ tsa'ẽtè te romhu buru ãma hã . Romhuri ãna hã , marĩ datsa da hã , höimana õ di .
+# text_por = Uma mulher trabalha depressa na roça. Sem o trabalho, não há nada para comer.
+# text_eng = A woman works quickly in the fields. Without work, there is nothing to eat.
+1	Pi’õ	pi'õ	NOUN	n	_	4	nsubj	_	woman;mulher
+2	tsa'ẽtè	tsa'ẽtè	ADV	adv	_	4	advmod	_	in.a.hurry,quickly,loud;depressa,em.voz.alta
+3	te	te	PART	prcl	Htp=Yes|Tense=Pres	4	dep	_	heterophoric.marker;marcardor.heterofórico
+4	romhu	romhuri	VERB	v	_	0	root	_	to.work;trabalhar
+5	buru	buru	NOUN	n	_	4	obl	_	slash;roça
+6	ãma	ãma	ADP	posp	_	5	case	_	in;em
+7	hã	hã	DET	det	_	5	det	_	_
+8	.	.	PUNCT	punct	_	4	punct	_	_
+9	Romhuri	romhuri	VERB	v	_	18	dislocated	_	to.work;trabalhar
+10	ãna	na	ADP	posp	_	9	case	_	without;sem
+11	hã	hã	DET	det	_	9	det	_	_
+12	,	,	PUNCT	punct	_	14	punct	_	_
+13	marĩ	marĩ	NOUN	n	_	14	nmod	_	something,what;algo,o.que,alguma.coisa
+14	datsa	tsa	NOUN	n	Gnq=Yes	18	obl	_	food;comida,alimento
+15	da	da	SCONJ	sconj	_	14	case	_	for,in.order.to,so.that;para,afim.de,para.que
+16	hã	hã	DET	det	_	14	det	_	_
+17	,	,	PUNCT	punct	_	14	punct	_	_
+18	höimana	höimana	VERB	v	_	4	parataxis	_	be,live,exist;ser,viver,existir
+19	õ	õ	PART	prcl	_	18	dep	_	negative.marker;marcador.negativo
+20	di	di	X	x	_	18	dep	_	expletive;expletivo
+21	.	.	PUNCT	punct	_	18	punct	_	_
+
+# sent_id = GL-CLX18.6
+# text = Tahawa te romhu tsa'ẽtè .
+# text_por = Por isso, ela trabalha depressa.
+# text_eng = So she works fast.
+1	Tahawa	tahawa	SCONJ	sconj	_	3	mark	_	therefore;por.isso
+2	te	te	PART	prcl	Htp=Yes|Tense=Pres	3	dep	_	heterophoric.marker;marcardor.heterofórico
+3	romhu	romhuri	VERB	v	_	0	root	_	to.work;trabalhar
+4	tsa'ẽtè	tsa'ẽtè	ADV	adv	_	3	advmod	_	in.a.hurry,quickly,loud;depressa,em.voz.alta
+5	.	.	PUNCT	punct	_	3	punct	_	_
+
+# sent_id = GL-CLX21.1
+# text = E te ĩromhu . Ĩhe , wa romhu
+# text_por = Você trabalha? - Sim, eu trabalho.
+# text_eng = Do you work? - Yes I work.
+1	E	e	PART	prcl	Int=Yes	3	dep	_	question.particle;partícula.interrogativa
+2	te	te	PART	prcl	Htp=Yes|Tense=Pres	3	dep	_	heterophoric.marker;marcardor.heterofórico
+3	ĩromhu	romhuri	VERB	v	Person[abs]=3	0	root	_	to.work;trabalhar
+4	.	.	PUNCT	punct	_	3	punct	_	_
+5	Ĩhe	ĩhe	INTJ	intj	_	8	discourse	_	yes;sim
+6	,	,	PUNCT	punct	_	8	punct	_	_
+7	wa	wa	PART	prcl	Ego=Yes|Person=1	8	dep	_	egophoric.marker;marcardor.egofórico
+8	romhu	romhuri	VERB	v	_	3	parataxis	_	to.work;trabalhar
+
+# sent_id = GL-CLX21.2
+# text = E aibö dzéma te romhu . Ĩhe , õhã dzéma te romhu .
+# text_por = Um homem trabalha também? - Sim, ele trabalha também.
+# text_eng = Does a man work too? - Yes, he works too.
+1	E	e	PART	prcl	Int=Yes	5	dep	_	question.particle;partícula.interrogativa
+2	aibö	aibö	NOUN	n	_	5	nsubj	_	man;homem
+3	dzéma	dzéma	ADV	adv	_	5	advmod	_	also;também
+4	te	te	PART	prcl	Htp=Yes|Tense=Pres	5	dep	_	heterophoric.marker;marcardor.heterofórico
+5	romhu	romhuri	VERB	v	_	0	root	_	to.work;trabalhar
+6	.	.	PUNCT	punct	_	5	punct	_	_
+7	Ĩhe	ĩhe	INTJ	intj	_	12	discourse	_	yes;sim
+8	,	,	PUNCT	punct	_	12	punct	_	_
+9	õhã	õhã	PRON	pron	Emph=Yes|Number=Sing|Person=3|PronType=Prs	12	nsubj	_	he,she,it;ele,ela
+10	dzéma	dzéma	ADV	adv	_	12	advmod	_	also;também
+11	te	te	PART	prcl	Htp=Yes|Tense=Pres	12	dep	_	heterophoric.marker;marcardor.heterofórico
+12	romhu	romhuri	VERB	v	_	5	parataxis	_	to.work;trabalhar
+13	.	.	PUNCT	punct	_	12	punct	_	_
+
+# sent_id = GL-CLX21.3
+# text = E 'wa hã marĩ hã te tsadanha . Wanorĩhã , marĩ hã wa tsadanharĩ ni .
+# text_por = Quem está perguntando alguma coisa ? - Nós dois perguntamos alguma coisa.
+# text_eng = Who is asking something? - We both asked something.
+1	E	e	PART	prcl	Int=Yes	7	dep	_	question.particle;partícula.interrogativa
+2	'wa	'wa	PRON	pron	PronType=Int	7	nsubj	_	who;quem
+3	hã	hã	PART	prcl	Emph=Yes	2	discourse	_	_
+4	marĩ	marĩ	NOUN	n	_	7	obj	_	something,what;algo,o.que,alguma.coisa
+5	hã	hã	DET	det	_	4	det	_	_
+6	te	te	PART	prcl	Htp=Yes|Tense=Pres	7	dep	_	heterophoric.marker;marcardor.heterofórico
+7	tsadanha	tsadanharĩ	VERB	v	_	0	root	_	ask;perguntar
+8	.	.	PUNCT	punct	_	7	punct	_	_
+9	Wanorĩhã	wanorĩhã	PRON	pron	Emph=Yes|Number=Coll|Person=1	14	nsubj	_	_
+10	,	,	PUNCT	punct	_	14	punct	_	_
+11	marĩ	marĩ	NOUN	n	_	14	obj	_	something,what;algo,o.que,alguma.coisa
+12	hã	hã	DET	det	_	11	det	_	_
+13	wa	wa	PART	prcl	Ego=Yes|Person=1	14	dep	_	egophoric.marker;marcardor.egofórico
+14	tsadanharĩ	tsadanharĩ	VERB	v	_	7	parataxis	_	ask;perguntar
+15	ni	ni	X	x	Number=Dual	14	dep	_	dual.number.marker;indicador.dual
+16	.	.	PUNCT	punct	_	14	punct	_	_
+
+# sent_id = GL-CLX21.4
+# text = E anorĩwa'wahã te ĩwapari dza'ra wa'wa . Ĩhe , wanorĩhã wa wapari dza'ra ni .
+# text_por = Vocês escutam ? - Sim, nós escutamos.
+# text_eng = Do you hear? - Yes, we heard.
+1	E	e	PART	prcl	Int=Yes	4	dep	_	question.particle;partícula.interrogativa
+2	anorĩwa'wahã	anorĩwa'wahã	PRON	pron	Emph=Yes|Number=Coll|Person=2	4	nsubj	_	_
+3	te	te	PART	prcl	Htp=Yes|Tense=Pres	4	dep	_	heterophoric.marker;marcardor.heterofórico
+4	ĩwapari	wapari	VERB	v	Person[abs]=3	0	root	_	hear;escutar
+5	dza'ra	dza'ra	PART	prcl	Number=Plur	4	dep	_	_
+6	wa'wa	'wa	X	x	Number=Dual	4	dep	_	dual.number.marker;indicador.dual
+7	.	.	PUNCT	punct	_	4	punct	_	_
+8	Ĩhe	ĩhe	INTJ	intj	_	12	discourse	_	yes;sim
+9	,	,	PUNCT	punct	_	12	punct	_	_
+10	wanorĩhã	wanorĩhã	PRON	pron	Emph=Yes|Number=Coll|Person=1	12	nsubj	_	_
+11	wa	wa	PART	prcl	Ego=Yes|Person=1	12	dep	_	egophoric.marker;marcardor.egofórico
+12	wapari	wapari	VERB	v	_	4	parataxis	_	hear;escutar
+13	dza'ra	dza'ra	PART	prcl	Number=Plur	12	dep	_	_
+14	ni	ni	X	x	Number=Dual	12	dep	_	dual.number.marker;indicador.dual
+15	.	.	PUNCT	punct	_	12	punct	_	_
+
+# sent_id = GL-CLX21.5
+# text = E marĩ te ĩwaptẽrẽ dza'ra wa'wa . Wanorĩhã wa watsa waptẽrẽ dza'ra ni .
+# text_por = O que vocês estão pedindo? - Nós pedimos nossa comida.
+# text_eng = What are you asking? - We ordered our food.
+1	E	e	PART	prcl	Int=Yes	4	dep	_	question.particle;partícula.interrogativa
+2	marĩ	marĩ	NOUN	n	_	4	obj	_	something,what;algo,o.que,alguma.coisa
+3	te	te	PART	prcl	Htp=Yes|Tense=Pres	4	dep	_	heterophoric.marker;marcardor.heterofórico
+4	ĩwaptẽrẽ	waptẽrẽ	VERB	v	Person[abs]=3	0	root	_	ask,request;pedir,solicitar
+5	dza'ra	dza'ra	PART	prcl	Number=Plur	4	dep	_	_
+6	wa'wa	'wa	X	x	Number=Dual	4	dep	_	dual.number.marker;indicador.dual
+7	.	.	PUNCT	punct	_	4	punct	_	_
+8	Wanorĩhã	wanorĩhã	PRON	pron	Emph=Yes|Number=Coll|Person=1	11	nsubj	_	_
+9	wa	wa	PART	prcl	Ego=Yes|Person=1	11	dep	_	egophoric.marker;marcardor.egofórico
+10	watsa	tsa	NOUN	n	Number=Plur|Person=1	11	obj	_	food;comida,alimento
+11	waptẽrẽ	waptẽrẽ	VERB	v	_	4	parataxis	_	ask,request;pedir,solicitar
+12	dza'ra	dza'ra	PART	prcl	Number=Plur	11	dep	_	_
+13	ni	ni	X	x	Number=Dual	11	dep	_	dual.number.marker;indicador.dual
+14	.	.	PUNCT	punct	_	11	punct	_	_
+
+# sent_id = GL-CLX23.1
+# text = Aibö norĩhã duré pi’õ norĩhã te romhuri dza'ra buru ãma hã .
+# text_por = Os homens e as mulheres trabalham na roça .
+# text_eng = Men and women work in the fields.
+1	Aibö	aibö	NOUN	n	_	7	nsubj	_	man;homem
+2	norĩhã	norĩ	PART	prcl	Emph=Yes|Number=Coll	1	discourse	_	_
+3	duré	duré	ADV	adv	_	4	advmod	_	also;também
+4	pi’õ	pi'õ	NOUN	n	_	1	conj	_	woman;mulher
+5	norĩhã	norĩ	PART	prcl	Emph=Yes|Number=Coll	4	discourse	_	_
+6	te	te	PART	prcl	Htp=Yes|Tense=Pres	7	dep	_	heterophoric.marker;marcardor.heterofórico
+7	romhuri	romhuri	VERB	v	_	0	root	_	to.work;trabalhar
+8	dza'ra	dza'ra	PART	prcl	Number=Plur	7	dep	_	_
+9	buru	buru	NOUN	n	_	7	obl	_	slash;roça
+10	ãma	ãma	ADP	posp	_	9	case	_	in;em
+11	hã	hã	DET	det	_	7	det	_	_
+12	.	.	PUNCT	punct	_	7	punct	_	_
+
+# sent_id = GL-CLX23.2
+# text = 'Watébrémi duré ba'õno te wapari dzahuré aibö hã .
+# text_por = Um menino e uma menina escutam o homem.
+# text_eng = A boy and a girl listen to the man.
+1	'Watébrémi	'watébrémi	NOUN	n	_	5	nsubj	_	boy;menino
+2	duré	duré	ADV	adv	_	3	advmod	_	also;também
+3	ba'õno	ba'õno	NOUN	n	_	1	conj	_	girl;menina
+4	te	te	PART	prcl	Htp=Yes|Tense=Pres	5	dep	_	heterophoric.marker;marcardor.heterofórico
+5	wapari	wapari	VERB	v	_	0	root	_	hear;escutar
+6	dzahuré	dzahuré	NUM	num	Number=Dual	5	nummod	_	_
+7	aibö	aibö	NOUN	n	_	5	obj	_	man;homem
+8	hã	hã	DET	det	_	7	det	_	_
+9	.	.	PUNCT	punct	_	5	punct	_	_
+
+# sent_id = GL-CLX23.3
+# text = Wapté norĩhã te wapari dza'ra ĩprédu mreme hã .
+# text_por = Os adolescentes escutam a palavra do adulto.
+# text_eng = Teenagers listen to the words of adults.
+1	Wapté	wapté	NOUN	n	_	4	nsubj	_	teenager;adolescente
+2	norĩhã	norĩ	PART	prcl	Emph=Yes|Number=Coll	1	discourse	_	_
+3	te	te	PART	prcl	Htp=Yes|Tense=Pres	4	dep	_	heterophoric.marker;marcardor.heterofórico
+4	wapari	wapari	VERB	v	_	0	root	_	hear;escutar
+5	dza'ra	dza'ra	PART	prcl	Number=Plur	4	dep	_	_
+6	ĩprédu	prédu	NOUN	n	Person=3	7	nmod	_	adult,mature;adulto,maduro
+7	mreme	mreme	NOUN	n	_	4	obj	_	conversation,talk;conversa
+8	hã	hã	DET	det	_	7	det	_	_
+9	.	.	PUNCT	punct	_	4	punct	_	_
+
+# sent_id = GL-CLX23.4
+# text = E te ĩtsadanharĩ dza'ra wa'wa waradzu hã marĩ na ? Mare di .
+# text_por = Vocês perguntaram algo ao "civilizado"? Não!
+# text_eng = Did you ask the "civilized" something? No!
+1	E	e	PART	prcl	Int=Yes	3	dep	_	question.particle;partícula.interrogativa
+2	te	te	PART	prcl	Htp=Yes|Tense=Pres	3	dep	_	heterophoric.marker;marcardor.heterofórico
+3	ĩtsadanharĩ	tsadanharĩ	VERB	v	Person[abs]=3	0	root	_	ask;perguntar
+4	dza'ra	dza'ra	PART	prcl	Number=Plur	3	dep	_	_
+5	wa'wa	'wa	X	x	Number=Dual	3	dep	_	dual.number.marker;indicador.dual
+6	waradzu	waradzu	NOUN	n	_	3	iobj	_	white,civilized,non-indian;branco,civilizado,não-índio
+7	hã	hã	DET	det	_	6	det	_	_
+8	marĩ	marĩ	NOUN	n	_	3	obl	_	something,what;algo,o.que,alguma.coisa
+9	na	na	ADP	posp	_	8	case	_	in;from;em,de
+10	?	?	PUNCT	punct	_	3	punct	_	_
+11	Mare	mare	NOUN	n	_	3	parataxis	_	nada;nothing
+12	di	di	X	x	_	11	dep	_	expletive;expletivo
+13	.	.	PUNCT	punct	_	11	punct	_	_
+
+# sent_id = GL-CLX23.5
+# text = Ba'õtõ norĩ , e te ĩ'madö'ö 'wa ai'uté hã ? Ĩhe !
+# text_por = Meninas (duas), vocês estão vendo a criança? Sim!
+# text_eng = Girls (two), do you see the child? Yes!
+1	Ba'õtõ	ba'õtõre	NOUN	n	_	6	vocative	_	little.girl;menina.pequena
+2	norĩ	norĩ	PART	prcl	Number=Coll	1	dep	_	_
+3	,	,	PUNCT	punct	_	6	punct	_	_
+4	e	e	PART	prcl	Int=Yes	6	dep	_	question.particle;partícula.interrogativa
+5	te	te	PART	prcl	Htp=Yes|Tense=Pres	6	dep	_	heterophoric.marker;marcardor.heterofórico
+6	ĩ'madö'ö	'madö'ö	VERB	v	Person[abs]=3	0	root	_	see,look;ver,olhar,enxergar
+7	'wa	'wa	X	x	Number=Dual	6	dep	_	dual.number.marker;indicador.dual
+8	ai'uté	ai'uté	NOUN	n	_	6	obj	_	child;criança
+9	hã	hã	DET	det	_	8	det	_	_
+10	?	?	PUNCT	punct	_	6	punct	_	_
+11	Ĩhe	ĩhe	INTJ	intj	_	6	parataxis	_	yes;sim
+12	!	!	PUNCT	punct	_	11	punct	_	_
+
+# sent_id = GL-CLX23.6
+# text = Pi'õ norĩhã te waptẽrẽ dzahuré dawede hã , dawede'wai wi hã .
+# text_por = As duas mulheres pedem remédio ao enfermeiro.
+# text_eng = The two women ask the nurse for medicine.
+1	Pi'õ	pi'õ	NOUN	n	_	4	nsubj	_	woman;mulher
+2	norĩhã	norĩ	PART	prcl	Emph=Yes|Number=Coll	1	discourse	_	_
+3	te	te	PART	prcl	Htp=Yes|Tense=Pres	4	dep	_	heterophoric.marker;marcardor.heterofórico
+4	waptẽrẽ	waptẽrẽ	VERB	v	_	0	root	_	ask,request;pedir,solicitar
+5	dzahuré	dzahuré	NUM	num	Number=Dual	4	nummod	_	_
+6	dawede	wede	NOUN	n	Gnq=Yes	4	obj	_	medicine;remédio
+7	hã	hã	DET	det	_	6	det	_	_
+8	,	,	PUNCT	punct	_	4	punct	_	_
+9	dawede'wai	dawede'wa	NOUN	n	_	4	dislocated	_	nurse,doctor;enfermeiro,médico
+10	wi	wi	ADP	posp	_	9	case	_	far.from;longe.de
+11	hã	hã	DET	det	_	9	det	_	_
+12	.	.	PUNCT	punct	_	4	punct	_	_
+
+# sent_id = GL-CLX23.7
+# text = Pi'õ tsi'õno te 'watsa .
+# text_por = Uma mulher carrega um cesto.
+# text_eng = A woman carries a basket.
+1	Pi'õ	pi'õ	NOUN	n	_	4	nsubj	_	woman;mulher
+2	tsi'õno	tsi'õno	NOUN	n	_	4	obj	_	basket;cesto
+3	te	te	PART	prcl	Htp=Yes|Tense=Pres	4	dep	_	heterophoric.marker;marcardor.heterofórico
+4	'watsa	'watsari	VERB	v	_	0	root	_	carry,distribute;carregar,distribuir
+5	.	.	PUNCT	punct	_	4	punct	_	_
+
+# sent_id = GL-CLX23.8
+# text = Wanorĩhã wa tsa'wari dza'ra ni ö , u'mre 'remhã .
+# text_por = Nós despejamos a água que está nas cabaças.
+# text_eng = We pour the water that is in the gourds.
+1	Wanorĩhã	wanorĩhã	PRON	pron	Emph=Yes|Number=Coll|Person=1	3	nsubj	_	_
+2	wa	wa	PART	prcl	Ego=Yes|Person=1	3	dep	_	egophoric.marker;marcardor.egofórico
+3	tsa'wari	tsa'wari	VERB	v	_	0	root	_	pour;derramar,despejar
+4	dza'ra	dza'ra	PART	prcl	Number=Plur	3	dep	_	_
+5	ni	ni	X	x	Number=Dual	3	dep	_	dual.number.marker;indicador.dual
+6	ö	ö	NOUN	n	_	3	obj	_	water;água
+7	,	,	PUNCT	punct	_	6	punct	_	_
+8	u'mre	u'mre	NOUN	n	_	6	acl	_	gourd;cabaça
+9	'remhã	'remhã	ADP	posp	_	8	case	_	inside,being.inside;dentro,estando.dentro
+10	.	.	PUNCT	punct	_	3	punct	_	_
+
+# sent_id = GL-CLX23.9
+# text = Ai'uté te mre pi'uriwi marĩ na .
+# text_por = A criança fala alguma coisa baixinho.
+# text_eng = The child says something softly.
+1	Ai'uté	ai'uté	NOUN	n	_	3	nsubj	_	child;criança
+2	te	te	PART	prcl	Htp=Yes|Tense=Pres	3	dep	_	heterophoric.marker;marcardor.heterofórico
+3	mre	mreme	VERB	v	_	0	root	_	speak,say,converse;falar,dizer,conversar
+4	pi'uriwi	pi'uriwi	ADV	adv	_	3	advmod	_	as escondidas;on.the.sly
+5	marĩ	marĩ	NOUN	n	_	3	obl	_	something,what;algo,o.que,alguma.coisa
+6	na	na	ADP	posp	_	5	case	_	in;from;em,de
+7	.	.	PUNCT	punct	_	3	punct	_	_
+
+# sent_id = GL-CLX23.10
+# text = Wanorĩhã wa atsamarĩ ni atsarina .
+# text_por = Nós dois seguimos a você.
+# text_eng = We both follow you.
+1	Wanorĩhã	wanorĩhã	PRON	pron	Emph=Yes|Number=Coll|Person=1	3	nsubj	_	_
+2	wa	wa	PART	prcl	Ego=Yes|Person=1	3	dep	_	egophoric.marker;marcardor.egofórico
+3	atsamarĩ	tsamarĩ	VERB	v	Person[abs]=2	0	root	_	follow;seguir
+4	ni	ni	X	x	Number=Dual	3	dep	_	dual.number.marker;indicador.dual
+5	atsarina	tsarina	ADP	posp	Person=2	3	obl	_	behind;atrás
+6	.	.	PUNCT	punct	_	3	punct	_	_
+
+# sent_id = GL-CLX23.11
+# text = E te ĩwapari dza'ra wa'wa . Ĩhe !
+# text_por = Vocês escutam? - Sim!
+# text_eng = Do you hear? - Yes!
+1	E	e	PART	prcl	Int=Yes	3	dep	_	question.particle;partícula.interrogativa
+2	te	te	PART	prcl	Htp=Yes|Tense=Pres	3	dep	_	heterophoric.marker;marcardor.heterofórico
+3	ĩwapari	wapari	VERB	v	Person[abs]=3	0	root	_	hear;escutar
+4	dza'ra	dza'ra	PART	prcl	Number=Plur	3	dep	_	_
+5	wa'wa	'wa	X	x	Number=Dual	3	dep	_	dual.number.marker;indicador.dual
+6	.	.	PUNCT	punct	_	3	punct	_	_
+7	Ĩhe	ĩhe	INTJ	intj	_	3	parataxis	_	yes;sim
+8	!	!	PUNCT	punct	_	7	punct	_	_
+
+# sent_id = GL-CLX23.20
+# text = E te ĩtsadanha aibö hã . Mare di !
+# text_por = Você pergunta o homem? - Não!
+# text_eng = Do you ask the man? - No!
+1	E	e	PART	prcl	Int=Yes	3	dep	_	question.particle;partícula.interrogativa
+2	te	te	PART	prcl	Htp=Yes|Tense=Pres	3	dep	_	heterophoric.marker;marcardor.heterofórico
+3	ĩtsadanha	tsadanharĩ	VERB	v	Person[abs]=3	0	root	_	ask;perguntar_
+4	aibö	aibö	NOUN	n	_	3	obj	_	man;homem
+5	hã	hã	DET	det	_	4	det	_	_
+6	.	.	PUNCT	punct	_	3	punct	_	_
+7	Mare	mare	NOUN	n	_	3	parataxis	_	nada;nothing
+8	di	di	X	x	_	7	dep	_	expletive;expletivo
+9	!	!	PUNCT	punct	_	7	punct	_	_
+
+# sent_id = GL-CLX23.30
+# text = E te dza ĩtsa'wa ö hã . Madze di !
+# text_por = Vocês vai derramar a água? - Não!
+# text_eng = Are you going to spill the water? - No!
+1	E	e	PART	prcl	Int=Yes	4	dep	_	question.particle;partícula.interrogativa
+2	te	te	PART	prcl	Htp=Yes|Tense=Pres	4	dep	_	heterophoric.marker;marcardor.heterofórico
+3	dza	dza	PART	prcl	Tense=Fut	4	dep	_	future.marker;marcador.de.futuro
+4	ĩtsa'wa	tsa'wari	VERB	v	Person[abs]=3	0	root	_	pour.out,despejar,derramar
+5	ö	ö	NOUN	n	_	4	obj	_	water;água
+6	hã	hã	DET	det	_	5	det	_	_
+7	.	.	PUNCT	punct	_	4	punct	_	_
+8	Madze	madze	NOUN	n	_	4	parataxis	_	nada;nothing
+9	di	di	X	x	_	8	dep	_	expletive;expletivo
+10	!	!	PUNCT	punct	_	8	punct	_	_
+
+# sent_id = GL-CLX23.40
+# text = E te ĩwaptẽ dawede hã dawede'wai wi hã . Ĩhe ! Ĩ'rã dzé di .
+# text_por = Você pede um remédio ao enfermeiro? - Sim! Minha cabeça dói.
+# text_eng = Do you ask the nurse for medicine? - Yes! My head hurts.
+1	E	e	PART	prcl	Int=Yes	3	dep	_	question.particle;partícula.interrogativa
+2	te	te	PART	prcl	Htp=Yes|Tense=Pres	3	dep	_	heterophoric.marker;marcardor.heterofórico
+3	ĩwaptẽ	waptẽrẽ	VERB	v	Person[abs]=3	0	root	_	ask,request;pedir,solicitar
+4	dawede	wede	NOUN	n	Gnq=Yes	3	obj	_	medicine;remédio
+5	hã	hã	DET	det	_	4	det	_	_
+6	dawede'wai	dawede'wa	NOUN	n	_	3	obl	_	nurse,doctor;enfermeiro,médico
+7	wi	wi	ADP	posp	_	6	case	_	far.from;longe.de
+8	hã	hã	DET	det	_	6	det	_	_
+9	.	.	PUNCT	punct	_	3	punct	_	_
+10	Ĩhe	ĩhe	INTJ	intj	_	3	parataxis	_	yes;sim
+11	!	!	PUNCT	punct	_	10	punct	_	_
+12	Ĩ'rã	'rã	NOUN	n	Person=1	13	nsubj	_	head;cabeça
+13	dzé	dzé	VERB	v	_	10	parataxis	_	hurt;doer
+14	di	di	X	x	_	13	dep	_	expletive;expletivo
+15	.	.	PUNCT	punct	_	13	punct	_	_
+
+# sent_id = GL-CLX23.50
+# text = 'Watébrémi norĩhã , e te dza ĩromhuri dza'ra wa'wa aibö me hã . Ĩhe ! Tsa'ẽtè wa dza romhuri dza'ra ni aibö me .
+# text_por = Meninos, vocês vão trabalhar com o homem ? - Sim! Nós vamos trabalhar depressa com o homem.
+# text_eng = Boys, are you going to work with the man? - Yes! We're going to work quickly with the man.
+1	'Watébrémi	'watébrémi	NOUN	n	_	7	vocative	_	boy;menino
+2	norĩhã	norĩ	PART	prcl	Emph=Yes|Number=Coll	1	discourse	_	_
+3	,	,	PUNCT	punct	_	7	punct	_	_
+4	e	e	PART	prcl	Int=Yes	7	dep	_	question.particle;partícula.interrogativa
+5	te	te	PART	prcl	Htp=Yes|Tense=Pres	7	dep	_	heterophoric.marker;marcardor.heterofórico
+6	dza	dza	PART	prcl	Tense=Fut	7	dep	_	future.marker;marcador.de.futuro
+7	ĩromhuri	romhuri	VERB	v	Person[abs]=3	0	root	_	to.work;trabalhar
+8	dza'ra	dza'ra	PART	prcl	Number=Plur	7	dep	_	_
+9	wa'wa	'wa	X	x	Number=Dual	7	dep	_	dual.number.marker;indicador.dual
+10	aibö	aibö	NOUN	n	_	7	obl	_	man;homem
+11	me	me	ADP	posp	_	10	case	_	with;com
+12	hã	hã	DET	det	_	10	det	_	_
+13	.	.	PUNCT	punct	_	7	punct	_	_
+14	Ĩhe	ĩhe	INTJ	intj	_	7	parataxis	_	yes;sim
+15	!	!	PUNCT	punct	_	14	punct	_	_
+16	Tsa'ẽtè	tsa'ẽtè	ADV	adv	_	19	advmod	_	in.a.hurry,quickly,loud;depressa,em.voz.alta
+17	wa	wa	PART	prcl	Ego=Yes|Person=1	19	dep	_	egophoric.marker;marcardor.egofórico
+18	dza	dza	PART	prcl	Tense=Fut	19	dep	_	future.marker;marcador.de.futuro
+19	romhuri	romhuri	VERB	v	_	14	parataxis	_	to.work;trabalhar
+20	dza'ra	dza'ra	PART	prcl	Number=Plur	19	dep	_	_
+21	ni	ni	X	x	Number=Dual	19	dep	_	dual.number.marker;indicador.dual
+22	aibö	aibö	NOUN	n	_	19	obl	_	man;homem
+23	me	me	ADP	posp	_	22	case	_	with;com
+24	.	.	PUNCT	punct	_	19	punct	_	_
+
+# sent_id = GL-CLX24.1
+# text = Pi'õ te wara tsi'a dzô te te öri da . Ba'õtõ dzéma tsi'a te ti'ö .
+# text_por = Uma mulher corre atrás de uma galinha para pegá-la. Também uma menina pega uma galinha.
+# text_eng = A woman runs after a chicken to catch it. Also a girl catches a chicken.
+1	Pi'õ	pi'õ	NOUN	n	_	3	nsubj	_	woman;mulher
+2	te	te	PART	prcl	Htp=Yes|Tense=Pres	3	dep	_	heterophoric.marker;marcardor.heterofórico
+3	wara	wara	VERB	v	_	0	root	_	run;correr
+4	tsi'a	tsi'a	NOUN	n	_	3	obl	_	hen;galinha
+5	dzô	dzô	ADP	posp	_	4	case	_	after,in.search.of;atrás.de,em.busca.de
+6	te	te	PRON	pron	_	8	nsubj	_	_
+7	te	te	AUX	aux	_	8	aux	_	_
+8	öri	öri	VERB	v	_	3	advcl	_	pick.up.an.object;pegar.um.objeto
+9	da	da	SCONJ	sconj	_	8	mark	_	for,in.order.to,so.that;para,afim.de,para.que
+10	.	.	PUNCT	punct	_	3	punct	_	_
+11	Ba'õtõ	ba'õtõre	NOUN	n	_	15	nsubj	_	little.girl;menina.pequena
+12	dzéma	dzéma	ADV	adv	_	15	advmod	_	also;também
+13	tsi'a	tsi'a	NOUN	n	_	15	obj	_	hen;galinha
+14	te	te	PART	prcl	Htp=Yes|Tense=Pres	15	dep	_	heterophoric.marker;marcardor.heterofórico
+15	ti'ö	öri	VERB	v	Person=3	3	parataxis	_	pick.up.an.object;pegar.um.objeto
+16	.	.	PUNCT	punct	_	15	punct	_	_
+
+# sent_id = GL-CLX24.2
+# text = Taha pari , waptsã dzéma tsi'a te titsa . Tahawa , pi'õ waptsã hã ma adzö .
+# text_por = Depois disso também um cachorro morde uma galinha. Por isso uma mulher bate o cachorro.
+# text_eng = After that also a dog bites a chicken. That's why a woman beats the dog.
+1	Taha	taha	PRON	pron	_	8	dislocated	_	that;isso
+2	pari	pari	ADP	posp	_	1	case	_	after,then;depois,em.seguida
+3	,	,	PUNCT	punct	_	8	punct	_	_
+4	waptsã	waptsã	NOUN	n	_	8	nsubj	_	dog,puppy;cachorro
+5	dzéma	dzéma	ADV	adv	_	8	advmod	_	also;também
+6	tsi'a	tsi'a	NOUN	n	_	8	obj	_	hen;galinha
+7	te	te	PART	prcl	Htp=Yes|Tense=Pres	8	dep	_	heterophoric.marker;marcardor.heterofórico
+8	titsa	tsari	VERB	v	Person[abs]=3	0	root	_	bite;morder
+9	.	.	PUNCT	punct	_	8	punct	_	_
+10	Tahawa	tahawa	SCONJ	sconj	_	16	mark	_	therefore;por.isso
+11	,	,	PUNCT	punct	_	16	punct	_	_
+12	pi'õ	pi'õ	NOUN	n	_	16	nsubj	_	woman;mulher
+13	waptsã	waptsã	NOUN	n	_	16	obj	_	dog,puppy;cachorro
+14	hã	hã	DET	det	_	13	det	_	_
+15	ma	ma	PART	prcl	Htp=Yes|Tense=Past	16	dep	_	heterophoric.marker.perfective.aspect;marcardor.heterofórico.aspecto.perfectivo
+16	adzö	adzöri	VERB	v	_	8	advcl	_	beat;bater
+17	.	.	PUNCT	punct	_	16	punct	_	_
+
+# sent_id = GL-CLX24.3
+# text = Wapté marĩ na hã pi'uriwi te tinha tinhohui'wai ma .
+# text_por = Um adolescentefala alguma coisa ás escondidas ao seu padrinho.
+# text_eng = A teenager secretly says something to his godfather.
+1	Wapté	wapté	NOUN	n	_	7	nsubj	_	teenager;adolescente
+2	marĩ	marĩ	NOUN	n	_	7	obl	_	something,what;algo,o.que,alguma.coisa
+3	na	na	ADP	posp	_	2	case	_	in;from;em,de
+4	hã	hã	DET	det	_	2	det	_	_
+5	pi'uriwi	pi'uriwi	ADV	adv	_	7	advmod	_	as escondidas;on.the.sly
+6	te	te	PART	prcl	Htp=Yes|Tense=Pres	7	dep	_	heterophoric.marker;marcardor.heterofórico
+7	tinha	nharĩ	VERB	v	Person[abs]=3	0	root	_	speak;falar
+8	tinhohui'wai	nhohui'wa	NOUN	n	Person=3	7	obl	_	godfather;padrinho.do.grupo.etário
+9	ma	ma	ADP	posp	Case=Dat	8	case	_	_
+10	.	.	PUNCT	punct	_	7	punct	_	_
+
+# sent_id = GL-CLX24.4
+# text = Aibö dzéma pi'uriwi ma marĩ na tsada'ö .
+# text_por = Também um homem responde-lhe alguma coisa às escondidas.
+# text_eng = Also a man answers him something in secret.
+1	Aibö	aibö	NOUN	n	_	7	nsubj	_	man;homem
+2	dzéma	dzéma	ADV	adv	_	7	advmod	_	also;também
+3	pi'uriwi	pi'uriwi	ADV	adv	_	7	advmod	_	as escondidas;on.the.sly
+4	ma	ma	PART	prcl	Htp=Yes|Tense=Past	7	dep	_	heterophoric.marker.perfective.aspect;marcardor.heterofórico.aspecto.perfectivo
+5	marĩ	marĩ	NOUN	n	_	7	case	_	something,what;algo,o.que,alguma.coisa
+6	na	na	ADP	posp	_	5	obl	_	in;from;em,de
+7	tsada'ö	tsada'öbö	VERB	v	_	0	root	_	reply;responder
+8	.	.	PUNCT	punct	_	7	punct	_	_
+
+# sent_id = GL-CLX24.5
+# text = Taha pari , õnorĩhã te aba tineb dzahuré .
+# text_por = Depois disso, os dois vão ã caça.
+# text_eng = After that, the two go hunting.
+1	Taha	taha	PRON	pron	_	7	dislocated	_	that;isso
+2	pari	pari	ADP	posp	_	1	case	_	after,then;depois,em.seguida
+3	,	,	PUNCT	punct	_	7	punct	_	_
+4	õnorĩhã	õnorĩhã	PRON	pron	Number=Plur|Person=3	7	nsubj	_	_
+5	te	te	PART	prcl	Htp=Yes|Tense=Pres	7	dep	_	heterophoric.marker;marcardor.heterofórico
+6	aba	aba	PART	prcl	Number=Coll	7	dep	_	collective.marker
+7	tineb	ne	VERB	v	Person[abs]=3	0	root	_	walk;andar,caminhar
+8	dzahuré	dzahuré	NUM	num	Number=Dual	7	dep	_	_
+9	.	.	PUNCT	punct	_	7	punct	_	_
+
+# sent_id = GL-CLX24.6
+# text = 'Watébrémi , e marĩ na te ĩnha . Mare di !
+# text_por = Menino, o que você fala? - Não!
+# text_eng = Boy, what do you say? - No!
+1	'Watébrémi	'watébrémi	NOUN	n	_	7	vocative	_	boy;menino
+2	,	,	PUNCT	punct	_	7	punct	_	_
+3	e	e	PART	prcl	Int=Yes	7	dep	_	question.particle;partícula.interrogativa
+4	marĩ	marĩ	NOUN	n	_	7	obl	_	something,what;algo,o.que,alguma.coisa
+5	na	na	ADP	posp	_	4	case	_	in;from;em,de
+6	te	te	PART	prcl	Htp=Yes|Tense=Pres	7	dep	_	heterophoric.marker;marcardor.heterofórico
+7	ĩnha	nharĩ	VERB	v	Person[abs]=3	0	root	_	speak;falar
+8	.	.	PUNCT	punct	_	7	punct	_	_
+9	Mare	mare	NOUN	n	_	7	parataxis	_	nada;nothing
+10	di	di	X	x	_	9	dep	_	expletive;expletivo
+11	!	!	PUNCT	punct	_	9	punct	_	_
+
+# sent_id = GL-CLX24.7
+# text = E tô tsena aimreme . Ĩhe !
+# text_por = Sua palavra é a verdade? - Sim!
+# text_eng = Is your word the truth? - Yes!
+1	E	e	PART	prcl	Int=Yes	3	dep	_	question.particle;partícula.interrogativa
+2	tô	tô	PART	prcl	Fact=Yes	3	dep	_	factive;fictício
+3	tsena	tsena	NOUN	n	_	0	root	_	truth;verdade,na.verdade,realmente
+4	aimreme	mreme	NOUN	n	Number=Sing|Person=2	3	nsubj	_	language,word;lingua,palavra
+5	.	.	PUNCT	punct	_	3	punct	_	_
+6	Ĩhe	ĩhe	INTJ	intj	_	3	parataxis	_	yes;sim
+7	!	!	PUNCT	punct	_	6	punct	_	_
+
+# sent_id = GL-CLX24.8
+# text = Ba'õtõ norĩ , e tiha na te ĩnharĩ wa'wa rowahutu'wai ma . Tihai õ di !
+# text_por = Vocês duas meninas, o que vocês falam ao professor? - Não é nada!
+# text_eng = You two girls, what do you tell the teacher? - Nothing!
+1	Ba'õtõ	ba'õtõre	NOUN	n	_	8	vocative	_	little.girl;menina.pequena
+2	norĩ	norĩ	PART	prcl	Number=Coll	1	dep	_	_
+3	,	,	PUNCT	punct	_	8	punct	_	_
+4	e	e	PART	prcl	Int=Yes	8	dep	_	question.particle;partícula.interrogativa
+5	tiha	tiha	NOUN	n	_	8	obl	_	something;algo,alguma.coisa
+6	na	na	ADP	posp	_	5	case	_	in;from;em,de
+7	te	te	PART	prcl	Htp=Yes|Tense=Pres	8	dep	_	heterophoric.marker;marcardor.heterofórico
+8	ĩnharĩ	nharĩ	VERB	v	Person[abs]=3	0	root	_	speak;falar
+9	wa'wa	'wa	X	x	Number=Dual	8	dep	_	dual.number.marker;indicador.dual
+10	rowahutu'wai	rowahutu'wa	NOUN	n	_	8	obl	_	teacher;professor
+11	ma	ma	ADP	posp	Case=Dat	10	case	_	_
+12	.	.	PUNCT	punct	_	8	punct	_	_
+13	Tihai	tiha	NOUN	n	_	8	parataxis	_	something;algo,alguma.coisa
+14	õ	õ	PART	prcl	_	13	dep	_	negative.marker;marcador.negativo
+15	di	di	X	x	_	13	dep	_	expletive;expletivo
+16	!	!	PUNCT	punct	_	13	punct	_	_
+
+# sent_id = GL-CLX24.9
+# text = Tsi'a bara ma tô tiwĩ . Mrap-te ma tô tiwĩ .
+# text_por = Uma galinha matou uma barata. Por que tem fome, ela a matou.
+# text_eng = A chicken killed a cockroach. Because it is hungry, it killed it.
+1	Tsi'a	tsi'a	NOUN	n	_	5	nsubj	_	hen;galinha
+2	bara	bara	NOUN	n	_	5	obj	_	cocroach;barata
+3	ma	ma	PART	prcl	Htp=Yes|Tense=Past	5	dep	_	heterophoric.marker.perfective.aspect;marcardor.heterofórico.aspecto.perfectivo
+4	tô	tô	PART	prcl	Fact=Yes	5	dep	_	factive;fictício
+5	tiwĩ	wĩrĩ	VERB	v	Person[abs]=3	0	root	_	kill.a.being;matar.um.ser
+6	.	.	PUNCT	punct	_	5	punct	_	_
+7-8	Mrap-te	_	_	_	_	_	_	_	_
+7	Mrap	mra	NOUN	n	_	11	obl	_	food,hunger;comida,fome
+8	te	te	ADP	posp	_	7	case	_	because.of,why;por.causa.de,por.que
+9	ma	ma	PART	prcl	Htp=Yes|Tense=Past	11	dep	_	heterophoric.marker.perfective.aspect;marcardor.heterofórico.aspecto.perfectivo
+10	tô	tô	PART	prcl	Fact=Yes	11	dep	_	factive;fictício
+11	tiwĩ	wĩrĩ	VERB	v	Person[abs]=3	5	parataxis	_	kill.a.being;matar.um.ser
+12	.	.	PUNCT	punct	_	11	punct	_	_
+
+# sent_id = GL-CLX24.10
+# text = Tãma tsei wa ma tô tiwĩ .
+# text_por = Por que lhe é gostosa, ela a matou.
+# text_eng = Because it's tasty for him, it killed it.
+1	Tãma	ti	PRON	pron	Case=Dat|Person=3	2	nmod	_	lhe,a.ele,.para.ele
+2	tsei	tse	NOUN	n	_	0	root	_	tasty;gostoso
+3	wa	wa	PART	prcl	Ego=Yes|Person=1	2	dep	_	egophoric.marker;marcardor.egofórico
+4	ma	ma	PART	prcl	Htp=Yes|Tense=Past	6	dep	_	heterophoric.marker.perfective.aspect;marcardor.heterofórico.aspecto.perfectivo
+5	tô	tô	PART	prcl	Fact=Yes	6	dep	_	factive;fictício
+6	tiwĩ	wĩrĩ	VERB	v	Person[abs]=3	2	parataxis	_	kill.a.being;matar.um.ser
+7	.	.	PUNCT	punct	_	6	punct	_	_
+
+# sent_id = GL-CLX26.1
+# text = Pi'õ ma tãma titsõ datsa hã .
+# text_por = Uma mulher lhe deu comida.
+# text_eng = A woman gave him food.
+1	Pi'õ	pi'õ	NOUN	n	_	4	nsubj	_	woman;mulher
+2	ma	ma	PART	prcl	Htp=Yes|Tense=Past	4	dep	_	heterophoric.marker.perfective.aspect;marcardor.heterofórico.aspecto.perfectivo
+3	tãma	ti	PRON	pron	Case=Dat|Person=3	4	iobj	_	lhe,a.ele,.para.ele
+4	titsõ	tsõmri	VERB	v	Person[abs]=3	0	root	_	give;dar
+5	datsa	tsa	NOUN	n	Gnq=Yes	4	obj	_	food;comida,alimento
+6	hã	hã	DET	det	_	5	det	_	_
+7	.	.	PUNCT	punct	_	4	punct	_	_
+
+# sent_id = GL-CLX26.2
+# text = Waptsã ma titsa 'watébrémi hã .
+# text_por = O cachorro mordeu o menino.
+# text_eng = The dog bit the boy.
+1	Waptsã	waptsã	NOUN	n	_	3	nsubj	_	dog,puppy;cachorro
+2	ma	ma	PART	prcl	Htp=Yes|Tense=Past	3	dep	_	heterophoric.marker.perfective.aspect;marcardor.heterofórico.aspecto.perfectivo
+3	titsa	tsari	VERB	v	Person[abs]=3	0	root	_	bite;morder
+4	'watébrémi	'watébrémi	NOUN	n	_	3	obj	_	boy;menino
+5	hã	hã	DET	det	_	4	det	_	_
+6	.	.	PUNCT	punct	_	3	punct	_	_
+
+# sent_id = GL-CLX26.3
+# text = Anorĩwa'wahã e marĩ na te ĩnharĩ dza'ra wa'wa . Marĩ watsu'ure !
+# text_por = O que vocês falam? - Alguma historinha!
+# text_eng = What do you say? - Some story!
+1	Anorĩwa'wahã	anorĩwa'wahã	PRON	pron	Number=Plur|Person=2	6	nsubj	_	you.plural;voce.plural
+2	e	e	PART	prcl	Int=Yes	6	dep	_	question.particle;partícula.interrogativa
+3	marĩ	marĩ	NOUN	n	_	6	obl	_	something,what;algo,o.que,alguma.coisa
+4	na	na	ADP	posp	_	3	case	_	in;from;em,de
+5	te	te	PART	prcl	Htp=Yes|Tense=Pres	6	dep	_	heterophoric.marker;marcardor.heterofórico
+6	ĩnharĩ	nharĩ	VERB	v	Person[abs]=3	0	root	_	speak;falar
+7	dza'ra	dza'ra	PART	prcl	Number=Plur	6	dep	_	_
+8	wa'wa	'wa	X	x	Number=Dual	6	dep	_	dual.number.marker;indicador.dual
+9	.	.	PUNCT	punct	_	6	punct	_	_
+10	Marĩ	marĩ	NOUN	n	_	11	nmod	_	something,what;algo,o.que,alguma.coisa
+11	watsu'ure	watsu'ure	NOUN	n	Degree=Dim	6	parataxis	_	little.story,little.talk;historinha,conversinha,potoca
+12	!	!	PUNCT	punct	_	11	punct	_	_
+
+# sent_id = GL-CLX26.4
+# text = Õhã pe'a ma tihi .
+# text_por = Ele coloca um peixe.
+# text_eng = He puts a fish.
+1	Õhã	õhã	PRON	pron	Emph=Yes|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	he,she,it;ele,ela
+2	pe'a	pe'a	NOUN	n	_	4	obj	_	fish;peixe
+3	ma	ma	PART	prcl	Htp=Yes|Tense=Past	4	dep	_	heterophoric.marker.perfective.aspect;marcardor.heterofórico.aspecto.perfectivo
+4	tihi	hiri	VERB	v	Person[abs]=3	0	root	_	place.an.object;colocar.um.objeto
+5	.	.	PUNCT	punct	_	4	punct	_	_
+
+# sent_id = GL-CLX26.5
+# text = Õhã pe'a ma tino .
+# text_por = Ele coloca dois peixes.
+# text_eng = He puts two fish.
+1	Õhã	õhã	PRON	pron	Emph=Yes|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	he,she,it;ele,ela
+2	pe'a	pe'a	NOUN	n	_	4	obj	_	fish;peixe
+3	ma	ma	PART	prcl	Htp=Yes|Tense=Past	4	dep	_	heterophoric.marker.perfective.aspect;marcardor.heterofórico.aspecto.perfectivo
+4	tino	nomri	VERB	v	Person[abs]=3	0	root	_	put.two.things;colocar.coisas.duas,botar.duas.coisas
+5	.	.	PUNCT	punct	_	4	punct	_	_
+
+# sent_id = GL-CLX26.6
+# text = Robduri waptsã ma tô tiwĩ .
+# text_por = Um carro matou um cachorro.
+# text_eng = A car killed a dog.
+1	Robduri	robduri	NOUN	n	_	5	nsubj	_	car,vehicle;carro,veículo
+2	waptsã	waptsã	NOUN	n	_	5	obj	_	dog,puppy;cachorro
+3	ma	ma	PART	prcl	Htp=Yes|Tense=Past	5	dep	_	heterophoric.marker.perfective.aspect;marcardor.heterofórico.aspecto.perfectivo
+4	tô	tô	PART	prcl	Fact=Yes	5	dep	_	factive;fictício
+5	tiwĩ	wĩrĩ	VERB	v	Person[abs]=3	0	root	_	kill.a.being;matar.um.ser
+6	.	.	PUNCT	punct	_	5	punct	_	_
+
+# sent_id = GL-CLX26.7
+# text = Robduripré waptsã ma tô tipã .
+# text_por = Um trator matou dois cachorros.
+# text_eng = A tractor killed two dogs.
+1	Robduripré	robduripré	NOUN	n	_	5	nsubj	_	tractor;trator
+2	waptsã	waptsã	NOUN	n	_	5	obj	_	dog,puppy;cachorro
+3	ma	ma	PART	prcl	Htp=Yes|Tense=Past	5	dep	_	heterophoric.marker.perfective.aspect;marcardor.heterofórico.aspecto.perfectivo
+4	tô	tô	PART	prcl	Fact=Yes	5	dep	_	factive;fictício
+5	tipã	pãrĩ	VERB	v	Person[abs]=3	0	root	_	kill.two.beings;matar.dois.seres
+6	.	.	PUNCT	punct	_	5	punct	_	_
+
+# sent_id = GL-CLX26.8
+# text = Wahi ma titsa pi'õ hã .
+# text_por = Uma cobra mordeu a mulher.
+# text_eng = A snake bit the woman.
+1	Wahi	wahi	NOUN	n	_	3	nsubj	_	snake;cobra
+2	ma	ma	PART	prcl	Htp=Yes|Tense=Past	3	dep	_	heterophoric.marker.perfective.aspect;marcardor.heterofórico.aspecto.perfectivo
+3	titsa	tsari	VERB	v	Person[abs]=3	0	root	_	bite;morder
+4	pi'õ	pi'õ	NOUN	n	_	3	obj	_	woman;mulher
+5	hã	hã	DET	det	_	4	det	_	_
+6	.	.	PUNCT	punct	_	3	punct	_	_
+
+# sent_id = GL-CLX26.9
+# text = Ba'õno te timra wedehu .
+# text_por = Uma menina pegou duas varas.
+# text_eng = A girl picked up two sticks.
+1	Ba'õno	ba'õno	NOUN	n	_	3	nsubj	_	girl;menina
+2	te	te	PART	prcl	Htp=Yes|Tense=Pres	3	dep	_	heterophoric.marker;marcardor.heterofórico
+3	timra	mrami	VERB	v	Person[abs]=3	0	root	_	take.two.objects;pegar.dois.objetos
+4	wedehu	wedehu	NOUN	n	_	3	obj	_	stick;vara
+5	.	.	PUNCT	punct	_	3	punct	_	_
+
+# sent_id = GL-CLX26.10
+# text = Wanorĩhã wa tãma tsõmri dza'ra ni rob'uipradzé .
+# text_por = Nós lhe damos dinheiro.
+# text_eng = We give you money.
+1	Wanorĩhã	wanorĩhã	PRON	pron	Emph=Yes|Number=Coll|Person=1	4	nsubj	_	_
+2	wa	wa	PART	prcl	Ego=Yes|Person=1	4	dep	_	egophoric.marker;marcardor.egofórico
+3	tãma	ti	PRON	pron	Case=Dat|Person=3	4	iobj	_	lhe,a.ele,para.ele
+4	tsõmri	tsõmri	VERB	v	_	0	root	_	give;dar
+5	dza'ra	dza'ra	PART	prcl	Number=Plur	4	dep	_	_
+6	ni	ni	X	x	Number=Dual	4	dep	_	dual.number.marker;indicador.dual
+7	rob'uipradzé	rob'uipradzé	NOUN	n	_	4	obj	_	money;dinheiro
+8	.	.	PUNCT	punct	_	4	punct	_	_
+
+# sent_id = GL-CLX27.1
+# text = Wapté te mo buru u , timama me .
+# text_por = O adolescente vai à roça com o pai dele.
+# text_eng = The teenager goes to the fields with his father.
+1	Wapté	wapté	NOUN	n	_	3	nsubj	_	teenager;adolescente
+2	te	te	PART	prcl	Htp=Yes|Tense=Pres	3	dep	_	heterophoric.marker;marcardor.heterofórico
+3	mo	mo	VERB	v	_	0	root	_	go;ir
+4	buru	buru	NOUN	n	_	3	obl	_	slash;roça
+5	u	u	ADP	posp	_	4	case	_	to;a,para
+6	,	,	PUNCT	punct	_	3	punct	_	_
+7	timama	mama	NOUN	n	Person=3	3	dislocated	_	father;pai
+8	me	me	ADP	posp	_	7	case	_	with;com
+9	.	.	PUNCT	punct	_	3	punct	_	_o
+
+# sent_id = GL-CLX27.2
+# text = Tameb dzéma ĩna te romhu .
+# text_por = Lá também trabalha a mãe dele.
+# text_eng = His mother also works there.
+1	Tameb	tame	ADV	adv	_	5	advmod	_	there;lá
+2	dzéma	dzéma	ADV	adv	_	5	advmod	_	also;também
+3	ĩna	na	NOUN	n	Number=Sing|Person=3	5	nsubj	_	mother;mãe
+4	te	te	PART	prcl	Htp=Yes|Tense=Pres	5	dep	_	heterophoric.marker;marcardor.heterofórico
+5	romhu	romhuri	VERB	v	_	0	root	_	to.work;trabalhar
+6	.	.	PUNCT	punct	_	5	punct	_	_
+
+# sent_id = GL-CLX27.3
+# text = Ĩno norĩ dzéma tame te romhuri dza'ra .
+# text_por = Seus irmãos menores também trabalham lã.
+# text_eng = His smaller brothers also work wool.
+1	Ĩno	no	NOUN	n	Number=Sing|Person=3	6	nsubj	_	man's.younger.brother,woman's.younger.sister;irmão.menor.do.homem,irmã.menor.da.mulher
+2	norĩ	norĩ	PART	prcl	Number=Coll	1	dep	_	_
+3	dzéma	dzéma	ADV	adv	_	6	advmod	_	also;também
+4	tame	tame	ADV	adv	_	6	advmod	_	there;lá
+5	te	te	PART	prcl	Htp=Yes|Tense=Pres	6	dep	_	heterophoric.marker;marcardor.heterofórico
+6	romhuri	romhuri	VERB	v	_	0	root	_	to.work;trabalhar
+7	dza'ra	dza'ra	PART	prcl	Number=Plur	6	dep	_	_
+8	.	.	PUNCT	punct	_	6	punct	_	_
+
+# sent_id = GL-CLX27.4
+# text = Romhuri a'uwẽ höimanadzé . Romhuri ãna hã dahöimanadzéb õ di .
+# text_por = O trabalho pertence ã vida dos Xavante. Sem trabalho não há vida para os homens.
+# text_eng = Work belongs to Xavante life. Without work there is no life for men.
+1	Romhuri	romhuri	VERB	v	_	3	nsubj	_	to.work;trabalhar
+2	a'uwẽ	a'uwẽ	NOUN	n	_	3	nmod	_	man,person,people,indian;homem,pessoa,gente,índio
+3	höimanadzé	höimanadzé	NOUN	n	_	0	root	_	life,existence;vida,existência
+4	.	.	PUNCT	punct	_	3	punct	_	_
+5	Romhuri	romhuri	VERB	v	_	8	advcl	_	to.work;trabalhar
+6	ãna	na	ADP	posp	_	5	obl	_	without;sem
+7	hã	hã	PART	prcl	Emph=Yes	5	discourse	_	_
+8	dahöimanadzéb	höimanadzé	NOUN	n	Number=Sing|Person=3	3	parataxis	_	life,existence;vida,existência
+9	õ	õ	PART	prcl	_	8	dep	_	negative.marker;marcador.negativo
+10	di	di	X	x	_	8	dep	_	expletive;expletivo
+11	.	.	PUNCT	punct	_	8	punct	_	_
+
+# sent_id = GL-CLX27.5
+# text = Waptéb norĩ hã , bötö ré hã hö ba te höimana dza'ra .
+# text_por = Durante o dia, os adolescentes vivem na casa dos solteiros. 
+# text_eng = During the day, the teenagers live in the singles' house.
+1	Waptéb	wapté	NOUN	n	_	11	nsubj	_	teenager;adolescente
+2	norĩ	norĩ	PART	prcl	Number=Coll	1	dep	_	_
+3	hã	hã	DET	det	_	1	det	_	_
+4	,	,	PUNCT	punct	_	11	punct	_	_
+5	bötö	bötö	NOUN	n	_	11	obl	_	day,sun,time;dia,sol,hora
+6	ré	ré	ADP	posp	_	5	obl	_	full.of,inside.of,during,while;cheio.de,dentro,do,durante,enquanto,sendo
+7	hã	hã	DET	det	_	5	det	_	_
+8	hö	hö	NOUN	n	_	11	obl	_	singles.house;casa.dos.solteiros
+9	ba	ba	ADP	posp	_	8	case	_	inside,in;dentro.de,em
+10	te	te	PART	prcl	Htp=Yes|Tense=Pres	11	dep	_	heterophoric.marker;marcardor.heterofórico
+11	höimana	höimana	VERB	v	_	0	root	_	be,live,exist;ser,viver,existir
+12	dza'ra	dza'ra	PART	prcl	Number=Plur	11	dep	_	_
+13	.	.	PUNCT	punct	_	11	punct	_	_
+
+# sent_id = GL-CLX27.6
+# text = Mara ré hã , niwamhã tinhohui'wai me wapté te tsõ're dza'ra 'rinho're baba , a'uwẽ norĩ hã te te to dza'ra da .
+# text_por = Durante a noite, de vez em quando, os adolescentes com seus padrinhos cantam pela aldeia, para alegrar os Xavante. 
+# text_eng = During the night, from time to time, teenagers with their godparents sing throughout the village, to cheer up the Xavante.
+1	Mara	mara	NOUN	n	_	10	dislocated	_	night;noite
+2	ré	ré	ADP	posp	_	1	case	_	full.of,inside.of,during,while;cheio.de,dentro,do,durante,enquanto,sendo
+3	hã	hã	DET	det	_	1	det	_	_
+4	,	,	PUNCT	punct	_	10	punct	_	_
+5	niwamhã	niwamhã	ADV	adv	_	10	advmod	_	sometime;alguma.vez,de.vez.em.quando
+6	tinhohui'wai	nhohui'wa	NOUN	n	Person=3	10	nsubj	_	godfather;padrinho.do.grupo.etário
+7	me	me	ADP	posp	_	8	case	_	with;com
+8	wapté	wapté	NOUN	n	_	6	nmod	_	teenager;adolescente
+9	te	te	PART	prcl	Htp=Yes|Tense=Pres	10	dep	_	heterophoric.marker;marcardor.heterofórico
+10	tsõ're	tsõ're	VERB	v	_	0	root	_	sing,proclaim,read;cantar,proclamar,ler
+11	dza'ra	dza'ra	PART	prcl	Number=Plur	10	dep	_	_
+12	'rinho're	'rinho're	NOUN	n	_	10	obl	_	village,courtyard,path.around.the.village;aldeia,pátio,.caminho.ao.redor.da.aldeia
+13	baba	baba	ADP	posp	_	12	case	_	inside,in(the.house);dentro.de,.em.(na.casa)
+14	,	,	PUNCT	punct	_	10	punct	_	_
+15	a'uwẽ	a'uwẽ	NOUN	n	_	20	obj	_	man,person,people,indian;homem,pessoa,gente,índio
+16	norĩ	norĩ	PART	prcl	Number=Coll	15	dep	_	_
+17	hã	hã	DET	det	_	15	det	_	_
+18	te	te	PART	prcl	Htp=Yes|Tense=Pres	20	dep	_	heterophoric.marker;marcardor.heterofórico
+19	te	te	AUX	aux	_	20	aux	_	_
+20	to	to	VERB	v	_	10	advcl	_	cheer,play;brincar,alegrar-se
+21	dza'ra	dza'ra	PART	prcl	Number=Plur	20	dep	_	_
+22	da	da	SCONJ	sconj	_	20	mark	_	for,in.order.to,so.that;para,afim.de,para.que
+23	.	.	PUNCT	punct	_	20	punct	_	_
+
+# sent_id = GL-CLX27.7
+# text = Danho're wapté höimanadzé .
+# text_por = A vida dos adolescentes é o canto (Tarefa principal dos adolescentes é o canto).
+# text_eng = The life of teenagers is singing (Main task for teenagers is singing).
+1	Danho're	danho're	NOUN	n	_	3	nsubj	_	song;canto
+2	wapté	wapté	NOUN	n	_	3	nmod	_	teenager;adolescente
+3	höimanadzé	höimanadzé	NOUN	n	_	0	root	_	life,existence;vida,existência
+4	.	.	PUNCT	punct	_	3	punct	_	_
+
+# sent_id = GL-CLX27.8
+# text = Ba'õtõ norĩ hã tina u te tineb dzahuré .
+# text_por = As duas meninas vão à mãe delas (= para a casa da mãe delas).
+# text_eng = The two girls go to their mother (= to their mother's house).
+1	Ba'õtõ	ba'õtõre	NOUN	n	_	7	nsubj	_	little.girl;menina.pequena
+2	norĩ	norĩ	PART	prcl	Number=Coll	1	dep	_	_
+3	hã	hã	DET	det	_	1	det	_	_
+4	tina	na	NOUN	n	Person=3|Reflex=Yes	7	obl	_	mother;mãe
+5	u	u	ADP	posp	_	4	case	_	to;a,para
+6	te	te	PART	prcl	Htp=Yes|Tense=Pres	7	dep	_	heterophoric.marker;marcardor.heterofórico
+7	tineb	ne	VERB	v	Person[abs]=3	0	root	_	walk;andar,caminhar
+8	dzahuré	dzahuré	NUM	num	Number=Dual	7	nummod	_	_
+9	.	.	PUNCT	punct	_	7	punct	_	_
+
+# sent_id = GL-CLX27.9
+# text = A'uwẽ ãma hã , ba'õtõ höimanadzé õneu'ötsi tina me , duré ĩno norĩ duré ĩhitébré dzapore norĩ wamhã .
+# text_por = Entre os Xavante, a vida das meninas se realiza sempre junto ã mãe, e entre as irmãzinhas e irmãozinhos.
+# text_eng = Among the Xavante, a girl's life is always to live with her mother, and with her little sisters and brothers.
+1	A'uwẽ	a'uwẽ	NOUN	n	_	6	dislocated	_	man,person,people,indian;homem,pessoa,gente,índio
+2	ãma	ãma	ADP	posp	_	1	case	_	in;em
+3	hã	hã	DET	det	_	1	det	_	_
+4	,	,	PUNCT	punct	_	6	punct	_	_
+5	ba'õtõ	ba'õtõre	NOUN	n	_	6	nmod	_	little.girl;menina.pequena
+6	höimanadzé	höimanadzé	NOUN	n	_	0	root	_	life,existence;vida,existência
+7	õneu'ötsi	õneu'ötsi	ADV	adv	_	6	advmod	_	always;sempre
+8	tina	na	NOUN	n	Person=3|Reflex=Yes	6	obl	_	mother;mãe
+9	me	me	ADP	posp	_	8	case	_	with;com
+10	,	,	PUNCT	punct	_	8	punct	_	_
+11	duré	duré	ADV	adv	_	12	advmod	_	also;também
+12	ĩno	no	NOUN	n	Number=Sing|Person=3	8	conj	_	man's.younger.brother,woman's.younger.sister;irmão.menor.do.homem,irmã.menor.da.mulher
+13	norĩ	norĩ	PART	prcl	Number=Coll	12	dep	_	_
+14	duré	duré	ADV	adv	_	15	advmod	_	also;também
+15	ĩhitébré	hitébré	NOUN	n	Number=Sing|Person=3	12	conj	_	woman's brother;irmão.da.mulhei
+16	dzapore	dzapore	NOUN	n	_	15	nmod	_	little;pequeno
+17	norĩ	norĩ	PART	prcl	Number=Coll	15	dep	_	_
+18	wamhã	wamhã	X	x	_	6	dep	_	_
+19	.	.	PUNCT	punct	_	6	punct	_	_
+
+# sent_id = GL-CLX30.1
+# text = Watsi'utsu te wei mo wadzô .
+# text_por = Nosso companheiro de grupo vem até nós.
+# text_eng = Our groupmate comes to us.
+1	Watsi'utsu	tsi'utsu	NOUN	n	Number=Plur|Person=1	4	nsubj	_	partner.of.the.same.age.group;companheiro.do.mesmo.grupo.etário
+2	te	te	PART	prcl	Htp=Yes|Tense=Pres	4	dep	_	heterophoric.marker;marcardor.heterofórico
+3	wei	we	ADV	adv	_	4	advmod	_	hither;para.cá
+4	mo	mo	VERB	v	_	0	root	_	go;ir
+5	wadzô	dzô	ADP	posp	Number=Plur|Person=1	4	obl	_	after,in.search.of;atrás.de,em.busca.de
+6	.	.	PUNCT	punct	_	4	punct	_	_
+
+# sent_id = GL-CLX30.2
+# text = Atsõhui'wa romhuri'wa uptabi .
+# text_por = Teu padrinho é trabalhador muito bom.
+# text_eng = Your godfather is a very good worker.
+1	Atsõhui'wa	tsõhui'wa	NOUN	n	Person=2	2	nsubj	_	godfather;padrinho
+2	romhuri'wa	romhuri'wa	NOUN	n	_	0	root	_	worker;trabalhador
+3	uptabi	uptabi	NOUN	n	_	2	nmod	_	good,very.good;muito,muito.bom
+4	.	.	PUNCT	punct	_	2	punct	_	_
+
+# sent_id = GL-CLX30.3
+# text = Aimama adub'rata me te romhuri dzahuré buru ãma hã .
+# text_por = Teu pai e teu irmão trabalham na roça.
+# text_eng = Your father and your brother work in the fields.
+1	Aimama	mama	NOUN	n	Person=2	5	nsubj	_	father,uncle;pai,tio
+2	adub'rata	dub'rata	NOUN	n	_	1	nmod	_	older.brother;irmão.mais.velho
+3	me	me	ADP	posp	_	2	case	_	with;com
+4	te	te	PART	prcl	Htp=Yes|Tense=Pres	5	dep	_	heterophoric.marker;marcardor.heterofórico
+5	romhuri	romhuri	VERB	v	_	0	root	_	to.work;trabalhar
+6	dzahuré	dzahuré	NUM	num	Number=Dual	5	dep	_	_
+7	buru	buru	NOUN	n	_	5	obl	_	slash;roça
+8	ãma	ãma	ADP	posp	_	7	case	_	in;em
+9	hã	hã	DET	det	_	7	det	_	_
+10	.	.	PUNCT	punct	_	5	punct	_	_
+
+# sent_id = GL-CLX30.4
+# text = Ana norĩ hã te tsawi petse dza'ra ti'ra norĩ hã .
+# text_por = As mães de vocês amam mesmo seus filhos.
+# text_eng = Your mothers really love their children.
+1	Ana	na	NOUN	n	Person=2	5	nsubj	_	mother;mãe
+2	norĩ	norĩ	PART	prcl	Number=Coll	1	dep	_	_
+3	hã	hã	DET	det	_	1	det	_	_
+4	te	te	PART	prcl	Htp=Yes|Tense=Pres	5	dep	_	heterophoric.marker;marcardor.heterofórico
+5	tsawi	tsawi	VERB	v	_	0	root	_	love,like,greet;amar,gostar,cumprimentar
+6	petse	petse	ADV	adv	_	5	advmod	_	much,very.much;mesmo,muito.mesmo
+7	dza'ra	dza'ra	PART	prcl	Number=Plur	5	dep	_	_
+8	ti'ra	'ra	NOUN	n	Person=3	5	obj	_	son,daughter;filho,filha
+9	norĩ	norĩ	PART	prcl	Number=Coll	8	dep	_	_
+10	hã	hã	DET	det	_	8	det	_	_
+11	.	.	PUNCT	punct	_	5	punct	_	_
+
+# sent_id = GL-CLX30.5
+# text = Ano tina me te tineb dzahuré ’ri'ahö u .
+# text_por = Teu irmão menor e a mãe dele vão à cidade.
+# text_eng = Your little brother and his mother are going to town.
+1	Ano	no	NOUN	n	Number=Sing|Person=3	5	nsubj	_	man's.younger.brother,woman's.younger.sister;irmão.menor.do.homem,irmã.menor.da.mulher
+2	tina	na	NOUN	n	Person=3|Reflex=Yes	1	nmod	_	mother;mãe
+3	me	me	ADP	posp	_	2	case	_	with;com
+4	te	te	PART	prcl	Htp=Yes|Tense=Pres	5	dep	_	heterophoric.marker;marcardor.heterofórico
+5	tineb	ne	VERB	v	Person[abs]=3	0	root	_	walk;andar,caminhar
+6	dzahuré	dzahuré	NUM	num	Number=Dual	5	nummod	_	_
+7	’ri'ahö	’ri'ahö	NOUN	n	_	5	obl	_	city;cidade
+8	u	u	ADP	posp	_	7	case	_	to;a,para
+9	.	.	PUNCT	punct	_	5	punct	_	_
+
+# sent_id = GL-CLX30.6
+# text = Pi'õ timro me te romhuri dzahuré 'ri ãma .
+# text_por = A mulher com seu marido trabalha na casa.
+# text_eng = The woman with her husband works in the house.
+1	Pi'õ	pi'õ	NOUN	n	_	5	nsubj	_	woman;mulher
+2	timro	mro	NOUN	n	Person=3	1	nmod	_	husband,wife;esposo,esposa,marido
+3	me	me	ADP	posp	_	2	case	_	with;com
+4	te	te	PART	prcl	Htp=Yes|Tense=Pres	5	dep	_	heterophoric.marker;marcardor.heterofórico
+5	romhuri	romhuri	VERB	v	_	0	root	_	to.work;trabalhar
+6	dzahuré	dzahuré	NUM	num	Number=Dual	5	nummod	_	_
+7	'ri	'ri	NOUN	n	_	5	obl	_	house;casa
+8	ãma	ãma	ADP	posp	_	7	case	_	in;em
+9	.	.	PUNCT	punct	_	5	punct	_	_
+
+# sent_id = GL-CLX30.7
+# text = Dapoto'wa ma poto a'uwẽ norĩ hã . Danhimidzama dzéma ma duré apoto .
+# text_por = O criador criou os homens. Ele também criou os animais domésticos.
+# text_eng = The creator created men. He also created domestic animals.
+1	Dapoto'wa	poto'wa	NOUN	n	Person=3	3	nsubj	_	creator.of.men;criador.dos.homens
+2	ma	ma	PART	prcl	Htp=Yes|Tense=Past	3	dep	_	heterophoric.marker.perfective.aspect;marcardor.heterofórico.aspecto.perfectivo
+3	poto	poto	VERB	v	_	0	root	_	be.born,create;nascer,criar
+4	a'uwẽ	a'uwẽ	NOUN	n	_	3	obj	_	man,person,people,indian;homem,pessoa,gente,índio
+5	norĩ	norĩ	PART	prcl	Number=Coll	4	dep	_	_
+6	hã	hã	DET	det	_	4	det	_	_
+7	.	.	PUNCT	punct	_	3	punct	_	_
+8	Danhimidzama	nhimidzama	NOUN	n	Person=3	12	obj	_	domestic.animal;animal.doméstico
+9	dzéma	dzéma	ADV	adv	_	12	advmod	_	also;também
+10	ma	ma	PART	prcl	Htp=Yes|Tense=Past	12	dep	_	heterophoric.marker.perfective.aspect;marcardor.heterofórico.aspecto.perfectivo
+11	duré	duré	ADV	adv	_	12	advmod	_	also;também
+12	apoto	poto	VERB	v	_	3	parataxis	_	be.born,create;nascer,criar
+13	.	.	PUNCT	punct	_	12	punct	_	_
+
+# sent_id = GL-CLX30.8
+# text = Romharé hã dahöimanadzé ĩwẽ .
+# text_por = A paz faz a vida da gente bonita.
+# text_eng = Peace makes people's lives beautiful.
+1	Romharé	romharé	NOUN	n	_	3	nsubj	_	peace;paz
+2	hã	hã	DET	det	_	1	det	_	_
+3	dahöimanadzé	höimanadzé	NOUN	n	Person=3	0	root	_	life,existence;vida,existência
+4	ĩwẽ	wẽ	NOUN	n	Person=3	3	nmod	_	good,beatuful;bom,bonito,belo
+5	.	.	PUNCT	punct	_	3	punct	_	_
+
+# sent_id = GL-CLX30.9
+# text = A'uwẽ ãma hã , ba'õtõ norĩ hã 'ri ãma te höimana dza'ra .
+# text_por = Na cultura Xavante, as meninas vivem (se realizam) em casa.
+# text_eng = In the Xavante culture, girls live (fulfill themselves) at home.
+1	A'uwẽ	a'uwẽ	NOUN	n	_	11	dislocated	_	man,person,people,indian;homem,pessoa,gente,índio
+2	ãma	ãma	ADP	posp	_	1	obl	_	in;em
+3	hã	hã	DET	det	_	1	det	_	_
+4	,	,	PUNCT	punct	_	11	punct	_	_
+5	ba'õtõ	ba'õtõre	NOUN	n	_	11	nsubj	_	little.girl;menina.pequena
+6	norĩ	norĩ	PART	prcl	Number=Coll	5	dep	_	_
+7	hã	hã	DET	det	_	5	det	_	_
+8	'ri	'ri	NOUN	n	_	5	obl	_	house;casa
+9	ãma	ãma	ADP	posp	_	8	case	_	in;em
+10	te	te	PART	prcl	Htp=Yes|Tense=Pres	11	dep	_	heterophoric.marker;marcardor.heterofórico
+11	höimana	höimana	VERB	v	_	0	root	_	be,live,exist;ser,viver,existir
+12	dza'ra	dza'ra	PART	prcl	Number=Plur	11	dep	_	_
+13	.	.	PUNCT	punct	_	11	punct	_	_
+
+# sent_id = GL-CLX31.1
+# text = E ni'wa te romhu . Mare di !  Ni'wa te te romhuri õ di , tãi wa .
+# text_por = Alguém trabalha? - Não! Ninguém trabalha, porque chove.
+# text_eng = Does anyone work? - No! Nobody works because it rains.
+1	E	e	PART	prcl	Int=Yes	4	dep	_	question.particle;partícula.interrogativa
+2	ni'wa	ni'wa	PRON	pron	PronType=Ind	4	nsubj	_	someone,some;alguém,algum
+3	te	te	PART	prcl	Htp=Yes|Tense=Pres	4	dep	_	heterophoric.marker;marcardor.heterofórico
+4	romhu	romhuri	VERB	v	_	0	root	_	to.work;trabalhar
+5	.	.	PUNCT	punct	_	4	punct	_	_
+6	Mare	mare	NOUN	n	_	4	parataxis	_	nada;nothing
+7	di	di	X	x	_	6	dep	_	expletive;expletivo
+8	!	!	PUNCT	punct	_	6	punct	_	_
+9	Ni'wa	ni'wa	PRON	pron	PronType=Ind	12	nsubj	_	someone,some;alguém,algum
+10	te	te	PART	prcl	Htp=Yes|Tense=Pres	12	dep	_	heterophoric.marker;marcardor.heterofórico
+11	te	te	AUX	aux	_	12	aux	_	_
+12	romhuri	romhuri	VERB	v	_	6	parataxis	_	to.work;trabalhar
+13	õ	õ	PART	prcl	_	12	dep	_	negative.marker;marcador.negativo
+14	di	di	X	x	_	12	dep	_	expletive;expletivo
+15	,	,	PUNCT	punct	_	12	punct	_	_
+16	tãi	tã	NOUN	n	_	12	advcl	_	rain;chuva
+17	wa	wa	SCONJ	sconj	_	16	mark	_	why;por,por.que,por.motivo.de
+18	.	.	PUNCT	punct	_	12	punct	_	_
+
+# sent_id = GL-CLX31.2
+# text = Awẽptsi tã õ wamhã , aibö norĩ hã te dza romhuri dza'ra pi'õ norĩ me , buru ãma hã .
+# text_por = Se amanhã não chover, os homens e as mulheres trabalharão na roça.
+# text_eng = If tomorrow it doesn't rain, the men and women will work in the fields.
+1	Awẽptsi	awẽptsi	ADV	adv	_	2	advmod	_	tomorrow,amanhã,quandofor.amanhã
+2	tã	tã	NOUN	n	_	11	advcl	_	rain;chuva
+3	õ	õ	PART	prcl	_	2	dep	_	negative.marker;marcador.negativo
+4	wamhã	wamhã	SCONJ	sconj	_	2	mark	_	when;quando
+5	,	,	PUNCT	punct	_	11	punct	_	_
+6	aibö	aibö	NOUN	n	_	11	nsubj	_	man;homem
+7	norĩ	norĩ	PART	prcl	Number=Coll	6	dep	_	_
+8	hã	hã	DET	det	_	6	det	_	_
+9	te	te	PART	prcl	Htp=Yes|Tense=Pres	11	dep	_	heterophoric.marker;marcardor.heterofórico
+10	dza	dza	PART	prcl	Tense=Fut	11	dep	_	future.marker;marcador.de.futuro
+11	romhuri	romhuri	VERB	v	_	0	root	_	to.work;trabalhar
+12	dza'ra	dza'ra	PART	prcl	Number=Plur	11	dep	_	_
+13	pi'õ	pi'õ	NOUN	n	_	6	nmod	_	woman;mulher
+14	norĩ	norĩ	PART	prcl	Number=Coll	13	dep	_	_
+15	me	me	ADP	posp	_	13	case	_	with;com
+16	,	,	PUNCT	punct	_	11	punct	_	_
+17	buru	buru	NOUN	n	_	11	dislocated	_	slash;roça
+18	ãma	ãma	ADP	posp	_	17	case	_	in;em
+19	hã	hã	DET	det	_	17	det	_	_
+20	.	.	PUNCT	punct	_	11	punct	_	_
+
+# sent_id = GL-CLX31.3
+# text = E 'wa te aima tinha , wapté aihini petse te te romhuri dza'ra õ na hã .
+# text_por = Quem lhe disse, que os adolescentes todos mesmo não trabalham ?
+# text_eng = Who told you that all teenagers don't work?
+1	E	e	PART	prcl	Int=Yes	5	dep	_	question.particle;partícula.interrogativa
+2	'wa	'wa	PRON	pron	PronType=Int	5	nsubj	_	who;quem
+3	te	te	PART	prcl	Htp=Yes|Tense=Pres	5	dep	_	heterophoric.marker;marcardor.heterofórico
+4	aima	ai	PRON	pron	Case=Dat|Person=2	5	iobj	_	he,she;ele,ela
+5	tinha	nharĩ	VERB	v	Person[abs]=3	0	root	_	speak;falar
+6	,	,	PUNCT	punct	_	5	punct	_	_
+7	wapté	wapté	NOUN	n	_	12	nsubj	_	teenager;adolescente
+8	aihini	aihini	PRON	pron	PronType=Tot	7	nmod	_	all;todos
+9	petse	petse	ADV	adv	_	12	advmod	_	much,very.much;mesmo,muito.mesmo
+10	te	te	PART	prcl	Htp=Yes|Tense=Pres	12	dep	_	heterophoric.marker;marcardor.heterofórico
+11	te	te	AUX	au	_	12	aux	_	_
+12	romhuri	romhuri	VERB	v	_	5	ccomp	_	to.work;trabalhar
+13	dza'ra	dza'ra	PART	prcl	Number=Plur	12	dep	_	_
+14	õ	õ	PART	prcl	_	12	dep	_	negative.marker;marcador.negativo
+15	na	na	X	x	_	12	dep	_	_
+16	hã	hã	PART	prcl	Emph=Yes	12	discourse	_	_
+17	.	.	PUNCT	punct	_	12	punct	_	_
+
+# sent_id = GL-CLX31.4
+# text = Atsõhui'wa te ĩma nharĩ dza'ra ĩprédub nhimiroti dzarina .
+# text_por = Os padrinhos mefalaram, seguindo a decisão dos adultos.
+# text_eng = The godparents told me, following the decision of the adults.
+1	Atsõhui'wa	tsõhui'wa	NOUN	n	Person=2	4	nsubj	_	godfather;padrinho
+2	te	te	PART	prcl	Htp=Yes|Tense=Pres	4	dep	_	heterophoric.marker;marcardor.heterofórico
+3	ĩma	ĩ	PRON	pron	Case=Dat|Person=1	4	iobj	_	_
+4	nharĩ	nharĩ	VERB	v	_	0	root	_	speak;falar
+5	dza'ra	dza'ra	PART	prcl	Number=Plur	4	dep	_	_
+6	ĩprédub	prédu	NOUN	n	Person=3	7	nmod	_	adult,mature;adulto,maduro
+7	nhimiroti	nhimiroti	NOUN	n	_	4	advcl	_	advice,order;conselho,ordem
+8	dzarina	dzarina	SCONJ	sconj	_	7	mark	_	behind,following;atrás.de;seguindo
+9	.	.	PUNCT	punct	_	4	punct	_	_
+
+# sent_id = GL-CLX31.5
+# text = Ãhã bötö parimhã , wapté norĩhã te dza romhuri dza'ra a'ãma buru ãma hã , bötö mitsi na . Ãne a'uwẽ höimanadzé .
+# text_por = Depois desse dia, os adolescentes trabalharão na roça dos defensores por um dia. Assim é a tradição dos Xavante.
+# text_eng = After that day, the teenagers will work in the defenders' fields for a day. This is the tradition of the Xavante.
+1	Ãhã	ãhã	PRON	pron	PronType=Dem	2	nmod	_	this;este,esta
+2	bötö	bötö	NOUN	n	_	9	dislocated	_	day,sun,time;dia,sol,hora
+3	parimhã	parimhã	ADP	posp	_	2	case	_	_
+4	,	,	PUNCT	punct	_	9	punct	_	_
+5	wapté	wapté	NOUN	n	_	9	nsubj	_	teenager;adolescente
+6	norĩhã	norĩ	PART	prcl	Emph=Yes|Number=Coll	9	discourse	_	_
+7	te	te	PART	prcl	Htp=Yes|Tense=Pres	9	dep	_	heterophoric.marker;marcardor.heterofórico
+8	dza	dza	PART	prcl	Tense=Fut	9	dep	_	future.marker;marcador.de.futuro
+9	romhuri	romhuri	VERB	v	_	0	root	_	to.work;trabalhar
+10	dza'ra	dza'ra	PART	prcl	Number=Plur	9	dep	_	_
+11	a'ãma	a'ãma	NOUN	n	_	12	nmod	_	defender,lawyer;defensor,advogado
+12	buru	buru	NOUN	n	_	9	obl	_	slash;roça
+13	ãma	ãma	ADP	posp	_	12	case	_	in;em
+14	hã	hã	DET	det	_	12	det	_	_
+15	,	,	PUNCT	punct	_	9	punct	_	_
+16	bötö	bötö	NOUN	n	_	9	dislocated	_	day,sun,time;dia,sol,hora
+17	mitsi	mitsi	NUM	num	_	16	nummod	_	one;um,uma
+18	na	na	ADP	posp	_	16	case	_	in,from;em,de
+19	.	.	PUNCT	punct	_	9	punct	_	_
+20	Ãne	ãne	ADV	adv	_	22	advmod	_	thus;assim
+21	a'uwẽ	a'uwẽ	NOUN	n	_	22	nmod	_	man,person,people,indian;homem,pessoa,gente,índio
+22	höimanadzé	höimanadzé	NOUN	n	_	9	parataxis	_	life,existence;vida,existência
+23	.	.	PUNCT	punct	_	22	punct	_	_
+
+# sent_id = GL-CLX31.6
+# text = Niwa bötö na te wapté me ĩtsõhui'wa tsõ're 'rinho're baba .
+# text_por = Nalgum dia, os adolescentes cantam com os padrinhos pela aldeia.
+# text_eng = One day, the teenagers sing with their godparents in the village.
+1	Niwa	niwa	ADV	adv	_	8	advmod	_	sometime,once.in.a.while;alguma.vez,de.vez.em.quando,certa.vez
+2	bötö	bötö	NOUN	n	_	8	obl	_	day,sun,time;dia,sol,hora
+3	na	na	ADP	posp	_	2	case	_	in,from;em,de
+4	te	te	PART	prcl	Htp=Yes|Tense=Pres	8	dep	_	heterophoric.marker;marcardor.heterofórico
+5	wapté	wapté	NOUN	n	_	8	nsubj	_	teenager;adolescente
+6	me	me	ADP	posp	_	7	case	_	with;com
+7	ĩtsõhui'wa	tsõhui'wa	NOUN	n	Person=3	5	nmod	_	godfather;padrinho
+8	tsõ're	tsõ're	VERB	v	_	0	root	_	sing,proclaim,read;cantar,proclamar,ler
+9	'rinho're	'rinho're	NOUN	n	_	8	obl	_	village,courtyard,path.around.the.village;aldeia,pátio,.caminho.ao.redor.da.aldeia
+10	baba	baba	ADP	posp	_	9	case	_	inside,in(the.house);dentro.de,.em.(na.casa)
+11	.	.	PUNCT	punct	_	8	punct	_	_
+
+# sent_id = GL-CLX31.7
+# text = Ĩprédu 'maipo'repu'umhã te dza te tãma 'manho're , a'uwẽ norĩ ma te rowẽ dza'ra da . Tahawa te natsi tsõ're bötö bö .
+# text_por = Quando algum dos adultos se lembrar de algum canto, ele o ensina a eles para eles cantarem, para alegrar os Xavante. Por isso, eles cantam sempre durante o dia todo.
+# text_eng = When one of the adults remembers a song, he teaches it to them so that they can sing it, to make the Xavante happy. So they always sing all day long.
+1	Ĩprédu	prédu	NOUN	n	Person=3	2	nsubj	_	adult,mature;adulto,maduro
+2	'maipo'repu'umhã	po'repu'u	VERB	v	_	0	root	_	remember.once,remind.once;lembrar,recordar
+3	te	te	PART	prcl	Htp=Yes|Tense=Pres	7	dep	_	heterophoric.marker;marcardor.heterofórico
+4	dza	dza	PART	prcl	Tense=Fut	7	dep	_	future.marker;marcador.de.futuro
+5	te	te	AUX	aux	_	7	aux	_	_
+6	tãma	ti	PRON	pron	Case=Dat|Person=3	7	iobj	_	_
+7	'manho're	'manho're	VERB	v	_	2	parataxis	_	count.once,sing;contar.uma.só.vez,cantar
+8	,	,	PUNCT	punct	_	7	punct	_	_
+9	a'uwẽ	a'uwẽ	NOUN	n	_	13	obj	_	man,person,people,indian;homem,pessoa,gente,índio
+10	norĩ	norĩ	PART	prcl	Number=Coll	9	dep	_	_
+11	ma	ma	PART	prcl	Htp=Yes|Tense=Past	13	dep	_	perfect.aspect;aspecto.perfeito
+12	te	te	AUX	aux	_	13	aux	_	_
+13	rowẽ	rowẽ	VERB	v	_	7	advcl	_	make.beautiful;fazer.bonito,alegrar
+14	dza'ra	dza'ra	PART	prcl	Number=Plur	13	dep	_	_
+15	da	da	SCONJ	sconj	_	13	mark	_	for,in.order.to,so.that;para,afim.de,para.que
+16	.	.	PUNCT	punct	_	13	punct	_	_
+17	Tahawa	tahawa	SCONJ	sconj	_	20	mark	_	therefore;por.isso
+18	te	te	PART	prcl	Htp=Yes|Tense=Pres	20	dep	_	heterophoric.marker;marcardor.heterofórico
+19	natsi	natsi	ADV	adv	_	20	advmod	_	always;sempre
+20	tsõ're	tsõ're	VERB	v	_	13	advcl	_	sing,proclaim,read;cantar,proclamar,ler
+21	bötö	bötö	NOUN	n	_	20	obl	_	day,sun,time;dia,sol,hora
+22	bö	bö	ADV	adv	_	20	advmod	_	thus;assim
+23	.	.	PUNCT	punct	_	20	punct	_	_
+
+# sent_id = GL-CLX31.8
+# text = Höiwahö u te wapté te te ãma 're ãputsi tinho're na hã .
+# text_por = Quando chega a tarde, os adolescentes se cansaram de cantar.
+# text_eng = When the afternoon comes, the teenagers get tired of singing.
+1	Höiwahö	höiwahö	NOUN	n	_	9	dislocated	_	afternoon;à.tarde
+2	u	u	ADP	posp	_	1	case	_	to;a,para
+3	te	te	PART	prcl	_	9	discourse	_	heterophoric.marker;marcardor.heterofórico
+4	wapté	wapté	NOUN	n	_	9	nsubj	_	teenager;adolescente
+5	te	te	PART	prcl	Htp=Yes|Tense=Pres	9	dep	_	heterophoric.marker;marcardor.heterofórico
+6	te	te	AUX	aux	_	9	aux	_	_
+7	ãma	ãma	VERB	v	_	9	obl	_	in;em
+8	're	're	PART	prcl	_	9	dep	_	indicator.of.repeated.action;indicador.de.ação.repetida
+9	ãputsi	ãputsi	VERB	v	_	0	root	_	get.tired;cansar-se
+10	tinho're	danho're	NOUN	n	Person=3	9	obl	_	song;canto
+11	na	na	ADP	posp	_	10	case	_	in,from;em,de
+12	hã	hã	DET	det	_	10	det	_	_
+13	.	.	PUNCT	punct	_	9	punct	_	_
+
+# sent_id = GL-CLX33.1
+# text = E wapari dza'ra wa'aba õ di ĩmreme hã . Mare di !
+# text_por = Vocês não escutam minha palavra? - Não!
+# text_eng = Do you not listen to my word? - No!
+1	E	e	PART	prcl	Int=Yes	2	dep	_	question.particle;partícula.interrogativa
+2	wapari	wapari	VERB	v	_	0	root	_	hear;escutar
+3	dza'ra	dza'ra	PART	prcl	Number=Plur	2	dep	_	_
+4	wa'aba	aba	PART	prcl	Number=Coll	2	dep	_	_
+5	õ	õ	PART	prcl	_	2	dep	_	negative.marker;marcador.negativo
+6	di	di	X	x	_	2	dep	_	expletive;expletivo
+7	ĩmreme	mreme	NOUN	n	Person=3	2	obj	_	conversation,talk;conversa
+8	hã	hã	DET	det	_	7	det	_	_
+9	.	.	PUNCT	punct	_	2	punct	_	_
+10	Mare	mare	NOUN	n	_	2	parataxis	_	nada;nothing
+11	di	di	X	x	_	10	dep	_	expletive;expletivo
+12	!	!	PUNCT	punct	_	10	punct	_	_
+
+# sent_id = GL-CLX33.2
+# text = E bötö bö romhuri aba õ di . Niwa bötö na , wanorĩhã wa romhuri ni . Wawa'a-te , niwamhã wa te romhuri õ di .
+# text_por = Vocês dois trabalham todos os dias? Algum dia nós dois trabalhamos. Por nossa preguiça, alguma vez nós dois não trabalhamos. 
+# text_eng = Do you two work every day? Someday we both work. Because of our laziness, sometimes both of us don't work.
+1	E	e	PART	prcl	Int=Yes	4	dep	_	question.particle;partícula.interrogativa
+2	bötö	bötö	NOUN	n	_	4	obl	_	day,sun,time;dia,sol,hora
+3	bö	bö	PART	prcl	_	2	discourse	_	thus;assim
+4	romhuri	romhuri	VERB	v	_	0	root	_	to.work;trabalhar
+5	aba	aba	PART	prcl	Number=Coll	4	dep	_	collective.marker
+6	õ	õ	PART	prcl	_	4	dep	_	negative.marker;marcador.negativo
+7	di	di	X	x	_	4	dep	_	expletive;expletivo
+8	.	.	PUNCT	punct	_	4	punct	_	_
+9	Niwa	niwa	ADV	adv	_	15	dislocated	_	sometime,once.in.a.while;alguma.vez,de.vez.em.quando,certa.vez
+10	bötö	bötö	NOUN	n	_	15	obl	_	day,sun,time;dia,sol,hora
+11	na	na	ADP	posp	_	10	case	_	in,from;em,de
+12	,	,	PUNCT	punct	_	15	punct	_	_
+13	wanorĩhã	wanorĩhã	PRON	pron	Emph=Yes|Number=Coll|Person=1	15	nsubj	_	_
+14	wa	wa	PART	prcl	Ego=Yes|Person=1	15	dep	_	egophoric.marker;marcardor.egofórico
+15	romhuri	romhuri	VERB	v	_	4	parataxis	_	to.work;trabalhar
+16	ni	ni	X	x	Number=Dual	15	dep	_	dual.number.marker;indicador.dual
+17	.	.	PUNCT	punct	_	15	punct	_	_
+18-19	Wawa'a-te	_	_	_	_	_	_	_	_
+18	Wawa'a	wa'a	NOUN	n	Number=Plur|Person=1	24	dislocated	_	laziness;preguiça
+19	te	te	ADP	posp	_	18	case	_	because.of,why;por.causa.de,por.que
+20	,	,	PUNCT	punct	_	24	punct	_	_
+21	niwamhã	niwamhã	ADV	adv	_	24	advmod	_	sometime;alguma.vez,de.vez.em.quando
+22	wa	wa	PART	prcl	Ego=Yes|Person=1	24	dep	_	egophoric.marker;marcardor.egofórico
+23	te	te	AUX	aux	_	24	aux	_	_
+24	romhuri	romhuri	VERB	v	_	15	parataxis	_	to.work;trabalhar
+25	õ	õ	PART	prcl	_	24	dep	_	negative.marker;marcador.negativo
+26	di	di	X	x	_	24	dep	_	expletive;expletivo
+27	.	.	PUNCT	punct	_	24	punct	_	_
+
+# sent_id = GL-CLX33.3
+# text = Õnorĩhã marĩ na te te tsadanharĩ dza'ra õ di .
+# text_por = Eles não perguntam nada.
+# text_eng = They don't ask anything.
+1	Õnorĩhã	õnorĩhã	PRON	pron	Number=Plur|Person=3	6	nsubj	_	_
+2	marĩ	marĩ	NOUN	n	_	6	obl	_	something,what;algo,o.que,alguma.coisa
+3	na	na	ADP	posp	_	2	case	_	in,from;em,de
+4	te	te	PART	prcl	Htp=Yes|Tense=Pres	6	dep	_	heterophoric.marker;marcardor.heterofórico
+5	te	te	AUX	aux	_	6	aux	_	_
+6	tsadanharĩ	tsadanharĩ	VERB	v	_	0	root	_	ask;perguntar_
+7	dza'ra	dza'ra	PART	prcl	Number=Plur	6	dep	_	_
+8	õ	õ	PART	prcl	_	6	dep	_	negative.marker;marcador.negativo
+9	di	di	X	x	_	6	dep	_	expletive;expletivo
+10	.	.	PUNCT	punct	_	6	punct	_	_
+
+# sent_id = GL-CLX33.4
+# text = E waradzu ma adzö 'watébrémi hã . Mare di ! Waradzu te te adzöri õ di .
+# text_por = O "civilizado" bateu o menino? Não! O "civilizado" não o bateu.
+# text_eng = Did the "civilized" beat the boy? No! The "civilized" did not hit him.
+1	E	e	PART	prcl	Int=Yes	4	dep	_	question.particle;partícula.interrogativa
+2	waradzu	waradzu	NOUN	n	_	4	nsubj	_	white,civilized,non-indian;branco,civilizado,não-índio
+3	ma	ma	PART	prcl	Htp=Yes|Tense=Past	4	dep	_	perfect.aspect;aspecto.perfeito
+4	adzö	adzöri	VERB	v	_	0	root	_	beat;bater
+5	'watébrémi	'watébrémi	NOUN	n	_	4	obj	_	boy;menino
+6	hã	hã	DET	det	_	5	det	_	_
+7	.	.	PUNCT	punct	_	4	punct	_	_
+8	Mare	mare	NOUN	n	_	4	parataxis	_	nada;nothing
+9	di	di	X	x	_	8	dep	_	expletive;expletivo
+10	!	!	PUNCT	punct	_	8	punct	_	_
+11	Waradzu	waradzu	NOUN	n	_	14	nsubj	_	white,civilized,non-indian;branco,civilizado,não-índio
+12	te	te	PART	prcl	Htp=Yes|Tense=Pres	14	dep	_	heterophoric.marker;marcardor.heterofórico
+13	te	te	AUX	aux	_	14	aux	_	_
+14	adzöri	adzöri	VERB	v	_	8	parataxis	_	beat;bater
+15	õ	õ	PART	prcl	_	14	dep	_	negative.marker;marcador.negativo
+16	di	di	X	x	_	14	dep	_	expletive;expletivo
+17	.	.	PUNCT	punct	_	14	punct	_	_
+
+# sent_id = GL-CLX33.5
+# text = Rowatsu'u hã waihu'u õ wamhã , rowaptẽrẽ tsa'ẽtè ĩprédu wi .
+# text_por = Se você não souber a história, peça logo ao ancião.
+# text_eng = If you don't know the story, ask the elder right away.
+1	Rowatsu'u	rowatsu'u	NOUN	n	_	3	obj	_	story;história
+2	hã	hã	DET	det	_	1	det	_	_
+3	waihu'u	waihu'u	VERB	v	_	7	advcl	_	know,do,teach;saber,fazer,ensinar
+4	õ	õ	PART	prcl	_	3	dep	_	negative.marker;marcador.negativo
+5	wamhã	wamhã	SCONJ	sconj	_	3	mark	_	when;quando
+6	,	,	PUNCT	punct	_	7	punct	_	_
+7	rowaptẽrẽ	rowaptẽrẽ	VERB	v	_	0	root	_	ask.insistently,demand;pedir.com.insistência,exigir
+8	tsa'ẽtè	tsa'ẽtè	ADV	adv	_	7	advmod	_	in.a.hurry,quickly,loud;depressa,em.voz.alta
+9	ĩprédu	prédu	NOUN	n	Person=3	7	obl	_	adult,mature;adulto,maduro
+10	wi	wi	ADP	posp	_	9	case	_	far.from;longe.de
+11	.	.	PUNCT	punct	_	7	punct	_	_
+
+# sent_id = GL-CLX33.6
+# text = E pi'õ ma aima titsõ wãrãhöbö hã . Madze di ! Pi’õ dza hadu te te ĩma tsõmri õ di .
+# text_por = A mulher lhe deu o tatu? Não! (mulher quefala) A mulher não me deu ainda
+# text_eng = Did the woman give you the armadillo? No! (woman speaking) The woman hasn't given it to me yet
+1	E	e	PART	prcl	Int=Yes	5	dep	_	question.particle;partícula.interrogativa
+2	pi'õ	pi'õ	NOUN	n	_	5	nsubj	_	woman;mulher
+3	ma	ma	PART	prcl	Htp=Yes|Tense=Past	5	dep	_	perfect.aspect;aspecto.perfeito
+4	aima	ai	PRON	pron	Case=Dat|Person=2	5	iobj	_	he,she;ele,ela
+5	titsõ	tsõmri	VERB	v	Person[abs]=3	0	root	_	give;dar
+6	wãrãhöbö	wãrãhöbö	NOUN	n	_	5	obj	_	armadillo;tatu
+7	hã	hã	DET	det	_	6	det	_	_
+8	.	.	PUNCT	punct	_	5	punct	_	_
+9	Madze	madze	NOUN	n	_	5	parataxis	_	nada;nothing
+10	di	di	X	x	_	9	dep	_	expletive;expletivo
+11	!	!	PUNCT	punct	_	9	punct	_	_
+12	Pi’õ	pi'õ	NOUN	n	_	18	nsubj	_	woman;mulher
+13	dza	dza	PART	prcl	Tense=Fut	18	dep	_	future.marker;marcador.de.futuro
+14	hadu	hadu	ADV	adv	_	18	advmod	_	yet;ainda
+15	te	te	PART	prcl	Htp=Yes|Tense=Pres	18	dep	_	heterophoric.marker;marcardor.heterofórico
+16	te	te	AUX	aux	_	18	aux	_	_
+17	ĩma	ĩ	PRON	pron	Case=Dat|Person=1	18	iobj	_	he,she;ele,ela
+18	tsõmri	tsõmri	VERB	v	_	9	parataxis	_	give;dar
+19	õ	õ	PART	prcl	_	18	dep	_	negative.marker;marcador.negativo
+20	di	di	X	x	_	18	dep	_	expletive;expletivo
+21	.	.	PUNCT	punct	_	18	punct	_	_
+
+# sent_id = GL-CLX33.7
+# text = Ma'ãpé , mrami pa'o hã ! Ma'ãpé , pa'o mrami aba !
+# text_por = Então pegue duas bananas! - Então peguem vocês dois duas bananas!
+# text_eng = Then take two bananas! - Then get you two two bananas!
+1	Ma'ãpé	ma'ãpé	AUX	aux	_	3	dislocated	_	exhortative;exortativo
+2	,	,	PUNCT	punct	_	3	punct	_	_
+3	mrami	mrami	VERB	v	_	0	root	_	take.two.objects;pegar.dois.objetos
+4	pa'o	pa'o	NOUN	n	_	3	obj	_	banana;banana
+5	hã	hã	DET	det	_	4	det	_	_
+6	!	!	PUNCT	punct	_	3	punct	_	_
+7	Ma'ãpé	ma'ãpé	AUX	aux	_	10	dislocated	_	exhortative;exortativo
+8	,	,	PUNCT	punct	_	10	punct	_	_
+9	pa'o	pa'o	NOUN	n	_	10	obj	_	banana;banana
+10	mrami	mrami	VERB	v	_	3	parataxis	_	take.two.objects;pegar.dois.objetos
+11	aba	aba	PART	prcl	Number=Coll	10	dep	_	collective.marker
+12	!	!	PUNCT	punct	_	10	punct	_	_
+
+# sent_id = GL-CLX33.8
+# text = Aimama te dza wei mo , marĩ ĩpire hã te te aima waihu'u da .
+# text_por = Seu pai virá, para lhe comunicar algo de importante.
+# text_eng = Your father will come to tell you something important.
+1	Aimama	mama	NOUN	n	Person=2	5	nsubj	_	father,uncle;pai,tio
+2	te	te	PART	prcl	Htp=Yes|Tense=Pres	5	dep	_	heterophoric.marker;marcardor.heterofórico
+3	dza	dza	PART	prcl	Tense=Fut	5	dep	_	future.marker;marcador.de.futuro
+4	wei	we	ADV	adv	_	5	advmod	_	hither;para.cá
+5	mo	mo	VERB	v	_	0	root	_	go;ir
+6	,	,	PUNCT	punct	_	5	punct	_	_
+7	marĩ	marĩ	NOUN	n	_	13	obj	_	something,what;algo,o.que,alguma.coisa
+8	ĩpire	pire	NOUN	n	Person=3	7	nmod	_	heavy,important;pesado,importante
+9	hã	hã	DET	det	_	8	det	_	_
+10	te	te	PART	prcl	Htp=Yes|Tense=Pres	13	dep	_	heterophoric.marker;marcardor.heterofórico
+11	te	te	AUX	aux	_	13	aux	_	_
+12	aima	ai	PRON	pron	Case=Dat|Person=2	13	iobj	_	he,she;ele,ela
+13	waihu'u	waihu'u	VERB	v	_	5	advcl	_	know,do,teach;saber,fazer,ensinar
+14	da	da	SCONJ	sconj	_	13	mark	_	for,in.order.to,so.that;para,afim.de,para.que
+15	.	.	PUNCT	punct	_	5	punct	_	_
+
+# sent_id = GL-CLX33.9
+# text = E höiwi te ĩ'madö'ö dza'ra wa'wa . Mare di ! Wanorĩhã höiwi wa te 'madö'ö dza'ra õ di .
+# text_por = Vocês estão vendo o avião? Niio! Nós não estamos vendo o avião.
+# text_eng = Do you see the plane? No! We do not see the plane.
+1	E	e	PART	prcl	Int=Yes	4	dep	_	question.particle;partícula.interrogativa
+2	höiwi	höiwi	NOUN	n	_	4	obj	_	plane;avião
+3	te	te	PART	prcl	Htp=Yes|Tense=Pres	4	dep	_	heterophoric.marker;marcardor.heterofórico
+4	ĩ'madö'ö	'madö'ö	VERB	v	Person[abs]=3	0	root	_	see,look;ver,olhar,enxergar
+5	dza'ra	dza'ra	PART	prcl	Number=Plur	4	dep	_	_
+6	wa'wa	'wa	X	x	Number=Dual	4	dep	_	dual.number.marker;indicador.dual
+7	.	.	PUNCT	punct	_	4	punct	_	_
+8	Mare	mare	NOUN	n	_	4	parataxis	_	nada;nothing
+9	di	di	X	x	_	8	dep	_	expletive;expletivo
+10	!	!	PUNCT	punct	_	8	punct	_	_
+11	Wanorĩhã	wanorĩhã	PRON	pron	Emph=Yes|Number=Coll|Person=1	15	nsubj	_	_
+12	höiwi	höiwi	NOUN	n	_	15	obj	_	plane;avião
+13	wa	wa	PART	prcl	Ego=Yes|Person=1	15	dep	_	egophoric.marker;marcardor.egofórico
+14	te	te	AUX	aux	_	15	aux	_	_
+15	'madö'ö	'madö'ö	VERB	v	_	8	parataxis	_	see,look;ver,olhar,enxergar
+16	dza'ra	dza'ra	PART	prcl	Number=Plur	15	dep	_	_
+17	õ	õ	PART	prcl	_	15	dep	_	negative.marker;marcador.negativo
+18	di	di	X	x	_	15	dep	_	expletive;expletivo
+19	.	.	PUNCT	punct	_	15	punct	_	_
+
+# sent_id = GL-CLX33.10
+# text = Romhuri aba ! Romhuri dza'ra wa'aba ! Aiwa'a tõ ! Atsõhui'wa wa'wa ma wi romhuri dza'ra wa'aba wẽ da .
+# text_por = Trabalhem vocês dois! Trabalhem vocês todos! Não sejam preguiçosos! Seu padrinho virá para vocês trabalharem bem.
+# text_eng = Work you two! Work you all! Don't be lazy! Your godfather will come for you to work well.
+1	Romhuri	romhuri	VERB	v	_	0	root	_	to.work;trabalhar
+2	aba	aba	PART	prcl	Number=Coll	1	dep	_	collective.marker
+3	!	!	PUNCT	punct	_	1	punct	_	_
+4	Romhuri	romhuri	VERB	v	_	1	parataxis	_	to.work;trabalhar
+5	dza'ra	dza'ra	PART	prcl	Number=Plur	4	dep	_	_
+6	wa'aba	aba	PART	prcl	Number=Coll	4	dep	_	collective.marker
+7	!	!	PUNCT	punct	_	4	punct	_	_
+8	Aiwa'a	wa'a	NOUN	n	Person=2	4	parataxis	_	laziness;preguiça
+9	tõ	tõ	PART	prcl	_	8	dep	_	no!,negation.in.the.imperative;não!,negação.no.imperativo
+10	!	!	PUNCT	punct	_	8	punct	_	_
+11	Atsõhui'wa	tsõhui'wa	NOUN	n	Person=2	14	nsubj	_	godfather;padrinho
+12	wa'wa	'wa	X	x	Number=Dual	11	dep	_	dual.number.marker;indicador.dual
+13	ma	ma	PART	prcl	Htp=Yes|Tense=Past	14	dep	_	perfect.aspect;aspecto.perfeito
+14	wi	wi	ADP	posp	_	8	parataxis	_	far.from;longe.de
+15	romhuri	romhuri	VERB	v	_	14	advcl	_	to.work;trabalhar
+16	dza'ra	dza'ra	PART	prcl	Number=Plur	15	dep	_	_
+17	wa'aba	aba	PART	prcl	Number=Coll	15	dep	_	collective.marker
+18	wẽ	wẽ	ADV	adv	Person=3	15	advmod	_	good,beatuful,well;bom,bonito,belo,bem
+19	da	da	SCONJ	sconj	_	15	mark	_	for,in.order.to,so.that;para,afim.de,para.que
+20	.	.	PUNCT	punct	_	14	punct	_	_
+
+# sent_id = GL-CLX34.1
+# text = A'uwẽ ãma hã , mararé romhuri . 'Watébrémi norĩhã timama me , duré ba'õtõ norĩhã tina me te romhuri dza'ra .
+# text_por = Entre os Xavante há trabalho de manhã. Os meninos trabalham com o pai, e as meninas com a mãe.
+# text_eng = Among the Xavante there is work in the morning. The boys work with their father, and the girls with their mother.
+1	A'uwẽ	a'uwẽ	NOUN	n	_	6	dislocated	_	man,person,people,indian;homem,pessoa,gente,índio
+2	ãma	ãma	ADP	posp	_	1	case	_	in;em
+3	hã	hã	DET	det	_	1	det	_	_
+4	,	,	PUNCT	punct	_	6	punct	_	_
+5	mararé	mararé	ADV	adv	_	6	advmod	_	at.dawn,early;de.madrugada,cedo
+6	romhuri	romhuri	VERB	v	_	0	root	_	to.work;trabalhar
+7	.	.	PUNCT	punct	_	6	punct	_	_
+8	'Watébrémi	'watébrémi	NOUN	n	_	19	nsubj	_	boy;menino
+9	norĩhã	norĩ	PART	prcl	Emph=Yes|Number=Coll	8	discourse	_	_
+10	timama	mama	NOUN	n	Person=3	8	nmod	_	father;pai
+11	me	me	ADP	posp	_	10	case	_	with;com
+12	,	,	PUNCT	punct	_	8	punct	_	_
+13	duré	duré	ADV	adv	_	14	advmod	_	also;também
+14	ba'õtõ	ba'õtõre	NOUN	n	_	8	conj	_	little.girl;menina.pequena
+15	norĩhã	norĩ	PART	prcl	Emph=Yes|Number=Coll	14	discourse	_	_
+16	tina	na	NOUN	n	Person=3|Reflex=Yes	14	nmod	_	mother;mãe
+17	me	me	ADP	posp	_	16	case	_	with;com
+18	te	te	PART	prcl	Htp=Yes|Tense=Pres	19	dep	_	heterophoric.marker;marcardor.heterofórico
+19	romhuri	romhuri	VERB	v	_	6	parataxis	_	to.work;trabalhar
+20	dza'ra	dza'ra	PART	prcl	Number=Plur	19	dep	_	_
+21	.	.	PUNCT	punct	_	19	punct	_	_
+
+# sent_id = GL-CLX34.2
+# text = A'uwẽ ãma hã , romhuri ĩpire di , datsa da hã .
+# text_por = Entre os Xavante o trabalho é importante para a subsistência.
+# text_eng = Among the Xavante, work is important for subsistence.
+1	A'uwẽ	a'uwẽ	NOUN	n	_	5	dislocated	_	man,person,people,indian;homem,pessoa,gente,índio
+2	ãma	ãma	ADP	posp	_	1	case	_	in;em
+3	hã	hã	DET	det	_	1	det	_	_
+4	,	,	PUNCT	punct	_	5	punct	_	_
+5	romhuri	romhuri	NOUN	n	_	6	nsubj	_	work;trabalhar
+6	ĩpire	pire	NOUN	n	Person=3	0	root	_	heavy,important;pesado,importante
+7	di	di	X	x	_	6	dep	_	expletive;expletivo
+8	,	,	PUNCT	punct	_	6	punct	_	_
+9	datsa	tsa	NOUN	n	Gnq=Yes	6	advcl	_	food;comida,alimento
+10	da	da	SCONJ	sconj	_	9	mark	_	for,in.order.to,so.that;para,afim.de,para.que
+11	hã	hã	DET	det	_	9	det	_	_
+12	.	.	PUNCT	punct	_	9	punct	_	_
+
+# sent_id = GL-CLX34.3
+# text = Abdzuma hã , ĩta'are te ta'a , 'watébrémi norĩ duré ba'õtõ norĩ romnhoré u , tsi'ubumro da hã .
+# text_por = Ao meio dia, uma campainha toca para reunir os meninos e as meninas para o estudo.
+# text_eng = At noon, a bell rings to bring the boys and girls together for study.
+1	Abdzuma	abdzuma	NOUN	n	_	6	dislocated	_	noon;meio.dia
+2	hã	hã	DET	det	_	1	det	_	_
+3	,	,	PUNCT	punct	_	6	punct	_	_
+4	ĩta'are	ta'are	NOUN	n	Person=3	6	nsubj	_	small.bell,bell;sino.pequeno,campainha
+5	te	te	PART	prcl	Htp=Yes|Tense=Pres	6	dep	_	heterophoric.marker;marcardor.heterofórico
+6	ta'a	ta'a	VERB	v	_	0	root	_	hit,touch;bater,tocar
+7	,	,	PUNCT	punct	_	6	punct	_	_
+8	'watébrémi	'watébrémi	NOUN	n	_	13	nsubj	_	boy;menino
+9	norĩ	norĩ	PART	prcl	Number=Coll	8	dep	_	_
+10	duré	duré	ADV	adv	_	11	advmod	_	also;também
+11	ba'õtõ	ba'õtõre	NOUN	n	_	8	conj	_	little.girl;menina.pequena
+12	norĩ	norĩ	PART	prcl	Number=Coll	11	dep	_	_
+13	romnhoré	romnhoré	NOUN	n	_	16	obl	_	school,class,teaching;escola,aula,ensino
+14	u	u	ADP	posp	_	13	case	_	to;a,para
+15	,	,	PUNCT	punct	_	16	punct	_	_
+16	tsi'ubumro	tsi'ubumro	VERB	v	_	6	advcl	_	gather.up;reunir-se
+17	da	da	SCONJ	sconj	_	16	mark	_	for,in.order.to,so.that;para,afim.de,para.que
+18	hã	hã	PART	prcl	Emph=Yes	16	discourse	_	_
+19	.	.	PUNCT	punct	_	16	punct	_	_
+
+# sent_id = GL-CLX34.4
+# text = Aihini nho'a hã , rowahutu'wa te adzadanha : " Anorĩwa'wahã , e te aipo'repu'u dza'ra wa'wa marĩ na hã te aima waihu'u dza'ra wa'wa ahömhö hã . " Ĩhe ! " aihini ma tsada'öbö dza'ra .
+# text_por = Na frente de todos, os professor pergunta: "Vocês lembram o que eu lhes ensinei ontem?" "Sim!" responderam lhe todos.
+# text_eng = In front of everyone, the teacher asks: "Do you remember what I taught you yesterday?" "Yes!" they all answered him.
+1	Aihini	aihini	PRON	pron	PronType=Tot	7	dislocated	_	all;todos
+2	nho'a	nho'a	ADP	posp	_	1	case	_	in.front.of;frente.de
+3	hã	hã	PART	prcl	Emph=Yes	1	discourse	_	_
+4	,	,	PUNCT	punct	_	7	punct	_	_
+5	rowahutu'wa	rowahutu'wa	NOUN	n	_	7	nsubj	_	teacher;professor
+6	te	te	PART	prcl	Htp=Yes|Tense=Pres	7	dep	_	heterophoric.marker;marcardor.heterofórico
+7	adzadanha	tsadanharĩ	VERB	v	_	0	root	_	ask;perguntar
+8	:	:	PUNCT	punct	_	7	punct	_	_
+9	"	"	PUNCT	punct	_	14	punct	_	_
+10	Anorĩwa'wahã	anorĩwa'wahã	PRON	pron	Number=Plur|Person=2	14	nsubj	_	_
+11	,	,	PUNCT	punct	_	14	punct	_	_
+12	e	e	PART	prcl	Int=Yes	14	dep	_	question.particle;partícula.interrogativa
+13	te	te	PART	prcl	Htp=Yes|Tense=Pres	14	dep	_	heterophoric.marker;marcardor.heterofórico
+14	aipo'repu'u	po'repu'u	VERB	v	Person[abs]=2	7	ccomp	_	remember,remind;lembrar,recordar
+15	dza'ra	dza'ra	PART	prcl	Number=Plur	14	dep	_	_
+16	wa'wa	'wa	X	x	Number=Dual	14	dep	_	dual.number.marker;indicador.dual
+17	marĩ	marĩ	NOUN	n	_	14	obl	_	something,what;algo,o.que,alguma.coisa
+18	na	na	ADP	posp	_	17	case	_	in,from;em,de
+19	hã	hã	DET	det	_	17	det	_	_
+20	te	te	PART	prcl	Htp=Yes|Tense=Pres	22	dep	_	heterophoric.marker;marcardor.heterofórico
+21	aima	ai	PRON	pron	Case=Dat|Person=2	22	iobj	_	he,she;ele,ela
+22	waihu'u	waihu'u	VERB	v	_	14	xcomp	_	know,do,teach;saber,fazer,ensinar
+23	dza'ra	dza'ra	PART	prcl	Number=Plur	22	dep	_	_
+24	wa'wa	'wa	X	x	Number=Dual	22	dep	_	dual.number.marker;indicador.dual
+25	ahömhö	ahömhö	ADV	adv	_	22	advmod	_	yesterday;ontem
+26	hã	hã	PART	prcl	Emph=Yes	22	discourse	_	_
+27	.	.	PUNCT	punct	_	22	punct	_	_
+28	"	"	PUNCT	punct	_	29	punct	_	_
+29	Ĩhe	ĩhe	INTJ	intj	_	34	ccomp	_	yes;sim
+30	!	!	PUNCT	punct	_	29	punct	_	_
+31	"	"	PUNCT	punct	_	29	punct	_	_
+32	aihini	aihini	PRON	pron	PronType=Tot	34	nsubj	_	all;todos
+33	ma	ma	PART	prcl	Htp=Yes|Tense=Past	34	dep	_	perfect.aspect;aspecto.perfeito
+34	tsada'öbö	tsada'öbö	VERB	v	_	22	parataxis	_	reply;responder
+35	dza'ra	dza'ra	PART	prcl	Number=Plur	34	dep	_	_
+36	.	.	PUNCT	punct	_	34	punct	_	_
+
+# sent_id = GL-CLX34.5
+# text = Taha parimhã rowahutu'wa te dama tinha : " Ãne wamhã , ma'ãpé , ai'repudu , awa'awi hã , wama ãma ĩtsahu na marĩ na te aima ĩrowatsu'u dza'ra aba na ahömhö hã , wẽ uptabi na wa te waihu'u dza'ra da ! "
+# text_por = Em seguida o professor lhes diz: "Sendo assim, menino, então repita-nos agora o que lhes contei ontem, para nós sabê-lo muito bem!"
+# text_eng = Then the teacher tells them: "That being so, boy, then repeat to us now what I told you yesterday, so that we will know it very well!"
+1	Taha	taha	PRON	pron	_	6	obl	_	that;isso
+2	parimhã	parimhã	ADP	posp	_	1	case	_	_
+3	rowahutu'wa	rowahutu'wa	NOUN	n	_	6	nsubj	_	teacher;professor
+4	te	te	PART	prcl	Htp=Yes|Tense=Pres	6	dep	_	heterophoric.marker;marcardor.heterofórico
+5	dama	da	PRON	pron	Case=Dat|Gnq=Yes|Person=3	6	iobj	_	he,she;ele,ela
+6	tinha	nharĩ	VERB	v	Person[abs]=3	0	root	_	speak;falar
+7	:	:	PUNCT	punct	_	6	punct	_	_
+8	"	"	PUNCT	punct	_	21	punct	_	_
+9	Ãne	ãne	ADV	adv	_	21	dislocated	_	thus;assim
+10	wamhã	wamhã	X	x	_	9	dep	_	_
+11	,	,	PUNCT	punct	_	21	punct	_	_
+12	ma'ãpé	ma'ãpé	AUX	aux	_	21	dislocated	_	exhortative;exortativo
+13	,	,	PUNCT	punct	_	21	punct	_	_
+14	ai'repudu	ai'repudu	NOUN	n	_	21	vocative	_	big.boy;menino.crescido
+15	,	,	PUNCT	punct	_	21	punct	_	_
+16	awa'awi	awa'awi	ADV	adv	_	21	dislocated	_	now,today;agora,hoje
+17	hã	hã	PART	prcl	Emph=Yes	16	discourse	_	_
+18	,	,	PUNCT	punct	_	21	punct	_	_
+19	wama	wa	PRON	pron	Case=Dat|Number=Plur|Person=1	21	iobj	_	_
+20	ãma	ãma	ADP	posp	_	21	dep	_	in;em
+21	ĩtsahu	tsahu	VERB	v	Person[abs]=3	6	ccomp	_	repeat;repetir
+22	na	na	ADP	posp	_	23	case	_	in,from;em,de
+23	marĩ	marĩ	NOUN	n	_	21	obl	_	something,what;algo,o.que,alguma.coisa
+24	na	na	ADP	posp	_	27	obl	_	in,from;em,de
+25	te	te	PART	prcl	Htp=Yes|Tense=Pres	27	dep	_	heterophoric.marker;marcardor.heterofórico
+26	aima	ai	PRON	pron	Case=Dat|Person=2	27	iobj	_	he,she;ele,ela
+27	ĩrowatsu'u	rowatsu'u	VERB	v	Person[abs]=3	21	xcomp	_	tell,narrate,show;contar,narrar,mostrar
+28	dza'ra	dza'ra	PART	prcl	Number=Plur	27	dep	_	_
+29	aba	aba	PART	prcl	Number=Coll	27	dep	_	collective.marker
+30	na	na	ADP	posp	_	31	dep	_	in,from;em,de
+31	ahömhö	ahömhö	ADV	adv	_	27	advmod	_	yesterday;ontem
+32	hã	hã	PART	prcl	Emph=Yes	31	discourse	_	_
+33	,	,	PUNCT	punct	_	27	punct	_	_
+34	wẽ	wẽ	NOUN	n	Person=3	39	dislocated	_	good,beatuful;bom,bonito,belo
+35	uptabi	uptabi	NOUN	n	_	34	nmod	_	good,very.good;muito,muito.bom
+36	na	na	ADP	posp	_	35	case	_	in,from;em,de
+37	wa	wa	PART	prcl	Ego=Yes|Person=1	39	dep	_	egophoric.marker;marcardor.egofórico
+38	te	te	AUX	aux	_	39	aux	_	_
+39	waihu'u	waihu'u	VERB	v	_	27	advcl	_	know,do,teach;saber,fazer,ensinar
+40	dza'ra	dza'ra	PART	prcl	Number=Plur	39	dep	_	_
+41	da	da	SCONJ	sconj	_	39	mark	_	for,in.order.to,so.that;para,afim.de,para.que
+42	!	!	PUNCT	punct	_	39	punct	_	_
+43	"	"	PUNCT	punct	_	21	punct	_	_
+
+# sent_id = GL-CLX37.1
+# text = 'Watébrémire , e aima waihu'u petse di ? Ĩhe !
+# text_por = Menino pequeno, você sabe mesmo? - Sim!
+# text_eng = Little boy, do you even know? - Yes!
+1	'Watébrémire	'watébrémire	NOUN	n	Degree=Dim	5	vocative	_	little.boy;menino.pequeno
+2	,	,	PUNCT	punct	_	5	punct	_	_
+3	e	e	PART	prcl	Int=Yes	5	dep	_	question.particle;partícula.interrogativa
+4	aima	ai	PRON	pron	Case=Dat|Person=2	5	iobj	_	he,she;ele,ela
+5	waihu'u	waihu'u	VERB	v	_	0	root	_	know,do,teach;saber,fazer,ensinar
+6	petse	petse	ADV	adv	_	5	advmod	_	much,very.much;mesmo,muito.mesmo
+7	di	di	X	x	_	5	dep	_	expletive;expletivo
+8	?	?	PUNCT	punct	_	5	punct	_	_
+9	Ĩhe	ĩhe	INTJ	intj	_	5	parataxis	_	yes;sim
+10	!	!	PUNCT	punct	_	9	punct	_	_
+
+# sent_id = GL-CLX37.2
+# text = Waptém norĩhã ba'õtõ nhimiromhuri hã te te waihu'u dza'ra õ di .
+# text_por = Os meninos não conhecem o trabalho que fazem as meninas.
+# text_eng = Boys don't know the work girls do.
+1	Waptém	wapté	NOUN	n	_	8	nsubj	_	teenager;adolescente
+2	norĩhã	norĩ	PART	prcl	Emph=Yes|Number=Coll	1	discourse	_	_
+3	ba'õtõ	ba'õtõre	NOUN	n	_	4	nmod	_	little.girl;menina.pequena
+4	nhimiromhuri	nhimiromhuri	NOUN	n	_	8	obj	_	work.done.by.one.person;trabalho.feito.por.uma.pessoa
+5	hã	hã	DET	det	_	4	det	_	_
+6	te	te	PART	prcl	Htp=Yes|Tense=Pres	8	dep	_	heterophoric.marker;marcardor.heterofórico
+7	te	te	AUX	aux	_	8	aux	_	_
+8	waihu'u	waihu'u	VERB	v	_	0	root	_	know,do,teach;saber,fazer,ensinar
+9	dza'ra	dza'ra	PART	prcl	Number=Plur	8	dep	_	_
+10	õ	õ	PART	prcl	_	8	dep	_	negative.marker;marcador.negativo
+11	di	di	X	x	_	8	dep	_	expletive;expletivo
+12	.	.	PUNCT	punct	_	8	punct	_	_
+
+# sent_id = GL-CLX37.3
+# text = 'Watébrémi norĩhã te ropta'a dza'ra wedehöpö na hã , tito na hã .
+# text_por = Os meninos estão batendo na mesa, por brincadeira.
+# text_eng = The boys are banging on the table, for fun.
+1	'Watébrémi	'watébrémi	NOUN	n	_	4	nsubj	_	boy;menino
+2	norĩhã	norĩ	PART	prcl	Emph=Yes|Number=Coll	4	discourse	_	_
+3	te	te	PART	prcl	Htp=Yes|Tense=Pres	4	dep	_	heterophoric.marker;marcardor.heterofórico
+4	ropta'a	ropta'a	VERB	v	_	0	root	_	hit.a.lot,hammer;bater.muito,martelar
+5	dza'ra	dza'ra	PART	prcl	Number=Plur	4	dep	_	_
+6	wedehöpö	wedehöpö	NOUN	n	_	4	obl	_	board,table,bench;tábua,mesa,banco
+7	na	na	ADP	posp	_	6	case	_	in,from;em,de
+8	hã	hã	DET	det	_	6	det	_	_
+9	,	,	PUNCT	punct	_	4	punct	_	_
+10	tito	to	NOUN	n	Person=3	4	dislocated	_	play,joy,fun;brincadeira,alegria,diversão
+11	na	na	ADP	posp	_	10	case	_	in,from;em,de
+12	hã	hã	DET	det	_	10	det	_	_
+13	.	.	PUNCT	punct	_	4	punct	_	_
+
+# sent_id = GL-CLX37.4
+# text = Ari'iwi ! Ĩhi te rotsa'rata marĩ na te te wama rowatsu'u da hã , a'uwẽ höimanadzé duréi na hã .
+# text_por = Silêncio! O ancião está pensando no que ele nos vai contar da vida do Xavante de antigamente.
+# text_eng = Silence! The old man is thinking about what he is going to tell us about the life of the Xavante in the old days.
+1	Ari'iwi	ari'iwi	NOUN	n	_	0	root	_	in.silence,quiet;em.silêncio,quieto
+2	!	!	PUNCT	punct	_	1	punct	_	_
+3	Ĩhi	ĩhi	NOUN	n	_	5	nsubj	_	old,aged,elderly;velho,idoso,ancião
+4	te	te	PART	prcl	Htp=Yes|Tense=Pres	5	dep	_	heterophoric.marker;marcardor.heterofórico
+5	rotsa'rata	rotsa'rata	VERB	v	_	1	parataxis	_	think;pensar
+6	marĩ	marĩ	NOUN	n	_	5	obl	_	something,what;algo,o.que,alguma.coisa
+7	na	na	ADP	posp	_	6	case	_	in,from;em,de
+8	te	te	PART	prcl	Htp=Yes|Tense=Pres	11	dep	_	heterophoric.marker;marcardor.heterofórico
+9	te	te	AUX	aux	_	11	aux	_	_
+10	wama	wa	PRON	pron	Case=Dat|Number=Plur|Person=1	11	iobj	_	_
+11	rowatsu'u	rowatsu'u	VERB	v	_	5	advcl	_	tell,narrate,show;contar,narrar,mostrar
+12	da	da	SCONJ	sconj	_	11	mark	_	for,in.order.to,so.that;para,afim.de,para.que
+13	hã	hã	PART	prcl	Emph=Yes	11	discourse	_	_
+14	,	,	PUNCT	punct	_	11	punct	_	_
+15	a'uwẽ	a'uwẽ	NOUN	n	_	16	nmod	_	man,person,people,indian;homem,pessoa,gente,índio
+16	höimanadzé	höimanadzé	NOUN	n	_	11	dislocated	_	life,existence;vida,existência
+17	duréi	duréi	ADV	adv	_	11	dislocated	_	for.a.long.time;por.muito.tempo
+18	na	na	ADP	posp	_	17	case	_	in,from;em,de
+19	hã	hã	PART	prcl	Emph=Yes	17	discourse	_	_
+20	.	.	PUNCT	punct	_	11	punct	_	_
+
+# sent_id = GL-CLX37.5
+# text = 'Ritéi'wa wede hã te tsapu'u ropĩni dzô hã .
+# text_por = O jovem fura a árvore em busca de mel.
+# text_eng = The young man drills the tree in search of honey.
+1	'Ritéi'wa	'ritéi'wa	NOUN	n	_	5	nsubj	_	young.initiate;jovem.iniciado
+2	wede	wede	NOUN	n	_	5	obj	_	wood,tree;madeira,árvore
+3	hã	hã	DET	det	_	2	det	_	_
+4	te	te	PART	prcl	Htp=Yes|Tense=Pres	5	dep	_	heterophoric.marker;marcardor.heterofórico
+5	tsapu'u	tsapu'u	VERB	v	_	0	root	_	pierce;furar
+6	ropĩni	ropĩni	NOUN	n	_	5	obl	_	honey;mel
+7	dzô	dzô	ADP	posp	_	6	case	_	after,in.search.of;atrás.de,em.busca.de
+8	hã	hã	DET	det	_	6	det	_	_
+9	.	.	PUNCT	punct	_	5	punct	_	_
+
+# sent_id = GL-CLX37.6
+# text = Aibö ti'a te tsapo'o wãrãhöpö dzô hã .
+# text_por = O homem fura um buraco na terra para pegar o tatu.
+# text_eng = The man drills a hole in the ground to catch the armadillo.
+1	Aibö	aibö	NOUN	n	_	4	nsubj	_	man;homem
+2	ti'a	ti'a	NOUN	n	_	4	obj	_	ground;terra
+3	te	te	PART	prcl	Htp=Yes|Tense=Pres	4	dep	_	heterophoric.marker;marcardor.heterofórico
+4	tsapo'o	tsapo'uo	VERB	v	_	0	root	_	dig,drill.a.hole.in.the.ground;cavar,furar.buraco.na.terra
+5	wãrãhöpö	wãrãhöbö	NOUN	n	_	4	obl	_	armadillo;tatu
+6	dzô	dzô	ADP	posp	_	5	case	_	after,in.search.of;atrás.de,em.busca.de
+7	hã	hã	DET	det	_	5	det	_	_
+8	.	.	PUNCT	punct	_	4	punct	_	_
+
+# sent_id = GL-CLX37.7
+# text = Rowahutu'wa ĩta'are te ta'a , 'watébrémi norĩ dzô romnhoré u da hã .
+# text_por = O professor toca a campainha para (reunir) os meninos para as aulas.
+# text_eng = The teacher rings the bell (to gather) the boys for lessons.
+1	Rowahutu'wa	rowahutu'wa	NOUN	n	_	4	nsubj	_	teacher;professor
+2	ĩta'are	ta'are	NOUN	n	Person=3	4	obj	_	small.bell,bell;sino.pequeno,campainha
+3	te	te	PART	prcl	Htp=Yes|Tense=Pres	4	dep	_	heterophoric.marker;marcardor.heterofórico
+4	ta'a	ta'a	VERB	v	_	0	root	_	hit,touch;bater,tocar
+5	,	,	PUNCT	punct	_	4	punct	_	_
+6	'watébrémi	'watébrémi	NOUN	n	_	9	nsubj	_	boy;menino
+7	norĩ	norĩ	PART	prcl	Number=Coll	6	dep	_	_
+8	dzô	dzô	SCONJ	sconj	_	9	mark	_	after,in.search.of;atrás.de,em.busca.de
+9	romnhoré	romnhoré	NOUN	n	_	4	advcl	_	school,class,teaching;escola,aula,ensino
+10	u	u	ADP	posp	_	9	case	_	to;a,para
+11	da	da	SCONJ	sconj	_	9	mark	_	for,in.order.to,so.that;para,afim.de,para.que
+12	hã	hã	PART	prcl	Emph=Yes	9	discourse	_	_
+13	.	.	PUNCT	punct	_	9	punct	_	_
+
+# sent_id = GL-CLX37.8
+# text = Pi’õ te te wẽ'ẽ tsada'ré , ti'ra norĩ ma .
+# text_por = Uma mulher parte o bolo para os filhos.
+# text_eng = A woman breaks the cake for her children.
+1	Pi’õ	pi'õ	NOUN	n	_	4	nsubj	_	woman;mulher
+2	te	te	PART	prcl	Htp=Yes|Tense=Pres	4	dep	_	heterophoric.marker;marcardor.heterofórico
+3	te	te	AUX	aux	_	4	aux	_	_
+4	wẽ'ẽ	wẽ'ẽ	VERB	v	_	0	root	_	to.break;quebrar
+5	tsada'ré	tsada'ré	NOUN	n	_	4	obj	_	pounded.corn.and.babassu.Xavante.cake;bolo.Xavante.de.milho.socado.e.babaçu
+6	,	,	PUNCT	punct	_	4	punct	_	_
+7	ti'ra	'ra	NOUN	n	Person=3	4	dislocated	_	son,daughter;filho,filha
+8	norĩ	norĩ	PART	prcl	Number=Coll	7	dep	_	_
+9	ma	ma	ADP	posp	Case=Dat	7	case	_	_
+10	.	.	PUNCT	punct	_	4	punct	_	_
+
+# sent_id = GL-CLX37.9
+# text = Ai'repudu uburé te waihu'u , ĩmama te te ĩpo'repu'u na hã .
+# text_por = O menino crescido sabe tudo o que o pai lhe recordou.
+# text_eng = The grown-up boy knows everything his father has reminded him of.
+1	Ai'repudu	ai'repudu	NOUN	n	_	4	nsubj	_	big.boy;menino.crescido
+2	uburé	uburé	PRON	pron	PronType=Tot	4	obj	_	all;tudo
+3	te	te	PART	prcl	Htp=Yes|Tense=Pres	4	dep	_	heterophoric.marker;marcardor.heterofórico
+4	waihu'u	waihu'u	VERB	v	_	0	root	_	know,do,teach;saber,fazer,ensinar
+5	,	,	PUNCT	punct	_	4	punct	_	_
+6	ĩmama	mama	NOUN	n	Person=3	9	nsubj	_	father;pai
+7	te	te	PART	prcl	Htp=Yes|Tense=Pres	9	dep	_	heterophoric.marker;marcardor.heterofórico
+8	te	te	AUX	aux	_	9	aux	_	_
+9	ĩpo'repu'u	po'repu'u	VERB	v	Person[abs]=3	2	acl	_	remember,remind;lembrar,recordar
+10	na	na	ADP	posp	_	9	obl	_	in,from;em,de
+11	hã	hã	PART	prcl	Emph=Yes	9	discourse	_	_
+12	.	.	PUNCT	punct	_	9	punct	_	_
+
+# sent_id = GL-CLX37.10
+# text = 'Watébrémi , robta'a tõ ! Ĩhi marĩ na te te dama rowatsu'u ré hã !
+# text_por = Menino, não fique batendo! O ancião nos está contando alguma coisa.
+# text_eng = Boy, don't keep hitting! The elder is telling us something.
+1	'Watébrémi	'watébrémi	NOUN	n	_	3	vocative	_	boy;menino
+2	,	,	PUNCT	punct	_	3	punct	_	_
+3	robta'a	ropta'a	VERB	v	_	0	root	_	hit.a.lot,hammer;bater.muito,martelar
+4	tõ	tõ	PART	prcl	_	3	dep	_	no!,negation.in.the.imperative;não!,negação.no.imperativo
+5	!	!	PUNCT	punct	_	3	punct	_	_
+6	Ĩhi	ĩhi	NOUN	n	_	12	nsubj	_	old,aged,elderly;velho,idoso,ancião
+7	marĩ	marĩ	NOUN	n	_	12	obl	_	something,what;algo,o.que,alguma.coisa
+8	na	na	ADP	posp	_	7	case	_	in,from;em,de
+9	te	te	PART	prcl	Htp=Yes|Tense=Pres	12	dep	_	heterophoric.marker;marcardor.heterofórico
+10	te	te	AUX	aux	_	12	aux	_	_
+11	dama	da	PRON	pron	Case=Dat|Gnq=Yes|Person=3	12	iobj	_	he,she;ele,ela
+12	rowatsu'u	rowatsu'u	VERB	v	_	3	parataxis	_	tell,narrate,show;contar,narrar,mostrar
+13	ré	ré	ADP	posp	_	12	obl	_	full.of,inside.of,during,while;cheio.de,dentro,do,durante,enquanto,sendo
+14	hã	hã	PART	prcl	Emph=Yes	12	dep	_	_
+15	!	!	PUNCT	punct	_	12	punct	_	_
+
+# sent_id = GL-CLX38.1
+# text = " Ĩ'ra norĩ , e ai’udza te ĩ'uptsõi wa'wa . " pi'õ te tsadanha . " Madze di ! " õnorĩhã ma tsada'öbö dzahuré .
+# text_por = "Minhas duas filhas, vocês lavam suas roupas?"pergunta a mulher. "Não!" responderam as duas.
+# text_eng = "My two daughters, do you wash your clothes?" asks the woman. "No!" replied the two.
+1	"	"	PUNCT	punct	_	8	punct	_	_
+2	Ĩ'ra	'ra	NOUN	n	Person=3	8	vocative	_	son,daughter;filho,filha
+3	norĩ	norĩ	PART	prcl	Number=Coll	2	dep	_	_
+4	,	,	PUNCT	punct	_	8	punct	_	_
+5	e	e	PART	prcl	Int=Yes	8	dep	_	question.particle;partícula.interrogativa
+6	ai’udza	udza	NOUN	n	Person=2	8	obj	_	clothes,dress.up;roupa,vestir-se
+7	te	te	PART	prcl	Htp=Yes|Tense=Pres	8	dep	_	heterophoric.marker;marcardor.heterofórico
+8	ĩ'uptsõi	uptsõi	VERB	v	Person[abs]=3	14	ccomp	_	wash;lavar
+9	wa'wa	'wa	X	x	Number=Dual	8	dep	_	dual.number.marker;indicador.dual
+10	.	.	PUNCT	punct	_	8	punct	_	_
+11	"	"	PUNCT	punct	_	8	punct	_	_
+12	pi'õ	pi'õ	NOUN	n	_	14	nsubj	_	woman;mulher
+13	te	te	PART	prcl	Htp=Yes|Tense=Pres	14	dep	_	heterophoric.marker;marcardor.heterofórico
+14	tsadanha	tsadanharĩ	VERB	v	_	0	root	_	ask;perguntar
+15	.	.	PUNCT	punct	_	14	punct	_	_
+16	"	"	PUNCT	punct	_	17	punct	_	_
+17	Madze	madze	NOUN	n	_	23	ccomp	_	nada;nothing
+18	di	di	X	x	_	17	dep	_	expletive;expletivo
+19	!	!	PUNCT	punct	_	17	punct	_	_
+20	"	"	PUNCT	punct	_	17	punct	_	_
+21	õnorĩhã	õnorĩhã	PRON	pron	Number=Plur|Person=3	23	nsubj	_	_
+22	ma	ma	PART	prcl	Htp=Yes|Tense=Past	23	dep	_	perfect.aspect;aspecto.perfeito
+23	tsada'öbö	tsada'öbö	VERB	v	_	14	parataxis	_	reply;responder
+24	dzahuré	dzahuré	NUM	num	Number=Dual	21	nummod	_	_
+25	.	.	PUNCT	punct	_	23	punct	_	_
+
+# sent_id = GL-CLX38.2
+# text =  " E aihitébré ma ĩtsabui wa'wa . " ĩna te tsadanha . " Ĩhe ! " ma tsada'öbö dzahuré .
+# text_por = "Vocês duas cuidaram do seu irmão?"pergunta a mãe delas. "Sim!" responderam as duas.
+# text_eng = "Did you two take care of your brother?" asks their mother. "Yes!" replied the two.
+1	"	"	PUNCT	punct	_	5	punct	_	_
+2	E	e	PART	prcl	Int=Yes	5	dep	_	question.particle;partícula.interrogativa
+3	aihitébré	hitébré	NOUN	n	Person=2	5	obj	_	woman's brother;irmão.da.mulhei
+4	ma	ma	PART	prcl	Htp=Yes|Tense=Past	5	dep	_	perfect.aspect;aspecto.perfeito
+5	ĩtsabui	tsabui	VERB	v	Person[abs]=3	11	ccomp	_	see;ver,enxergar,olhar,cuidar
+6	wa'wa	'wa	X	x	Number=Dual	5	dep	_	dual.number.marker;indicador.dual
+7	.	.	PUNCT	punct	_	5	punct	_	_
+8	"	"	PUNCT	punct	_	5	punct	_	_
+9	ĩna	na	NOUN	n	Number=Sing|Person=3	11	nsubj	_	mother;mãe
+10	te	te	PART	prcl	Htp=Yes|Tense=Pres	11	dep	_	heterophoric.marker;marcardor.heterofórico
+11	tsadanha	tsadanharĩ	VERB	v	_	0	root	_	ask;perguntar
+12	.	.	PUNCT	punct	_	11	punct	_	_
+13	"	"	PUNCT	punct	_	14	punct	_	_
+14	Ĩhe	ĩhe	INTJ	intj	_	18	ccomp	_	yes;sim
+15	!	!	PUNCT	punct	_	14	punct	_	_
+16	"	"	PUNCT	punct	_	14	punct	_	_
+17	ma	ma	PART	prcl	Htp=Yes|Tense=Past	18	dep	_	perfect.aspect;aspecto.perfeito
+18	tsada'öbö	tsada'öbö	VERB	v	_	11	parataxis	_	reply;responder
+19	dzahuré	dzahuré	NUM	num	Number=Dual	18	nsubj	_	_
+20	.	.	PUNCT	punct	_	18	punct	_	_
+
+# sent_id = GL-CLX38.3
+# text = Wahitébré ma robdze uptabi di , ĩtsa wa te tãma tsõmri wa .
+# text_por = Nosso irmão ê muitofeliz, por que lhe damos comida.
+# text_eng = Our brother is very happy because we give him food.
+1	Wahitébré	hitébré	NOUN	n	Number=Plur|Person=1	3	nsubj	_	woman's brother;irmão.da.mulhei
+2	ma	ma	PART	prcl	Htp=Yes|Tense=Past	3	dep	_	perfect.aspect;aspecto.perfeito
+3	robdze	robdze	NOUN	n	_	0	root	_	happy;feliz
+4	uptabi	uptabi	NOUN	n	_	3	nmod	_	good,very.good;muito,muito.bom
+5	di	di	X	x	_	3	dep	_	expletive;expletivo
+6	,	,	PUNCT	punct	_	3	punct	_	_
+7	ĩtsa	tsa	NOUN	n	Person=3	11	obj	_	food;comida,alimento
+8	wa	wa	PART	prcl	Ego=Yes|Person=1	11	dep	_	egophoric.marker;marcardor.egofórico
+9	te	te	AUX	aux	_	11	aux	_	_
+10	tãma	ti	PRON	pron	Case=Dat|Person=3	11	iobj	_	_
+11	tsõmri	tsõmri	VERB	v	_	3	advcl	_	give;dar
+12	wa	wa	SCONJ	sconj	_	11	mark	_	why;por,por.que,por.motivo.de
+13	.	.	PUNCT	punct	_	11	punct	_	_
+
+# sent_id = GL-CLX38.4
+# text = " E mahawimhã ĩtsa ? " pi'õ te tsadanha .
+# text_por = "De onde vem a comida?" indaga a mulher.
+# text_eng = "Where does the food come from?" asks the woman.
+1	"	"	PUNCT	punct	_	3	punct	_	_
+2	E	e	PART	prcl	Int=Yes	3	dep	_	question.particle;partícula.interrogativa
+3	mahawimhã	hawimhã	VERB	v	_	9	ccomp	_	coming.from.there,from.there,being.from.there;vindo.de.lá,de.lá,estando.de.lá.para.cá
+4	ĩtsa	tsa	NOUN	n	Person=3	3	nsubj	_	food;comida,alimento
+5	?	?	PUNCT	punct	_	3	punct	_	_
+6	"	"	PUNCT	punct	_	3	punct	_	_
+7	pi'õ	pi'õ	NOUN	n	_	9	nsubj	_	woman;mulher
+8	te	te	PART	prcl	Htp=Yes|Tense=Pres	9	dep	_	heterophoric.marker;marcardor.heterofórico
+9	tsadanha	tsadanharĩ	VERB	v	_	0	root	_	ask;perguntar
+10	.	.	PUNCT	punct	_	9	punct	_	_
+
+# sent_id = GL-CLX38.5
+# text = " Wamama buru hawimhã . Tahawa , watsai ahö di ! " ba'õtõre te tãma tinha .
+# text_por = "Nosso pai (voltou) da roça. Por isso há muita comida." responde-llie a menininha.
+# text_eng = "Our father (returned) from the fields. That's why there's a lot of food." answer the little girl.
+1	"	"	PUNCT	punct	_	4	punct	_	_
+2	Wamama	mama	NOUN	n	_	4	nsubj	_	father;pai
+3	buru	buru	NOUN	n	_	4	obj	_	slash;roça
+4	hawimhã	hawimhã	VERB	v	_	16	ccomp	_	coming.from.there,from.there,being.from.there;vindo.de.lá,de.lá,estando.de.lá.para.cá
+5	.	.	PUNCT	punct	_	4	punct	_	_
+6	Tahawa	tahawa	SCONJ	sconj	_	8	mark	_	therefore;por.isso
+7	,	,	PUNCT	punct	_	8	punct	_	_
+8	watsai	tsa	NOUN	n	Number=Plur|Person=1	4	advcl	_	food;comida,alimento
+9	ahö	ahö	NOUN	n	_	8	nmod	_	many,numerous,abundant;muito,numeroso,abundante
+10	di	di	X	x	_	8	dep	_	expletive;expletivo
+11	!	!	PUNCT	punct	_	8	punct	_	_
+12	"	"	PUNCT	punct	_	8	punct	_	_
+13	ba'õtõre	ba'õtõre	NOUN	n	Degree=Dim	16	nsubj	_	little.girl;menina.pequena
+14	te	te	PART	prcl	Htp=Yes|Tense=Pres	16	dep	_	heterophoric.marker;marcardor.heterofórico
+15	tãma	ti	PRON	pron	Case=Dat|Person=3	16	iobj	_	_
+16	tinha	nharĩ	VERB	v	Person=3	0	root	_	speak;falar
+17	.	.	PUNCT	punct	_	16	punct	_	_
+
+# sent_id = GL-CLX38.6
+# text =  " Tane wamhã , oto 'ri tẽme watsi'aba'ré na ! " pi'õ te 'mahö .
+# text_por = "Se ê assim, vamos para casa!" exclama a mulher.
+# text_eng = "If that's the case, let's go home!" exclaims the woman.
+1	"	"	PUNCT	punct	_	8	punct	_	_
+2	Tane	tane	ADV	adv	_	8	advcl	_	thus;assim
+3	wamhã	wamhã	SCONJ	sconj	_	2	mark	_	when;quando
+4	,	,	PUNCT	punct	_	2	punct	_	_
+5	oto	oto	ADV	adv	_	8	advmod	_	then;então
+6	'ri	'ri	NOUN	n	_	8	obl	_	house;casa
+7	tẽme	tẽme	ADP	posp	_	6	case	_	to;para,até
+8	watsi'aba'ré	tsi'aba'ré	VERB	v	Person[abs]=1	14	ccomp	_	go.much,walk.much;ir.muitos,andar.muitos
+9	na	na	ADP	posp	_	8	obl	_	in,from;em,de
+10	!	!	PUNCT	punct	_	8	punct	_	_
+11	"	"	PUNCT	punct	_	8	punct	_	_
+12	pi'õ	pi'õ	NOUN	n	_	14	nsubj	_	woman;mulher
+13	te	te	PART	prcl	Htp=Yes|Tense=Pres	14	dep	_	heterophoric.marker;marcardor.heterofórico
+14	'mahö	'mahöhö	VERB	v	_	0	root	_	call.once;chamar.uma.só.vez
+15	.	.	PUNCT	punct	_	14	punct	_	_
+
+# sent_id = GL-CLX41.1
+# text = Ano dzahuré tsabu na !
+# text_por = (menino) Cuida dos seus dois irmãos menores! ou: (menina) Cuida de suas duas irmãos menores!
+# text_eng = (boy) Take care of your two younger brothers! or: (girl) Take care of your two younger sisters!
+1	Ano	no	NOUN	n	Number=Sing|Person=3	3	obj	_	man's.younger.brother,woman's.younger.sister;irmão.menor.do.homem,irmã.menor.da.mulher
+2	dzahuré	dzahuré	NUM	num	Number=Dual	1	nummod	_	_
+3	tsabu	tsabu	VERB	v	_	0	root	_	see,take.care.of;ver,enxergar,olhar,cuidar
+4	na	na	ADP	posp	_	3	obl	_	in,from;em,de
+5	!	!	PUNCT	punct	_	3	punct	_	_
+
+# sent_id = GL-CLX41.2
+# text = Dui 'ré waibui wa'aba !
+# text_por = Peguem capim seco vocês duas.
+# text_eng = Get dry grass, you two.
+1	Dui	du	NOUN	n	_	3	obj	_	grass;capim,grama
+2	'ré	'ré	NOUN	n	_	1	nmod	_	dry;seco
+3	waibui	waibui	VERB	v	_	0	root	_	pick.up.many.things;pegar.muitas.coisas
+4	wa'aba	aba	PART	prcl	Number=Coll	3	dep	_	collective.marker
+5	!	!	PUNCT	punct	_	3	punct	_	_
+
+# sent_id = GL-CLX41.3
+# text = Awaru wa watsihu ni .
+# text_por = Nós dois soltamos um cavalo.
+# text_eng = We both released a horse.
+1	Awaru	awaru	NOUN	n	_	3	obj	_	horse;cavalo
+2	wa	wa	PART	prcl	Ego=Yes|Person=1	3	dep	_	egophoric.marker;marcardor.egofórico
+3	watsihu	watsihu	VERB	v	_	0	root	_	loosen,untie;soltar,desamarrar
+4	ni	ni	X	x	Number=Dual	3	dep	_	dual.number.marker;indicador.dual
+5	.	.	PUNCT	punct	_	3	punct	_	_
+
+# sent_id = GL-CLX41.4
+# text = E atsib'rada ma ĩ'uptsõi wa'wa .
+# text_por = Vocês dois lavaram suas mãos?
+# text_eng = Did you two wash your hands?
+1	E	e	PART	prcl	Int=Yes	4	dep	_	question.particle;partícula.interrogativa
+2	atsib'rada	tsib'rada	NOUN	n	Person=2	4	obj	_	hand;mão
+3	ma	ma	PART	prcl	Htp=Yes|Tense=Past	4	dep	_	perfect.aspect;aspecto.perfeito
+4	ĩ'uptsõi	uptsõi	VERB	v	Person[abs]=3	0	root	_	wash;lavar
+5	wa'wa	'wa	X	x	Number=Dual	4	dep	_	dual.number.marker;indicador.dual
+6	.	.	PUNCT	punct	_	4	punct	_	_
+
+# sent_id = EMX-1
+# text = Tahata wahi'rata norĩhã
+# text_eng = Those are our ancestros (Estevam 2011:  27, 1)
+# text_por = Aquele são nossos antepassados
+1	Tahata	tahata	DET	dem	_	2	det	_	isso;that
+2	wahi'rata	'rata	NOUN	n	_	0	root	_	ancestor;antepassado
+3	norĩhã	norĩ	PART	prcl	Emph=Yes|Number=Coll	2	discourse	_	_
+
+# sent_id = EMX-2
+# text = Wahi'rata norĩhã danho're ma wama awaihu'u .
+# text_eng = Our ancestors taught us songs. (Estevam, 27: 2)
+# text_por = Nossos ancestrais nos ensinaram canções.
+1	Wahi'rata	'rata	NOUN	n	_	6	nsubj	_	ancestor;antepassado
+2	norĩhã	norĩ	PART	prcl	Emph=Yes|Number=Coll	6	discourse	_	_
+3	danho're	danho're	NOUN	n	_	6	obj	_	song;canto
+4	ma	ma	PART	prcl	Htp=Yes|Tense=Past	3	dep	_	perfect.aspect;aspecto.perfeito
+5	wama	wa	PRON	pron	Case=Dat|Number=Plur|Person=1	6	iobj	_	_
+6	awaihu'u	waihu'u	VERB	v	_	0	root	_	know,do,teach;saber,fazer,ensinar
+7	.	.	PUNCT	_	_	6	punct	_	_
+
+# sent_id = EMX-3
+# text = Waradzu wahi'rata norĩhã ma dapãrĩ dza'ra
+# text_eng = The white man murdered our ancestors. (Estevam, 27: 3)
+# text_por = O homem branco matou nossos antepassados. 
+1	Waradzu	waradzu	NOUN	n	_	5	nsubj	_	white,civilized,non-indian;branco,civilizado,não-índio
+2	wahi'rata	'rata	NOUN	n	_	5	obj	_	ancestor;antepassado
+3	norĩhã	norĩ	PART	prcl	Emph=Yes|Number=Coll	5	discourse	_	_
+4	ma	ma	PART	prcl	Htp=Yes|Tense=Past	5	dep	_	perfect.aspect;aspecto.perfeito
+5	dapãrĩ	pãrĩ	VERB	_	Gnq=Yes|Person[abs]=3	0	root	_	kill.two.beings;matar.dois.seres
+6	dza'ra	dza'ra	PART	prcl	Number=Plur	5	dep	_	_
+
+# sent_id = EMX-4
+# text = Wahi'rata norĩ höimanadzé ĩpire
+# text_eng = The life of our ancestors is hard. (Estevam 2011:  28, 4)
+# text_por = A vida de nossos antepassados é difícil.
+1	Wahi'rata	'rata	NOUN	n	_	3	nmod	_	ancestor;antepassado
+2	norĩ	norĩ	PART	prcl	Number=Coll	1	dep	_	_
+3	höimanadzé	höimanadzé	NOUN	n	_	4	nsubj	_	life,existence;vida,existência
+4	ĩpire	pire	NOUN	n	_	0	root	_	heavy,important;pesado,importante
+
+# sent_id = EMX-5
+# text = Höiwahö wa dza we wate simro wa'ra norĩhã
+# text_eng = In the afternoon we will bring our children back. (Estevam 2011:  28, 5)
+# text_por = À tarde, traremos nossos filhos de volta.
+1	Höiwahö	höiwahö	ADV	adv	_	6	advmod	_	late;de.tarde
+2	wa	wa	PART	prcl	Ego=Yes|Person=1	6	dep	_	egophoric.marker;marcardor.egofórico
+3	dza	dza	PART	prcl	Tense=Fut	6	dep	_	future.marker;marcador.de.futuro
+4	we	we	ADV	adv	_	6	advmod	_	hither;para.cá
+5	wate	te	AUX	aux	Number=Plur|Person=1	6	aux	_	_
+6	simro	simro	VERB	v	_	0	root	_	bring.back;trazer.de.volta
+7	wa'ra	'ra	NOUN	n	Number=Plur|Person=1	6	obj	_	son,daughter;filho,filha
+8	norĩhã	norĩ	PART	prcl	Emph=Yes|Number=Coll	6	discourse	_	_
+
+# sent_id = EMX-6
+# text = 'Watébrémi ti'a te tsãmra
+# text_eng = The boy sat on the floor (Estevam 2011:  28, 6)
+# text_por = O menino sentou no chão
+1	'Watébrémi	'watébrémi	NOUN	n	_	4	nsubj	_	boy;menino
+2	ti'a	ti'a	NOUN	n	_	4	obj	_	ground;terra
+3	te	te	PART	prcl	Htp=Yes|Tense=Pres	4	dep	_	heterophoric.marker;marcardor.heterofórico
+4	tsãmra	tsãmra	VERB	v	_	0	root	_	sit.down;sentar-se
+
+# sent_id = EMX-7
+# text = Höiwahö wa dza oto wawa'utu dza'ra ni
+# text_eng = In the afternoon we will rest. (Estevam 2011:  29, 7)
+# text_por = À tarde vamos descansar.
+1	Höiwahö	höiwahö	ADV	adv	_	5	advmod	_	late;de.tarde
+2	wa	wa	PART	prcl	Ego=Yes|Person=1	5	dep	_	egophoric.marker;marcardor.egofórico
+3	dza	dza	PART	prcl	Tense=Fut	5	dep	_	future.marker;marcador.de.futuro
+4	oto	oto	ADV	adv	_	5	advmod	_	then;então
+5	wawa'utu	tsiwa'utu	VERB	v	Person[abs]=1	0	root	_	rest;descansar
+6	dza'ra	dza'ra	PART	prcl	Number=Plur	5	dep	_	_
+7	ni	ni	X	x	Number=Dual	5	dep	_	dual.number.marker;indicador.dual
+
+# sent_id = EMX-8
+# text = Ma 'rowipese re te te sõré
+# text_eng = They installed (the taps) close by. (Estevam 2011:  29, 8)
+# text_por = Eles instalaram (as torneiras) perto.
+1	Ma	ma	PART	prcl	Htp=Yes|Tense=Past	3	dep	_	perfect.aspect;aspecto.perfeito
+2-3	'rowipese	_	_	_	_	_	_	_	_
+2	'rowi	'rowi	ADV	adv	_	3	advmod	_	near;perto
+3	pese	pese	VERB	v	_	0	root	_	be.perfect;seja.perfeito
+4	re	re	PART	prcl	Degree=Dim	3	dep	_	diminutive;diminutivo
+5	te	te	PRON	pron	_	7	nsubj	_	_
+6	te	te	AUX	aux	_	7	aux	_	_
+7	sõré	sõré	VERB	v	_	3	parataxis	_	install;instalar
+
+# sent_id = EMX-9
+# text = Wasina wa te ãma mro
+# text_fr = Je compte les étoiles.
+# text_eng = I count the stars (I pair with the stars). (Estevam 2011:  31, 9)
+# text_por = Conto as estrelas (faço par com as estrelas).
+1	Wasina	wasi	NOUN	n	Case=Ins	5	obj	_	star;estrela
+2	wa	wa	PART	prcl	Ego=Yes|Person=1	5	dep	_	egophoric.marker;marcardor.egofórico
+3	te	te	AUX	aux	_	5	aux	_	_
+4	ãma	ãma	ADP	posp	_	5	obl	_	in;em
+5	mro	mro	VERB	v	_	0	root	_	match;contar
+
+# sent_id = EMX-10
+# text = Te wamama norĩhã waré 're höimana dza'ra warobreb 're hã U'uiwawẽ ãma hã
+# text_eng = Our parents lived (happily) with us in our small village in Lagoa Azul. (Estevam 2011:  31, 10)
+# text_por = Nossos pais viviam (felizmente) conosco em nosso pequeno vilarejo em Lagoa Azul.
+1	Te	te	PART	prcl	Htp=Yes|Tense=Pres	6	dep	_	heterophoric.marker;marcardor.heterofórico
+2	wamama	mama	NOUN	n	_	6	nsubj	_	father;pai
+3	norĩhã	norĩ	PART	prcl	Emph=Yes|Number=Coll	6	discourse	_	_
+4	waré	ré	ADP	posp	Number=Plur|Person=1	6	obl	_	full.of,inside.of,during,while;cheio.de,dentro.de,durante,enquanto,sendo
+5	're	're	ADP	posp	_	6	obl	_	inside,in;dentro.de,em
+6	höimana	höimana	VERB	v	_	0	root	_	be,live,exist;ser,viver,existir
+7	dza'ra	dza'ra	PART	prcl	Number=Plur	6	dep	_	_
+8-9	warobreb	_	_	_	_	_	_	_	_
+8	warob	rob	NOUN	n	Number=Plur|Person=1	6	obl	_	village;aldeia
+9	reb	re	PART	prcl	Degree=Dim	8	dep	_	diminutive;diminutivo
+10	're	're	ADP	posp	_	8	case	_	inside,in;dentro.de,em
+11	hã	hã	DET	det	_	8	det	_	_
+12	U'uiwawẽ	u'uiwawẽ	PROPN	propn	_	6	obl	_	_
+13	ãma	ãma	ADP	posp	_	12	case	_	in;em
+14	hã	hã	DET	det	_	12	det	_	_
+
+# sent_id = EMX-11
+# text = Õhã si uburé marĩ waihu'u'wa hã tô , ropoto'wa si
+# text_eng = Only the creator, he alone (is) knows all things. (Estevam 2011:  32, 11)
+# text_por = Somente o criador, somente ele (é) conhece todas as coisas.
+1	Õhã	õhã	PRON	pron	Emph=Yes|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	he,she,it;ele,ela
+2	si	si	ADV	adv	_	5	advmod	_	only;só,somente
+3	uburé	uburé	PRON	pron	PronType=Tot	4	nmod	_	all;tudo
+4	marĩ	marĩ	NOUN	n	_	5	obj	_	something,what;algo,o.que,alguma.coisa
+5	waihu'u'wa	waihu'u'wa	NOUN	n	_	0	root	_	one.who.knows;aquele.quem.sabe
+6	hã	hã	PART	prcl	Emph=Yes	5	dep	_	_
+7	tô	tô	PART	prcl	Fact=Yes	5	dep	_	factive;fictício
+8	,	,	PUNCT	punct	_	5	punct	_	_
+9-10	ropoto'wa	_	_	_	_	_	_	_	_
+9	ro	ro	NOUN	n	_	10	nmod	_	world;mundo
+10	poto'wa	poto'wa	NOUN	n	_	5	dislocated	_	creator.of.people;criador.dos.homens
+11	si	si	ADV	adv	_	10	advmod	_	only;só,somente
+
+# sent_id = EMX-14
+# text = Duré abadzi hã wa wate wasima 'rãzani dza'ra
+# text_eng = We scatter cotton for us too. (Estevam 2011:  34, 14)
+# text_por = Nós fabricamos (processamos) algodão para nós também
+1	Duré	duré	ADV	adv	_	7	advmod	_	also;também
+2	abadzi	abadzi	NOUN	n	_	7	obj	_	cotton;algodão
+3	hã	hã	DET	det	_	2	det	_	_
+4	wa	wa	PART	prcl	Ego=Yes|Person=1	7	dep	_	egophoric.marker;marcardor.egofórico
+5	wate	te	AUX	aux	Number=Plur|Person=1	7	aux	_	_
+6	wasima	wa	PRON	pron	Case=Dat|Number=Plur|Person=1|Reflex=Yes	7	iobj	_	_
+7	'rãzani	_	VERB	_	_	0	root	_	scatter;espalhar
+8	dza'ra	dza'ra	PART	prcl	Number=Plur	7	dep	_	_
+
+# sent_id = EMX-15a
+# text = A'uwẽ nhimiromhuri hã ĩ'rãzani
+# text_eng = The work of the Xavantes (it) is to scatter. (Estevam 2011:  34, 15a)
+# text_por = O trabalho dos Xavantes (it) é espalhar.
+1	A'uwẽ	a'uwẽ	NOUN	n	_	2	nmod	_	man,person,people,indian;homem,pessoa,gente,índio
+2	nhimiromhuri	romhuri	NOUN	n	_	4	nsubj	_	work,labour;trabalho
+3	hã	hã	DET	det	_	2	det	_	_
+4	ĩ'rãzani	'rãzani	VERB	v	Person=3	0	root	_	scatter;espalhar
+
+# sent_id = EMX-15b
+# text = ĩ'rãzani na wa wate ãma wasima romhuri dza'ra
+# text_eng = We work to gin (the cotton) for us. (Estevam 2011:  34, 15b)
+# text_por = Trabalhamos para descaroçar (o algodão) para nós.
+1	ĩ'rãzani	'rãzani	VERB	v	Person=3	7	xcomp	_	scatter;espalhar
+2	na	na	ADP	posp	_	1	obl	_	in,from;em,de
+3	wa	wa	PART	prcl	Ego=Yes|Person=1	7	dep	_	egophoric.marker;marcardor.egofórico
+4	wate	te	AUX	aux	Number=Plur|Person=1	7	aux	_	_
+5	ãma	ãma	ADP	posp	_	7	obl	_	in;em
+6	wasima	wa	PRON	pron	Case=Dat|Number=Plur|Person=1|Reflex=Yes	7	iobj	_	_
+7	romhuri	romhuri	VERB	v	_	0	root	_	to.work;trabalhar
+8	dza'ra	dza'ra	PART	prcl	Number=Plur	7	dep	_	_
+
+# sent_id = EMX-16a
+# text = Ö wa ĩĩsima wẽ
+# text_eng = I want some water. (Estevam 2011:  35, 16a)
+# text_por = Trabalhamos para descaroçar (o algodão) para nós.
+1	Ö	ö	NOUN	n	_	4	obj	_	water;água
+2	wa	wa	PART	prcl	Ego=Yes|Person=1	4	dep	_	egophoric.marker;marcardor.egofórico
+3	ĩĩsima	ĩĩ	PRON	pron	Case=Dat|Number=Sing|Person=1|Reflex=Yes	4	nsubj	_	_
+4	wẽ	wẽ	VERB	v	_	0	root	_	want;querer
+
+# sent_id = EMX-16b
+# text = Ĩĩsiupte da wa ĩĩsima wẽ
+# text_eng = I want to wash myself. (Estevam 2011:  35, 16b)
+# text_por = Eu quero me lavar.
+1	Ĩĩsiupte	upte	VERB	v	Number=Sing|Person=1	5	xcomp	_	wash;lavagem
+2	da	da	SCONJ	sconj	_	1	mark	_	for,in.order.to,so.that;para,afim.de,para.que
+3	wa	wa	PART	prcl	Ego=Yes|Person=1	5	dep	_	egophoric.marker;marcardor.egofórico
+4	ĩĩsima	ĩĩ	PRON	pron	Case=Dat|Number=Sing|Person=1|Reflex=Yes	5	nsubj	_	_
+5	wẽ	wẽ	VERB	v	_	0	root	_	want;querer
+
+# sent_id = EMX-17
+# text = Te dza oto asina aahöimana aba mo , a'uwẽ hã atébré aba hö
+# text_eng = From now on you will live by yourselves, so that the (people) xavante (will) multiply. (Estevam 2011:  35, 17)
+# text_por = A partir de agora vocês viverão sozinhos, para que o (povo) xavante (se multiplique).
+1	Te	te	PART	prcl	Htp=Yes|Tense=Pres	5	dep	_	heterophoric.marker;marcardor.heterofórico
+2	dza	dza	PART	prcl	Tense=Fut	5	dep	_	future.marker;marcador.de.futuro
+3	oto	oto	ADV	adv	_	5	advmod	_	then;então
+4	asina	a	PRON	pron	Case=Ins|Hon=Yes|Person=2|Reflex=Yes	5	obl	_	_
+5	aahöimana	höimana	VERB	v	Hon=Yes|Person[abs]=2	0	root	_	be,live,exist;ser,viver,existir
+6	aba	aba	PART	prcl	Number=Coll	5	dep	_	collective.marker
+7	mo	mo	AUX	aux	_	5	aux	_	_
+8	,	,	PUNCT	punct	_	5	punct	_	_
+9	a'uwẽ	a'uwẽ	NOUN	n	_	11	nsubj	_	man,person,people,indian;homem,pessoa,gente,índio
+10	hã	hã	DET	det	_	9	det	_	_
+11	atébré	atébré	VERB	v	_	5	parataxis	_	multiply;multiplicar
+12	aba	aba	PART	prcl	Number=Coll	11	dep	_	collective.marker
+13	hö	hö	X	x	Mood=Des	11	dep	_	_
+
+# sent_id = EMX-18
+# text = Wa 're ĩĩhöimana rowẽuptabi na hã
+# text_eng = I lived very happily. (Estevam 2011:  35, 18)
+# text_por = Eu vivi muito feliz.
+1	Wa	wa	PART	prcl	Ego=Yes|Person=1	3	dep	_	egophoric.marker;marcardor.egofórico
+2	're	're	ADP	posp	_	3	dep	_	inside,in;dentro.de,em
+3	ĩĩhöimana	höimana	VERB	v	Number[abs]=Sing|Person[abs]=1	0	root	_	live;viver
+4-5	rowẽuptabi	_	_	_	_	_	_	_	_
+4	rowẽ	rowẽ	VERB	v	_	3	parataxis	_	make.beautiful;fazer.bonito,alegrar
+5	uptabi	uptabi	NOUN	n	_	4	obl	_	good,very.good;muito,muito.bom
+6	na	na	ADP	posp	_	5	case	_	in,from;em,de
+7	hã	hã	DET	det	_	5	det	_	_
+
+# sent_id = EMX-19a
+# text = waradzu 'ra
+# text_eng = son of the white man (Estevam 2011:  38, 19a)
+# text_por = filho do homem branco
+1	waradzu	waradzu	NOUN	n	_	2	nmod	_	white,civilized,non-indian;branco,civilizado,não-índio
+2	'ra	'ra	NOUN	n	Number=Plur|Person=1	0	root	_	son,daughter;filho,filha
+
+# sent_id = EMX-19b
+# text = ĩ'ra
+# text_eng = his son (Estevam 2011:  38, 19b)
+# text_por = o filho dele
+1	ĩ'ra	'ra	NOUN	n	Person=3	0	root	_	son,daughter;filho,filha
+
+# sent_id = EMX-20a
+# text = ĩĩmama dzéré
+# text_eng = hair of my father (Estevam 2011:  38, 20a)
+# text_por = cabelo do meu pai
+1	ĩĩmama	mama	NOUN	n	Number=Sing|Person=1	2	nmod	_	father;pai
+2	dzéré	dzéré	NOUN	n	_	0	root	_	hair;cabelo
+
+# sent_id = EMX-20b
+# text = ĩdzéré
+# text_eng = his hair (Estevam 2011:  38, 20b)
+# text_por = o cabelo dele
+1	ĩdzéré	dzéré	NOUN	n	Person=3	0	root	_	hair;cabelo
+
+# sent_id = EMX-21
+# text = ĩĩmama te waptsã
+# text_fr = chien de mon père
+# text_eng = dog of my father (Estevam 2011:  39, 21)
+1	ĩĩmama	mama	NOUN	n	Number=Sing|Person=1	3	nmod	_	father;pai
+2	te	te	X	x	Gnq=Yes	3	dep	_	_
+3	waptsã	waptsã	NOUN	n	_	0	root	_	dog,puppy;cachorro
+
+# sent_id = EMX-22
+# text = Ĩhiñimiza'reseõ tô darob mono bö te höimana dza'ra tô
+# text_fr = De vieux ignares existent en effet dans chaque village.
+# text_eng = Old ignoramuses exist indeed in every village. (Estevam 2011:  40, 22)
+1-2	Ĩhiñimiza'reseõ	_	_	_	_	_	_	_	_
+1	Ĩhi	ĩhi	NOUN	n	_	2	nmod	_	old,aged,elderly;velho,idoso,ancião
+2	ñimiza'reseõ	ñimiza'rese	NOUN	n	Polarity=Neg	8	nsubj	_	ignorant;ignorante
+3	tô	tô	PART	prcl	Fact=Yes	8	dep	_	factive;fictício
+4	darob	rob	NOUN	n	Gnq=Yes	8	obl	_	village;aldeia
+5	mono	mono	PART	prcl	NumType=Dist	4	dep	_	_
+6	bö	bö	PART	prcl	_	4	discourse	_	thus;assim
+7	te	te	PART	prcl	Htp=Yes|Tense=Pres	8	dep	_	heterophoric.marker;marcardor.heterofórico
+8	höimana	höimana	VERB	v	_	0	root	_	live;viver
+9	dza'ra	dza'ra	PART	prcl	Number=Plur	8	dep	_	_
+10	tô	tô	PART	prcl	Fact=Yes	8	dep	_	factive;fictício
+
+# sent_id = EMX-23a
+# text = Uwaj'rewawẽ zahadu tete di
+# text_fr = L’avocat n’est pas encore mûr
+# text_eng = The avocado is not ripe yet. (Estevam 2011:  40, 23a)
+1	Uwaj'rewawẽ	uwaj'rewawẽ	NOUN	n	_	3	nsubj	_	avocado;abacate
+2	zahadu	zahadu	ADV	adv	_	3	advmod	_	yet;ainda
+3	tete	tete	NOUN	n	_	0	root	_	be.hard;ser.dura
+4	di	di	PART	prcl	_	3	dep	_	_
+
+# sent_id = EMX-23b
+# text = Asaro zöptete di
+# text_fr = Le riz n’est pas mûr
+# text_eng = The rice is not ripe (lit. “is hard”). (Estevam 2011:  40, 23b)
+1	Asaro	asaro	NOUN	n	_	3	nsubj	_	rice;arroz
+2-3	zöptete	_	_	_	_	_	_	_	_
+2	zöp	zöp	NOUN	n	_	3	nmod	_	seed;grão
+3	tete	tete	NOUN	n	Person=3	0	root	_	be.hard;ser.dura
+4	di	di	PART	prcl	_	3	dep	_	_
+
+# sent_id = EMX-24a
+# text = aba'wa norĩ
+# text_fr = (les) chasseurs
+# text_eng = the hunters (Estevam 2011:  41, 24a)
+1	aba'wa	aba'wa	NOUN	n	_	0	root	_	hunter;caçador
+2	norĩ	norĩ	PART	prcl	Number=Coll	1	dep	_	_
+
+# sent_id = EMX-24b
+# text = utö norĩ
+# text_fr = (les) tapirs
+# text_eng = the tapirs (Estevam 2011:  41, 24b)
+1	utö	utö	NOUN	n	_	0	root	_	tapir;tapir
+2	norĩ	norĩ	PART	prcl	Number=Coll	1	dep	_	_
+

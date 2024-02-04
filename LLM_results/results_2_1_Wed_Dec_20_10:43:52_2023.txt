@@ -1,0 +1,179 @@
+chatGPT|:|--<@>root<#>Como<@>você<#>você<@>root<#>recebeu<@>notícia<#>a<@>notícia<#>notícia<@>root<#>de<@>que<#>que<@>notícia<#>seria<@>substituído<#>substituído<@>notícia<#>?<@>root|:|UDA:0.333<#>DDA: 0.250
+DepRel |:|Folha<@>root<@>root<#>--<@>Folha<@>punct<#>Como<@>recebeu<@>advmod<#>você<@>recebeu<@>nsubj<#>recebeu<@>Folha<@>parataxis<#>a<@>notícia<@>det<#>notícia<@>recebeu<@>obj<#>de<@>substituído<@>mark<#>que<@>substituído<@>mark<#>seria<@>substituído<@>aux<#>substituído<@>notícia<@>acl<#>?<@>Folha<@>punct
+>--<
+chatGPT|:|Normalmente<@>root|:|UDA:0.000<#>DDA: 0.000
+DepRel |:|Giovane<@>root<@>root<#>--<@>Giovane<@>punct<#>Normalmente<@>Giovane<@>parataxis<#>.<@>Giovane<@>punct
+>--<
+chatGPT|:|é<@>isso<#>isso<@>Seleção<#>joga<@>quem<#>quem<@>está<#>está<@>melhor<#>melhor<@>quem<#>não<@>tem<#>tem<@>esse<#>esse<@>negócio<#>de<@>nome<#>nome<@>esse<#>.<@>Seleção|:|UDA:0.438<#>DDA: 0.312
+DepRel |:|Seleção<@>isso<@>nsubj<#>é<@>isso<@>cop<#>isso<@>root<@>root<#>,<@>joga<@>punct<#>joga<@>isso<@>acl<#>quem<@>melhor<@>nsubj<#>está<@>melhor<@>cop<#>melhor<@>joga<@>csubj<#>,<@>tem<@>punct<#>não<@>tem<@>advmod<#>tem<@>joga<@>conj<#>esse<@>negócio<@>det<#>negócio<@>tem<@>nsubj<#>de<@>nome<@>case<#>nome<@>negócio<@>nmod<#>.<@>isso<@>punct
+>--<
+chatGPT|:|melhor<@>equipe<#>equipe<@>é<#>é<@>que<#>que<@>deve<#>deve<@>jogar<#>.<@>jogar|:|UDA:0.500<#>DDA: 0.250
+DepRel |:|A<@>equipe<@>det<#>melhor<@>equipe<@>amod<#>equipe<@>deve<@>nsubj<#>é<@>jogar<@>discourse<#>que<@>é<@>fixed<#>deve<@>root<@>root<#>jogar<@>deve<@>xcomp<#>.<@>jogar<@>punct
+>--<
+chatGPT|:|NÚMERO<@>32|:|UDA:0.333<#>DDA: 0.000
+DepRel |:|O<@>NÚMERO<@>det<#>NÚMERO<@>root<@>root<#>32<@>NÚMERO<@>nummod
+>--<
+chatGPT|:|casos<@>positivos<#>positivos<@>dengue<#>dengue<@>casos<#>em<@>Monte<#>Monte<@>Aprazível<#>Aprazível<@>Monte<#>38<@>km<#>km<@>Rio<#>Rio<@>Preto<#>Preto<@>km<#>de<@>Rio<#>Rio<@>Preto<#>Preto<@>de<#>de<@>Rio<#>Rio<@>Preto<#>o<@>Ersa<#>Ersa<@>Escritório<#>Escritório<@>Ersa<#>Regional<@>Saúde<#>Saúde<@>Ersa<#>Ersa<@>Escritório<#>Rio<@>divulgados<#>divulgados<@>ontem<#>ontem<@>divulgados<#>por<@>Ersa<#>Ersa<@>divulgados<#>Escritório<@>divulgados<#>Regional<@>divulgados<#>Saúde<@>divulgados|:|UDA:0.452<#>DDA: 0.258
+DepRel |:|...<@>divulgados<@>punct<#>casos<@>divulgados<@>nsubj<#>positivos<@>casos<@>amod<#>de<@>dengue<@>case<#>dengue<@>casos<@>nmod<#>em<@>Monte<@>case<#>Monte<@>casos<@>nmod<#>Aprazível<@>Monte<@>flat<#>(<@>km<@>punct<#>38<@>km<@>nummod<#>km<@>Monte<@>appos<#>de<@>Rio<@>case<#>Rio<@>km<@>nmod<#>Preto-SP<@>Rio<@>flat<#>)<@>km<@>punct<#>foram<@>divulgados<@>aux<#>divulgados<@>root<@>root<#>ontem<@>divulgados<@>advmod<#>por<@>Ersa<@>case<#>o<@>Ersa<@>det<#>Ersa<@>divulgados<@>obl<#>(<@>Escritório<@>punct<#>Escritório<@>Ersa<@>appos<#>Regional<@>Escritório<@>flat<#>de<@>Saúde<@>case<#>Saúde<@>Escritório<@>nmod<#>)<@>Escritório<@>punct<#>de<@>Rio<@>case<#>Rio<@>Ersa<@>nmod<#>Preto<@>Rio<@>flat<#>.<@>divulgados<@>punct
+>--<
+chatGPT|:|região<@>vive<#>vive<@>uma<#>epidemia<@>vive<#>de<@>a<#>a<@>doença<#>doença<@>epidemia|:|UDA:0.444<#>DDA: 0.444
+DepRel |:|A<@>região<@>det<#>região<@>vive<@>nsubj<#>vive<@>root<@>root<#>uma<@>epidemia<@>det<#>epidemia<@>vive<@>obj<#>de<@>doença<@>case<#>a<@>doença<@>det<#>doença<@>epidemia<@>nmod<#>.<@>vive<@>punct
+>--<
+chatGPT|:|de<@>Monte<#>Monte<@>Aprazível<#>Aprazível<@>cidade<#>tem<@>casos<#>68<@>casos<#>casos<@>root<#>confirmados<@>casos<#>.<@>casos|:|UDA:0.500<#>DDA: 0.300
+DepRel |:|A<@>cidade<@>det<#>cidade<@>tem<@>nsubj<#>de<@>Monte<@>case<#>Monte<@>cidade<@>nmod<#>Aprazível<@>Monte<@>flat<#>tem<@>root<@>root<#>68<@>casos<@>nummod<#>casos<@>tem<@>obj<#>confirmados<@>casos<@>acl<#>.<@>tem<@>punct
+>--<
+chatGPT|:|Preto<@>tem<#>tem<@>três<#>casos<@>tem<#>positivos<@>casos<#>.<@>tem|:|UDA:0.429<#>DDA: 0.429
+DepRel |:|Rio<@>tem<@>nsubj<#>Preto<@>Rio<@>flat<#>tem<@>root<@>root<#>três<@>casos<@>nummod<#>casos<@>tem<@>obj<#>positivos<@>casos<@>amod<#>.<@>tem<@>punct
+>--<
+chatGPT|:|Federais<@>de<#>de<@>MS<#>MS<@>Federais<#>entram<@>greve|:|UDA:0.250<#>DDA: 0.125
+DepRel |:|Policiais<@>entram<@>nsubj<#>Federais<@>Policiais<@>amod<#>de<@>MS<@>case<#>o<@>MS<@>det<#>MS<@>Policiais<@>nmod<#>entram<@>root<@>root<#>em<@>greve<@>case<#>greve<@>entram<@>obl
+>--<
+chatGPT|:|<@><#>Os<@>policiais<#>policiais<@>entraram<#>federais<@>policiais<#>de<@>Mato<#>Sul<@>policiais<#>entraram<@>greve<#>em<@>greve<#>adesão<@>greve<#>ao<@>movimento<#>movimento<@>greve<#>iniciado<@>movimento<#>no<@>Distrito<#>Federal<@>movimento<#>.<@>greve|:|UDA:0.280<#>DDA: 0.240
+DepRel |:|Os<@>policiais<@>det<#>policiais<@>entraram<@>nsubj<#>federais<@>policiais<@>amod<#>de<@>Mato<@>case<#>Mato<@>policiais<@>nmod<#>Grosso<@>Mato<@>flat<#>de<@>Sul<@>case<#>o<@>Sul<@>det<#>Sul<@>Mato<@>nmod<#>entraram<@>root<@>root<#>em<@>greve<@>case<#>greve<@>entraram<@>obl<#>ontem<@>entraram<@>advmod<#>,<@>adesão<@>punct<#>em<@>adesão<@>case<#>adesão<@>entraram<@>obl<#>a<@>movimento<@>case<#>o<@>movimento<@>det<#>movimento<@>adesão<@>nmod<#>iniciado<@>movimento<@>acl<#>em<@>Distrito<@>case<#>o<@>Distrito<@>det<#>Distrito<@>iniciado<@>obl<#>Federal<@>Distrito<@>flat<#>.<@>entraram<@>punct
+>--<
+chatGPT|:|é<@>reivindicação<#>de<@>equiparação<#>equiparação<@>reivindicação<#>com<@>equiparação<#>Civil<@>com<#>de<@>Polícia<#>DF<@>Polícia<#>o<@>DF<#>que<@>reajuste<#>representaria<@>que<#>um<@>reajuste<#>reajuste<@>representaria<#>de<@>300<#>%<@>reajuste<#>.<@>reivindicação|:|UDA:0.348<#>DDA: 0.261
+DepRel |:|A<@>reivindicação<@>det<#>reivindicação<@>equiparação<@>nsubj<#>é<@>equiparação<@>cop<#>de<@>equiparação<@>case<#>equiparação<@>root<@>root<#>salarial<@>equiparação<@>amod<#>com<@>Polícia<@>case<#>a<@>Polícia<@>det<#>Polícia<@>equiparação<@>nmod<#>Civil<@>Polícia<@>flat<#>de<@>DF<@>case<#>o<@>DF<@>det<#>DF<@>Polícia<@>nmod<#>,<@>equiparação<@>punct<#>o<@>equiparação<@>appos<#>que<@>representaria<@>nsubj<#>representaria<@>o<@>acl<#>um<@>reajuste<@>det<#>reajuste<@>representaria<@>obj<#>de<@>%<@>case<#>300<@>%<@>nummod<#>%<@>reajuste<@>nmod<#>.<@>equiparação<@>punct
+>--<
+chatGPT|:|Mato<@>Grosso<#>Grosso<@>,<#>,<@>paralisação<#>paralisação<@>está<#>está<@>prevista<#>para<@>começar<#>hoje<@>.|:|UDA:0.250<#>DDA: 0.167
+DepRel |:|Em<@>Mato<@>case<#>Mato<@>prevista<@>obl<#>Grosso<@>Mato<@>flat<#>,<@>Mato<@>punct<#>a<@>paralisação<@>det<#>paralisação<@>prevista<@>nsubj<#>está<@>prevista<@>cop<#>prevista<@>root<@>root<#>para<@>começar<@>mark<#>começar<@>prevista<@>xcomp<#>hoje<@>começar<@>advmod<#>.<@>prevista<@>punct
+>--<
+chatGPT|:|receberam<@>beijos<#>beijos<@>Itamar<#>de<@>Itamar|:|UDA:0.500<#>DDA: 0.167
+DepRel |:|Todas<@>receberam<@>nsubj<#>receberam<@>root<@>root<#>beijos<@>receberam<@>obj<#>de<@>Itamar<@>case<#>Itamar<@>beijos<@>nmod<#>.<@>receberam<@>punct
+>--<
+chatGPT|:|mais<@>calorosa<#>calorosa<@>root<#>.<@>calorosa|:|UDA:0.500<#>DDA: 0.500
+DepRel |:|Fu<@>calorosa<@>nsubj<#>foi<@>calorosa<@>cop<#>a<@>calorosa<@>det<#>mais<@>calorosa<@>advmod<#>calorosa<@>root<@>root<#>.<@>calorosa<@>punct
+>--<
+chatGPT|:|,<@>Beijou<#>abraçou<@>Beijou<#>duas<@>Beijou<#>vezes<@>abraçou<#>e<@>abraçou<#>conversou<@>abraçou<#>por<@>conversou<#>alguns<@>conversou<#>minutos<@>algums<#>com<@>minutos<#>o<@>minutos<#>conterrâneo<@>minutos<#>presidente<@>conterrâneo|:|UDA:0.200<#>DDA: 0.133
+DepRel |:|Beijou<@>root<@>root<#>,<@>abraçou<@>punct<#>abraçou<@>Beijou<@>conj<#>duas<@>vezes<@>nummod<#>vezes<@>abraçou<@>obl<#>e<@>conversou<@>cc<#>conversou<@>Beijou<@>conj<#>por<@>minutos<@>case<#>alguns<@>minutos<@>det<#>minutos<@>conversou<@>obl<#>com<@>presidente<@>case<#>o<@>presidente<@>det<#>conterrâneo<@>presidente<@>amod<#>presidente<@>conversou<@>obj<#>.<@>Beijou<@>punct
+>--<
+chatGPT|:|torci<@>muito<#>muito<@>root<#>por<@>você<#>você<@>root<#>,<@>root<#>viu<@>?<#>?<@>disse<#>Itamar<@>disse<#>a<@>Fu<#>Fu<@>root<#>.<@>root|:|UDA:0.250<#>DDA: 0.188
+DepRel |:|«<@>torci<@>punct<#>Eu<@>torci<@>nsubj<#>torci<@>disse<@>parataxis<#>muito<@>torci<@>advmod<#>por<@>você<@>case<#>você<@>torci<@>obj<#>,<@>torci<@>punct<#>viu<@>torci<@>discourse<#>?<@>torci<@>punct<#>»<@>torci<@>punct<#>,<@>torci<@>punct<#>disse<@>root<@>root<#>Itamar<@>disse<@>nsubj<#>a<@>Fu<@>case<#>Fu<@>disse<@>obj<#>.<@>disse<@>punct
+>--<
+chatGPT|:|usuário<@>pode<#>pode<@>importar<#>programas<@>importar<#>até<@>programas<#>o<@>valor<#>valor<@>programas<#>de<@>US$<#>mil<@>valor<#>.<@>importar|:|UDA:0.462<#>DDA: 0.385
+DepRel |:|Cada<@>usuário<@>det<#>usuário<@>pode<@>nsubj<#>pode<@>root<@>root<#>importar<@>pode<@>xcomp<#>programas<@>importar<@>obj<#>até<@>valor<@>case<#>o<@>valor<@>det<#>valor<@>importar<@>obl<#>de<@>US$<@>case<#>US$<@>valor<@>nmod<#>200<@>US$<@>nummod<#>mil<@>200<@>flat<#>.<@>importar<@>punct
+>--<
+chatGPT|:|pedidos<@>dispensam<#>até<@>pedidos<#>US$<@>pedidos<#>20<@>pedidos<#>mil<@>pedidos<#>dispensam<@>root<#>guia<@>dispensam<#>importação<@>dispensam<#>.<@>dispensam|:|UDA:0.455<#>DDA: 0.455
+DepRel |:|Os<@>pedidos<@>det<#>pedidos<@>dispensam<@>nsubj<#>até<@>US$<@>case<#>US$<@>pedidos<@>nmod<#>20<@>US$<@>nummod<#>mil<@>20<@>flat<#>dispensam<@>root<@>root<#>guia<@>dispensam<@>obj<#>de<@>importação<@>case<#>importação<@>guia<@>nmod<#>.<@>dispensam<@>punct
+>--<
+chatGPT|:|o<@>valor<#>valor<@>root<#>de<@>a<#>a<@>compra<#>compra<@>root<#>for<@>baixo<#>baixo<@>compra<#>é<@>melhor<#>melhor<@>pedir<#>pedir<@>encomenda<#>encomenda<@>root<#>por<@>correio<#>normal<@>encomenda<#>.<@>encomenda|:|UDA:0.412<#>DDA: 0.294
+DepRel |:|Se<@>baixo<@>mark<#>o<@>valor<@>det<#>valor<@>baixo<@>nsubj<#>de<@>compra<@>case<#>a<@>compra<@>det<#>compra<@>valor<@>nmod<#>for<@>baixo<@>cop<#>baixo<@>melhor<@>advcl<#>,<@>melhor<@>punct<#>é<@>melhor<@>cop<#>melhor<@>root<@>root<#>pedir<@>melhor<@>csubj<#>encomenda<@>pedir<@>obj<#>por<@>correio<@>case<#>correio<@>pedir<@>obl<#>normal<@>correio<@>amod<#>.<@>melhor<@>punct
+>--<
+chatGPT|:|o<@>correio<#>correio<@>expresso<#>o<@>frete<#>frete<@>custa<#>próximo<@>custa<#>de<@>US$<#>US$<@>50<#>.<@>frete|:|UDA:0.583<#>DDA: 0.417
+DepRel |:|Por<@>correio<@>case<#>o<@>correio<@>det<#>correio<@>custa<@>obl<#>expresso<@>correio<@>amod<#>o<@>frete<@>det<#>frete<@>custa<@>nsubj<#>custa<@>root<@>root<#>próximo<@>custa<@>advmod<#>de<@>US$<@>case<#>US$<@>próximo<@>obl<#>50<@>US$<@>nummod<#>.<@>custa<@>punct
+>--<
+chatGPT|:|não<@>quiser<#>quiser<@>aventurar<#>aventurar<@>por<#>por<@>importação<#>a<@>importação<#>importação<@>direta<#>,<@>importação<#>existem<@>empresas<#>empresas<@>importam<#>programas<@>empresas<#>sob<@>encomenda<#>encomenda<@>programas<#>.<@>empresas|:|UDA:0.346<#>DDA: 0.192
+DepRel |:|Se<@>quiser<@>mark<#>não<@>quiser<@>advmod<#>quiser<@>existem<@>advcl<#>se<@>aventurar<@>expl<#>aventurar<@>quiser<@>xcomp<#>por<@>importação<@>case<#>a<@>importação<@>det<#>importação<@>aventurar<@>obl<#>direta<@>importação<@>amod<#>,<@>quiser<@>punct<#>existem<@>root<@>root<#>empresas<@>existem<@>nsubj<#>,<@>Brasoftware<@>punct<#>como<@>Brasoftware<@>case<#>a<@>Brasoftware<@>det<#>Brasoftware<@>empresas<@>nmod<#>(<@>tel.<@>punct<#>tel.<@>Brasoftware<@>appos<#>011/253-1588<@>tel.<@>nummod<#>)<@>tel.<@>punct<#>que<@>importam<@>nsubj<#>importam<@>empresas<@>acl<#>programas<@>importam<@>obj<#>sob<@>encomenda<@>case<#>encomenda<@>programas<@>nmod<#>.<@>existem<@>punct
+>--<
+chatGPT|:|Ricardo<@>Jordão<#>Jordão<@>gerente<#>gerente<@>marketing<#>marketing<@>Brasoftware<#>de<@>Brasoftware<#>Brasoftware<@>gerente<#>o<@>produto<#>produto<@>sai<#>--<@>entregue<#>entregue<@>máximo<#>máximo<@>15<#>dias<@>máximo<#>sai<@>produto<#>por<@>preço<#>similar<@>preço<#>importação<@>feita<#>feita<@>usuário<#>por<@>usuário|:|UDA:0.371<#>DDA: 0.229
+DepRel |:|Segundo<@>Ricardo<@>case<#>Ricardo<@>sai<@>obl<#>Jordão<@>Ricardo<@>flat<#>,<@>Ricardo<@>punct<#>gerente<@>Ricardo<@>appos<#>de<@>marketing<@>case<#>marketing<@>gerente<@>nmod<#>de<@>Brasoftware<@>case<#>a<@>Brasoftware<@>det<#>Brasoftware<@>gerente<@>nmod<#>,<@>gerente<@>punct<#>o<@>produto<@>det<#>produto<@>sai<@>nsubj<#>--<@>entregue<@>punct<#>entregue<@>produto<@>acl<#>em<@>máximo<@>case<#>o<@>máximo<@>det<#>máximo<@>entregue<@>obl<#>em<@>dias<@>case<#>15<@>dias<@>nummod<#>dias<@>entregue<@>obl<#>--<@>entregue<@>punct<#>sai<@>root<@>root<#>por<@>preço<@>case<#>um<@>preço<@>det<#>preço<@>sai<@>obl<#>similar<@>preço<@>amod<#>a<@>importação<@>case<#>a<@>importação<@>det<#>importação<@>similar<@>obl<#>feita<@>importação<@>acl<#>por<@>usuário<@>case<#>o<@>usuário<@>det<#>usuário<@>feita<@>obl<#>.<@>sai<@>punct
+>--<
+chatGPT|:|<@><#>A<@>taxa<#>taxa<@>serviço<#>de<@>Brasoftware<#>é<@>coberta<#>por<@>desconto<#>que<@>desconto<#>obtém<@>desconto<#>junto<@>desconto<#>a<@>fornecedor<#>o<@>fornecedor<#>desconto<@>coberta|:|UDA:0.474<#>DDA: 0.421
+DepRel |:|A<@>taxa<@>det<#>taxa<@>coberta<@>nsubj<#>de<@>serviço<@>case<#>serviço<@>taxa<@>nmod<#>de<@>Brasoftware<@>case<#>a<@>Brasoftware<@>det<#>Brasoftware<@>taxa<@>nmod<#>é<@>coberta<@>aux<#>coberta<@>root<@>root<#>por<@>desconto<@>case<#>o<@>desconto<@>det<#>desconto<@>coberta<@>obl<#>que<@>obtém<@>obj<#>obtém<@>desconto<@>acl<#>junto<@>obtém<@>advmod<#>a<@>fornecedor<@>case<#>o<@>fornecedor<@>det<#>fornecedor<@>junto<@>obl<#>.<@>coberta<@>punct
+>--<
+chatGPT|:|CHANIN<@>root<#>A<@>artista<#>artist<@>mostra<#>mostra<@>monotipias<#>monotipias<@>root<#>15<@>monotipias<#>monotipias<@>trabalhadas<#>em<@>papel<#>papel<@>monotipias<#>artesanal<@>monotipias<#>de<@>folha<#>folha<@>papel<#>bananeira<@>folha<#>e<@>monotipias<#>12<@>gravuras<#>gravuras<@>root<#>em<@>metal<#>metal<@>gravuras<#>que<@>são<#>são<@>instrumentos<#>instrumentos<@>musicais<#>e<@>conchas<#>conchas<@>são|:|UDA:0.483<#>DDA: 0.379
+DepRel |:|ARRIET<@>root<@>root<#>CHANIN<@>ARRIET<@>flat<#>--<@>ARRIET<@>punct<#>A<@>artista<@>det<#>artista<@>mostra<@>nsubj<#>mostra<@>ARRIET<@>parataxis<#>15<@>monotipias<@>nummod<#>monotipias<@>mostra<@>obj<#>trabalhadas<@>monotipias<@>acl<#>em<@>papel<@>case<#>papel<@>trabalhadas<@>obl<#>artesanal<@>papel<@>amod<#>de<@>folha<@>case<#>folha<@>papel<@>nmod<#>de<@>bananeira<@>case<#>bananeira<@>folha<@>nmod<#>e<@>gravuras<@>cc<#>12<@>gravuras<@>nummod<#>gravuras<@>monotipias<@>conj<#>em<@>metal<@>case<#>metal<@>gravuras<@>nmod<#>,<@>instrumentos<@>punct<#>que<@>instrumentos<@>nsubj<#>são<@>instrumentos<@>cop<#>instrumentos<@>gravuras<@>acl<#>musicais<@>instrumentos<@>amod<#>e<@>conchas<@>cc<#>conchas<@>instrumentos<@>conj<#>.<@>ARRIET<@>punct
+>--<
+chatGPT|:|seg<@>sex<#>a<@>11h<#>11h<@>root<#>a<@>19h<#>19h<@>11h<#>e<@>sáb<#>sáb<@>sex<#>a<@>10h<#>10h<@>11h<#>a<@>13h<#>13h<@>10h|:|UDA:0.316<#>DDA: 0.263
+DepRel |:|De<@>seg<@>case<#>seg<@>root<@>root<#>a<@>sex<@>case<#>sex<@>seg<@>nmod<#>de<@>11h<@>case<#>as<@>11h<@>det<#>11h<@>sex<@>nmod<#>a<@>19h<@>case<#>as<@>19h<@>det<#>19h<@>11h<@>nmod<#>e<@>sáb<@>cc<#>sáb<@>seg<@>conj<#>de<@>10h<@>case<#>as<@>10h<@>det<#>10h<@>sáb<@>nmod<#>a<@>13h<@>case<#>as<@>13h<@>det<#>13h<@>10h<@>nmod<#>.<@>seg<@>punct
+>--<
+chatGPT|:|de<@>obras<#>obras<@>Preços<#>Preços<@>de<#>de<@>R$<#>R$<@>obras<#>a<@>R$<#>R$<@>a<#>a<@>obras<#>obras<@>a<#>a<@>R$<#>R$<@>obras<#>a<@>R$<#>R$<@>a<#>a<@>obras<#>obras<@>a<#>a<@>R$<#>R$<@>obras<#>a<@>R$<#>R$<@>a<#>a<@>obras<#>obras<@>a<#>a<@>R$<#>R$<@>obras<#>a<@>R$<#>R$<@>a<#>a<@>obras<#>obras<@>a<#>a<@>R$<#>R$<@>obras<#>a<@>R$<#>R$<@>a<#>a<@>obras<#>obras<@>a<#>a<@>R$<#>R$<@>obras<#>a<@>R$<#>R$<@>a<#>a<@>obras<#>obras<@>a<#>a<@>R$<#>R$<@>obras<#>a<@>R$<#>R$<@>a<#>a<@>obras<#>obras<@>a<#>a<@>R$<#>R$<@>obras<#>a<@>R$<#>R$<@>a<#>a<@>obras<#>obras<@>a<#>a<@>R$<#>R$<@>obras<#>a<@>R$<#>R$<@>a<#>a<@>obras<#>obras<@>a<#>a<@>R$<#>R$<@>obras<#>a<@>R$<#>R$<@>a<#>a<@>obras<#>obras<@>a<#>a<@>R$<#>R$<@>obras<#>a<@>R$<#>R$<@>a<#>a<@>obras<#>obras<@>a<#>a<@>R$<#>R$<@>obras<#>a<@>R$<#>R$<@>a<#><@>|:|UDA:0.333<#>DDA: 0.333
+DepRel |:|Preços<@>root<@>root<#>de<@>obras<@>case<#>as<@>obras<@>det<#>obras<@>Preços<@>nmod<#>:<@>Preços<@>punct<#>de<@>R$<@>case<#>R$<@>Preços<@>appos<#>50<@>R$<@>nummod<#>a<@>R$<@>case<#>R$<@>R$<@>conj<#>500<@>R$<@>nummod<#>.<@>Preços<@>punct
+>--<
+chatGPT|:|30<@>setembro<#>setembro<@>root|:|UDA:0.200<#>DDA: 0.000
+DepRel |:|Até<@>30<@>case<#>30<@>root<@>root<#>de<@>setembro<@>case<#>setembro<@>30<@>nmod<#>.<@>30<@>punct
+>--<
+chatGPT|:|faz<@>12<#>12<@>páginas<#>páginas<@>faz<#>por<@>minuto<#>minuto<@>faz|:|UDA:0.667<#>DDA: 0.667
+DepRel |:|Laser<@>faz<@>nsubj<#>faz<@>root<@>root<#>12<@>páginas<@>nummod<#>páginas<@>faz<@>obj<#>por<@>minuto<@>case<#>minuto<@>faz<@>obl
+>--<
+chatGPT|:|novas<@>impressoras<#>impressoras<@>laser<#>de<@>HP<#>HP<@>impressoras<#>vêm<@>padrão<#>com<@>padrão<#>um<@>padrão<#>novo<@>padrão<#>padrão<@>velocidade<#>de<@>velocidade<#>velocidade<@>12<#>12<@>páginas<#>páginas<@>minuto<#>minuto<@>ppm<#>são<@>30<#>de<@>30<#>30<@>%<#>a<@>%<#>40<@>%<#>mais<@>%<#>rápidas<@>%<#>que<@>%<#>as<@>%<#>de<@>%<#>a<@>%<#>geração<@>%<#>geração<@>anterior<#>anterior<@>%<#>.<@>%|:|UDA:0.462<#>DDA: 0.308
+DepRel |:|As<@>impressoras<@>det<#>novas<@>impressoras<@>amod<#>impressoras<@>vêm<@>nsubj<#>a<@>laser<@>case<#>laser<@>impressoras<@>nmod<#>de<@>HP<@>case<#>a<@>HP<@>det<#>HP<@>impressoras<@>nmod<#>vêm<@>root<@>root<#>com<@>padrão<@>case<#>um<@>padrão<@>det<#>novo<@>padrão<@>amod<#>padrão<@>vêm<@>obl<#>de<@>velocidade<@>case<#>velocidade<@>padrão<@>nmod<#>12<@>páginas<@>nummod<#>páginas<@>padrão<@>appos<#>por<@>minuto<@>case<#>minuto<@>páginas<@>nmod<#>(<@>ppm<@>punct<#>ppm<@>minuto<@>appos<#>)<@>ppm<@>punct<#>e<@>rápidas<@>cc<#>são<@>rápidas<@>cop<#>de<@>%<@>case<#>30<@>%<@>nummod<#>%<@>vêm<@>obl<#>a<@>%<@>case<#>40<@>%<@>nummod<#>%<@>%<@>nmod<#>mais<@>rápidas<@>advmod<#>rápidas<@>vêm<@>conj<#>que<@>as<@>mark<#>as<@>rápidas<@>obl<#>de<@>geração<@>case<#>a<@>geração<@>det<#>geração<@>as<@>nmod<#>anterior<@>geração<@>amod<#>.<@>vêm<@>punct
+>--<
+chatGPT|:|LaserJet<@>4<#>4<@>Plus<#>Plus<@>LaserJet<#>As<@>LaserJet<#>LaserJet<@>4M<#>4M<@>Plus<#>Plus<@>LaserJet<#>substituem<@>modelos<#>os<@>modelos<#>modelos<@>4<#>4<@>e<#>e<@>4M<#>modelos<@>4M<#>.<@>substituem|:|UDA:0.643<#>DDA: 0.286
+DepRel |:|As<@>LaserJet<@>det<#>LaserJet<@>substituem<@>nsubj<#>4<@>LaserJet<@>nmod<#>Plus<@>4<@>flat<#>e<@>4M<@>cc<#>4M<@>4<@>conj<#>Plus<@>4M<@>flat<#>substituem<@>root<@>root<#>os<@>modelos<@>det<#>modelos<@>substituem<@>obj<#>4<@>modelos<@>nummod<#>e<@>4M<@>cc<#>4M<@>4<@>conj<#>.<@>substituem<@>punct
+>--<
+chatGPT|:|<@><#>têm<@>resolução<#>de<@>600x600<#>600x600<@>pontos<#>pontos<@>de<#>por<@>polegada<#>dpi<@>polegada<#>o<@>que<#>que<@>permite<#>obter<@>imagens<#>imagens<@>com<#>mais<@>definição|:|UDA:0.350<#>DDA: 0.200
+DepRel |:|Têm<@>root<@>root<#>resolução<@>Têm<@>obj<#>de<@>pontos<@>case<#>600x600<@>pontos<@>nummod<#>pontos<@>resolução<@>nmod<#>por<@>polegada<@>case<#>polegada<@>pontos<@>nmod<#>(<@>dpi<@>punct<#>dpi<@>pontos<@>appos<#>)<@>dpi<@>punct<#>,<@>Têm<@>punct<#>o<@>Têm<@>appos<#>que<@>permite<@>nsubj<#>permite<@>o<@>acl<#>obter<@>permite<@>xcomp<#>imagens<@>obter<@>obj<#>com<@>definição<@>case<#>mais<@>definição<@>det<#>definição<@>imagens<@>nmod<#>.<@>Têm<@>punct
+>--<
+chatGPT|:|se<@>reelege<#>reelege<@>presidente<#>presidente<@>Creci<#>de<@>Creci<#>Creci<@>presidente<#>.<@>Creci|:|UDA:0.571<#>DDA: 0.286
+DepRel |:|Capuano<@>reelege<@>nsubj<#>se<@>reelege<@>expl<#>reelege<@>root<@>root<#>presidente<@>reelege<@>xcomp<#>de<@>Creci<@>case<#>o<@>Creci<@>det<#>Creci<@>presidente<@>nmod
+>--<
+chatGPT|:|empresário<@>Roberto<#>Roberto<@>Capuano<#>Capuano<@>foi<#>foi<@>reeleito<#>por<@>a<#>a<@>terceira<#>terceira<@>vez<#>vez<@>reeleito<#>presidente<@>Conselho<#>Conselho<@>Regional<#>Regional<@>de<#>de<@>Corretores<#>Corretores<@>de<#>de<@>Imóveis<#>Imóveis<@>de<#>Paulo<@>Estado<#>Estado<@>de<#>Paulo<@>Creci<#>Creci<@>.|:|UDA:0.314<#>DDA: 0.143
+DepRel |:|O<@>empresário<@>det<#>empresário<@>reeleito<@>nsubj<#>e<@>corretor<@>cc<#>corretor<@>empresário<@>conj<#>de<@>imóveis<@>case<#>imóveis<@>empresário<@>nmod<#>,<@>Roberto<@>punct<#>Roberto<@>empresário<@>appos<#>Capuano<@>Roberto<@>flat<#>,<@>Roberto<@>punct<#>foi<@>reeleito<@>aux<#>reeleito<@>root<@>root<#>por<@>vez<@>case<#>a<@>vez<@>det<#>terceira<@>vez<@>amod<#>vez<@>reeleito<@>obl<#>presidente<@>reeleito<@>xcomp<#>de<@>Conselho<@>case<#>o<@>Conselho<@>det<#>Conselho<@>presidente<@>nmod<#>Regional<@>Conselho<@>flat<#>de<@>Corretores<@>case<#>Corretores<@>Conselho<@>nmod<#>de<@>Imóveis<@>case<#>Imóveis<@>Corretores<@>nmod<#>de<@>Estado<@>case<#>o<@>Estado<@>det<#>Estado<@>Conselho<@>nmod<#>de<@>São<@>case<#>São<@>Estado<@>nmod<#>Paulo<@>São<@>flat<#>(<@>Creci<@>punct<#>Creci<@>São<@>appos<#>)<@>Creci<@>punct<#>.<@>reeleito<@>punct
+>--<
+chatGPT|:|a<@>quarta<#>quarta<@>gestão<#>gestão<@>a<#>sua<@>gestão<#>sua<@>a<#>a<@>frente<#>frente<@>gestão<#>de<@>órgão<#>o<@>órgão<#>órgão<@>frente|:|UDA:0.667<#>DDA: 0.583
+DepRel |:|Será<@>gestão<@>cop<#>a<@>gestão<@>det<#>sua<@>gestão<@>det<#>quarta<@>gestão<@>amod<#>gestão<@>root<@>root<#>a<@>frente<@>case<#>a<@>frente<@>det<#>frente<@>gestão<@>nmod<#>de<@>órgão<@>case<#>o<@>órgão<@>det<#>órgão<@>frente<@>nmod<#>.<@>gestão<@>punct
+>--<
+chatGPT|:|Gloria<@>ficou<#>nervosa<@>ficou<#>em<@>estréia<#>sua<@>estréia<#>como<@>modette<#>modette<@>estréia<#>o<@>marido<#>marido<@>amou<#>Orlando<@>Moraes<#>Moraes<@>marido<#>amou<@>pediu<#>bis<@>pediu<#>Enquanto<@>Gloria|:|UDA:0.550<#>DDA: 0.450
+DepRel |:|Enquanto<@>ficou<@>mark<#>Gloria<@>ficou<@>nsubj<#>Pires<@>Gloria<@>flat<#>ficou<@>amou<@>advcl<#>nervosa<@>ficou<@>xcomp<#>em<@>estréia<@>case<#>sua<@>estréia<@>det<#>estréia<@>ficou<@>obl<#>como<@>modette<@>case<#>modette<@>estréia<@>nmod<#>,<@>ficou<@>punct<#>o<@>marido<@>det<#>marido<@>amou<@>nsubj<#>Orlando<@>marido<@>appos<#>Moraes<@>Orlando<@>flat<#>amou<@>root<@>root<#>e<@>pediu<@>cc<#>pediu<@>amou<@>conj<#>bis<@>pediu<@>obj<#>.<@>amou<@>punct
+>--<
+chatGPT|:|participar<@>de<#>de<@>a<#>a<@>passarela<#>Rita<@>Lee<#>Lee<@>declinou<#>declinou<@>por<#>por<@>ter<#>ter<@>sido<#>sido<@>convocada<#>convocada<@>apenas<#>apenas<@>em<#>em<@>a<#>a<@>véspera|:|UDA:0.222<#>DDA: 0.167
+DepRel |:|Convidada<@>Rita<@>acl<#>para<@>participar<@>mark<#>participar<@>Convidada<@>advcl<#>de<@>passarela<@>case<#>a<@>passarela<@>det<#>passarela<@>participar<@>obj<#>,<@>participar<@>punct<#>Rita<@>declinou<@>nsubj<#>Lee<@>Rita<@>flat<#>declinou<@>root<@>root<#>por<@>convocada<@>mark<#>ter<@>convocada<@>aux<#>sido<@>convocada<@>aux<#>convocada<@>declinou<@>advcl<#>apenas<@>véspera<@>advmod<#>em<@>véspera<@>case<#>a<@>véspera<@>det<#>véspera<@>convocada<@>obl
+>--<
+chatGPT|:||:|UDA:0.000<#>DDA: 0.000
+DepRel |:|SEçãO<@>root<@>root<#>:<@>SEçãO<@>punct<#>EDITORIAL<@>SEçãO<@>appos
+>--<
+chatGPT|:||:|UDA:0.000<#>DDA: 0.000
+DepRel |:|Linchamento<@>root<@>root
+>--<
+chatGPT|:|acordo<@>Enciclopédia<#>com<@>Enciclopédia<#>Enciclopédia<@>Britânica<#>,<@>Britânica<#>o<@>linchamento<#>linchamento<@>uma<#>prática<@>linchamento<#>que<@>prática<#>se<@>verifica<#>verifica<@>em<#>momentos<@>verifica<#>de<@>momentos<#>instabilidade<@>instabilidade<#>ou<@>instabilidade<#>de<@>ameaça<#>ameaça<@>anarquia<#>.<@>anarquia|:|UDA:0.360<#>DDA: 0.200
+DepRel |:|De<@>acordo<@>case<#>acordo<@>prática<@>nmod<#>com<@>Enciclopédia<@>case<#>a<@>Enciclopédia<@>det<#>Enciclopédia<@>acordo<@>nmod<#>Britânica<@>Enciclopédia<@>flat<#>,<@>acordo<@>punct<#>o<@>linchamento<@>det<#>linchamento<@>prática<@>nsubj<#>é<@>prática<@>cop<#>uma<@>prática<@>det<#>prática<@>root<@>root<#>que<@>verifica<@>nsubj<#>se<@>verifica<@>expl<#>verifica<@>prática<@>acl<#>em<@>momentos<@>case<#>momentos<@>verifica<@>obl<#>de<@>instabilidade<@>case<#>instabilidade<@>momentos<@>nmod<#>ou<@>ameaça<@>cc<#>de<@>ameaça<@>case<#>ameaça<@>instabilidade<@>conj<#>de<@>anarquia<@>case<#>anarquia<@>ameaça<@>nmod<#>.<@>prática<@>punct
+>--<
+chatGPT|:|sensação<@>insegurança<#>e<@>insegurança<#>a<@>debilidade<#>de<@>poder<#>poder<@>publico<#>eram<@>caracteristicas<#>de<@>Estados<#>os<@>Estados<#>de<@>final<#>século<@>18<#>quando<@>teria<#>a<@>palavra<#>teria<@>inventada<#>partir<@>prática<#>adotada<@>juiz<#>Lynch<@>juiz<#>seus<@>adversários<#>sem<@>devido<#>processo<@>legal|:|UDA:0.222<#>DDA: 0.143
+DepRel |:|A<@>sensação<@>det<#>sensação<@>características<@>nsubj<#>de<@>insegurança<@>case<#>insegurança<@>sensação<@>nmod<#>e<@>debilidade<@>cc<#>a<@>debilidade<@>det<#>debilidade<@>sensação<@>conj<#>de<@>poder<@>case<#>o<@>poder<@>det<#>poder<@>debilidade<@>nmod<#>público<@>poder<@>amod<#>eram<@>características<@>cop<#>sem<@>dúvida<@>case<#>dúvida<@>características<@>nmod<#>características<@>root<@>root<#>de<@>Estados<@>case<#>os<@>Estados<@>det<#>Estados<@>características<@>nmod<#>Unidos<@>Estados<@>flat<#>de<@>final<@>case<#>o<@>final<@>det<#>final<@>Estados<@>nmod<#>de<@>século<@>case<#>o<@>século<@>det<#>século<@>final<@>nmod<#>18<@>século<@>nummod<#>,<@>características<@>punct<#>quando<@>inventada<@>advmod<#>(<@>versão<@>punct<#>segundo<@>versão<@>case<#>a<@>versão<@>det<#>versão<@>quando<@>obl<#>mais<@>aceita<@>advmod<#>aceita<@>versão<@>acl<#>)<@>versão<@>punct<#>a<@>palavra<@>det<#>palavra<@>inventada<@>nsubj<#>teria<@>inventada<@>aux<#>sido<@>inventada<@>aux<#>inventada<@>características<@>advcl<#>a<@>partir<@>case<#>partir<@>quando<@>obl<#>de<@>prática<@>case<#>a<@>prática<@>det<#>prática<@>partir<@>nmod<#>adotada<@>prática<@>acl<#>por<@>juiz<@>case<#>um<@>juiz<@>det<#>juiz<@>adotada<@>obl<#>Lynch<@>juiz<@>appos<#>,<@>adotada<@>punct<#>de<@>condenar<@>mark<#>condenar<@>prática<@>acl<#>e<@>executar<@>cc<#>executar<@>condenar<@>conj<#>seus<@>adversários<@>det<#>adversários<@>executar<@>obj<#>sem<@>processo<@>case<#>o<@>processo<@>det<#>devido<@>processo<@>amod<#>processo<@>executar<@>obl<#>legal<@>processo<@>amod<#>.<@>características<@>punct
+>--<
+chatGPT|:|são<@>características<#>características<@>root<#>de<@>diversas<#>diversas<@>características<#>regiões<@>características<#>de<@>Brasil<#>Brasil<@>características<#>de<@>hoje<#>hoje<@>características|:|UDA:0.385<#>DDA: 0.385
+DepRel |:|Lamentavelmente<@>características<@>advmod<#>são<@>características<@>cop<#>também<@>características<@>advmod<#>características<@>root<@>root<#>de<@>regiões<@>case<#>diversas<@>regiões<@>det<#>regiões<@>características<@>nmod<#>de<@>Brasil<@>case<#>o<@>Brasil<@>det<#>Brasil<@>regiões<@>nmod<#>de<@>hoje<@>case<#>hoje<@>Brasil<@>advmod<#>.<@>características<@>punct
+>--<
+chatGPT|:|bárbaro<@>linchamento<#>de<@>três<#>pessoas<@>linchamento<#>ocorrido<@>semana<#>esta<@>semana<#>em<@>Paraná<#>pode<@>sido<#>particularmente<@>chocante<#>e<@>chocante<#>sem<@>dúvida<#>dúvida<@>foi<#>filmado<@>televisão<#>em<@>brutalidade<#>mas<@>crimes<#>de<@>esse<#>tipo<@>crimes<#>registrados<@>país|:|UDA:0.204<#>DDA: 0.167
+DepRel |:|O<@>linchamento<@>det<#>bárbaro<@>linchamento<@>amod<#>linchamento<@>pode<@>nsubj<#>de<@>pessoas<@>case<#>três<@>pessoas<@>nummod<#>pessoas<@>linchamento<@>nmod<#>ocorrido<@>linchamento<@>acl<#>esta<@>semana<@>det<#>semana<@>ocorrido<@>obl<#>em<@>Paraná<@>case<#>o<@>Paraná<@>det<#>Paraná<@>ocorrido<@>obl<#>pode<@>root<@>root<#>ter<@>chocante<@>aux<#>sido<@>chocante<@>cop<#>particularmente<@>chocante<@>advmod<#>chocante<@>pode<@>xcomp<#>e<@>foi<@>cc<#>sem<@>dúvida<@>case<#>dúvida<@>foi<@>obl<#>o<@>foi<@>obj<#>foi<@>chocante<@>conj<#>,<@>filmado<@>punct<#>filmado<@>foi<@>advcl<#>e<@>transmitido<@>cc<#>transmitido<@>filmado<@>conj<#>por<@>televisão<@>case<#>a<@>televisão<@>det<#>televisão<@>transmitido<@>obl<#>em<@>brutalidade<@>case<#>toda<@>brutalidade<@>det<#>a<@>brutalidade<@>det<#>sua<@>brutalidade<@>det<#>brutalidade<@>transmitido<@>obl<#>,<@>constitui<@>punct<#>mas<@>constitui<@>cc<#>constitui<@>chocante<@>conj<#>apenas<@>lista<@>advmod<#>mais<@>um<@>advmod<#>um<@>constitui<@>obj<#>em<@>lista<@>case<#>a<@>lista<@>det<#>lista<@>constitui<@>obl<#>de<@>crimes<@>case<#>os<@>crimes<@>det<#>crimes<@>lista<@>nmod<#>de<@>tipo<@>case<#>esse<@>tipo<@>det<#>tipo<@>crimes<@>nmod<#>registrados<@>crimes<@>acl<#>em<@>país<@>case<#>o<@>país<@>det<#>país<@>registrados<@>obl<#>.<@>pode<@>punct
+>--<
+chatGPT|:|em<@>a<#>a<@>Bahia<#>Bahia<@>a<#>por<@>exemplo<#>exemplo<@>Bahia<#>o<@>comando<#>comando<@>de<#>de<@>Polícia<#>Polícia<@>comando<#>Militar<@>Polícia<#>estadual<@>Polícia<#>Polícia<@>Militar<#>informa<@>estadual<#>que<@>informa<#>foram<@>350<#>casos<@>foram<#>casos<@>a<#>em<@>últimos<#>últimos<@>quatro<#>quatro<@>anos<#>anos<@>últimos|:|UDA:0.385<#>DDA: 0.308
+DepRel |:|Apenas<@>Bahia<@>advmod<#>em<@>Bahia<@>case<#>a<@>Bahia<@>det<#>Bahia<@>informa<@>obl<#>,<@>Bahia<@>punct<#>por<@>informa<@>advmod<#>exemplo<@>por<@>fixed<#>,<@>por<@>punct<#>o<@>comando<@>det<#>comando<@>informa<@>nsubj<#>de<@>Polícia<@>case<#>a<@>Polícia<@>det<#>Polícia<@>comando<@>nmod<#>Militar<@>Polícia<@>flat<#>estadual<@>Polícia<@>amod<#>informa<@>root<@>root<#>que<@>foram<@>mark<#>foram<@>informa<@>ccomp<#>350<@>casos<@>nummod<#>casos<@>foram<@>nsubj<#>em<@>anos<@>case<#>os<@>anos<@>det<#>últimos<@>anos<@>amod<#>quatro<@>anos<@>nummod<#>anos<@>foram<@>obl<#>.<@>informa<@>punct
+>--<
+chatGPT|:|por<@>técnicos<#>técnicos<@>Fazenda<#>de<@>Fazenda<#>Fazenda<@>técnicos<#>e<@>Minas<#>e<@>Energia<#>as<@>Minas<#>Minas<@>técnicos<#>e<@>Energia<#>técnicos<@>comissão<#>tem<@>prazo<#>prazo<@>dias<#>de<@>dias<#>60<@>dias<#>dias<@>prazo<#>para<@>concluir<#>o<@>trabalho<#>.<@>trabalho|:|UDA:0.400<#>DDA: 0.280
+DepRel |:|Formada<@>comissão<@>acl<#>por<@>técnicos<@>case<#>técnicos<@>Formada<@>obl<#>de<@>Fazenda<@>case<#>a<@>Fazenda<@>det<#>Fazenda<@>técnicos<@>nmod<#>e<@>Minas<@>cc<#>de<@>Minas<@>case<#>as<@>Minas<@>det<#>Minas<@>Fazenda<@>conj<#>e<@>Minas<@>flat<#>Energia<@>Minas<@>flat<#>,<@>Formada<@>punct<#>a<@>comissão<@>det<#>comissão<@>tem<@>nsubj<#>tem<@>root<@>root<#>prazo<@>tem<@>obj<#>de<@>dias<@>case<#>60<@>dias<@>nummod<#>dias<@>prazo<@>nmod<#>para<@>conluir<@>mark<#>conluir<@>prazo<@>advcl<#>o<@>trabalho<@>det<#>trabalho<@>conluir<@>obj<#>.<@>tem<@>punct
+>--<
+chatGPT|:|objetivo<@>melhorar<#>melhorar<@>rentabilidade<#>de<@>setor<#>setor<@>rentabilidade<#>.<@>rentabilidade|:|UDA:0.400<#>DDA: 0.300
+DepRel |:|O<@>objetivo<@>det<#>objetivo<@>melhorar<@>nsubj<#>çe<@>melhorar<@>cop<#>melhorar<@>root<@>root<#>a<@>rentabilidade<@>det<#>rentabilidade<@>melhorar<@>obj<#>de<@>setor<@>case<#>o<@>setor<@>det<#>setor<@>rentabilidade<@>nmod<#>.<@>melhorar<@>punct
+>--<
+chatGPT|:|o<@>ministro<#>ministro<@>de<#>de<@>Minas<#>Minas<@>Energia<#>Alexis<@>Stepanenko<#>Stepanenko<@>,<#>,<@>essa<#>essa<@>melhoria<#>melhoria<@>deverá<#>deverá<@>ser<#>ser<@>buscada<#>buscada<@>através<#>através<@>de<#>de<@>a<#>a<@>redução<#>redução<@>de<#>custos<@>de<#>aumento<@>de<#>eficiência<@>.|:|UDA:0.393<#>DDA: 0.214
+DepRel |:|Segundo<@>ministro<@>case<#>o<@>ministro<@>det<#>ministro<@>buscada<@>obl<#>de<@>Minas<@>case<#>as<@>Minas<@>det<#>Minas<@>ministro<@>nmod<#>e<@>Minas<@>flat<#>Energia<@>Minas<@>flat<#>,<@>Alexis<@>punct<#>Alexis<@>Minas<@>appos<#>Stepanenko<@>Alexis<@>flat<#>,<@>Alexis<@>punct<#>essa<@>melhoria<@>det<#>melhoria<@>deverá<@>nsubj<#>deverá<@>root<@>root<#>ser<@>buscada<@>aux<#>buscada<@>deverá<@>xcomp<#>através<@>buscada<@>advmod<#>de<@>redução<@>case<#>a<@>redução<@>det<#>redução<@>através<@>obl<#>de<@>custos<@>case<#>custos<@>redução<@>nmod<#>e<@>aumento<@>cc<#>aumento<@>redução<@>conj<#>de<@>eficiência<@>case<#>eficiência<@>aumento<@>nmod<#>.<@>buscada<@>punct
+>--<
+chatGPT|:|serviria<@>propaganda<#>aliada<@>propaganda|:|UDA:0.400<#>DDA: 0.200
+DepRel |:|Filme<@>serviria<@>nsubj<#>serviria<@>root<@>root<#>para<@>propaganda<@>case<#>propaganda<@>serviria<@>obj<#>aliada<@>propaganda<@>acl
+>--<
+chatGPT|:|dia<@>sete<#>sete<@>dezembro<#>dezembro<@>1941<#>1941<@>)<#>aviões<@>japoneses<#>japoneses<@>praticamente<#>praticamente<@>destruíram<#>destruíram<@>a<#>a<@>frota<#>frota<@>norte-americana<#>norte-americana<@>em<#>em<@>Pacífico<#>Pacífico<@>)<#>ancorada<@>em<#>em<@>Pearl<#>Pearl<@>Harbour<#>Harbour<@>em<#>em<@>Havaí<#>Havaí<@>)|:|UDA:0.345<#>DDA: 0.172
+DepRel |:|Em<@>dia<@>case<#>o<@>dia<@>det<#>dia<@>destruíram<@>obl<#>sete<@>dia<@>nummod<#>de<@>dezembro<@>case<#>dezembro<@>dia<@>nmod<#>de<@>1941<@>case<#>1941<@>dezembro<@>nmod<#>,<@>dia<@>punct<#>aviões<@>destruíram<@>nsubj<#>japoneses<@>aviões<@>amod<#>praticamente<@>destruíram<@>advmod<#>destruíram<@>root<@>root<#>a<@>frota<@>det<#>frota<@>destruíram<@>obj<#>norte-americana<@>frota<@>amod<#>em<@>Pacífico<@>case<#>o<@>Pacífico<@>det<#>Pacífico<@>frota<@>nmod<#>,<@>ancorada<@>punct<#>ancorada<@>frota<@>acl<#>em<@>Pearl<@>case<#>Pearl<@>ancorada<@>obl<#>Harbour<@>Pearl<@>flat<#>,<@>Havaí<@>punct<#>em<@>Havaí<@>case<#>o<@>Havaí<@>det<#>Havaí<@>Pearl<@>nmod<#>.<@>destruíram<@>punct
+>--<
+chatGPT|:|EUA<@>depois<#>depois<@>um<#>um<@>histórico<#>histórico<@>discurso<#>discurso<@>de<#>de<@>seu<#>seu<@>presidente<#>presidente<@>Franklin<#>Franklin<@>Delano<#>Delano<@>Roosevelt<#>Roosevelt<@>entraram<#>entraram<@>em<#>em<@>guerra<#>guerra<@>contra<#>contra<@>o<#>o<@>Japão<#>Japão<@>e<#>e<@>seus<#>seus<@>aliados<#>aliados<@>no<#>no<@>Eixo<#>Eixo<@>Alemanha<#>Alemanha<@>e<#>e<@>Itália<#>Itália<@>.|:|UDA:0.303<#>DDA: 0.182
+DepRel |:|Os<@>EUA<@>det<#>EUA<@>entraram<@>nsubj<#>,<@>depois<@>punct<#>depois<@>entraram<@>advmod<#>de<@>discurso<@>case<#>um<@>discurso<@>det<#>histórico<@>discurso<@>amod<#>discurso<@>depois<@>obl<#>de<@>presidente<@>case<#>seu<@>presidente<@>det<#>presidente<@>discurso<@>nmod<#>,<@>Franklin<@>punct<#>Franklin<@>presidente<@>appos<#>Delano<@>Franklin<@>flat<#>Roosevelt<@>Franklin<@>flat<#>,<@>entraram<@>punct<#>entraram<@>root<@>root<#>em<@>guerra<@>case<#>guerra<@>entraram<@>obl<#>contra<@>Japão<@>case<#>o<@>Japão<@>det<#>Japão<@>guerra<@>nmod<#>e<@>aliados<@>cc<#>seus<@>aliados<@>det<#>aliados<@>Japão<@>conj<#>em<@>Eixo<@>case<#>o<@>Eixo<@>det<#>Eixo<@>aliados<@>nmod<#>,<@>Alemanha<@>punct<#>Alemanha<@>Eixo<@>appos<#>e<@>Itália<@>cc<#>Itália<@>Alemanha<@>conj<#>.<@>entraram<@>punct
+>--<
+UDA 0.366
+DDA 0.254
+root;0.060;0.060;50
+punct;0.068;0.068;103
+advmod;0.360;0.240;25
+nsubj;0.380;0.260;50
+parataxis;0.000;0.000;4
+det;0.375;0.367;120
+obj;0.621;0.241;29
+mark;0.083;0.083;12
+aux;0.600;0.600;10
+acl;0.364;0.227;22
+cop;0.467;0.467;15
+csubj;0.500;0.000;2
+conj;0.091;0.045;22
+case;0.497;0.455;145
+nmod;0.477;0.256;86
+amod;0.778;0.407;27
+discourse;0.000;0.000;2
+fixed;1.000;0.000;2
+xcomp;0.500;0.100;10
+nummod;0.593;0.407;27
+flat;0.515;0.030;33
+appos;0.333;0.056;18
+obl;0.300;0.140;50
+cc;0.263;0.263;19
+advcl;0.000;0.000;8
+expl;0.667;0.667;3
+ccomp;0.000;0.000;1

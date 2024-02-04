@@ -1,0 +1,145 @@
+# sent_id = 5
+# text = aʔe ke uʔuta pɪpɪhu ke tĩ
+# text_eng = He is going to eat the owl (Duarte 2019 [41b] TM)
+1	aʔe	aʔe	PRON	pro	_	3	nsubj	_	_
+2	ke	ke	PART	pcl	_	1	discourse	_	_
+3	uʔuta	ʔu	VERB	vt	Person=3|Tense=Fut	0	root	_	_
+4	pɪpɪhu	pɪpɪhu	NOUN	n	_	3	obj	_	_
+5	ke	ke	PART	pcl	_	4	discourse	_	_
+6	tĩ	tĩ	PART	pcl	_	3	discourse	_	_
+
+# sent_id = 10
+# text = kakake kurumĩ uʔu rahã aʔe hãʔĩmke matɪr
+# text_eng = When the child ate the cocoa, he gathered the cocoa seeds (Duarte 2019 [23] JL)
+1	kakake	kaka	NOUN	n	Case=Aff	3	obj	_	_
+2	kurumĩ	kurumĩ	NOUN	n	Animacy=Hum|Number=Sing|Person=3	3	nsubj	_	_
+3	uʔu	ʔu	VERB	vt	Person=3	7	advcl	_	_
+4	rahã	rahã	SCONJ	sc	_	3	mark	_	_
+5	aʔe	aʔe	PRON	pro	Animacy=Hum|Number=Sing|Person=3	7	nsubj	_	_
+6	hãʔĩmke	ãʔĩm	NOUN	n	Case=Aff|Number=Plur	7	obj	_	_
+7	matɪr	matɪr	VERB	vt	Person=3	0	root	_	_
+
+# sent_id = 15
+# text = Oho uĩ tipe ã
+# text_eng = He went to squat, in vain (G. Godoy, field work)
+# text_por = Foi acocorar-se em vão
+1	Oho	ho	VERB	vi	Person=3	0	root	_	_
+2	uĩ	uĩ	VERB	vi	Person=3	1	xcomp	_	_
+3	tipe	tipe	PART	pcl	Aspect=Frus	1	discourse	_	_
+4	ã	ã	PART	pcl	_	1	discourse	_	_
+
+# sent_id = 19
+# text = ihẽ taɁɪnke amuɁe
+# text_eng = I taught the child (Duarte 2014 [17a] NS)
+1	ihẽ	ihẽ	PRON	pro	_	3	nsubj	_	_
+2	taɁɪnke	taɁɪn	NOUN	n	Case=Aff	3	obj	_	_
+3	amuɁe	Ɂe	VERB	vt	Person=1|Voice=Cau	0	root	_	_
+
+# sent_id = 24
+# text = Maírake wata
+# text_eng = Maíra walked [With some effort] (Duarte 2019 [10a] NS)
+1	Maírake	Maíra	PROPN	pn	_	2	nsubj	_	_
+2	wata	wata	VERB	vt	_	0	root	_	_
+
+# sent_id = 29
+# text = mɪra pirerke teʔe pirawan muwak
+# text_eng = The bark of the tree will really turn into a fishlike being (Duarte 2014 [42] NS)
+1	mɪra	mɪra	NOUN	n	_	5	nsubj	_	_
+2	pirerke	pirer	NOUN	n	Case=Aff	1	nmod	_	_
+3	teʔe	teʔe	ADV	adv	_	5	advmod	_	_
+4	pirawan	pirawan	NOUN	n	_	5	obj	_	_
+5	muwak	wak	VERB	vt	Person=1|Voice=Cau	0	root	_	_
+
+# sent_id = 34
+# text = ihẽ ʔok amujã
+# text_eng = I have made a house (Duarte 2019 [34b] NS)
+1	ihẽ	ihẽ	PRON	pro	_	3	nsubj	_	_
+2	ʔok	ʔok	NOUN	n	_	3	obj	_	_
+3	amujã	mujã	VERB	vt	Number=Sing|Person=1	0	root	_	_
+
+# sent_id = 1003
+# text = pe kamarar jarusu raʔɪr raho
+# text_eng = And friends took over a small canoe (Kakumasu 1986: 327)
+1	pe	pe	CCONJ	cc	_	5	cc	_	_
+2	kamarar	kamarar	NOUN	n	_	5	nsubj	_	_
+3	jarusu	jarusu	NOUN	n	_	4	nmod	_	_
+4	raʔɪr	aʔɪr	NOUN	n	Rel=Cont	5	obj	_	_
+5	raho	raho	VERB	v	Person=3	0	root	_	_
+
+# sent_id = 6012
+# text = Pe , taʔɪrer ujan
+# text_pt = E então, (uma) pequena correu.  (UKconnect [6] NS)
+# text_eng = And then, (a) small one ran.
+1	Pe	pe	ADV	adv	_	4	advmod	_	_
+2	,	,	PUNCT	punct	_	1	punct	_	_
+3	taʔɪrer	taʔɪrer	NOUN	n	_	4	obj	_	_
+4	ujan	jan	VERB	vt	Person=1	0	root	_	_
+
+# sent_id = 16046
+# text = Peteĩ Xõru jahy kanim oho
+# text_pt =  O pai de Jon esteve ausente por um mês. (UKconnect [16] NS)
+# text_eng =  Jon's father was absent for a month.
+1	Peteĩ	_	NUM	num	_	3	nummod	_	_
+2	Xõru	_	PROPN	propn	_	5	nsubj	_	_
+3	jahy	_	NOUN	n	_	5	obj	_	_
+4	kanim	_	VERB	v	Person=3	5	xcomp	_	_
+5	oho	_	VERB	v	Person=3	0	root	_	_
+
+# sent_id = 705
+# text = pe oho je tĩ
+# text_eng = She went again (towards the boy) (Godoy 2017 [5] JL)
+# text_por = E ela foi de novo (até o menino)
+1	pe	pe	ADV	adv	_	2	advmod	_	_
+2	oho	ho	VERB	vi	Person=3	0	root	_	_
+3	je	je	PART	pcl	_	2	discourse	_	_
+4	tĩ	tĩ	ADV	adv	_	2	advmod	_	_
+
+# sent_id = 710
+# text = aʔe ikɪke jiʔok
+# text_eng = He has taken out somebody's louse (a definite one) (Duarte 2019 [35a] JL)
+1	aʔe	aʔe	PRON	pro	Person=3	3	nsubj	_	_
+2	ikɪke	kɪ	NOUN	n	Case=Aff|Rel=NCont	3	obj	_	_
+3	jiʔok	jiʔok	VERB	vt	Person=3	0	root	_	_
+
+# sent_id = 53
+# text = taʔɪnke itawa imu parahɪahɪ ipe je
+# text_eng = The boy was yellowish (sick), his brother was very angry with him (Godoy 2017 [6] ZS)
+1	taʔɪnke	taʔɪn	NOUN	n	Case=Aff	3	nmod	_	_
+2	itawa	tawa	NOUN	n	Person=3	1	amod	_	_
+3	imu	mu	NOUN	n	Person=3	4	nsubj	_	_
+4	parahɪahɪ	parahɪahɪ	VERB	vi	Intense=Yes	0	root	_	_
+5	ipe	pe	PRON	ppn	Person=3	4	iobj	_	_
+6	je	je	PART	pcl	_	1	discourse	_	_
+
+# sent_id = 58
+# text = ɪmante pe aʔike manõ je‘ɪ
+# text_eng = Later, the old woman died (Godoy 2017 [28] ZS)
+1	ɪmante	ɪman	ADV	adv	_	4	advmod	_	_
+2	pe	pe	ADV	adv	_	4	advmod	_	_
+3	aʔike	aʔi	NOUN	n	Animacy=Hum|Case=Aff	4	nsubj	_	_
+4	manõ	manõ	VERB	vi	_	0	root	_	_
+5	je‘ɪ	je	PART	pcl	_	4	discourse	_	_
+
+# sent_id = 63
+# text = pe taramō kaitā juʔipape piʔa usak oho tī pɪtuniwe
+# text_eng = And today, early in the morning, Caetano went to look for turtle eggs (Kakumasu 1986: 328 [24] ZS)
+1	pe	pe	CCONJ	cc	_	7	cc	_	_
+2	taramō	taramō	ADV	adv	_	7	advmod	_	_
+3	kaitā	kaitā	PROPN	ppn	_	7	nsubj	_	_
+4	juʔipape	juʔipape	NOUN	n	_	5	nmod	_	_
+5	piʔa	piʔa	NOUN	n	_	7	iobj	_	_
+6	usak	sak	VERB	vt	Person=3	7	ccomp	_	_
+7	oho	ho	VERB	vi	Person=3	0	root	_	_
+8	tī	tī	ADV	adv	_	7	advmod	_	_
+9	pɪtuniwe	pɪtuniwe	ADV	adv	_	7	advmod	_	_
+
+# sent_id = 68
+# text = pāsɪkwer riki matɪr uhu ngā ipe
+# text_eng = They got a lot of cloth for him (Kakumasu 1986: 328 [30] ZS)
+1	pāsɪkwer	pāsɪkwer	NOUN	n	_	3	obj	_	_
+2	riki	riki	ADV	adv	_	3	advmod	_	_
+3	matɪr	atɪr	VERB	vt	Person=3	0	root	_	_
+4	uhu	uhu	ADV	adv	_	1	advmod	_	_
+5	ngā	gā	PRON	pro	Number=Plur|Person=3	3	nsubj	_	_
+6	ipe	pe	ADP	pp	_	1	case	_	_
+

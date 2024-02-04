@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treebank>
+  <!-- tokens means "surface tokens", e.g. Spanish "vámonos" counts as one token
+       words means "syntactic words", e.g. Spanish "vámonos" is split to two words, "vamos" and "nos"
+       fused is the number of tokens that are split to two or more syntactic words
+       The words and fused elements can be omitted if no token is split to smaller syntactic words. -->
+  <size>
+    <total><sentences>343</sentences><tokens>1449</tokens><words>1468</words><fused>19</fused></total>
+    <train><sentences>0</sentences><tokens>0</tokens><words>0</words><fused>0</fused></train>
+    <dev><sentences>0</sentences><tokens>0</tokens><words>0</words><fused>0</fused></dev>
+    <test><sentences>343</sentences><tokens>1449</tokens><words>1468</words><fused>19</fused></test>
+  </size>
+  <lemmas unique="319" /><!-- ., ,, ko, te, at, en, ?, on, et, nom, jẽ, kom, ka, mi, tʃe -->
+  <forms unique="498" /><!-- ., ,, te, ?, en, on, nom, kom, ata, jẽ, ka, tʃe, koa, aramĩra, etʃe -->
+  <fusions unique="15" /><!-- ino, kɨrom, menerom, apiteperom, ataperom, ekerom, etom, iteterom, itʃoberom, jãjerom, kitʃetom, korom, mepiterom, taɨperom, tʃetom -->
+  <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
+  <tags unique="13">
+    <tag name="ADJ">5</tag><!-- atʃi, kipɨ, pagop, perek, tʃame -->
+    <tag name="ADP">22</tag><!-- etʃe, ete, pe -->
+    <tag name="ADV">66</tag><!-- nom, nõm, rom, erom, ãka, ebapa, erape, jõ, kete, kojõpi -->
+    <tag name="AUX">35</tag><!-- ko, jã, tʃe, ka, toa, am, piro -->
+    <tag name="DET">45</tag><!-- jẽ, ke, jẽrom, ẽ, eme, jõ, ta, atʃo, ẽrom -->
+    <tag name="INTJ">7</tag><!-- iwej, ẽ, ahaha, ahh, uf -->
+    <tag name="NOUN">418</tag><!-- ɨkɨ, pi, ek, kɨp, po, ko, mepit, pero, aramĩra, men -->
+    <tag name="NUM">16</tag><!-- tɨrɨ, kite, kɨte, tɨɾɨ -->
+    <tag name="PART">66</tag><!-- te, kom, ekwa, ãka, a, mã, ne, pe, tea -->
+    <tag name="PRON">97</tag><!-- en, on, erẽ, no, arop, orẽ, tara, i, kitʃe, te -->
+    <tag name="PROPN">56</tag><!-- Konibu, pupak, Enotej, Tʃaruj, aramĩra, kani, Buko, Karow, Pura, Txiramanty -->
+    <tag name="PUNCT">320</tag><!-- ., ,, ?, ! -->
+    <tag name="VERB">315</tag><!-- at, ko, et, tʃop, mi, tʃet, ita, ka, erek, tʃe -->
+  </tags>
+  <!-- Statistics of features and values. The comments show the most frequent word forms. -->
+  <feats unique="37">
+    <feat name="Aspect" value="Hab" upos="VERB">13</feat><!-- oetara, koara, etʃetara, kietara, kitʃetara, mira, oamõjara, teipara -->
+    <feat name="Aspect" value="Iter" upos="VERB">1</feat><!-- ikiramkwatekwa -->
+    <feat name="Case" value="Abl" upos="NOUN,PRON">6</feat><!-- aroperi, atʃiri, kɨrẽri, piri, tawtʃeri, ẽromri -->
+    <feat name="Case" value="All" upos="DET,NOUN,PRON,PROPN">23</feat><!-- erẽbõ, tabɨtõ, kɨrẽbõ, ɨkɨbõ, Kanibõ, ekõ, enõ, jẽbõ, kebõ, kirẽbõ -->
+    <feat name="Case" value="Dat" upos="DET,PRON">10</feat><!-- orẽbõ, kebõ, ebõ -->
+    <feat name="Case" value="Loc" upos="ADP,NOUN">3</feat><!-- eanampe, etʃe, ɨkɨpe -->
+    <feat name="Case" value="Tra" upos="NOUN,PART">18</feat><!-- ana, emenna, iapna, ikona, ikopna, itʃopna, kiakopna, kwena, menna, nakona -->
+    <feat name="Clusivity" value="In" upos="AUX,PRON,VERB">8</feat><!-- kitʃe, kietara, kipera, kitoa, kitʃet, kitʃetara -->
+    <feat name="Deixis" value="Dist" upos="DET">17</feat><!-- ke, jẽrom, kebõ, ta, tarom, ẽrom -->
+    <feat name="Deixis" value="Prox" upos="DET">25</feat><!-- jẽ, kebõ, ẽ, eme, jẽbõ -->
+    <feat name="Determ" value="Yes" upos="NOUN">1</feat><!-- eot -->
+    <feat name="Foc" value="Yes" upos="PART">1</feat><!-- ne -->
+    <feat name="Mood" value="Ind" upos="VERB">2</feat><!-- kietara, kitʃetara -->
+    <feat name="Nomzr" value="Circ" upos="NOUN">5</feat><!-- atʃoap, nĩap, pajapna, parãap, tʃogaap -->
+    <feat name="Nomzr" value="Obj" upos="NOUN,VERB">16</feat><!-- imi, oiko, iõ, eiat, eimi, iko, imokwa, itʃopa, oiat, teimaj -->
+    <feat name="Number" value="Plur" upos="VERB">1</feat><!-- kitʃet -->
+    <feat name="Number" value="Sing" upos="NOUN,PRON,VERB">64</feat><!-- en, on, erẽ, erẽbõ, orẽ, te, ebõ, enõ, ikɨp, imaã -->
+    <feat name="NumType" value="Card" upos="NUM">9</feat><!-- tɨrɨ, kɨte, tɨrɨtɨrɨtɨrɨ, tɨɾɨ -->
+    <feat name="Obl" value="Yes" upos="NOUN">4</feat><!-- atitipe, kɨppe, oikepe, pagoppe -->
+    <feat name="Person" value="1" upos="AUX,NOUN,PRON,VERB">107</feat><!-- on, orẽbõ, omepit, kitʃe, oerekwa, oetara, oike, oiko, ojã, otʃipap -->
+    <feat name="Person" value="2" upos="AUX,NOUN,PRON,VERB">64</feat><!-- en, erẽbõ, erẽ, koara, on, eeta, epo, eanampe, eape, eata -->
+    <feat name="Person" value="3" upos="AUX,NOUN,PRON,VERB">114</feat><!-- teita, iko, ikoa, i, ikora, teeta, tejã, iat, iata, ikɨp -->
+    <feat name="Person[psor]" value="1" upos="NOUN">1</feat><!-- oiat -->
+    <feat name="Person[psor]" value="2" upos="NOUN">1</feat><!-- epi -->
+    <feat name="Person[psor]" value="3" upos="NOUN">2</feat><!-- teten -->
+    <feat name="Person[subj]" value="2" upos="NOUN">1</feat><!-- epi -->
+    <feat name="Polarity" value="Neg" upos="ADV">30</feat><!-- nom, nõm, erom, rom, om -->
+    <feat name="PronType" value="Emp" upos="PRON">7</feat><!-- erẽ, orẽ -->
+    <feat name="PronType" value="Ind" upos="PRON">8</feat><!-- no -->
+    <feat name="PronType" value="Prs" upos="PRON">63</feat><!-- en, on, orẽbõ, erẽbõ, kitʃe, te, enõ -->
+    <feat name="Redup" value="Yes" upos="NOUN,NUM,VERB">4</feat><!-- kapakapa, kõjkõjkõj, nininia, tɨrɨtɨrɨtɨrɨ -->
+    <feat name="Reflex" value="Yes" upos="AUX,NOUN,PRON,VERB">44</feat><!-- teita, teimaj, tejã, pe, teeta, teipara, tekwata, teten, tetʃet, epo -->
+    <feat name="Rel" value="Cont" upos="NOUN,VERB">20</feat><!-- tek, tep, tet, itet, tanam, itetkwa, otek, takɨma, tekõ, tepna -->
+    <feat name="Tense" value="Fut" upos="PART">15</feat><!-- kom -->
+    <feat name="Trans" value="Yes" upos="NOUN,VERB">62</feat><!-- oerekwa, pɨtka, erekka, iɨka, jãjka, teakopka, tetka, tʃãka, amkwa, apeka -->
+    <feat name="Tv" value="Yes" upos="VERB">100</feat><!-- ata, koa, tʃopa, ikoa, koara, oetara, mia, nia, teeta, atʃoa -->
+    <feat name="Voice" value="Cau" upos="VERB">2</feat><!-- mõatʃoa -->
+  </feats>
+  <!-- Statistics of universal dependency relations. -->
+  <deps unique="22">
+    <dep name="advcl">2</dep>
+    <dep name="advmod">80</dep>
+    <dep name="amod">3</dep>
+    <dep name="appos">7</dep>
+    <dep name="aux">34</dep>
+    <dep name="case">30</dep>
+    <dep name="ccomp">2</dep>
+    <dep name="conj">8</dep>
+    <dep name="dep">10</dep>
+    <dep name="det">9</dep>
+    <dep name="discourse">65</dep>
+    <dep name="dislocated">8</dep>
+    <dep name="iobj">1</dep>
+    <dep name="nmod">88</dep>
+    <dep name="nsubj">192</dep>
+    <dep name="nummod">14</dep>
+    <dep name="obj">132</dep>
+    <dep name="obl">44</dep>
+    <dep name="parataxis">71</dep>
+    <dep name="punct">320</dep>
+    <dep name="root">343</dep>
+    <dep name="xcomp">5</dep>
+  </deps>
+</treebank>

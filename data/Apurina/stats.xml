@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treebank>
+  <!-- tokens means "surface tokens", e.g. Spanish "vámonos" counts as one token
+       words means "syntactic words", e.g. Spanish "vámonos" is split to two words, "vamos" and "nos"
+       fused is the number of tokens that are split to two or more syntactic words
+       The words and fused elements can be omitted if no token is split to smaller syntactic words. -->
+  <size>
+    <total><sentences>152</sentences><tokens>938</tokens><words>941</words><fused>3</fused></total>
+    <train><sentences>0</sentences><tokens>0</tokens><words>0</words><fused>0</fused></train>
+    <dev><sentences>0</sentences><tokens>0</tokens><words>0</words><fused>0</fused></dev>
+    <test><sentences>152</sentences><tokens>938</tokens><words>941</words><fused>3</fused></test>
+  </size>
+  <lemmas unique="276" /><!-- ., awa, ,, ywa, apaka, awapukutxi, inhinhiã, nynuwa, kuna, –, hãty, uwa, ?, awinhi, sa -->
+  <forms unique="343" /><!-- ., ,, ywa, awa, awary, apaka, inhinhiã, nynuwa, –, kuna, ?, uwa, awinhi, iãtã, amutary -->
+  <fusions unique="3" /><!-- Ykynykaapuku, iputurĩmitekatinhi, ãatsupa -->
+  <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
+  <tags unique="16">
+    <tag name="ADJ">4</tag><!-- Kataparaxinery, atuku, tsuka, ãtukyry -->
+    <tag name="ADP">3</tag><!-- ĩkapanhi, atuku -->
+    <tag name="ADV">55</tag><!-- apaka, inhinhiã, kaiãupuku, Atuku, Kutxi, wai, watxa, Ywã, apiku, era -->
+    <tag name="AUX">9</tag><!-- txa, amu -->
+    <tag name="CCONJ">8</tag><!-- txamary, i -->
+    <tag name="DET">14</tag><!-- ie, kaiãapuku, ithu, kaiãpuku, kaiãũ -->
+    <tag name="INTJ">2</tag><!-- aa, ii -->
+    <tag name="NOUN">287</tag><!-- awapukutxi, iãtã, awinhi, sytu, tiwitxi, ximaky, awiri, keku, maky, ywãtãa -->
+    <tag name="NUM">12</tag><!-- hãty -->
+    <tag name="PART">13</tag><!-- kuna -->
+    <tag name="PRON">100</tag><!-- ywa, nynuwa, uwa, nuta, ykynypuku, atha, kiripa, pitha, Ywã, pithe -->
+    <tag name="PROPN">5</tag><!-- Kanaiapa, Kirama, Syrywyny, Tapaua, Txiiakatxi -->
+    <tag name="PUNCT">216</tag><!-- ., ,, –, ?, :, !, ;, _ -->
+    <tag name="SCONJ">3</tag><!-- kutxi -->
+    <tag name="VERB">207</tag><!-- awa, sa, amuta, kama, kaiãa, kaiãu, apuka, atama, syka, 'awa -->
+    <tag name="X">3</tag><!-- pekana, amakynyka -->
+  </tags>
+  <!-- Statistics of features and values. The comments show the most frequent word forms. -->
+  <feats unique="42">
+    <feat name="AdvType" value="Tim" upos="ADV">2</feat><!-- Kitxaka, Ywasawaky -->
+    <feat name="Aspect" value="Prog" upos="VERB">1</feat><!-- nhikanãtary -->
+    <feat name="Case" value="Com" upos="NOUN">4</feat><!-- imiakurykata, iãkynykata, ytãnurukata, ũtanyrykata -->
+    <feat name="Case" value="Dat" upos="ADV,NOUN,PRON">12</feat><!-- apikumunhi, aapukumunhi, athamunhi, Hĩthamunhi, sitatximunhi, ytanurumunhi, ywamunhi -->
+    <feat name="Case" value="Loc" upos="ADV,NOUN,PRON,VERB">18</feat><!-- kananeã, Ywã, aapukutxiã, atamarakitinhitã, awinhinã, kawãryã, makiã, mitharyã, nytukarẽã, pawinhiã -->
+    <feat name="Case" value="Nom" upos="NOUN,NUM,PRON,PROPN">163</feat><!-- ywa, nynuwa, uwa, ximaky, awiri, yky, Nuta, kyky, pitha, ãkiti -->
+    <feat name="Case" value="Tem" upos="ADV,VERB">3</feat><!-- Ikanapiriãsaaky, sikasaaky, Ĩkanapyryãkasaaky -->
+    <feat name="Derivation" value="Proprietive" upos="VERB">2</feat><!-- kasunakyry, kaxinhiry -->
+    <feat name="Gender" value="Fem" upos="NOUN,NUM,PRON,PROPN">29</feat><!-- uwa, maky, nynyru, pynyru, Hãtu, Kanaiapa, Kerupa, Sytuwakuru, amarute, sytu -->
+    <feat name="Gender" value="Masc" upos="DET,NOUN,NUM,PRON,PROPN">164</feat><!-- ywa, ximaky, awiri, yky, kyky, iia, ãkiti, Kiripa, iãkynytikinhi, kãkity -->
+    <feat name="Gender[obj]" value="Masc" upos="CCONJ,VERB">58</feat><!-- awary, amutary, txamary, kamary, 'awary, kaiapukury, Makamary, Nymapuruĩtary, aiatary, apukary -->
+    <feat name="Gender[psor]" value="Fem" upos="NOUN">7</feat><!-- Ukywyxikeru, Utukuryte, ukinhiã, uparĩka, ũaapuku, ũimiakury, ũtanyrykata -->
+    <feat name="Gender[psor]" value="Masc" upos="NOUN">15</feat><!-- iãkynytikinhi, Yẽrẽkatikinhi, aapukutxiã, apy, arẽka, awinhi, iserẽkana, iãkynykata, uky, yky -->
+    <feat name="Gender[subj]" value="Fem" upos="AUX,VERB">5</feat><!-- Naãtyru, ukamary, umitikary, usa, utxawa -->
+    <feat name="Gender[subj]" value="Masc" upos="ADJ,ADV,AUX,NOUN,VERB">34</feat><!-- sary, awa, itxa, myramanery, Kaiãũry, Kataparaxinery, Kuaxary, Kunakamunyry, Naãtyry, apukary -->
+    <feat name="Number" value="Plur" upos="NOUN,PRON">25</feat><!-- nynuwa, athamunhi, Atha, Hĩthamunhi, Pupĩkaryny, Sytuwakuru, amarynyky, amarytane, imiakurykata, ypyrawakury -->
+    <feat name="Number" value="Sing" upos="NOUN,PRON,PROPN">144</feat><!-- ywa, uwa, ximaky, awiri, yky, Nuta, kyky, pitha, ãkiti, ãputa -->
+    <feat name="Number[obj]" value="Plur" upos="AUX">1</feat><!-- pitxawa -->
+    <feat name="Number[obj]" value="Plur,Sing" upos="VERB">3</feat><!-- apukary, kamary, umitikary -->
+    <feat name="Number[obj]" value="Sing" upos="CCONJ,VERB">63</feat><!-- awary, amutary, txamary, kamary, 'awary, apukary, atamatary, kaiapukury, pysykanu, Makamary -->
+    <feat name="Number[psor]" value="Plur" upos="NOUN">4</feat><!-- iserẽkana, ykyynyrytena, ãawinhinhĩã, ãawinhipuku -->
+    <feat name="Number[psor]" value="Sing" upos="NOUN">30</feat><!-- nynyru, pynyru, pyry, Nhithary, Ukywyxikeru, Utukuryte, Yẽrẽkatikinhi, aapukutxiã, apy, awinhi -->
+    <feat name="Number[subj]" value="Plur" upos="VERB">1</feat><!-- awana -->
+    <feat name="Number[subj]" value="Sing" upos="ADJ,ADV,AUX,NOUN,VERB">44</feat><!-- sary, awa, itxa, myramanery, pysykanu, Kaiãury, Kaiãũry, Kataparaxinery, Kuaxary, Kunakamunyry -->
+    <feat name="Person" value="1" upos="PRON">8</feat><!-- Nuta, athamunhi, Atha -->
+    <feat name="Person" value="2" upos="PRON">5</feat><!-- pitha, Hĩthamunhi -->
+    <feat name="Person" value="3" upos="PRON">67</feat><!-- ywa, nynuwa, uwa, Ywã, ywamunhi -->
+    <feat name="Person[obj]" value="1" upos="AUX,VERB">3</feat><!-- pysykanu, pitxawa -->
+    <feat name="Person[obj]" value="3" upos="CCONJ,VERB">64</feat><!-- awary, amutary, txamary, kamary, apukary, 'awary, atamatary, kaiapukury, Makamary, Nymapuruĩtary -->
+    <feat name="Person[psor]" value="1" upos="NOUN">8</feat><!-- nynyru, Nhithary, nhiimatykyry, nyry, nywãka, ãawinhinhĩã, ãawinhipuku -->
+    <feat name="Person[psor]" value="2" upos="NOUN">7</feat><!-- pynyru, pyry, pawinhiã, pytukara, pywãka -->
+    <feat name="Person[psor]" value="3" upos="NOUN">16</feat><!-- Ukywyxikeru, Utukuryte, Yẽrẽkatikinhi, aapukutxiã, apy, iserẽkana, iãkynykata, iãkynytikinhi, ukinhiã, uky -->
+    <feat name="Person[subj]" value="1" upos="VERB">1</feat><!-- nawa -->
+    <feat name="Person[subj]" value="2" upos="AUX,VERB">4</feat><!-- pysykanu, Waikai, pitxawa -->
+    <feat name="Person[subj]" value="3" upos="ADJ,ADV,AUX,NOUN,VERB">40</feat><!-- sary, awa, itxa, myramanery, Kaiãury, Kaiãũry, Kataparaxinery, Kuaxary, Kunakamunyry, Naãtyru -->
+    <feat name="Possessed" value="No" upos="NOUN,PROPN,VERB">70</feat><!-- ximaky, awiri, kyky, nhipukury, tiwitxi, yky, tiitxi, ãputa, ũty, aapukutxi -->
+    <feat name="Possessed" value="Yes" upos="NOUN">38</feat><!-- nynyru, pynyru, pyry, yky, Nhithary, Ukywyxikeru, Utukuryte, Yẽrẽkatikinhi, aapuku, amarute -->
+    <feat name="PronType" value="Int" upos="PRON">4</feat><!-- Kiripa, Kerupa -->
+    <feat name="PronType" value="Prs" upos="PRON">79</feat><!-- ywa, nynuwa, uwa, Nuta, pitha, athamunhi, Atha, Ywã, ywamunhi -->
+    <feat name="VerbForm" value="Conv" upos="VERB">2</feat><!-- sikasaaky, Ĩkanapyryãkasaaky -->
+    <feat name="VerbForm" value="Vnoun" upos="NOUN,VERB">10</feat><!-- makinhi, faltatinhi, fawtatinhi, iatinhi, ivinitinhi, iũkatsupatinhi, mitekatinhi, nykaminhi, ysãkirawatinhi -->
+    <feat name="VerbType" value="Vido" upos="ADJ,ADV,NOUN,VERB">17</feat><!-- sary, myramanery, Kaiãury, Kataparaxinery, Kuaxary, Kunakamunyry, Naãtyru, Waikai, kasunakyry, kaxinhiry -->
+  </feats>
+  <!-- Statistics of universal dependency relations. -->
+  <deps unique="38">
+    <dep name="acl">10</dep>
+    <dep name="acl:relcl">8</dep>
+    <dep name="advcl">6</dep>
+    <dep name="advcl:tcl">2</dep>
+    <dep name="advmod">31</dep>
+    <dep name="advmod:lmod">3</dep>
+    <dep name="advmod:neg">13</dep>
+    <dep name="advmod:tmod">14</dep>
+    <dep name="appos">2</dep>
+    <dep name="aux">4</dep>
+    <dep name="aux:exhort">1</dep>
+    <dep name="case">3</dep>
+    <dep name="cc">10</dep>
+    <dep name="ccomp">1</dep>
+    <dep name="compound">3</dep>
+    <dep name="conj">60</dep>
+    <dep name="cop">4</dep>
+    <dep name="csubj">2</dep>
+    <dep name="dep">3</dep>
+    <dep name="det">36</dep>
+    <dep name="discourse">2</dep>
+    <dep name="dislocated">1</dep>
+    <dep name="iobj">1</dep>
+    <dep name="list">2</dep>
+    <dep name="mark">3</dep>
+    <dep name="nmod">27</dep>
+    <dep name="nmod:poss">7</dep>
+    <dep name="nsubj">140</dep>
+    <dep name="nsubj:cop">11</dep>
+    <dep name="nummod">12</dep>
+    <dep name="obj">91</dep>
+    <dep name="obj:agent">1</dep>
+    <dep name="obl">21</dep>
+    <dep name="obl:lmod">27</dep>
+    <dep name="obl:tmod">9</dep>
+    <dep name="punct">216</dep>
+    <dep name="root">152</dep>
+    <dep name="xcomp">2</dep>
+  </deps>
+</treebank>

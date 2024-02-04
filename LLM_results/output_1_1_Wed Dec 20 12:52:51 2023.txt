@@ -1,0 +1,10 @@
+Folha -- Como você recebeu a notícia de que seria substituído ?
+MESSAGE|:|Na sentença "O castelo de cartas ruiu logo .",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(o -> castelo)
+(castelo -> ruiu)
+(de -> cartas)
+(cartas -> castelo)
+(ruiu -> root)
+(logo -> ruiu)
+(. -> ruiu)..
+Liste as relações de dependência sintática na sentença "Folha -- Como você recebeu a notícia de que seria substituído ?", usando o formato (token dependente -> token cabeça).

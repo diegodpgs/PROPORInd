@@ -1,0 +1,360 @@
+A sensação de insegurança e a debilidade de o poder público eram sem dúvida características de os Estados Unidos de o final de o século 18 , quando ( segundo a versão mais aceita ) a palavra teria sido inventada a partir de a prática adotada por um juiz Lynch , de condenar e executar seus adversários sem o devido processo legal .
+MESSAGE|:|Na sentença "É um continente e é um país de Terceiro Mundo .",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(é -> continente)
+(um -> continente)
+(continente -> root)
+(e -> país)
+(é -> país)
+(um -> país)
+(país -> continente)
+(de -> terceiro)
+(terceiro -> país)
+(mundo -> terceiro)
+(. -> continente)..
+Liste as relações de dependência sintática na sentença "A sensação de insegurança e a debilidade de o poder público eram sem dúvida características de os Estados Unidos de o final de o século 18 , quando ( segundo a versão mais aceita ) a palavra teria sido inventada a partir de a prática adotada por um juiz Lynch , de condenar e executar seus adversários sem o devido processo legal .", usando o formato (token dependente -> token cabeça).
+REPLY|:|As relações de dependência sintática na sentença "A sensação de insegurança e a debilidade de o poder público eram sem dúvida características de os Estados Unidos de o final de o século 18 , quando ( segundo a versão mais aceita ) a palavra teria sido inventada a partir de a prática adotada por um juiz Lynch , de condenar e executar seus adversários sem o devido processo legal ." são:
+
+(A -> sensação)
+(sensação -> de)
+(insegurança -> sensação)
+(e -> sensação)
+(debilidade -> sensação)
+(poder -> público)
+(público -> de)
+(sensação -> era)
+(características -> era)
+(Estados -> Unidos)
+(Estados -> de)
+(Unidos -> final)
+(final -> século)
+(século -> de)
+(18 -> século)
+(de -> final)
+(quando -> era)
+(versão -> segundo)
+(aceita -> versão)
+(palavra -> sido)
+(sido -> teria)
+(inventada -> sido)
+(palavra -> partir)
+(partir -> inventada)
+(prática -> adotada)
+(adotada -> partir)
+(juiz -> Lynch)
+(Lynch -> juiz)
+(atalhos -> adversários)
+(executar -> adversários)
+(condenar -> juiz)
+(juiz -> executar)
+(prática -> condenar)
+(adotada -> prática)
+(sem -> processo)
+(devido -> processo)
+(processo -> legal)
+(versão -> aceita)
+(segundo -> seria)
+(segundo -> quando)
+(word -> sido)
+REFINE [(A]
+REFINE [(A]
+REFINE [(A]
+REFINE [(A]
+REFINE [A]
+REFINE [A]
+-----------END REFINE---------
+REFINE [sensação)]
+REFINE [sensação)]
+REFINE [sensação)]
+REFINE [sensação)]
+REFINE [sensação]
+-----------END REFINE---------
+REFINE [(sensação]
+REFINE [(sensação]
+REFINE [(sensação]
+REFINE [(sensação]
+REFINE [sensação]
+REFINE [sensação]
+-----------END REFINE---------
+REFINE [de)]
+REFINE [de)]
+REFINE [de)]
+REFINE [de)]
+REFINE [de]
+-----------END REFINE---------
+REFINE [(insegurança]
+REFINE [(insegurança]
+REFINE [(insegurança]
+REFINE [(insegurança]
+REFINE [insegurança]
+REFINE [insegurança]
+-----------END REFINE---------
+REFINE [sensação)]
+REFINE [sensação)]
+REFINE [sensação)]
+REFINE [sensação)]
+REFINE [sensação]
+-----------END REFINE---------
+REFINE [(e]
+REFINE [(e]
+REFINE [(e]
+REFINE [(e]
+REFINE [e]
+REFINE [e]
+-----------END REFINE---------
+REFINE [sensação)]
+REFINE [sensação)]
+REFINE [sensação)]
+REFINE [sensação)]
+REFINE [sensação]
+-----------END REFINE---------
+REFINE [(debilidade]
+REFINE [(debilidade]
+REFINE [(debilidade]
+REFINE [(debilidade]
+REFINE [debilidade]
+REFINE [debilidade]
+-----------END REFINE---------
+REFINE [sensação)]
+REFINE [sensação)]
+REFINE [sensação)]
+REFINE [sensação)]
+REFINE [sensação]
+-----------END REFINE---------
+REFINE [(poder]
+REFINE [(poder]
+REFINE [(poder]
+REFINE [(poder]
+REFINE [poder]
+REFINE [poder]
+-----------END REFINE---------
+REFINE [público)]
+REFINE [público)]
+REFINE [público)]
+REFINE [público)]
+REFINE [público]
+-----------END REFINE---------
+REFINE [(público]
+REFINE [(público]
+REFINE [(público]
+REFINE [(público]
+REFINE [público]
+REFINE [público]
+-----------END REFINE---------
+REFINE [de)]
+REFINE [de)]
+REFINE [de)]
+REFINE [de)]
+REFINE [de]
+-----------END REFINE---------
+REFINE [(sensação]
+REFINE [(sensação]
+REFINE [(sensação]
+REFINE [(sensação]
+REFINE [sensação]
+REFINE [sensação]
+-----------END REFINE---------
+REFINE [era)]
+REFINE [era)]
+REFINE [era)]
+REFINE [era)]
+REFINE [era]
+-----------END REFINE---------
+REFINE [(características]
+REFINE [(características]
+REFINE [(características]
+REFINE [(características]
+REFINE [características]
+REFINE [características]
+-----------END REFINE---------
+REFINE [era)]
+REFINE [era)]
+REFINE [era)]
+REFINE [era)]
+REFINE [era]
+-----------END REFINE---------
+REFINE [(Estados]
+REFINE [(Estados]
+REFINE [(Estados]
+REFINE [(Estados]
+REFINE [Estados]
+REFINE [Estados]
+-----------END REFINE---------
+REFINE [Unidos)]
+REFINE [Unidos)]
+REFINE [Unidos)]
+REFINE [Unidos)]
+REFINE [Unidos]
+-----------END REFINE---------
+REFINE [(Estados]
+REFINE [(Estados]
+REFINE [(Estados]
+REFINE [(Estados]
+REFINE [Estados]
+REFINE [Estados]
+-----------END REFINE---------
+REFINE [de)]
+REFINE [de)]
+REFINE [de)]
+REFINE [de)]
+REFINE [de]
+-----------END REFINE---------
+REFINE [(Unidos]
+REFINE [(Unidos]
+REFINE [(Unidos]
+REFINE [(Unidos]
+REFINE [Unidos]
+REFINE [Unidos]
+-----------END REFINE---------
+REFINE [final)]
+REFINE [final)]
+REFINE [final)]
+REFINE [final)]
+REFINE [final]
+-----------END REFINE---------
+REFINE [(final]
+REFINE [(final]
+REFINE [(final]
+REFINE [(final]
+REFINE [final]
+REFINE [final]
+-----------END REFINE---------
+REFINE [século)]
+REFINE [século)]
+REFINE [século)]
+REFINE [século)]
+REFINE [século]
+-----------END REFINE---------
+REFINE [(século]
+REFINE [(século]
+REFINE [(século]
+REFINE [(século]
+REFINE [século]
+REFINE [século]
+-----------END REFINE---------
+REFINE [de)]
+REFINE [de)]
+REFINE [de)]
+REFINE [de)]
+REFINE [de]
+-----------END REFINE---------
+REFINE [(18]
+REFINE [(18]
+REFINE [(18]
+REFINE [(18]
+REFINE [18]
+REFINE [18]
+-----------END REFINE---------
+REFINE [século)]
+REFINE [século)]
+REFINE [século)]
+REFINE [século)]
+REFINE [século]
+-----------END REFINE---------
+REFINE [(de]
+REFINE [(de]
+REFINE [(de]
+REFINE [(de]
+REFINE [de]
+REFINE [de]
+-----------END REFINE---------
+REFINE [final)]
+REFINE [final)]
+REFINE [final)]
+REFINE [final)]
+REFINE [final]
+-----------END REFINE---------
+REFINE [(quando]
+REFINE [(quando]
+REFINE [(quando]
+REFINE [(quando]
+REFINE [quando]
+REFINE [quando]
+-----------END REFINE---------
+REFINE [era)]
+REFINE [era)]
+REFINE [era)]
+REFINE [era)]
+REFINE [era]
+-----------END REFINE---------
+REFINE [(versão]
+REFINE [(versão]
+REFINE [(versão]
+REFINE [(versão]
+REFINE [versão]
+REFINE [versão]
+-----------END REFINE---------
+REFINE [segundo)]
+REFINE [segundo)]
+REFINE [segundo)]
+REFINE [segundo)]
+REFINE [segundo]
+-----------END REFINE---------
+REFINE [(aceita]
+REFINE [(aceita]
+REFINE [(aceita]
+REFINE [(aceita]
+REFINE [aceita]
+REFINE [aceita]
+-----------END REFINE---------
+REFINE [versão)]
+REFINE [versão)]
+REFINE [versão)]
+REFINE [versão)]
+REFINE [versão]
+-----------END REFINE---------
+REFINE [(palavra]
+REFINE [(palavra]
+REFINE [(palavra]
+REFINE [(palavra]
+REFINE [palavra]
+REFINE [palavra]
+-----------END REFINE---------
+REFINE [sido)]
+REFINE [sido)]
+REFINE [sido)]
+REFINE [sido)]
+REFINE [sido]
+-----------END REFINE---------
+REFINE [(sido]
+REFINE [(sido]
+REFINE [(sido]
+REFINE [(sido]
+REFINE [sido]
+REFINE [sido]
+-----------END REFINE---------
+REFINE [teria)]
+REFINE [teria)]
+REFINE [teria)]
+REFINE [teria)]
+REFINE [teria]
+-----------END REFINE---------
+REFINE [(inventada]
+REFINE [(inventada]
+REFINE [(inventada]
+REFINE [(inventada]
+REFINE [inventada]
+REFINE [inventada]
+-----------END REFINE---------
+REFINE [sido)]
+REFINE [sido)]
+REFINE [sido)]
+REFINE [sido)]
+REFINE [sido]
+-----------END REFINE---------
+REFINE [(palavra]
+REFINE [(palavra]
+REFINE [(palavra]
+REFINE [(palavra]
+REFINE [palavra]
+REFINE [palavra]
+-----------END REFINE---------
+REFINE [partir)]
+REFINE [partir)]
+REFINE [partir)]
+REFINE [partir)]
+REFINE [partir]
+-----------END REFINE---------
+REFINE [(partir]
+REFINE [(partir]
+REFINE [(partir]
+REFINE [(partir]

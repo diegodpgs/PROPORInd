@@ -1,0 +1,2886 @@
+Yamburi maniaka paranã upé i membeka arama .
+MESSAGE|:|Na sentença "Uyupurungitá pawa riré , uyumusangawa yepé ara uyumunhã arama mendarisawa kunhamukú ruka upé .",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(uyupurungitá -> uyumusangawa)
+(pawa -> uyupurungitá)
+(riré -> uyupurungitá)
+(, -> uyupurungitá)
+(uyumusangawa -> root)
+(yepé -> ara)
+(ara -> uyumusangawa)
+(uyumunhã -> uyumusangawa)
+(arama -> uyumunhã)
+(mendarisawa -> uyumunhã)
+(kunhamukú -> ruka)
+(ruka -> uyumunhã)
+(upé -> ruka)
+(. -> uyumusangawa)Na sentença "― Xukúi wã ukukí , waimĩ .",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(― -> xukúi)
+(xukúi -> root)
+(wã -> xukúi)
+(ukukí -> xukúi)
+(, -> waimĩ)
+(waimĩ -> xukúi)
+(. -> xukúi)..
+Liste as relações de dependência sintática na sentença "Yamburi maniaka paranã upé i membeka arama .", usando o formato (token dependente -> token cabeça).
+REPLY|:|As relações de dependência sintática na sentença "Yamburi maniaka paranã upé i membeka arama ." são mostradas abaixo:
+
+(Yamburi -> maniaka)
+(maniaka -> upé)
+(paranã -> maniaka)
+(upé -> root)
+(i -> membeka)
+(membeka -> upé)
+(arama -> membeka)
+(. -> upé)
+REFINE [(Yamburi]
+REFINE [(Yamburi]
+REFINE [(Yamburi]
+REFINE [(Yamburi]
+REFINE [Yamburi]
+REFINE [Yamburi]
+-----------END REFINE---------
+REFINE [maniaka)]
+REFINE [maniaka)]
+REFINE [maniaka)]
+REFINE [maniaka)]
+REFINE [maniaka]
+-----------END REFINE---------
+REFINE [(maniaka]
+REFINE [(maniaka]
+REFINE [(maniaka]
+REFINE [(maniaka]
+REFINE [maniaka]
+REFINE [maniaka]
+-----------END REFINE---------
+REFINE [upé)]
+REFINE [upé)]
+REFINE [upé)]
+REFINE [upé)]
+REFINE [upé]
+-----------END REFINE---------
+REFINE [(paranã]
+REFINE [(paranã]
+REFINE [(paranã]
+REFINE [(paranã]
+REFINE [paranã]
+REFINE [paranã]
+-----------END REFINE---------
+REFINE [maniaka)]
+REFINE [maniaka)]
+REFINE [maniaka)]
+REFINE [maniaka)]
+REFINE [maniaka]
+-----------END REFINE---------
+REFINE [(upé]
+REFINE [(upé]
+REFINE [(upé]
+REFINE [(upé]
+REFINE [upé]
+REFINE [upé]
+-----------END REFINE---------
+REFINE [root)]
+REFINE [root)]
+REFINE [root)]
+REFINE [root)]
+REFINE [root]
+-----------END REFINE---------
+REFINE [(i]
+REFINE [(i]
+REFINE [(i]
+REFINE [(i]
+REFINE [i]
+REFINE [i]
+-----------END REFINE---------
+REFINE [membeka)]
+REFINE [membeka)]
+REFINE [membeka)]
+REFINE [membeka)]
+REFINE [membeka]
+-----------END REFINE---------
+REFINE [(membeka]
+REFINE [(membeka]
+REFINE [(membeka]
+REFINE [(membeka]
+REFINE [membeka]
+REFINE [membeka]
+-----------END REFINE---------
+REFINE [upé)]
+REFINE [upé)]
+REFINE [upé)]
+REFINE [upé)]
+REFINE [upé]
+-----------END REFINE---------
+REFINE [(arama]
+REFINE [(arama]
+REFINE [(arama]
+REFINE [(arama]
+REFINE [arama]
+REFINE [arama]
+-----------END REFINE---------
+REFINE [membeka)]
+REFINE [membeka)]
+REFINE [membeka)]
+REFINE [membeka)]
+REFINE [membeka]
+-----------END REFINE---------
+REFINE [(.]
+REFINE [(.]
+REFINE [(.]
+REFINE [(.]
+REFINE [.]
+REFINE [.]
+-----------END REFINE---------
+REFINE [upé)]
+REFINE [upé)]
+REFINE [upé)]
+REFINE [upé)]
+REFINE [upé]
+-----------END REFINE---------
+chatGPT|:|<@><#>Yamburi<@>maniaka<#>maniaka<@>upé<#>paranã<@>maniaka<#>upé<@>root<#>i<@>membeka<#>membeka<@>upé<#>arama<@>membeka<#>.<@>upé|:|UDA:0.375<#>DDA: 0.250
+GoldTree |:|Yamburi<@>root<@>root<#>maniaka<@>Yamburi<@>obj<#>paranã<@>Yamburi<@>obl<#>upé<@>paranã<@>case<#>i<@>membeka<@>nsubj<#>membeka<@>Yamburi<@>advcl<#>arama<@>membeka<@>mark<#>.<@>Yamburi<@>punct
+>--<
+Aikwé kaxuwera .
+MESSAGE|:|Na sentença "Paraná tipí reté iké .",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(paraná -> tipí)
+(tipí -> root)
+(reté -> tipí)
+(iké -> tipí)
+(. -> tipí)Na sentença "Suasú upurandú i xupé : ― Makití taá resú ?",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(suasú -> upurandú)
+(upurandú -> root)
+(i -> upurandú)
+(xupé -> i)
+(: -> resú)
+(― -> resú)
+(makití -> resú)
+(taá -> resú)
+(resú -> upurandú)
+(? -> resú)..
+Liste as relações de dependência sintática na sentença "Aikwé kaxuwera .", usando o formato (token dependente -> token cabeça).
+REPLY|:|(aikwé -> kaxuwera)
+(kaxuwera -> root)
+(. -> kaxuwera)
+REFINE [(kaxuwera]
+REFINE [(kaxuwera]
+REFINE [(kaxuwera]
+REFINE [(kaxuwera]
+REFINE [kaxuwera]
+REFINE [kaxuwera]
+-----------END REFINE---------
+REFINE [root)]
+REFINE [root)]
+REFINE [root)]
+REFINE [root)]
+REFINE [root]
+-----------END REFINE---------
+REFINE [(.]
+REFINE [(.]
+REFINE [(.]
+REFINE [(.]
+REFINE [.]
+REFINE [.]
+-----------END REFINE---------
+REFINE [kaxuwera)]
+REFINE [kaxuwera)]
+REFINE [kaxuwera)]
+REFINE [kaxuwera)]
+REFINE [kaxuwera]
+-----------END REFINE---------
+chatGPT|:|kaxuwera<@>root<#>.<@>kaxuwera|:|UDA:0.000<#>DDA: 0.000
+GoldTree |:|Aikwé<@>root<@>root<#>kaxuwera<@>Aikwé<@>nsubj<#>.<@>Aikwé<@>punct
+>--<
+Indé remurari apekatú kwá suí tetama suí ?
+MESSAGE|:|Na sentença "Ape Pirá-itá Manha umukanhemu pawa aintá suí maã uxari waá kwera aintá supé .",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(ape -> umukanhemu)
+(pirá-itá -> manha)
+(manha -> umukanhemu)
+(umukanhemu -> root)
+(pawa -> umukanhemu)
+(aintá -> umukanhemu)
+(suí -> aintá)
+(maã -> umukanhemu)
+(uxari -> maã)
+(waá -> uxari)
+(kwera -> uxari)
+(aintá -> uxari)
+(supé -> aintá)
+(. -> umukanhemu)Na sentença "Puranga pituna , Pedro !",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(puranga -> pituna)
+(pituna -> root)
+(, -> pituna)
+(pedro -> pituna)
+(! -> pituna)..
+Liste as relações de dependência sintática na sentença "Indé remurari apekatú kwá suí tetama suí ?", usando o formato (token dependente -> token cabeça).
+REPLY|:|(indé -> remurari)
+(remurari -> apekatú)
+(apekatú -> kwá)
+(kwá -> root)
+(suí -> tetama)
+(tetama -> suí)
+(suí -> ?)
+REFINE [(remurari]
+REFINE [(remurari]
+REFINE [(remurari]
+REFINE [(remurari]
+REFINE [remurari]
+REFINE [remurari]
+-----------END REFINE---------
+REFINE [apekatú)]
+REFINE [apekatú)]
+REFINE [apekatú)]
+REFINE [apekatú)]
+REFINE [apekatú]
+-----------END REFINE---------
+REFINE [(apekatú]
+REFINE [(apekatú]
+REFINE [(apekatú]
+REFINE [(apekatú]
+REFINE [apekatú]
+REFINE [apekatú]
+-----------END REFINE---------
+REFINE [kwá)]
+REFINE [kwá)]
+REFINE [kwá)]
+REFINE [kwá)]
+REFINE [kwá]
+-----------END REFINE---------
+REFINE [(kwá]
+REFINE [(kwá]
+REFINE [(kwá]
+REFINE [(kwá]
+REFINE [kwá]
+REFINE [kwá]
+-----------END REFINE---------
+REFINE [root)]
+REFINE [root)]
+REFINE [root)]
+REFINE [root)]
+REFINE [root]
+-----------END REFINE---------
+REFINE [(suí]
+REFINE [(suí]
+REFINE [(suí]
+REFINE [(suí]
+REFINE [suí]
+REFINE [suí]
+-----------END REFINE---------
+REFINE [tetama)]
+REFINE [tetama)]
+REFINE [tetama)]
+REFINE [tetama)]
+REFINE [tetama]
+-----------END REFINE---------
+REFINE [(tetama]
+REFINE [(tetama]
+REFINE [(tetama]
+REFINE [(tetama]
+REFINE [tetama]
+REFINE [tetama]
+-----------END REFINE---------
+REFINE [suí)]
+REFINE [suí)]
+REFINE [suí)]
+REFINE [suí)]
+REFINE [suí]
+-----------END REFINE---------
+REFINE [(suí]
+REFINE [(suí]
+REFINE [(suí]
+REFINE [(suí]
+REFINE [suí]
+REFINE [suí]
+-----------END REFINE---------
+REFINE [?)]
+REFINE [?)]
+REFINE [?)]
+REFINE [?)]
+REFINE [?]
+-----------END REFINE---------
+chatGPT|:|remurari<@>apekatú<#>apekatú<@>kwá<#>kwá<@>root<#>suí<@>tetama<#>tetama<@>suí<#>suí<@>?|:|UDA:0.375<#>DDA: 0.125
+GoldTree |:|Indé<@>remurari<@>nsubj<#>remurari<@>root<@>root<#>apekatú<@>remurari<@>advmod<#>kwá<@>apekatú<@>obl<#>suí<@>kwá<@>case<#>tetama<@>kwá<@>obl<#>suí<@>tetama<@>case<#>?<@>remurari<@>punct
+>--<
+Aintá ukuntari uakonteseri waá garapé apira kití .
+MESSAGE|:|Na sentença "Yamunhã timbiú , yapinaitika , yamunhã kaxirí .",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(yamunhã -> root)
+(timbiú -> yamunhã)
+(, -> yapinaitika)
+(yapinaitika -> timbiú)
+(, -> yamunhã)
+(yamunhã -> timbiú)
+(kaxirí -> yamunhã)
+(. -> yamunhã)Na sentença "Aiwana upisika kisé .",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(aiwana -> upisika)
+(upisika -> root)
+(kisé -> upisika)
+(. -> upisika)..
+Liste as relações de dependência sintática na sentença "Aintá ukuntari uakonteseri waá garapé apira kití .", usando o formato (token dependente -> token cabeça).
+REPLY|:|As relações de dependência sintática na sentença "Aintá ukuntari uakonteseri waá garapé apira kití." são mostradas abaixo no formato (token dependente -> token cabeça):
+
+(Aintá -> ukuntari)
+(ukuntari -> root)
+(uakonteseri -> ukuntari)
+(waá -> garapé)
+(garapé -> ukuntari)
+(apira -> garapé)
+(kití -> ukuntari)
+(. -> ukuntari)
+REFINE [(Aintá]
+REFINE [(Aintá]
+REFINE [(Aintá]
+REFINE [(Aintá]
+REFINE [Aintá]
+REFINE [Aintá]
+-----------END REFINE---------
+REFINE [ukuntari)]
+REFINE [ukuntari)]
+REFINE [ukuntari)]
+REFINE [ukuntari)]
+REFINE [ukuntari]
+-----------END REFINE---------
+REFINE [(ukuntari]
+REFINE [(ukuntari]
+REFINE [(ukuntari]
+REFINE [(ukuntari]
+REFINE [ukuntari]
+REFINE [ukuntari]
+-----------END REFINE---------
+REFINE [root)]
+REFINE [root)]
+REFINE [root)]
+REFINE [root)]
+REFINE [root]
+-----------END REFINE---------
+REFINE [(uakonteseri]
+REFINE [(uakonteseri]
+REFINE [(uakonteseri]
+REFINE [(uakonteseri]
+REFINE [uakonteseri]
+REFINE [uakonteseri]
+-----------END REFINE---------
+REFINE [ukuntari)]
+REFINE [ukuntari)]
+REFINE [ukuntari)]
+REFINE [ukuntari)]
+REFINE [ukuntari]
+-----------END REFINE---------
+REFINE [(waá]
+REFINE [(waá]
+REFINE [(waá]
+REFINE [(waá]
+REFINE [waá]
+REFINE [waá]
+-----------END REFINE---------
+REFINE [garapé)]
+REFINE [garapé)]
+REFINE [garapé)]
+REFINE [garapé)]
+REFINE [garapé]
+-----------END REFINE---------
+REFINE [(garapé]
+REFINE [(garapé]
+REFINE [(garapé]
+REFINE [(garapé]
+REFINE [garapé]
+REFINE [garapé]
+-----------END REFINE---------
+REFINE [ukuntari)]
+REFINE [ukuntari)]
+REFINE [ukuntari)]
+REFINE [ukuntari)]
+REFINE [ukuntari]
+-----------END REFINE---------
+REFINE [(apira]
+REFINE [(apira]
+REFINE [(apira]
+REFINE [(apira]
+REFINE [apira]
+REFINE [apira]
+-----------END REFINE---------
+REFINE [garapé)]
+REFINE [garapé)]
+REFINE [garapé)]
+REFINE [garapé)]
+REFINE [garapé]
+-----------END REFINE---------
+REFINE [(kití]
+REFINE [(kití]
+REFINE [(kití]
+REFINE [(kití]
+REFINE [kití]
+REFINE [kití]
+-----------END REFINE---------
+REFINE [ukuntari)]
+REFINE [ukuntari)]
+REFINE [ukuntari)]
+REFINE [ukuntari)]
+REFINE [ukuntari]
+-----------END REFINE---------
+REFINE [(.]
+REFINE [(.]
+REFINE [(.]
+REFINE [(.]
+REFINE [.]
+REFINE [.]
+-----------END REFINE---------
+REFINE [ukuntari)]
+REFINE [ukuntari)]
+REFINE [ukuntari)]
+REFINE [ukuntari)]
+REFINE [ukuntari]
+-----------END REFINE---------
+chatGPT|:|<@><#>Aintá<@>ukuntari<#>ukuntari<@>root<#>uakonteseri<@>ukuntari<#>waá<@>garapé<#>garapé<@>ukuntari<#>apira<@>garapé<#>kití<@>ukuntari<#>.<@>ukuntari|:|UDA:0.625<#>DDA: 0.500
+GoldTree |:|Aintá<@>ukuntari<@>nsubj<#>ukuntari<@>root<@>root<#>uakonteseri<@>ukuntari<@>ccomp<#>waá<@>uakonteseri<@>nsubj<#>garapé<@>apira<@>nmod<#>apira<@>uakonteseri<@>obl<#>kití<@>apira<@>case<#>.<@>ukuntari<@>punct
+>--<
+Ixé ti asasá i puxí mayé aintá umbeú .
+MESSAGE|:|Na sentença "Kawará upurungitá kwayawé : — Kukuí , aikwé ana mira setá kwá paraná apira kití , iwasú kurí rewasemu tendawa puranga ne tawa arama .",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(kawará -> upurungitá)
+(upurungitá -> root)
+(kwayawé -> upurungitá)
+(: -> aikwé)
+(— -> aikwé)
+(kukuí -> aikwé)
+(, -> kukuí)
+(aikwé -> upurungitá)
+(ana -> aikwé)
+(mira -> aikwé)
+(setá -> mira)
+(kwá -> paraná)
+(paraná -> apira)
+(apira -> aikwé)
+(kití -> apira)
+(, -> iwasú)
+(iwasú -> aikwé)
+(kurí -> iwasú)
+(rewasemu -> iwasú)
+(tendawa -> rewasemu)
+(puranga -> tendawa)
+(ne -> tawa)
+(tawa -> rewasemu)
+(arama -> tawa)
+(. -> upurungitá)Na sentença "Tapiíra , yuruparí , upirú yautí teté .",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(tapiíra -> upirú)
+(, -> yuruparí)
+(yuruparí -> tapiíra)
+(, -> yuruparí)
+(upirú -> root)
+(yautí -> teté)
+(teté -> upirú)
+(. -> upirú)..
+Liste as relações de dependência sintática na sentença "Ixé ti asasá i puxí mayé aintá umbeú .", usando o formato (token dependente -> token cabeça).
+REPLY|:|Na sentença "Ixé ti asasá i puxí mayé aintá umbeú .", as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça):
+
+(Ixé -> umbeú)
+(ti -> Ixé)
+(asasá -> Ixé)
+(i -> puxí)
+(puxí -> Ixé)
+(mayé -> puxí)
+(aintá -> Ixé)
+(umbeú -> asasá)
+(. -> Ixé)
+REFINE [(Ixé]
+REFINE [(Ixé]
+REFINE [(Ixé]
+REFINE [(Ixé]
+REFINE [Ixé]
+REFINE [Ixé]
+-----------END REFINE---------
+REFINE [umbeú)]
+REFINE [umbeú)]
+REFINE [umbeú)]
+REFINE [umbeú)]
+REFINE [umbeú]
+-----------END REFINE---------
+REFINE [(ti]
+REFINE [(ti]
+REFINE [(ti]
+REFINE [(ti]
+REFINE [ti]
+REFINE [ti]
+-----------END REFINE---------
+REFINE [Ixé)]
+REFINE [Ixé)]
+REFINE [Ixé)]
+REFINE [Ixé)]
+REFINE [Ixé]
+-----------END REFINE---------
+REFINE [(asasá]
+REFINE [(asasá]
+REFINE [(asasá]
+REFINE [(asasá]
+REFINE [asasá]
+REFINE [asasá]
+-----------END REFINE---------
+REFINE [Ixé)]
+REFINE [Ixé)]
+REFINE [Ixé)]
+REFINE [Ixé)]
+REFINE [Ixé]
+-----------END REFINE---------
+REFINE [(i]
+REFINE [(i]
+REFINE [(i]
+REFINE [(i]
+REFINE [i]
+REFINE [i]
+-----------END REFINE---------
+REFINE [puxí)]
+REFINE [puxí)]
+REFINE [puxí)]
+REFINE [puxí)]
+REFINE [puxí]
+-----------END REFINE---------
+REFINE [(puxí]
+REFINE [(puxí]
+REFINE [(puxí]
+REFINE [(puxí]
+REFINE [puxí]
+REFINE [puxí]
+-----------END REFINE---------
+REFINE [Ixé)]
+REFINE [Ixé)]
+REFINE [Ixé)]
+REFINE [Ixé)]
+REFINE [Ixé]
+-----------END REFINE---------
+REFINE [(mayé]
+REFINE [(mayé]
+REFINE [(mayé]
+REFINE [(mayé]
+REFINE [mayé]
+REFINE [mayé]
+-----------END REFINE---------
+REFINE [puxí)]
+REFINE [puxí)]
+REFINE [puxí)]
+REFINE [puxí)]
+REFINE [puxí]
+-----------END REFINE---------
+REFINE [(aintá]
+REFINE [(aintá]
+REFINE [(aintá]
+REFINE [(aintá]
+REFINE [aintá]
+REFINE [aintá]
+-----------END REFINE---------
+REFINE [Ixé)]
+REFINE [Ixé)]
+REFINE [Ixé)]
+REFINE [Ixé)]
+REFINE [Ixé]
+-----------END REFINE---------
+REFINE [(umbeú]
+REFINE [(umbeú]
+REFINE [(umbeú]
+REFINE [(umbeú]
+REFINE [umbeú]
+REFINE [umbeú]
+-----------END REFINE---------
+REFINE [asasá)]
+REFINE [asasá)]
+REFINE [asasá)]
+REFINE [asasá)]
+REFINE [asasá]
+-----------END REFINE---------
+REFINE [(.]
+REFINE [(.]
+REFINE [(.]
+REFINE [(.]
+REFINE [.]
+REFINE [.]
+-----------END REFINE---------
+REFINE [Ixé)]
+REFINE [Ixé)]
+REFINE [Ixé)]
+REFINE [Ixé)]
+REFINE [Ixé]
+-----------END REFINE---------
+chatGPT|:|<@><#>Ixé<@>umbeú<#>ti<@>Ixé<#>asasá<@>Ixé<#>i<@>puxí<#>puxí<@>Ixé<#>mayé<@>puxí<#>aintá<@>Ixé<#>umbeú<@>asasá<#>.<@>Ixé|:|UDA:0.222<#>DDA: 0.111
+GoldTree |:|Ixé<@>asasá<@>nsubj<#>ti<@>asasá<@>advmod<#>asasá<@>root<@>root<#>i<@>puxí<@>expl<#>puxí<@>asasá<@>xcomp<#>mayé<@>asasá<@>advmod<#>aintá<@>umbeú<@>nsubj<#>umbeú<@>mayé<@>advcl<#>.<@>asasá<@>punct
+>--<
+Asika ramé se mbira-itá ukiri ana uikú .
+MESSAGE|:|Na sentença "Ah ! se ramunha , nẽ mayé katú nhuntu , indé taá mayé taá resasawa ?",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(ah -> katú)
+(! -> ah)
+(se -> ramunha)
+(ramunha -> katú)
+(, -> ramunha)
+(nẽ -> katú)
+(mayé -> nẽ)
+(katú -> root)
+(nhuntu -> katú)
+(, -> resasawa)
+(indé -> resasawa)
+(taá -> indé)
+(mayé -> resasawa)
+(taá -> resasawa)
+(resasawa -> katú)
+(? -> katú)Na sentença "Yandé yaikú pe ruakí .",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(yandé -> ruakí)
+(yaikú -> ruakí)
+(pe -> ruakí)
+(ruakí -> root)
+(. -> ruakí)..
+Liste as relações de dependência sintática na sentença "Asika ramé se mbira-itá ukiri ana uikú .", usando o formato (token dependente -> token cabeça).
+REPLY|:|Na sentença "Asika ramé se mbira-itá ukiri ana uikú .", as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça):
+
+(asika -> uikú)
+(ramé -> asika)
+(se -> mbira-itá)
+(mbira-itá -> asika)
+(ukiri -> mbira-itá)
+(ana -> ukiri)
+(uikú -> root)
+(. -> uikú)
+REFINE [(asika]
+REFINE [(asika]
+REFINE [(asika]
+REFINE [(asika]
+REFINE [asika]
+REFINE [asika]
+-----------END REFINE---------
+REFINE [uikú)]
+REFINE [uikú)]
+REFINE [uikú)]
+REFINE [uikú)]
+REFINE [uikú]
+-----------END REFINE---------
+REFINE [(ramé]
+REFINE [(ramé]
+REFINE [(ramé]
+REFINE [(ramé]
+REFINE [ramé]
+REFINE [ramé]
+-----------END REFINE---------
+REFINE [asika)]
+REFINE [asika)]
+REFINE [asika)]
+REFINE [asika)]
+REFINE [asika]
+-----------END REFINE---------
+REFINE [(se]
+REFINE [(se]
+REFINE [(se]
+REFINE [(se]
+REFINE [se]
+REFINE [se]
+-----------END REFINE---------
+REFINE [mbira-itá)]
+REFINE [mbira-itá)]
+REFINE [mbira-itá)]
+REFINE [mbira-itá)]
+REFINE [mbira-itá]
+-----------END REFINE---------
+REFINE [(mbira-itá]
+REFINE [(mbira-itá]
+REFINE [(mbira-itá]
+REFINE [(mbira-itá]
+REFINE [mbira-itá]
+REFINE [mbira-itá]
+-----------END REFINE---------
+REFINE [asika)]
+REFINE [asika)]
+REFINE [asika)]
+REFINE [asika)]
+REFINE [asika]
+-----------END REFINE---------
+REFINE [(ukiri]
+REFINE [(ukiri]
+REFINE [(ukiri]
+REFINE [(ukiri]
+REFINE [ukiri]
+REFINE [ukiri]
+-----------END REFINE---------
+REFINE [mbira-itá)]
+REFINE [mbira-itá)]
+REFINE [mbira-itá)]
+REFINE [mbira-itá)]
+REFINE [mbira-itá]
+-----------END REFINE---------
+REFINE [(ana]
+REFINE [(ana]
+REFINE [(ana]
+REFINE [(ana]
+REFINE [ana]
+REFINE [ana]
+-----------END REFINE---------
+REFINE [ukiri)]
+REFINE [ukiri)]
+REFINE [ukiri)]
+REFINE [ukiri)]
+REFINE [ukiri]
+-----------END REFINE---------
+REFINE [(uikú]
+REFINE [(uikú]
+REFINE [(uikú]
+REFINE [(uikú]
+REFINE [uikú]
+REFINE [uikú]
+-----------END REFINE---------
+REFINE [root)]
+REFINE [root)]
+REFINE [root)]
+REFINE [root)]
+REFINE [root]
+-----------END REFINE---------
+REFINE [(.]
+REFINE [(.]
+REFINE [(.]
+REFINE [(.]
+REFINE [.]
+REFINE [.]
+-----------END REFINE---------
+REFINE [uikú)]
+REFINE [uikú)]
+REFINE [uikú)]
+REFINE [uikú)]
+REFINE [uikú]
+-----------END REFINE---------
+chatGPT|:|<@><#>asika<@>uikú<#>ramé<@>asika<#>se<@>mbira-itá<#>mbira-itá<@>asika<#>ukiri<@>mbira-itá<#>ana<@>ukiri<#>uikú<@>root<#>.<@>uikú|:|UDA:0.500<#>DDA: 0.375
+GoldTree |:|Asika<@>ukiri<@>advcl<#>ramé<@>Asika<@>mark<#>se<@>mbira-itá<@>nmod<#>mbira-itá<@>ukiri<@>nsubj<#>ukiri<@>root<@>root<#>ana<@>ukiri<@>advmod<#>uikú<@>ukiri<@>aux<#>.<@>ukiri<@>punct
+>--<
+Akwá katú ixé ti ayupukwá akití .
+MESSAGE|:|Na sentença "Apigawa upuãmu uikú .",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(apigawa -> upuãmu)
+(upuãmu -> root)
+(uikú -> upuãmu)
+(. -> upuãmu)Na sentença "Supí katú ti rẽ sikwé iwí pe kunhã urikú waá akanga !",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(supí -> sikwé)
+(katú -> supí)
+(ti -> sikwé)
+(rẽ -> sikwé)
+(sikwé -> root)
+(iwí -> sikwé)
+(pe -> iwí)
+(kunhã -> sikwé)
+(urikú -> kunhã)
+(waá -> urikú)
+(akanga -> urikú)
+(! -> sikwé)..
+Liste as relações de dependência sintática na sentença "Akwá katú ixé ti ayupukwá akití .", usando o formato (token dependente -> token cabeça).
+REPLY|:|(akwá -> katú)
+(katú -> ixé)
+(ixé -> root)
+(ti -> ayupukwá)
+(ayupukwá -> akití)
+(akítí -> ixé)
+(. -> ixé)
+REFINE [(katú]
+REFINE [(katú]
+REFINE [(katú]
+REFINE [(katú]
+REFINE [katú]
+REFINE [katú]
+-----------END REFINE---------
+REFINE [ixé)]
+REFINE [ixé)]
+REFINE [ixé)]
+REFINE [ixé)]
+REFINE [ixé]
+-----------END REFINE---------
+REFINE [(ixé]
+REFINE [(ixé]
+REFINE [(ixé]
+REFINE [(ixé]
+REFINE [ixé]
+REFINE [ixé]
+-----------END REFINE---------
+REFINE [root)]
+REFINE [root)]
+REFINE [root)]
+REFINE [root)]
+REFINE [root]
+-----------END REFINE---------
+REFINE [(ti]
+REFINE [(ti]
+REFINE [(ti]
+REFINE [(ti]
+REFINE [ti]
+REFINE [ti]
+-----------END REFINE---------
+REFINE [ayupukwá)]
+REFINE [ayupukwá)]
+REFINE [ayupukwá)]
+REFINE [ayupukwá)]
+REFINE [ayupukwá]
+-----------END REFINE---------
+REFINE [(ayupukwá]
+REFINE [(ayupukwá]
+REFINE [(ayupukwá]
+REFINE [(ayupukwá]
+REFINE [ayupukwá]
+REFINE [ayupukwá]
+-----------END REFINE---------
+REFINE [akití)]
+REFINE [akití)]
+REFINE [akití)]
+REFINE [akití)]
+REFINE [akití]
+-----------END REFINE---------
+REFINE [(akítí]
+REFINE [(akítí]
+REFINE [(akítí]
+REFINE [(akítí]
+REFINE [akítí]
+REFINE [akítí]
+-----------END REFINE---------
+REFINE [ixé)]
+REFINE [ixé)]
+REFINE [ixé)]
+REFINE [ixé)]
+REFINE [ixé]
+-----------END REFINE---------
+REFINE [(.]
+REFINE [(.]
+REFINE [(.]
+REFINE [(.]
+REFINE [.]
+REFINE [.]
+-----------END REFINE---------
+REFINE [ixé)]
+REFINE [ixé)]
+REFINE [ixé)]
+REFINE [ixé)]
+REFINE [ixé]
+-----------END REFINE---------
+chatGPT|:|katú<@>ixé<#>ixé<@>root<#>ti<@>ayupukwá<#>ayupukwá<@>akití<#>akítí<@>ixé<#>.<@>ixé|:|UDA:0.286<#>DDA: 0.143
+GoldTree |:|Akwá<@>root<@>root<#>katú<@>Akwá<@>advmod<#>ixé<@>ayupukwá<@>nsubj<#>ti<@>ayupukwá<@>advmod<#>ayupukwá<@>Akwá<@>ccomp<#>akití<@>ayupukwá<@>advmod<#>.<@>Akwá<@>punct
+>--<
+Kuxiíma reyuri ramé kwá kití mayé taá reyuri arã ?
+MESSAGE|:|Na sentença "Urusika ana iwaka suíwa rupí .",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(urusika -> root)
+(ana -> urusika)
+(iwaka -> urusika)
+(suíwa -> urusika)
+(rupí -> suíwa)
+(. -> urusika)Na sentença "Uka puranga .",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(uka -> puranga)
+(puranga -> root)
+(. -> puranga)..
+Liste as relações de dependência sintática na sentença "Kuxiíma reyuri ramé kwá kití mayé taá reyuri arã ?", usando o formato (token dependente -> token cabeça).
+REPLY|:|As relações de dependência sintática na sentença "Kuxiíma reyuri ramé kwá kití mayé taá reyuri arã ?" são mostradas abaixo:
+
+(Kuxiíma -> ramé)
+(reyuri -> Kuxiíma)
+(ramé -> root)
+(kwá -> ramé)
+(kití -> Kuxiíma)
+(mayé -> Kuxiíma)
+(taá -> Kuxiíma)
+(reyuri -> arã)
+(arã -> Kuxiíma)
+(? -> ramé)
+REFINE [(Kuxiíma]
+REFINE [(Kuxiíma]
+REFINE [(Kuxiíma]
+REFINE [(Kuxiíma]
+REFINE [Kuxiíma]
+REFINE [Kuxiíma]
+-----------END REFINE---------
+REFINE [ramé)]
+REFINE [ramé)]
+REFINE [ramé)]
+REFINE [ramé)]
+REFINE [ramé]
+-----------END REFINE---------
+REFINE [(reyuri]
+REFINE [(reyuri]
+REFINE [(reyuri]
+REFINE [(reyuri]
+REFINE [reyuri]
+REFINE [reyuri]
+-----------END REFINE---------
+REFINE [Kuxiíma)]
+REFINE [Kuxiíma)]
+REFINE [Kuxiíma)]
+REFINE [Kuxiíma)]
+REFINE [Kuxiíma]
+-----------END REFINE---------
+REFINE [(ramé]
+REFINE [(ramé]
+REFINE [(ramé]
+REFINE [(ramé]
+REFINE [ramé]
+REFINE [ramé]
+-----------END REFINE---------
+REFINE [root)]
+REFINE [root)]
+REFINE [root)]
+REFINE [root)]
+REFINE [root]
+-----------END REFINE---------
+REFINE [(kwá]
+REFINE [(kwá]
+REFINE [(kwá]
+REFINE [(kwá]
+REFINE [kwá]
+REFINE [kwá]
+-----------END REFINE---------
+REFINE [ramé)]
+REFINE [ramé)]
+REFINE [ramé)]
+REFINE [ramé)]
+REFINE [ramé]
+-----------END REFINE---------
+REFINE [(kití]
+REFINE [(kití]
+REFINE [(kití]
+REFINE [(kití]
+REFINE [kití]
+REFINE [kití]
+-----------END REFINE---------
+REFINE [Kuxiíma)]
+REFINE [Kuxiíma)]
+REFINE [Kuxiíma)]
+REFINE [Kuxiíma)]
+REFINE [Kuxiíma]
+-----------END REFINE---------
+REFINE [(mayé]
+REFINE [(mayé]
+REFINE [(mayé]
+REFINE [(mayé]
+REFINE [mayé]
+REFINE [mayé]
+-----------END REFINE---------
+REFINE [Kuxiíma)]
+REFINE [Kuxiíma)]
+REFINE [Kuxiíma)]
+REFINE [Kuxiíma)]
+REFINE [Kuxiíma]
+-----------END REFINE---------
+REFINE [(taá]
+REFINE [(taá]
+REFINE [(taá]
+REFINE [(taá]
+REFINE [taá]
+REFINE [taá]
+-----------END REFINE---------
+REFINE [Kuxiíma)]
+REFINE [Kuxiíma)]
+REFINE [Kuxiíma)]
+REFINE [Kuxiíma)]
+REFINE [Kuxiíma]
+-----------END REFINE---------
+REFINE [(reyuri]
+REFINE [(reyuri]
+REFINE [(reyuri]
+REFINE [(reyuri]
+REFINE [reyuri]
+REFINE [reyuri]
+-----------END REFINE---------
+REFINE [arã)]
+REFINE [arã)]
+REFINE [arã)]
+REFINE [arã)]
+REFINE [arã]
+-----------END REFINE---------
+REFINE [(arã]
+REFINE [(arã]
+REFINE [(arã]
+REFINE [(arã]
+REFINE [arã]
+REFINE [arã]
+-----------END REFINE---------
+REFINE [Kuxiíma)]
+REFINE [Kuxiíma)]
+REFINE [Kuxiíma)]
+REFINE [Kuxiíma)]
+REFINE [Kuxiíma]
+-----------END REFINE---------
+REFINE [(?]
+REFINE [(?]
+REFINE [(?]
+REFINE [(?]
+REFINE [?]
+REFINE [?]
+-----------END REFINE---------
+REFINE [ramé)]
+REFINE [ramé)]
+REFINE [ramé)]
+REFINE [ramé)]
+REFINE [ramé]
+-----------END REFINE---------
+chatGPT|:|<@><#>Kuxiíma<@>ramé<#>reyuri<@>Kuxiíma<#>ramé<@>root<#>kwá<@>ramé<#>kití<@>Kuxiíma<#>mayé<@>Kuxiíma<#>taá<@>Kuxiíma<#>reyuri<@>arã<#>arã<@>Kuxiíma<#>?<@>ramé|:|UDA:0.200<#>DDA: 0.000
+GoldTree |:|Kuxiíma<@>reyuri<@>advmod<#>reyuri<@>reyuri<@>advcl<#>ramé<@>reyuri<@>mark<#>kwá<@>reyuri<@>obl<#>kití<@>kwá<@>case<#>mayé<@>reyuri<@>advmod<#>taá<@>reyuri<@>advmod<#>reyuri<@>root<@>root<#>arã<@>reyuri<@>mark<#>?<@>reyuri<@>punct
+>--<
+Suka sakú .
+MESSAGE|:|Na sentença "Ayuri ne piri karuka ramé .",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(ayuri -> root)
+(ne -> ayuri)
+(piri -> ne)
+(karuka -> ayuri)
+(ramé -> karuka)
+(. -> ayuri)Na sentença "Awá taá iwaté upisika arama se kisé , uikú waá nhaã yurá árupi ?",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(awá -> iwaté)
+(taá -> iwaté)
+(iwaté -> root)
+(upisika -> iwaté)
+(arama -> upisika)
+(se -> kisé)
+(kisé -> upisika)
+(, -> uikú)
+(uikú -> yurá)
+(waá -> yurá)
+(nhaã -> yurá)
+(yurá -> kisé)
+(árupi -> yurá)
+(? -> iwaté)..
+Liste as relações de dependência sintática na sentença "Suka sakú .", usando o formato (token dependente -> token cabeça).
+REPLY|:|(suka -> root)
+(sakú -> suka)
+(. -> suka)
+REFINE [(sakú]
+REFINE [(sakú]
+REFINE [(sakú]
+REFINE [(sakú]
+REFINE [sakú]
+REFINE [sakú]
+-----------END REFINE---------
+REFINE [suka)]
+REFINE [suka)]
+REFINE [suka)]
+REFINE [suka)]
+REFINE [suka]
+-----------END REFINE---------
+REFINE [(.]
+REFINE [(.]
+REFINE [(.]
+REFINE [(.]
+REFINE [.]
+REFINE [.]
+-----------END REFINE---------
+REFINE [suka)]
+REFINE [suka)]
+REFINE [suka)]
+REFINE [suka)]
+REFINE [suka]
+-----------END REFINE---------
+chatGPT|:|sakú<@>suka<#>.<@>suka|:|UDA:0.333<#>DDA: 0.000
+GoldTree |:|Suka<@>sakú<@>nsubj<#>sakú<@>root<@>root<#>.<@>sakú<@>punct
+>--<
+Apigawa rendawa kurumĩ tawa ruakí .
+MESSAGE|:|Na sentença "— Panhẽ paá kwá ií upupuri arã .",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(— -> upupuri)
+(panhẽ -> ií)
+(paá -> upupuri)
+(kwá -> ií)
+(ií -> upupuri)
+(upupuri -> root)
+(arã -> upupuri)
+(. -> upupuri)Na sentença "Ape paá i manha umeẽ i xupé pusanga umusasawa arã i pira rupí , ti arã nhaã urubú kunhã-itá umaã aé .",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(ape -> umeẽ)
+(paá -> umeẽ)
+(i -> manha)
+(manha -> umeẽ)
+(umeẽ -> root)
+(i -> umeẽ)
+(xupé -> i)
+(pusanga -> umusasawa)
+(umusasawa -> umeẽ)
+(arã -> umusasawa)
+(i -> pira)
+(pira -> umusasawa)
+(rupí -> pira)
+(, -> umaã)
+(ti -> umaã)
+(arã -> umaã)
+(nhaã -> urubú)
+(urubú -> kunhã-itá)
+(kunhã-itá -> umaã)
+(umaã -> umusasawa)
+(aé -> umaã)
+(. -> umeẽ)..
+Liste as relações de dependência sintática na sentença "Apigawa rendawa kurumĩ tawa ruakí .", usando o formato (token dependente -> token cabeça).
+REPLY|:|(apigawa -> ruakí)
+(rendawa -> kurumĩ)
+(kurumĩ -> tawa)
+(tawa -> ruakí)
+(ruakí -> root)
+(.) -> ruakí)
+REFINE [(rendawa]
+REFINE [(rendawa]
+REFINE [(rendawa]
+REFINE [(rendawa]
+REFINE [rendawa]
+REFINE [rendawa]
+-----------END REFINE---------
+REFINE [kurumĩ)]
+REFINE [kurumĩ)]
+REFINE [kurumĩ)]
+REFINE [kurumĩ)]
+REFINE [kurumĩ]
+-----------END REFINE---------
+REFINE [(kurumĩ]
+REFINE [(kurumĩ]
+REFINE [(kurumĩ]
+REFINE [(kurumĩ]
+REFINE [kurumĩ]
+REFINE [kurumĩ]
+-----------END REFINE---------
+REFINE [tawa)]
+REFINE [tawa)]
+REFINE [tawa)]
+REFINE [tawa)]
+REFINE [tawa]
+-----------END REFINE---------
+REFINE [(tawa]
+REFINE [(tawa]
+REFINE [(tawa]
+REFINE [(tawa]
+REFINE [tawa]
+REFINE [tawa]
+-----------END REFINE---------
+REFINE [ruakí)]
+REFINE [ruakí)]
+REFINE [ruakí)]
+REFINE [ruakí)]
+REFINE [ruakí]
+-----------END REFINE---------
+REFINE [(ruakí]
+REFINE [(ruakí]
+REFINE [(ruakí]
+REFINE [(ruakí]
+REFINE [ruakí]
+REFINE [ruakí]
+-----------END REFINE---------
+REFINE [root)]
+REFINE [root)]
+REFINE [root)]
+REFINE [root)]
+REFINE [root]
+-----------END REFINE---------
+REFINE [(.)]
+REFINE [(.)]
+REFINE [(.)]
+REFINE [(.)]
+REFINE [.)]
+REFINE [.]
+-----------END REFINE---------
+REFINE [ruakí)]
+REFINE [ruakí)]
+REFINE [ruakí)]
+REFINE [ruakí)]
+REFINE [ruakí]
+-----------END REFINE---------
+chatGPT|:|rendawa<@>kurumĩ<#>kurumĩ<@>tawa<#>tawa<@>ruakí<#>ruakí<@>root<#>.<@>ruakí|:|UDA:0.333<#>DDA: 0.167
+GoldTree |:|Apigawa<@>rendawa<@>nmod<#>rendawa<@>tawa<@>nsubj<#>kurumĩ<@>tawa<@>nmod<#>tawa<@>root<@>root<#>ruakí<@>tawa<@>case<#>.<@>tawa<@>punct
+>--<
+Pedro raíra-itá puranga uikú .
+MESSAGE|:|Na sentença "Yakwáu reté kwá pirá .",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(yakwáu -> root)
+(reté -> yakwáu)
+(kwá -> pirá)
+(pirá -> yakwáu)
+(. -> yakwáu)Na sentença "mayé taá fava upuderi umusemu iyá kukura ?",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(mayé -> umusemu)
+(taá -> umusemu)
+(fava -> umusemu)
+(upuderi -> umusemu)
+(umusemu -> root)
+(iyá -> umusemu)
+(kukura -> iyá)
+(? -> umusemu)..
+Liste as relações de dependência sintática na sentença "Pedro raíra-itá puranga uikú .", usando o formato (token dependente -> token cabeça).
+REPLY|:|As relações de dependência sintática na sentença "Pedro raíra-itá puranga uikú ." são mostradas abaixo:
+
+(Pedro -> uikú)
+(raíra-itá -> Pedro)
+(puranga -> uikú)
+(uikú -> root)
+(. -> uikú)
+REFINE [(Pedro]
+REFINE [(Pedro]
+REFINE [(Pedro]
+REFINE [(Pedro]
+REFINE [Pedro]
+REFINE [Pedro]
+-----------END REFINE---------
+REFINE [uikú)]
+REFINE [uikú)]
+REFINE [uikú)]
+REFINE [uikú)]
+REFINE [uikú]
+-----------END REFINE---------
+REFINE [(raíra-itá]
+REFINE [(raíra-itá]
+REFINE [(raíra-itá]
+REFINE [(raíra-itá]
+REFINE [raíra-itá]
+REFINE [raíra-itá]
+-----------END REFINE---------
+REFINE [Pedro)]
+REFINE [Pedro)]
+REFINE [Pedro)]
+REFINE [Pedro)]
+REFINE [Pedro]
+-----------END REFINE---------
+REFINE [(puranga]
+REFINE [(puranga]
+REFINE [(puranga]
+REFINE [(puranga]
+REFINE [puranga]
+REFINE [puranga]
+-----------END REFINE---------
+REFINE [uikú)]
+REFINE [uikú)]
+REFINE [uikú)]
+REFINE [uikú)]
+REFINE [uikú]
+-----------END REFINE---------
+REFINE [(uikú]
+REFINE [(uikú]
+REFINE [(uikú]
+REFINE [(uikú]
+REFINE [uikú]
+REFINE [uikú]
+-----------END REFINE---------
+REFINE [root)]
+REFINE [root)]
+REFINE [root)]
+REFINE [root)]
+REFINE [root]
+-----------END REFINE---------
+REFINE [(.]
+REFINE [(.]
+REFINE [(.]
+REFINE [(.]
+REFINE [.]
+REFINE [.]
+-----------END REFINE---------
+REFINE [uikú)]
+REFINE [uikú)]
+REFINE [uikú)]
+REFINE [uikú)]
+REFINE [uikú]
+-----------END REFINE---------
+chatGPT|:|<@><#>Pedro<@>uikú<#>raíra-itá<@>Pedro<#>puranga<@>uikú<#>uikú<@>root<#>.<@>uikú|:|UDA:0.400<#>DDA: 0.000
+GoldTree |:|Pedro<@>raíra-itá<@>nmod<#>raíra-itá<@>puranga<@>nsubj<#>puranga<@>root<@>root<#>uikú<@>puranga<@>cop<#>.<@>puranga<@>punct
+>--<
+Aikú i irũmu .
+MESSAGE|:|Na sentença "Aikwé paá musapiri kunhamukú ti waá usendú maã mira umungitá .",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(aikwé -> root)
+(paá -> aikwé)
+(musapiri -> kunhamukú)
+(kunhamukú -> aikwé)
+(ti -> usendú)
+(waá -> kunhamukú)
+(usendú -> kunhamukú)
+(maã -> usendú)
+(mira -> umungitá)
+(umungitá -> maã)
+(. -> aikwé)Na sentença "Tenki yasikari yayuíri awá taá upuderi umpinima aé .",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(tenki -> yasikari)
+(yasikari -> root)
+(yayuíri -> yasikari)
+(awá -> umpinima)
+(taá -> umpinima)
+(upuderi -> umpinima)
+(umpinima -> yasikari)
+(aé -> umpinima)
+(. -> yasikari)..
+Liste as relações de dependência sintática na sentença "Aikú i irũmu .", usando o formato (token dependente -> token cabeça).
+REPLY|:|As relações de dependência sintática na sentença "Aikú i irũmu" são mostradas abaixo:
+
+(Aikú -> i)
+(i -> irũmu)
+(irũmu -> Aikú)
+REFINE [(Aikú]
+REFINE [(Aikú]
+REFINE [(Aikú]
+REFINE [(Aikú]
+REFINE [Aikú]
+REFINE [Aikú]
+-----------END REFINE---------
+REFINE [i)]
+REFINE [i)]
+REFINE [i)]
+REFINE [i)]
+REFINE [i]
+-----------END REFINE---------
+REFINE [(i]
+REFINE [(i]
+REFINE [(i]
+REFINE [(i]
+REFINE [i]
+REFINE [i]
+-----------END REFINE---------
+REFINE [irũmu)]
+REFINE [irũmu)]
+REFINE [irũmu)]
+REFINE [irũmu)]
+REFINE [irũmu]
+-----------END REFINE---------
+REFINE [(irũmu]
+REFINE [(irũmu]
+REFINE [(irũmu]
+REFINE [(irũmu]
+REFINE [irũmu]
+REFINE [irũmu]
+-----------END REFINE---------
+REFINE [Aikú)]
+REFINE [Aikú)]
+REFINE [Aikú)]
+REFINE [Aikú)]
+REFINE [Aikú]
+-----------END REFINE---------
+chatGPT|:|<@><#>Aikú<@>i<#>i<@>irũmu<#>irũmu<@>Aikú|:|UDA:0.500<#>DDA: 0.250
+GoldTree |:|Aikú<@>irũmu<@>cop<#>i<@>irũmu<@>obl<#>irũmu<@>root<@>root<#>.<@>irũmu<@>punct
+>--<
+Aintá rurí .
+MESSAGE|:|Na sentença "Aintá puru baniwa kwá tendawa upé .",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(aintá -> baniwa)
+(puru -> baniwa)
+(baniwa -> root)
+(kwá -> tendawa)
+(tendawa -> baniwa)
+(upé -> tendawa)
+(. -> baniwa)Na sentença "Tamanduá usuaxara : ― Se yurú rupí tẽ .",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(tamanduá -> usuaxara)
+(usuaxara -> root)
+(: -> yurú)
+(― -> yurú)
+(se -> yurú)
+(yurú -> usuaxara)
+(rupí -> yurú)
+(tẽ -> yurú)
+(. -> usuaxara)..
+Liste as relações de dependência sintática na sentença "Aintá rurí .", usando o formato (token dependente -> token cabeça).
+REPLY|:|(aintá -> rurí)
+(rurí -> root)
+(. -> rurí)
+REFINE [(rurí]
+REFINE [(rurí]
+REFINE [(rurí]
+REFINE [(rurí]
+REFINE [rurí]
+REFINE [rurí]
+-----------END REFINE---------
+REFINE [root)]
+REFINE [root)]
+REFINE [root)]
+REFINE [root)]
+REFINE [root]
+-----------END REFINE---------
+REFINE [(.]
+REFINE [(.]
+REFINE [(.]
+REFINE [(.]
+REFINE [.]
+REFINE [.]
+-----------END REFINE---------
+REFINE [rurí)]
+REFINE [rurí)]
+REFINE [rurí)]
+REFINE [rurí)]
+REFINE [rurí]
+-----------END REFINE---------
+chatGPT|:|rurí<@>root<#>.<@>rurí|:|UDA:0.667<#>DDA: 0.667
+GoldTree |:|Aintá<@>rurí<@>nsubj<#>rurí<@>root<@>root<#>.<@>rurí<@>punct
+>--<
+Aé sakú uikú .
+MESSAGE|:|Na sentença "Asuí taá ?",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(asuí -> root)
+(taá -> asuí)
+(? -> asuí)Na sentença "Aintá puru baniwa kwá tendawa upé .",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(aintá -> baniwa)
+(puru -> baniwa)
+(baniwa -> root)
+(kwá -> tendawa)
+(tendawa -> baniwa)
+(upé -> tendawa)
+(. -> baniwa)..
+Liste as relações de dependência sintática na sentença "Aé sakú uikú .", usando o formato (token dependente -> token cabeça).
+REPLY|:|(aé -> sakú)
+(sakú -> root)
+(uikú -> sakú)
+(. -> sakú)
+REFINE [(sakú]
+REFINE [(sakú]
+REFINE [(sakú]
+REFINE [(sakú]
+REFINE [sakú]
+REFINE [sakú]
+-----------END REFINE---------
+REFINE [root)]
+REFINE [root)]
+REFINE [root)]
+REFINE [root)]
+REFINE [root]
+-----------END REFINE---------
+REFINE [(uikú]
+REFINE [(uikú]
+REFINE [(uikú]
+REFINE [(uikú]
+REFINE [uikú]
+REFINE [uikú]
+-----------END REFINE---------
+REFINE [sakú)]
+REFINE [sakú)]
+REFINE [sakú)]
+REFINE [sakú)]
+REFINE [sakú]
+-----------END REFINE---------
+REFINE [(.]
+REFINE [(.]
+REFINE [(.]
+REFINE [(.]
+REFINE [.]
+REFINE [.]
+-----------END REFINE---------
+REFINE [sakú)]
+REFINE [sakú)]
+REFINE [sakú)]
+REFINE [sakú)]
+REFINE [sakú]
+-----------END REFINE---------
+chatGPT|:|sakú<@>root<#>uikú<@>sakú<#>.<@>sakú|:|UDA:0.750<#>DDA: 0.750
+GoldTree |:|Aé<@>sakú<@>nsubj<#>sakú<@>root<@>root<#>uikú<@>sakú<@>aux<#>.<@>sakú<@>punct
+>--<
+Aé ti surí uikú .
+MESSAGE|:|Na sentença "Amunhã kari tatá .",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(amunhã -> root)
+(kari -> amunhã)
+(tatá -> amunhã)
+(. -> amunhã)Na sentença "Usika , umaã siiya kunhã-itá upisika waá-itá uikú pirá-mirĩ yuka .",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(usika -> root)
+(, -> umaã)
+(umaã -> usika)
+(siiya -> kunhã-itá)
+(kunhã-itá -> umaã)
+(upisika -> kunhã-itá)
+(waá-itá -> upisika)
+(uikú -> upisika)
+(pirá-mirĩ -> upisika)
+(yuka -> pirá-mirĩ)
+(. -> usika)..
+Liste as relações de dependência sintática na sentença "Aé ti surí uikú .", usando o formato (token dependente -> token cabeça).
+REPLY|:|A lista de relações de dependência sintática na sentença "Aé ti surí uikú ." é a seguinte:
+
+(Aé -> surí)
+(ti -> surí)
+(surí -> uikú)
+(. -> surí)
+REFINE [(Aé]
+REFINE [(Aé]
+REFINE [(Aé]
+REFINE [(Aé]
+REFINE [Aé]
+REFINE [Aé]
+-----------END REFINE---------
+REFINE [surí)]
+REFINE [surí)]
+REFINE [surí)]
+REFINE [surí)]
+REFINE [surí]
+-----------END REFINE---------
+REFINE [(ti]
+REFINE [(ti]
+REFINE [(ti]
+REFINE [(ti]
+REFINE [ti]
+REFINE [ti]
+-----------END REFINE---------
+REFINE [surí)]
+REFINE [surí)]
+REFINE [surí)]
+REFINE [surí)]
+REFINE [surí]
+-----------END REFINE---------
+REFINE [(surí]
+REFINE [(surí]
+REFINE [(surí]
+REFINE [(surí]
+REFINE [surí]
+REFINE [surí]
+-----------END REFINE---------
+REFINE [uikú)]
+REFINE [uikú)]
+REFINE [uikú)]
+REFINE [uikú)]
+REFINE [uikú]
+-----------END REFINE---------
+REFINE [(.]
+REFINE [(.]
+REFINE [(.]
+REFINE [(.]
+REFINE [.]
+REFINE [.]
+-----------END REFINE---------
+REFINE [surí)]
+REFINE [surí)]
+REFINE [surí)]
+REFINE [surí)]
+REFINE [surí]
+-----------END REFINE---------
+chatGPT|:|<@><#>Aé<@>surí<#>ti<@>surí<#>surí<@>uikú<#>.<@>surí|:|UDA:0.800<#>DDA: 0.600
+GoldTree |:|Aé<@>surí<@>nsubj<#>ti<@>surí<@>advmod<#>surí<@>root<@>root<#>uikú<@>surí<@>aux<#>.<@>surí<@>punct
+>--<
+I pusé uikú .
+MESSAGE|:|Na sentença "Muíri kuya taá aé uú ?",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(muíri -> kuya)
+(kuya -> uú)
+(taá -> uú)
+(aé -> uú)
+(uú -> root)
+(? -> uú)Na sentença "Miasúa usú ana , usendú teapú tukumã raínha pupé : tẽ , tẽ , tẽ ; tẽ , tẽ , tẽ .",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(miasúa -> usú)
+(usú -> root)
+(ana -> usú)
+(, -> usendú)
+(usendú -> usú)
+(teapú -> usendú)
+(tukumã -> raínha)
+(raínha -> usendú)
+(pupé -> raínha)
+(: -> tẽ)
+(tẽ -> usú)
+(, -> tẽ)
+(tẽ -> usú)
+(, -> tẽ)
+(tẽ -> usú)
+(; -> tẽ)
+(tẽ -> usú)
+(, -> tẽ)
+(tẽ -> usú)
+(, -> tẽ)
+(tẽ -> usú)
+(. -> usú)..
+Liste as relações de dependência sintática na sentença "I pusé uikú .", usando o formato (token dependente -> token cabeça).
+REPLY|:|(I -> pusé)
+(pusé -> uikú)
+(uikú -> root)
+(. -> uikú)
+REFINE [(pusé]
+REFINE [(pusé]
+REFINE [(pusé]
+REFINE [(pusé]
+REFINE [pusé]
+REFINE [pusé]
+-----------END REFINE---------
+REFINE [uikú)]
+REFINE [uikú)]
+REFINE [uikú)]
+REFINE [uikú)]
+REFINE [uikú]
+-----------END REFINE---------
+REFINE [(uikú]
+REFINE [(uikú]
+REFINE [(uikú]
+REFINE [(uikú]
+REFINE [uikú]
+REFINE [uikú]
+-----------END REFINE---------
+REFINE [root)]
+REFINE [root)]
+REFINE [root)]
+REFINE [root)]
+REFINE [root]
+-----------END REFINE---------
+REFINE [(.]
+REFINE [(.]
+REFINE [(.]
+REFINE [(.]
+REFINE [.]
+REFINE [.]
+-----------END REFINE---------
+REFINE [uikú)]
+REFINE [uikú)]
+REFINE [uikú)]
+REFINE [uikú)]
+REFINE [uikú]
+-----------END REFINE---------
+chatGPT|:|pusé<@>uikú<#>uikú<@>root<#>.<@>uikú|:|UDA:0.250<#>DDA: 0.000
+GoldTree |:|I<@>pusé<@>nsubj<#>pusé<@>root<@>root<#>uikú<@>pusé<@>aux<#>.<@>pusé<@>punct
+>--<
+Igara paranã uikú suakí .
+MESSAGE|:|Na sentença "Yautí unheẽ paraná supé : — Maã resé taá yawé katú renheẽ ixé arama ?",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(yautí -> unheẽ)
+(unheẽ -> root)
+(paraná -> unheẽ)
+(supé -> paraná)
+(: -> renheẽ)
+(— -> renheẽ)
+(maã -> renheẽ)
+(resé -> maã)
+(taá -> renheẽ)
+(yawé -> katú)
+(katú -> renheẽ)
+(renheẽ -> unheẽ)
+(ixé -> renheẽ)
+(arama -> ixé)
+(? -> unheẽ)Na sentença "Kwá tayasú-kaapura usasemu kirimbawa umbaú ramé uikú .",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(kwá -> tayasú-kaapura)
+(tayasú-kaapura -> usasemu)
+(usasemu -> root)
+(kirimbawa -> usasemu)
+(umbaú -> usasemu)
+(ramé -> umbaú)
+(uikú -> umbaú)
+(. -> usasemu)..
+Liste as relações de dependência sintática na sentença "Igara paranã uikú suakí .", usando o formato (token dependente -> token cabeça).
+REPLY|:|Nas relações de dependência sintática na sentença "Igara paranã uikú suakí ." são mostradas abaixo no formato (token dependente -> token cabeça):
+
+(igara -> paranã)
+(paranã -> uikú)
+(uikú -> suakí)
+(suakí ->.)
+REFINE [(igara]
+REFINE [(igara]
+REFINE [(igara]
+REFINE [(igara]
+REFINE [igara]
+REFINE [igara]
+-----------END REFINE---------
+REFINE [paranã)]
+REFINE [paranã)]
+REFINE [paranã)]
+REFINE [paranã)]
+REFINE [paranã]
+-----------END REFINE---------
+REFINE [(paranã]
+REFINE [(paranã]
+REFINE [(paranã]
+REFINE [(paranã]
+REFINE [paranã]
+REFINE [paranã]
+-----------END REFINE---------
+REFINE [uikú)]
+REFINE [uikú)]
+REFINE [uikú)]
+REFINE [uikú)]
+REFINE [uikú]
+-----------END REFINE---------
+REFINE [(uikú]
+REFINE [(uikú]
+REFINE [(uikú]
+REFINE [(uikú]
+REFINE [uikú]
+REFINE [uikú]
+-----------END REFINE---------
+REFINE [suakí)]
+REFINE [suakí)]
+REFINE [suakí)]
+REFINE [suakí)]
+REFINE [suakí]
+-----------END REFINE---------
+REFINE [(suakí]
+REFINE [(suakí]
+REFINE [(suakí]
+REFINE [(suakí]
+REFINE [suakí]
+REFINE [suakí]
+-----------END REFINE---------
+REFINE [.)]
+REFINE [.)]
+REFINE [.)]
+REFINE [.)]
+REFINE [.]
+-----------END REFINE---------
+chatGPT|:|<@><#>igara<@>paranã<#>paranã<@>uikú<#>uikú<@>suakí<#>suakí<@>.|:|UDA:0.600<#>DDA: 0.400
+GoldTree |:|Igara<@>paranã<@>nmod<#>paranã<@>suakí<@>nsubj<#>uikú<@>suakí<@>cop<#>suakí<@>root<@>root<#>.<@>suakí<@>punct
+>--<
+Indé ne rurí .
+MESSAGE|:|Na sentença "Asuí sesewara usika aintá resé panhẽ kwá-itá Síria upewara-itá , ape aintá ururi i piri kwá-itá uikú aíwa waá-itá , masiwera waá-itá yuíri , kwá-itá upurará waá-itá yuíri , demuniu upukwari waá-itá yuíri , kwá-itá urikú waá-itá masí puxuwera waá , pitúa waá-itá yuíri , asuí umukaturu aintá .",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(asuí -> usika)
+(sesewara -> usika)
+(usika -> root)
+(aintá -> usika)
+(resé -> aintá)
+(panhẽ -> upewara-itá)
+(kwá-itá -> upewara-itá)
+(síria -> upewara-itá)
+(upewara-itá -> usika)
+(, -> ururi)
+(ape -> ururi)
+(aintá -> ururi)
+(ururi -> usika)
+(i -> ururi)
+(piri -> i)
+(kwá-itá -> ururi)
+(uikú -> aíwa)
+(aíwa -> kwá-itá)
+(waá-itá -> aíwa)
+(, -> masiwera)
+(masiwera -> aíwa)
+(waá-itá -> masiwera)
+(yuíri -> masiwera)
+(, -> kwá-itá)
+(kwá-itá -> kwá-itá)
+(upurará -> kwá-itá)
+(waá-itá -> upurará)
+(yuíri -> kwá-itá)
+(, -> upukwari)
+(demuniu -> upukwari)
+(upukwari -> upurará)
+(waá-itá -> upukwari)
+(yuíri -> upukwari)
+(, -> kwá-itá)
+(kwá-itá -> kwá-itá)
+(urikú -> kwá-itá)
+(waá-itá -> urikú)
+(masí -> urikú)
+(puxuwera -> masí)
+(waá -> puxuwera)
+(, -> urikú)
+(pitúa -> urikú)
+(waá-itá -> pitúa)
+(yuíri -> pitúa)
+(, -> umukaturu)
+(asuí -> umukaturu)
+(umukaturu -> ururi)
+(aintá -> umukaturu)
+(. -> usika)Na sentença "Remeẽ panhẽ maã ta uputari waá .",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(remeẽ -> root)
+(panhẽ -> maã)
+(maã -> remeẽ)
+(ta -> uputari)
+(uputari -> maã)
+(waá -> uputari)
+(. -> remeẽ)..
+Liste as relações de dependência sintática na sentença "Indé ne rurí .", usando o formato (token dependente -> token cabeça).
+REPLY|:|(indé -> rurí)
+(ne -> rurí)
+(rurí -> root)
+(. -> rurí)
+REFINE [(ne]
+REFINE [(ne]
+REFINE [(ne]
+REFINE [(ne]
+REFINE [ne]
+REFINE [ne]
+-----------END REFINE---------
+REFINE [rurí)]
+REFINE [rurí)]
+REFINE [rurí)]
+REFINE [rurí)]
+REFINE [rurí]
+-----------END REFINE---------
+REFINE [(rurí]
+REFINE [(rurí]
+REFINE [(rurí]
+REFINE [(rurí]
+REFINE [rurí]
+REFINE [rurí]
+-----------END REFINE---------
+REFINE [root)]
+REFINE [root)]
+REFINE [root)]
+REFINE [root)]
+REFINE [root]
+-----------END REFINE---------
+REFINE [(.]
+REFINE [(.]
+REFINE [(.]
+REFINE [(.]
+REFINE [.]
+REFINE [.]
+-----------END REFINE---------
+REFINE [rurí)]
+REFINE [rurí)]
+REFINE [rurí)]
+REFINE [rurí)]
+REFINE [rurí]
+-----------END REFINE---------
+chatGPT|:|ne<@>rurí<#>rurí<@>root<#>.<@>rurí|:|UDA:0.750<#>DDA: 0.750
+GoldTree |:|Indé<@>rurí<@>nsubj<#>ne<@>rurí<@>expl<#>rurí<@>root<@>root<#>.<@>rurí<@>punct
+>--<
+Ixé aikú suakí .
+MESSAGE|:|Na sentença "Sasí se marika .",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(sasí -> root)
+(se -> marika)
+(marika -> sasí)
+(. -> sasí)Na sentença "Aé unheẽ yepé meẽsara supé : — Ixé aputari yepé kamixá se mimbira supé .",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(aé -> unheẽ)
+(unheẽ -> root)
+(yepé -> meẽsara)
+(meẽsara -> unheẽ)
+(supé -> meẽsara)
+(: -> aputari)
+(— -> aputari)
+(ixé -> aputari)
+(aputari -> unheẽ)
+(yepé -> kamixá)
+(kamixá -> aputari)
+(se -> mimbira)
+(mimbira -> aputari)
+(supé -> mimbira)
+(. -> unheẽ)..
+Liste as relações de dependência sintática na sentença "Ixé aikú suakí .", usando o formato (token dependente -> token cabeça).
+REPLY|:|Na sentença "Ixé aikú suakí .", as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça):
+
+(Ixé -> aikú)
+(aikú -> suakí)
+(suakí -> Ixé)
+(. -> Ixé)
+REFINE [(Ixé]
+REFINE [(Ixé]
+REFINE [(Ixé]
+REFINE [(Ixé]
+REFINE [Ixé]
+REFINE [Ixé]
+-----------END REFINE---------
+REFINE [aikú)]
+REFINE [aikú)]
+REFINE [aikú)]
+REFINE [aikú)]
+REFINE [aikú]
+-----------END REFINE---------
+REFINE [(aikú]
+REFINE [(aikú]
+REFINE [(aikú]
+REFINE [(aikú]
+REFINE [aikú]
+REFINE [aikú]
+-----------END REFINE---------
+REFINE [suakí)]
+REFINE [suakí)]
+REFINE [suakí)]
+REFINE [suakí)]
+REFINE [suakí]
+-----------END REFINE---------
+REFINE [(suakí]
+REFINE [(suakí]
+REFINE [(suakí]
+REFINE [(suakí]
+REFINE [suakí]
+REFINE [suakí]
+-----------END REFINE---------
+REFINE [Ixé)]
+REFINE [Ixé)]
+REFINE [Ixé)]
+REFINE [Ixé)]
+REFINE [Ixé]
+-----------END REFINE---------
+REFINE [(.]
+REFINE [(.]
+REFINE [(.]
+REFINE [(.]
+REFINE [.]
+REFINE [.]
+-----------END REFINE---------
+REFINE [Ixé)]
+REFINE [Ixé)]
+REFINE [Ixé)]
+REFINE [Ixé)]
+REFINE [Ixé]
+-----------END REFINE---------
+chatGPT|:|<@><#>Ixé<@>aikú<#>aikú<@>suakí<#>suakí<@>Ixé<#>.<@>Ixé|:|UDA:0.500<#>DDA: 0.250
+GoldTree |:|Ixé<@>suakí<@>nsubj<#>aikú<@>suakí<@>cop<#>suakí<@>root<@>root<#>.<@>suakí<@>punct
+>--<
+Ixé Maria .
+MESSAGE|:|Na sentença "Yawé paá , upé uwiyé waá upé , taité , uyukitika xibuí i yuka waá resé , ti yepé uputarisá , yawé waá upé upinú , ( pem ) ape paá i nemasá usú tuyué resé : hum … hum …",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(yawé -> uwiyé)
+(paá -> uwiyé)
+(, -> uwiyé)
+(upé -> uwiyé)
+(uwiyé -> uyukitika)
+(waá -> uwiyé)
+(upé -> waá)
+(, -> taité)
+(taité -> uyukitika)
+(, -> taité)
+(uyukitika -> root)
+(xibuí -> uyukitika)
+(i -> yuka)
+(yuka -> xibuí)
+(waá -> yuka)
+(resé -> xibuí)
+(, -> uputarisá)
+(ti -> uputarisá)
+(yepé -> uputarisá)
+(uputarisá -> upinú)
+(, -> uputarisá)
+(yawé -> upinú)
+(waá -> yawé)
+(upé -> yawé)
+(upinú -> uyukitika)
+(, -> usú)
+(( -> pem)
+(pem -> usú)
+() -> pem)
+(ape -> usú)
+(paá -> usú)
+(i -> nemasá)
+(nemasá -> usú)
+(usú -> upinú)
+(tuyué -> usú)
+(resé -> tuyué)
+(: -> hum)
+(hum -> usú)
+(… -> hum)
+(hum -> usú)
+(… -> uyukitika)Na sentença "Aé umuwapika yepé yapuna , umukameẽ mayé mira umunhã meyú , uí , uí tipiaka , maã setá .",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(aé -> umuwapika)
+(umuwapika -> root)
+(yepé -> yapuna)
+(yapuna -> umuwapika)
+(, -> umukameẽ)
+(umukameẽ -> umuwapika)
+(mayé -> umunhã)
+(mira -> umunhã)
+(umunhã -> umukameẽ)
+(meyú -> umunhã)
+(, -> uí)
+(uí -> meyú)
+(, -> tipiaka)
+(uí -> tipiaka)
+(tipiaka -> meyú)
+(, -> maã)
+(maã -> meyú)
+(setá -> maã)
+(. -> umuwapika)..
+Liste as relações de dependência sintática na sentença "Ixé Maria .", usando o formato (token dependente -> token cabeça).
+REPLY|:|(ixé -> Maria)
+(Maria -> Ixé)
+(. -> Ixé)
+REFINE [(Maria]
+REFINE [(Maria]
+REFINE [(Maria]
+REFINE [(Maria]
+REFINE [Maria]
+REFINE [Maria]
+-----------END REFINE---------
+REFINE [Ixé)]
+REFINE [Ixé)]
+REFINE [Ixé)]
+REFINE [Ixé)]
+REFINE [Ixé]
+-----------END REFINE---------
+REFINE [(.]
+REFINE [(.]
+REFINE [(.]
+REFINE [(.]
+REFINE [.]
+REFINE [.]
+-----------END REFINE---------
+REFINE [Ixé)]
+REFINE [Ixé)]
+REFINE [Ixé)]
+REFINE [Ixé)]
+REFINE [Ixé]
+-----------END REFINE---------
+chatGPT|:|Maria<@>Ixé<#>.<@>Ixé|:|UDA:0.333<#>DDA: 0.000
+GoldTree |:|Ixé<@>Maria<@>nsubj<#>Maria<@>root<@>root<#>.<@>Maria<@>punct
+>--<
+Mayé taá indé resasá ?
+MESSAGE|:|Na sentença "Ximirikú usuaxara : — Intí raĩ pituna .",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(ximirikú -> usuaxara)
+(usuaxara -> root)
+(: -> usuaxara)
+(— -> intí)
+(intí -> usuaxara)
+(raĩ -> intí)
+(pituna -> intí)
+(. -> usuaxara)Na sentença "Kunhamukú piri waá urikú i membira puranga piri waá .",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(kunhamukú -> waá)
+(piri -> kunhamukú)
+(waá -> urikú)
+(urikú -> root)
+(i -> membira)
+(membira -> urikú)
+(puranga -> membira)
+(piri -> puranga)
+(waá -> puranga)
+(. -> urikú)..
+Liste as relações de dependência sintática na sentença "Mayé taá indé resasá ?", usando o formato (token dependente -> token cabeça).
+REPLY|:|Na sentença "Mayé taá indé resasá ?", as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça):
+
+(Mayé -> resasá)
+(taá -> indé)
+(indé -> resasá)
+(resasá -> root)
+(? -> resasá)
+REFINE [(Mayé]
+REFINE [(Mayé]
+REFINE [(Mayé]
+REFINE [(Mayé]
+REFINE [Mayé]
+REFINE [Mayé]
+-----------END REFINE---------
+REFINE [resasá)]
+REFINE [resasá)]
+REFINE [resasá)]
+REFINE [resasá)]
+REFINE [resasá]
+-----------END REFINE---------
+REFINE [(taá]
+REFINE [(taá]
+REFINE [(taá]
+REFINE [(taá]
+REFINE [taá]
+REFINE [taá]
+-----------END REFINE---------
+REFINE [indé)]
+REFINE [indé)]
+REFINE [indé)]
+REFINE [indé)]
+REFINE [indé]
+-----------END REFINE---------
+REFINE [(indé]
+REFINE [(indé]
+REFINE [(indé]
+REFINE [(indé]
+REFINE [indé]
+REFINE [indé]
+-----------END REFINE---------
+REFINE [resasá)]
+REFINE [resasá)]
+REFINE [resasá)]
+REFINE [resasá)]
+REFINE [resasá]
+-----------END REFINE---------
+REFINE [(resasá]
+REFINE [(resasá]
+REFINE [(resasá]
+REFINE [(resasá]
+REFINE [resasá]
+REFINE [resasá]
+-----------END REFINE---------
+REFINE [root)]
+REFINE [root)]
+REFINE [root)]
+REFINE [root)]
+REFINE [root]
+-----------END REFINE---------
+REFINE [(?]
+REFINE [(?]
+REFINE [(?]
+REFINE [(?]
+REFINE [?]
+REFINE [?]
+-----------END REFINE---------
+REFINE [resasá)]
+REFINE [resasá)]
+REFINE [resasá)]
+REFINE [resasá)]
+REFINE [resasá]
+-----------END REFINE---------
+chatGPT|:|<@><#>Mayé<@>resasá<#>taá<@>indé<#>indé<@>resasá<#>resasá<@>root<#>?<@>resasá|:|UDA:0.800<#>DDA: 0.800
+GoldTree |:|Mayé<@>resasá<@>advmod<#>taá<@>resasá<@>advmod<#>indé<@>resasá<@>nsubj<#>resasá<@>root<@>root<#>?<@>resasá<@>punct
+>--<
+Puranga karuka , Antônio !
+MESSAGE|:|Na sentença "Ti maã ambeú yawé , ma ayuíri apurará arama .",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(ti -> ambeú)
+(maã -> ti)
+(ambeú -> root)
+(yawé -> ambeú)
+(, -> ayuíri)
+(ma -> ayuíri)
+(ayuíri -> ambeú)
+(apurará -> ayuíri)
+(arama -> apurará)
+(. -> ambeú)Na sentença "Kurumiwasú , masuí taá reyuri ?",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(kurumiwasú -> reyuri)
+(, -> reyuri)
+(masuí -> reyuri)
+(taá -> reyuri)
+(reyuri -> root)
+(? -> reyuri)..
+Liste as relações de dependência sintática na sentença "Puranga karuka , Antônio !", usando o formato (token dependente -> token cabeça).
+REPLY|:|As relações de dependência sintática na sentença "Puranga karuka , Antônio !" são mostradas abaixo no formato (token dependente -> token cabeça):
+
+(puranga -> karuka)
+(karuka -> root)
+(, -> karuka)
+(antônio -> karuka)
+(! -> karuka)
+REFINE [(puranga]
+REFINE [(puranga]
+REFINE [(puranga]
+REFINE [(puranga]
+REFINE [puranga]
+REFINE [puranga]
+-----------END REFINE---------
+REFINE [karuka)]
+REFINE [karuka)]
+REFINE [karuka)]
+REFINE [karuka)]
+REFINE [karuka]
+-----------END REFINE---------
+REFINE [(karuka]
+REFINE [(karuka]
+REFINE [(karuka]
+REFINE [(karuka]
+REFINE [karuka]
+REFINE [karuka]
+-----------END REFINE---------
+REFINE [root)]
+REFINE [root)]
+REFINE [root)]
+REFINE [root)]
+REFINE [root]
+-----------END REFINE---------
+REFINE [(,]
+REFINE [(,]
+REFINE [(,]
+REFINE [(,]
+REFINE [,]
+REFINE [,]
+-----------END REFINE---------
+REFINE [karuka)]
+REFINE [karuka)]
+REFINE [karuka)]
+REFINE [karuka)]
+REFINE [karuka]
+-----------END REFINE---------
+REFINE [(antônio]
+REFINE [(antônio]
+REFINE [(antônio]
+REFINE [(antônio]
+REFINE [antônio]
+REFINE [antônio]
+-----------END REFINE---------
+REFINE [karuka)]
+REFINE [karuka)]
+REFINE [karuka)]
+REFINE [karuka)]
+REFINE [karuka]
+-----------END REFINE---------
+REFINE [(!]
+REFINE [(!]
+REFINE [(!]
+REFINE [(!]
+REFINE [!]
+REFINE [!]
+-----------END REFINE---------
+REFINE [karuka)]
+REFINE [karuka)]
+REFINE [karuka)]
+REFINE [karuka)]
+REFINE [karuka]
+-----------END REFINE---------
+chatGPT|:|<@><#>puranga<@>karuka<#>karuka<@>root<#>,<@>karuka<#>antônio<@>karuka<#>!<@>karuka|:|UDA:0.800<#>DDA: 0.800
+GoldTree |:|Puranga<@>karuka<@>amod<#>karuka<@>root<@>root<#>,<@>Antônio<@>punct<#>Antônio<@>karuka<@>vocative<#>!<@>karuka<@>punct
+>--<
+Aé apigawa .
+MESSAGE|:|Na sentença "Umanú yuruparí .",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(umanú -> root)
+(yuruparí -> umanú)
+(. -> umanú)Na sentença "Asuí yepé-yepé Aziawara-itá , Paulo anama-itá , aintá umundú i xupé kwekatú , aintá upurandú aé ti arama uwiké aintá irumu aintá uyumuatiriwera waá upé .",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(asuí -> umundú)
+(yepé-yepé -> aziawara-itá)
+(aziawara-itá -> umundú)
+(, -> anama-itá)
+(paulo -> anama-itá)
+(anama-itá -> aziawara-itá)
+(, -> anama-itá)
+(aintá -> umundú)
+(umundú -> root)
+(i -> umundú)
+(xupé -> i)
+(kwekatú -> umundú)
+(, -> upurandú)
+(aintá -> upurandú)
+(upurandú -> umundú)
+(aé -> upurandú)
+(ti -> uwiké)
+(arama -> uwiké)
+(uwiké -> upurandú)
+(aintá -> uwiké)
+(irumu -> aintá)
+(aintá -> uyumuatiriwera)
+(uyumuatiriwera -> uwiké)
+(waá -> uyumuatiriwera)
+(upé -> waá)
+(. -> umundú)..
+Liste as relações de dependência sintática na sentença "Aé apigawa .", usando o formato (token dependente -> token cabeça).
+REPLY|:|(aé -> apigawa)
+(apigawa -> root)
+(. -> apigawa)
+REFINE [(apigawa]
+REFINE [(apigawa]
+REFINE [(apigawa]
+REFINE [(apigawa]
+REFINE [apigawa]
+REFINE [apigawa]
+-----------END REFINE---------
+REFINE [root)]
+REFINE [root)]
+REFINE [root)]
+REFINE [root)]
+REFINE [root]
+-----------END REFINE---------
+REFINE [(.]
+REFINE [(.]
+REFINE [(.]
+REFINE [(.]
+REFINE [.]
+REFINE [.]
+-----------END REFINE---------
+REFINE [apigawa)]
+REFINE [apigawa)]
+REFINE [apigawa)]
+REFINE [apigawa)]
+REFINE [apigawa]
+-----------END REFINE---------
+chatGPT|:|apigawa<@>root<#>.<@>apigawa|:|UDA:0.667<#>DDA: 0.667
+GoldTree |:|Aé<@>apigawa<@>nsubj<#>apigawa<@>root<@>root<#>.<@>apigawa<@>punct
+>--<
+Kurumĩ puranga .
+MESSAGE|:|Na sentença "Yakwáu reté kwá pirá .",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(yakwáu -> root)
+(reté -> yakwáu)
+(kwá -> pirá)
+(pirá -> yakwáu)
+(. -> yakwáu)Na sentença "Putira , i sakwena uyuká waá mira , utiní .",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(putira -> utiní)
+(, -> uyuká)
+(i -> sakwena)
+(sakwena -> uyuká)
+(uyuká -> putira)
+(waá -> sakwena)
+(mira -> uyuká)
+(, -> uyuká)
+(utiní -> root)
+(. -> utiní)..
+Liste as relações de dependência sintática na sentença "Kurumĩ puranga .", usando o formato (token dependente -> token cabeça).
+REPLY|:|(kurumĩ -> puranga)
+(puranga -> root)
+(. -> puranga)
+REFINE [(puranga]
+REFINE [(puranga]
+REFINE [(puranga]
+REFINE [(puranga]
+REFINE [puranga]
+REFINE [puranga]
+-----------END REFINE---------
+REFINE [root)]
+REFINE [root)]
+REFINE [root)]
+REFINE [root)]
+REFINE [root]
+-----------END REFINE---------
+REFINE [(.]
+REFINE [(.]
+REFINE [(.]
+REFINE [(.]
+REFINE [.]
+REFINE [.]
+-----------END REFINE---------
+REFINE [puranga)]
+REFINE [puranga)]
+REFINE [puranga)]
+REFINE [puranga)]
+REFINE [puranga]
+-----------END REFINE---------
+chatGPT|:|puranga<@>root<#>.<@>puranga|:|UDA:0.667<#>DDA: 0.667
+GoldTree |:|Kurumĩ<@>puranga<@>nsubj<#>puranga<@>root<@>root<#>.<@>puranga<@>punct
+>--<
+Igara i pusé .
+MESSAGE|:|Na sentença "Waimĩ usuaxara nhuntu , ti maã uri aramé .",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(waimĩ -> usuaxara)
+(usuaxara -> root)
+(nhuntu -> usuaxara)
+(, -> uri)
+(ti -> uri)
+(maã -> ti)
+(uri -> usuaxara)
+(aramé -> uri)
+(. -> usuaxara)Na sentença "Apigawa uxari ximirikú tawa upé .",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(apigawa -> uxari)
+(uxari -> root)
+(ximirikú -> uxari)
+(tawa -> uxari)
+(upé -> tawa)
+(. -> uxari)..
+Liste as relações de dependência sintática na sentença "Igara i pusé .", usando o formato (token dependente -> token cabeça).
+REPLY|:|Na sentença "Igara i pusé.", as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(igara -> pusé)
+(i -> igara)
+(pusé -> root)
+(. -> pusé)
+REFINE [(igara]
+REFINE [(igara]
+REFINE [(igara]
+REFINE [(igara]
+REFINE [igara]
+REFINE [igara]
+-----------END REFINE---------
+REFINE [pusé)]
+REFINE [pusé)]
+REFINE [pusé)]
+REFINE [pusé)]
+REFINE [pusé]
+-----------END REFINE---------
+REFINE [(i]
+REFINE [(i]
+REFINE [(i]
+REFINE [(i]
+REFINE [i]
+REFINE [i]
+-----------END REFINE---------
+REFINE [igara)]
+REFINE [igara)]
+REFINE [igara)]
+REFINE [igara)]
+REFINE [igara]
+-----------END REFINE---------
+REFINE [(pusé]
+REFINE [(pusé]
+REFINE [(pusé]
+REFINE [(pusé]
+REFINE [pusé]
+REFINE [pusé]
+-----------END REFINE---------
+REFINE [root)]
+REFINE [root)]
+REFINE [root)]
+REFINE [root)]
+REFINE [root]
+-----------END REFINE---------
+REFINE [(.]
+REFINE [(.]
+REFINE [(.]
+REFINE [(.]
+REFINE [.]
+REFINE [.]
+-----------END REFINE---------
+REFINE [pusé)]
+REFINE [pusé)]
+REFINE [pusé)]
+REFINE [pusé)]
+REFINE [pusé]
+-----------END REFINE---------
+chatGPT|:|igara<@>pusé<#>i<@>igara<#>pusé<@>root<#>.<@>pusé|:|UDA:0.750<#>DDA: 0.750
+GoldTree |:|Igara<@>pusé<@>nsubj<#>i<@>pusé<@>expl<#>pusé<@>root<@>root<#>.<@>pusé<@>punct
+>--<
+Yepé pisasú ara usika .
+MESSAGE|:|Na sentença "Pemburi pe suí kwá upukasawa peyaxiú arama , pexari umusasiara penhẽ kwá umusurí waá penhẽ .",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(pemburi -> root)
+(pe -> pemburi)
+(suí -> pe)
+(kwá -> upukasawa)
+(upukasawa -> pemburi)
+(peyaxiú -> pemburi)
+(arama -> peyaxiú)
+(, -> pexari)
+(pexari -> peyaxiú)
+(umusasiara -> pexari)
+(penhẽ -> umusasiara)
+(kwá -> umusasiara)
+(umusurí -> kwá)
+(waá -> umusurí)
+(penhẽ -> umusurí)
+(. -> pemburi)Na sentença "Kwaíra ramé rẽ , paá , ixé , purangamirĩ [...] aikú .",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(kwaíra -> purangamirĩ)
+(ramé -> kwaíra)
+(rẽ -> kwaíra)
+(, -> paá)
+(paá -> kwaíra)
+(, -> paá)
+(ixé -> kwaíra)
+(, -> kwaíra)
+(purangamirĩ -> root)
+([...] -> purangamirĩ)
+(aikú -> purangamirĩ)
+(. -> purangamirĩ)..
+Liste as relações de dependência sintática na sentença "Yepé pisasú ara usika .", usando o formato (token dependente -> token cabeça).
+REPLY|:|Na sentença "Yepé pisasú ara usika.", as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça):
+
+(Yepé -> pisasú)
+(pisasú -> root)
+(ara -> pisasú)
+(usika -> pisasú)
+(. -> pisasú)
+REFINE [(Yepé]
+REFINE [(Yepé]
+REFINE [(Yepé]
+REFINE [(Yepé]
+REFINE [Yepé]
+REFINE [Yepé]
+-----------END REFINE---------
+REFINE [pisasú)]
+REFINE [pisasú)]
+REFINE [pisasú)]
+REFINE [pisasú)]
+REFINE [pisasú]
+-----------END REFINE---------
+REFINE [(pisasú]
+REFINE [(pisasú]
+REFINE [(pisasú]
+REFINE [(pisasú]
+REFINE [pisasú]
+REFINE [pisasú]
+-----------END REFINE---------
+REFINE [root)]
+REFINE [root)]
+REFINE [root)]
+REFINE [root)]
+REFINE [root]
+-----------END REFINE---------
+REFINE [(ara]
+REFINE [(ara]
+REFINE [(ara]
+REFINE [(ara]
+REFINE [ara]
+REFINE [ara]
+-----------END REFINE---------
+REFINE [pisasú)]
+REFINE [pisasú)]
+REFINE [pisasú)]
+REFINE [pisasú)]
+REFINE [pisasú]
+-----------END REFINE---------
+REFINE [(usika]
+REFINE [(usika]
+REFINE [(usika]
+REFINE [(usika]
+REFINE [usika]
+REFINE [usika]
+-----------END REFINE---------
+REFINE [pisasú)]
+REFINE [pisasú)]
+REFINE [pisasú)]
+REFINE [pisasú)]
+REFINE [pisasú]
+-----------END REFINE---------
+REFINE [(.]
+REFINE [(.]
+REFINE [(.]
+REFINE [(.]
+REFINE [.]
+REFINE [.]
+-----------END REFINE---------
+REFINE [pisasú)]
+REFINE [pisasú)]
+REFINE [pisasú)]
+REFINE [pisasú)]
+REFINE [pisasú]
+-----------END REFINE---------
+chatGPT|:|<@><#>Yepé<@>pisasú<#>pisasú<@>root<#>ara<@>pisasú<#>usika<@>pisasú<#>.<@>pisasú|:|UDA:0.200<#>DDA: 0.000
+GoldTree |:|Yepé<@>ara<@>det<#>pisasú<@>ara<@>amod<#>ara<@>usika<@>nsubj<#>usika<@>root<@>root<#>.<@>usika<@>punct
+>--<
+Reyenũ puranga !
+MESSAGE|:|Na sentença "Pedro raíra-itá puranga .",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(pedro -> raíra-itá)
+(raíra-itá -> puranga)
+(puranga -> root)
+(. -> puranga)Na sentença "Aiwana , paá , aintá uyaxiú .",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(aiwana -> uyaxiú)
+(, -> paá)
+(paá -> uyaxiú)
+(, -> paá)
+(aintá -> uyaxiú)
+(uyaxiú -> root)
+(. -> uyaxiú)..
+Liste as relações de dependência sintática na sentença "Reyenũ puranga !", usando o formato (token dependente -> token cabeça).
+REPLY|:|(reyenũ -> puranga)
+(puranga -> root)
+(! -> puranga)
+REFINE [(puranga]
+REFINE [(puranga]
+REFINE [(puranga]
+REFINE [(puranga]
+REFINE [puranga]
+REFINE [puranga]
+-----------END REFINE---------
+REFINE [root)]
+REFINE [root)]
+REFINE [root)]
+REFINE [root)]
+REFINE [root]
+-----------END REFINE---------
+REFINE [(!]
+REFINE [(!]
+REFINE [(!]
+REFINE [(!]
+REFINE [!]
+REFINE [!]
+-----------END REFINE---------
+REFINE [puranga)]
+REFINE [puranga)]
+REFINE [puranga)]
+REFINE [puranga)]
+REFINE [puranga]
+-----------END REFINE---------
+chatGPT|:|puranga<@>root<#>!<@>puranga|:|UDA:0.000<#>DDA: 0.000
+GoldTree |:|Reyenũ<@>root<@>root<#>puranga<@>Reyenũ<@>advmod<#>!<@>Reyenũ<@>punct
+>--<
+Mamé taá Barcelos ?
+MESSAGE|:|Na sentença "Turusú ugustari yandé , turusú upurará mundu upé , [...] .",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(turusú -> ugustari)
+(ugustari -> root)
+(yandé -> ugustari)
+(, -> upurará)
+(turusú -> upurará)
+(upurará -> ugustari)
+(mundu -> upurará)
+(upé -> mundu)
+(, -> upurará)
+([...] -> upurará)
+(. -> ugustari)Na sentença "Yaú aité nhaã .",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(yaú -> root)
+(aité -> yaú)
+(nhaã -> aité)
+(. -> yaú)..
+Liste as relações de dependência sintática na sentença "Mamé taá Barcelos ?", usando o formato (token dependente -> token cabeça).
+REPLY|:|(mamé -> root)
+(taá -> mamé)
+(barcelos -> taá)
+(? -> mamé)
+REFINE [(taá]
+REFINE [(taá]
+REFINE [(taá]
+REFINE [(taá]
+REFINE [taá]
+REFINE [taá]
+-----------END REFINE---------
+REFINE [mamé)]
+REFINE [mamé)]
+REFINE [mamé)]
+REFINE [mamé)]
+REFINE [mamé]
+-----------END REFINE---------
+REFINE [(barcelos]
+REFINE [(barcelos]
+REFINE [(barcelos]
+REFINE [(barcelos]
+REFINE [barcelos]
+REFINE [barcelos]
+-----------END REFINE---------
+REFINE [taá)]
+REFINE [taá)]
+REFINE [taá)]
+REFINE [taá)]
+REFINE [taá]
+-----------END REFINE---------
+REFINE [(?]
+REFINE [(?]
+REFINE [(?]
+REFINE [(?]
+REFINE [?]
+REFINE [?]
+-----------END REFINE---------
+REFINE [mamé)]
+REFINE [mamé)]
+REFINE [mamé)]
+REFINE [mamé)]
+REFINE [mamé]
+-----------END REFINE---------
+chatGPT|:|taá<@>mamé<#>barcelos<@>taá<#>?<@>mamé|:|UDA:0.500<#>DDA: 0.500
+GoldTree |:|Mamé<@>root<@>root<#>taá<@>Mamé<@>advmod<#>Barcelos<@>Mamé<@>nsubj<#>?<@>Mamé<@>punct
+>--<
+Aé unheẽ Maria supé : — Maria , mamé taá pindá-itá uikú ?
+MESSAGE|:|Na sentença "Aé kwera .",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(aé -> kwera)
+(kwera -> root)
+(. -> kwera)Na sentença "Aintá usú ana .",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(aintá -> usú)
+(usú -> root)
+(ana -> usú)
+(. -> usú)..
+Liste as relações de dependência sintática na sentença "Aé unheẽ Maria supé : — Maria , mamé taá pindá-itá uikú ?", usando o formato (token dependente -> token cabeça).
+REPLY|:|As relações de dependência sintática na sentença "Aé unheẽ Maria supé : — Maria , mamé taá pindá-itá uikú ?" são:
+
+(Aé -> unheẽ)
+(unheẽ -> root)
+(Maria -> unheẽ)
+(supé -> unheẽ)
+(: -> unheẽ)
+(— -> unheẽ)
+(Maria -> unheẽ)
+(, -> unheẽ)
+(mamé -> taá)
+(taá -> unheẽ)
+(pindá-itá -> taá)
+(uikú -> taá)
+(? -> unheẽ)
+REFINE [(Aé]
+REFINE [(Aé]
+REFINE [(Aé]
+REFINE [(Aé]
+REFINE [Aé]
+REFINE [Aé]
+-----------END REFINE---------
+REFINE [unheẽ)]
+REFINE [unheẽ)]
+REFINE [unheẽ)]
+REFINE [unheẽ)]
+REFINE [unheẽ]
+-----------END REFINE---------
+REFINE [(unheẽ]
+REFINE [(unheẽ]
+REFINE [(unheẽ]
+REFINE [(unheẽ]
+REFINE [unheẽ]
+REFINE [unheẽ]
+-----------END REFINE---------
+REFINE [root)]
+REFINE [root)]
+REFINE [root)]
+REFINE [root)]
+REFINE [root]
+-----------END REFINE---------
+REFINE [(Maria]
+REFINE [(Maria]
+REFINE [(Maria]
+REFINE [(Maria]
+REFINE [Maria]
+REFINE [Maria]
+-----------END REFINE---------
+REFINE [unheẽ)]
+REFINE [unheẽ)]
+REFINE [unheẽ)]
+REFINE [unheẽ)]
+REFINE [unheẽ]
+-----------END REFINE---------
+REFINE [(supé]
+REFINE [(supé]
+REFINE [(supé]
+REFINE [(supé]
+REFINE [supé]
+REFINE [supé]
+-----------END REFINE---------
+REFINE [unheẽ)]
+REFINE [unheẽ)]
+REFINE [unheẽ)]
+REFINE [unheẽ)]
+REFINE [unheẽ]
+-----------END REFINE---------
+REFINE [(:]
+REFINE [(:]
+REFINE [(:]
+REFINE [(:]
+REFINE [:]
+REFINE [:]
+-----------END REFINE---------
+REFINE [unheẽ)]
+REFINE [unheẽ)]
+REFINE [unheẽ)]
+REFINE [unheẽ)]
+REFINE [unheẽ]
+-----------END REFINE---------
+REFINE [(—]
+REFINE [(—]
+REFINE [(—]
+REFINE [(—]
+REFINE [—]
+REFINE [—]
+-----------END REFINE---------
+REFINE [unheẽ)]
+REFINE [unheẽ)]
+REFINE [unheẽ)]
+REFINE [unheẽ)]
+REFINE [unheẽ]
+-----------END REFINE---------
+REFINE [(Maria]
+REFINE [(Maria]
+REFINE [(Maria]
+REFINE [(Maria]
+REFINE [Maria]
+REFINE [Maria]
+-----------END REFINE---------
+REFINE [unheẽ)]
+REFINE [unheẽ)]
+REFINE [unheẽ)]
+REFINE [unheẽ)]
+REFINE [unheẽ]
+-----------END REFINE---------
+REFINE [(,]
+REFINE [(,]
+REFINE [(,]
+REFINE [(,]
+REFINE [,]
+REFINE [,]
+-----------END REFINE---------
+REFINE [unheẽ)]
+REFINE [unheẽ)]
+REFINE [unheẽ)]
+REFINE [unheẽ)]
+REFINE [unheẽ]
+-----------END REFINE---------
+REFINE [(mamé]
+REFINE [(mamé]
+REFINE [(mamé]
+REFINE [(mamé]
+REFINE [mamé]
+REFINE [mamé]
+-----------END REFINE---------
+REFINE [taá)]
+REFINE [taá)]
+REFINE [taá)]
+REFINE [taá)]
+REFINE [taá]
+-----------END REFINE---------
+REFINE [(taá]
+REFINE [(taá]
+REFINE [(taá]
+REFINE [(taá]
+REFINE [taá]
+REFINE [taá]
+-----------END REFINE---------
+REFINE [unheẽ)]
+REFINE [unheẽ)]
+REFINE [unheẽ)]
+REFINE [unheẽ)]
+REFINE [unheẽ]
+-----------END REFINE---------
+REFINE [(pindá-itá]
+REFINE [(pindá-itá]
+REFINE [(pindá-itá]
+REFINE [(pindá-itá]
+REFINE [pindá-itá]
+REFINE [pindá-itá]
+-----------END REFINE---------
+REFINE [taá)]
+REFINE [taá)]
+REFINE [taá)]
+REFINE [taá)]
+REFINE [taá]
+-----------END REFINE---------
+REFINE [(uikú]
+REFINE [(uikú]
+REFINE [(uikú]
+REFINE [(uikú]
+REFINE [uikú]
+REFINE [uikú]
+-----------END REFINE---------
+REFINE [taá)]
+REFINE [taá)]
+REFINE [taá)]
+REFINE [taá)]
+REFINE [taá]
+-----------END REFINE---------
+REFINE [(?]
+REFINE [(?]
+REFINE [(?]
+REFINE [(?]
+REFINE [?]
+REFINE [?]
+-----------END REFINE---------
+REFINE [unheẽ)]
+REFINE [unheẽ)]
+REFINE [unheẽ)]
+REFINE [unheẽ)]
+REFINE [unheẽ]
+-----------END REFINE---------
+chatGPT|:|<@><#>Aé<@>unheẽ<#>unheẽ<@>root<#>Maria<@>unheẽ<#>supé<@>unheẽ<#>:<@>unheẽ<#>—<@>unheẽ<#>Maria<@>unheẽ<#>,<@>unheẽ<#>mamé<@>taá<#>taá<@>unheẽ<#>pindá-itá<@>taá<#>uikú<@>taá<#>?<@>unheẽ|:|UDA:0.385<#>DDA: 0.308
+GoldTree |:|Aé<@>unheẽ<@>nsubj<#>unheẽ<@>root<@>root<#>Maria<@>unheẽ<@>iobj<#>supé<@>Maria<@>case<#>:<@>mamé<@>punct<#>—<@>mamé<@>punct<#>Maria<@>mamé<@>vocative<#>,<@>Maria<@>punct<#>mamé<@>unheẽ<@>ccomp<#>taá<@>mamé<@>advmod<#>pindá-itá<@>mamé<@>nsubj<#>uikú<@>mamé<@>cop<#>?<@>unheẽ<@>punct
+>--<
+Uií ara nti puranga pinaitikasara supé .
+MESSAGE|:|Na sentença "Yautí usika ramé , uwasemu nhuntu ana tiputí .",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(yautí -> usika)
+(usika -> uwasemu)
+(ramé -> usika)
+(, -> uwasemu)
+(uwasemu -> root)
+(nhuntu -> uwasemu)
+(ana -> uwasemu)
+(tiputí -> uwasemu)
+(. -> uwasemu)Na sentença "Tuixawa umaã aé kunhãwara , aresé umundú aé upinaitika amú ara .",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(tuixawa -> umaã)
+(umaã -> root)
+(aé -> kunhãwara)
+(kunhãwara -> umaã)
+(, -> umundú)
+(aresé -> umundú)
+(umundú -> umaã)
+(aé -> upinaitika)
+(upinaitika -> umundú)
+(amú -> ara)
+(ara -> upinaitika)
+(. -> umaã)..
+Liste as relações de dependência sintática na sentença "Uií ara nti puranga pinaitikasara supé .", usando o formato (token dependente -> token cabeça).
+REPLY|:|Na sentença "Uií ara nti puranga pinaitikasara supé .", as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça):
+
+(Uií -> ara)
+(ara -> root)
+(nti -> puranga)
+(puranga -> ara)
+(pinaitikasara -> puranga)
+(supé -> puranga)
+(. -> ara)
+REFINE [(Uií]
+REFINE [(Uií]
+REFINE [(Uií]
+REFINE [(Uií]
+REFINE [Uií]
+REFINE [Uií]
+-----------END REFINE---------
+REFINE [ara)]
+REFINE [ara)]
+REFINE [ara)]
+REFINE [ara)]
+REFINE [ara]
+-----------END REFINE---------
+REFINE [(ara]
+REFINE [(ara]
+REFINE [(ara]
+REFINE [(ara]
+REFINE [ara]
+REFINE [ara]
+-----------END REFINE---------
+REFINE [root)]
+REFINE [root)]
+REFINE [root)]
+REFINE [root)]
+REFINE [root]
+-----------END REFINE---------
+REFINE [(nti]
+REFINE [(nti]
+REFINE [(nti]
+REFINE [(nti]
+REFINE [nti]
+REFINE [nti]
+-----------END REFINE---------
+REFINE [puranga)]
+REFINE [puranga)]
+REFINE [puranga)]
+REFINE [puranga)]
+REFINE [puranga]
+-----------END REFINE---------
+REFINE [(puranga]
+REFINE [(puranga]
+REFINE [(puranga]
+REFINE [(puranga]
+REFINE [puranga]
+REFINE [puranga]
+-----------END REFINE---------
+REFINE [ara)]
+REFINE [ara)]
+REFINE [ara)]
+REFINE [ara)]
+REFINE [ara]
+-----------END REFINE---------
+REFINE [(pinaitikasara]
+REFINE [(pinaitikasara]
+REFINE [(pinaitikasara]
+REFINE [(pinaitikasara]
+REFINE [pinaitikasara]
+REFINE [pinaitikasara]
+-----------END REFINE---------
+REFINE [puranga)]
+REFINE [puranga)]
+REFINE [puranga)]
+REFINE [puranga)]
+REFINE [puranga]
+-----------END REFINE---------
+REFINE [(supé]
+REFINE [(supé]
+REFINE [(supé]
+REFINE [(supé]
+REFINE [supé]
+REFINE [supé]
+-----------END REFINE---------
+REFINE [puranga)]
+REFINE [puranga)]
+REFINE [puranga)]
+REFINE [puranga)]
+REFINE [puranga]
+-----------END REFINE---------
+REFINE [(.]
+REFINE [(.]
+REFINE [(.]
+REFINE [(.]
+REFINE [.]
+REFINE [.]
+-----------END REFINE---------
+REFINE [ara)]
+REFINE [ara)]
+REFINE [ara)]
+REFINE [ara)]
+REFINE [ara]
+-----------END REFINE---------
+chatGPT|:|<@><#>Uií<@>ara<#>ara<@>root<#>nti<@>puranga<#>puranga<@>ara<#>pinaitikasara<@>puranga<#>supé<@>puranga<#>.<@>ara|:|UDA:0.571<#>DDA: 0.429
+GoldTree |:|Uií<@>ara<@>nmod<#>ara<@>puranga<@>nsubj<#>nti<@>puranga<@>advmod<#>puranga<@>root<@>root<#>pinaitikasara<@>puranga<@>obl<#>supé<@>pinaitikasara<@>case<#>.<@>puranga<@>punct
+>--<

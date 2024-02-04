@@ -1,0 +1,37 @@
+# sent_id = 003
+# text = E tabaminahaba eke .
+# tetx_por = Vamos juntos (Let's get straw)
+# tetx_eng =
+1	E	e	PRON	pron	Clusivity=In|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	_
+2	tabaminahaba	_	VERB	vi	Cfm=Morning|Gender=Fem|Tense=Fut	0	root	_	_
+3	eke	e	PRON	pron	Clusivity=In|Decl=F|Number=Plur|Person=1	2	discourse	_	_
+4	.	.	PUNCT	punct	_	2	punct	_	_
+
+# sent_id = 008
+# text = Taha me ini kitate me amake .
+# text_por =
+# text_eng = Bees have sharp teeth
+1	Taha	_	NOUN	_	_	4	nsubj	_	_
+2	me	_	PRON	_	Number=Plur|Person=3|PronType=Prs	4	expl	_	_
+3	ini	_	NOUN	_	Gender=Fem	4	obj	_	_
+4	kitate	_	VERB	vi	Aspect=Hab	0	root	_	_
+5	me	_	PRON	_	Number=Plur|Person=3|PronType=Prs	4	discourse	_	_
+6	amake	ama	AUX	_	Decl=F	4	dep	_	_
+7	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 002.5
+# text = Tiwa omita .
+# text_por =
+# text_eng = I hear you
+1	Tiwa	tiwa	PRON	_	Number[obj]=Sing|Person[obj]=2	2	obj	_	_
+2	omita	mita	VERB	_	Gender=Fem|Number[subj]=Sing|Person[subj]=1	0	root	_	_
+3	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 009.2
+# text = Abe ini .
+# text_por =
+# text_eng = Name of the bug/bee/inhabitant
+1	Abe	abe	NOUN	_	_	2	nmod	_	_
+2	ini	ini	NOUN	_	Gender=Fem	0	root	_	_
+3	.	.	PUNCT	_	_	2	punct	_	_
+

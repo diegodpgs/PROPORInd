@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treebank>
+  <!-- tokens means "surface tokens", e.g. Spanish "vámonos" counts as one token
+       words means "syntactic words", e.g. Spanish "vámonos" is split to two words, "vamos" and "nos"
+       fused is the number of tokens that are split to two or more syntactic words
+       The words and fused elements can be omitted if no token is split to smaller syntactic words. -->
+  <size>
+    <total><sentences>148</sentences><tokens>1589</tokens><words>1597</words><fused>8</fused></total>
+    <train><sentences>0</sentences><tokens>0</tokens><words>0</words><fused>0</fused></train>
+    <dev><sentences>0</sentences><tokens>0</tokens><words>0</words><fused>0</fused></dev>
+    <test><sentences>148</sentences><tokens>1589</tokens><words>1597</words><fused>8</fused></test>
+  </size>
+  <lemmas unique="255" /><!-- ., te, hã, ,, dza'ra, na, norĩ, ma, !, romhuri, e, wa, di, marĩ, pi'õ -->
+  <forms unique="344" /><!-- ., te, hã, ,, dza'ra, ma, !, e, na, di, wa, norĩ, marĩ, romhuri, " -->
+  <fusions unique="8" /><!-- 'rowipese, Mrap-te, Wawa'a-te, ropoto'wa, rowẽuptabi, warobreb, zöptete, Ĩhiñimiza'reseõ -->
+  <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
+  <tags unique="14">
+    <tag name="ADP">112</tag><!-- na, ãma, me, u, wi, dzô, ré, 're, ma, baba -->
+    <tag name="ADV">67</tag><!-- dzéma, duré, we, tsa'ẽtè, oto, petse, pi'uriwi, tame, ahömhö, apö -->
+    <tag name="AUX">30</tag><!-- te, ma'ãpé, mo -->
+    <tag name="DET">64</tag><!-- hã, tahata -->
+    <tag name="INTJ">12</tag><!-- ĩhe -->
+    <tag name="NOUN">344</tag><!-- marĩ, pi'õ, aibö, 'watébrémi, a'uwẽ, wapté, buru, ba'õtõre, mama, höimanadzé -->
+    <tag name="NUM">12</tag><!-- dzahuré, mitsi -->
+    <tag name="PART">349</tag><!-- te, dza'ra, norĩ, e, ma, wa, õ, hã, dza, aba -->
+    <tag name="PRON">59</tag><!-- wanorĩhã, ai, ti, wa, õhã, aihini, anorĩwa'wahã, taha, õnorĩhã, 'wa -->
+    <tag name="PROPN">1</tag><!-- u'uiwawẽ -->
+    <tag name="PUNCT">271</tag><!-- ., ,, !, ", ?, : -->
+    <tag name="SCONJ">26</tag><!-- da, tahawa, wa, wamhã, dzarina, dzô -->
+    <tag name="VERB">192</tag><!-- romhuri, mo, tsadanharĩ, nharĩ, waihu'u, wara, höimana, wapari, tsada'öbö, tsõmri -->
+    <tag name="X">58</tag><!-- di, 'wa, ni, wamhã, hö, na, te, we -->
+  </tags>
+  <!-- Statistics of features and values. The comments show the most frequent word forms. -->
+  <feats unique="33">
+    <feat name="Case" value="Dat" upos="ADP,PRON">26</feat><!-- aima, tãma, ma, wama, dama, wasima, ĩma, ĩĩsima -->
+    <feat name="Case" value="Ins" upos="NOUN,PRON">2</feat><!-- Wasina, asina -->
+    <feat name="Degree" value="Dim" upos="NOUN,PART">5</feat><!-- 'Watébrémire, ba'õtõre, re, reb, watsu'ure -->
+    <feat name="Ego" value="Yes" upos="PART">23</feat><!-- wa -->
+    <feat name="Emph" value="Yes" upos="PART,PRON">43</feat><!-- norĩhã, hã, wanorĩhã, õhã, anorĩwa'wahã -->
+    <feat name="Fact" value="Yes" upos="PART">9</feat><!-- tô -->
+    <feat name="Gnq" value="Yes" upos="NOUN,PRON,VERB,X">10</feat><!-- datsa, dama, dawede, dapãrĩ, darob, te -->
+    <feat name="Hon" value="Yes" upos="PRON,VERB">2</feat><!-- aahöimana, asina -->
+    <feat name="Htp" value="Yes" upos="PART">140</feat><!-- te, ma -->
+    <feat name="Int" value="Yes" upos="PART">31</feat><!-- e -->
+    <feat name="Mood" value="Des" upos="X">1</feat><!-- hö -->
+    <feat name="Number" value="Coll" upos="PART,PRON">58</feat><!-- norĩ, norĩhã, wanorĩhã, aba, wa'aba, anorĩwa'wahã -->
+    <feat name="Number" value="Dual" upos="NUM,X">36</feat><!-- wa'wa, dzahuré, ni, 'wa -->
+    <feat name="Number" value="Plur" upos="ADP,AUX,NOUN,PART,PRON">67</feat><!-- dza'ra, wama, wate, õnorĩhã, Anorĩwa'wahã, wasima, 'ra, Wahitébré, Watsi'utsu, Wawa'a -->
+    <feat name="Number" value="Sing" upos="AUX,NOUN,PRON,VERB">20</feat><!-- õhã, Ano, ĩna, ĩno, ĩĩmama, ĩĩsima, aimreme, dahöimanadzéb, tete, Ĩĩsiupte -->
+    <feat name="Number[abs]" value="Sing" upos="VERB">1</feat><!-- ĩĩhöimana -->
+    <feat name="NumType" value="Dist" upos="PART">1</feat><!-- mono -->
+    <feat name="Person" value="1" upos="ADP,AUX,NOUN,PART,PRON,VERB">57</feat><!-- wa, wanorĩhã, wama, wate, wasima, ĩma, ĩĩmama, ĩĩsima, 'ra, Wahitébré -->
+    <feat name="Person" value="2" upos="ADP,NOUN,PRON">22</feat><!-- aima, Atsõhui'wa, anorĩwa'wahã, Aimama, Aiwa'a, Ana, aihitébré, aimreme, ai’udza, asina -->
+    <feat name="Person" value="3" upos="ADP,ADV,AUX,NOUN,PRON,VERB">69</feat><!-- tãma, tina, õhã, ti'ra, õnorĩhã, ĩprédu, Ano, dama, tete, timama -->
+    <feat name="Person[abs]" value="1" upos="VERB">3</feat><!-- watsi'aba'ré, wawa'utu, ĩĩhöimana -->
+    <feat name="Person[abs]" value="2" upos="VERB">3</feat><!-- aahöimana, aipo'repu'u, atsamarĩ -->
+    <feat name="Person[abs]" value="3" upos="VERB">41</feat><!-- tineb, tiwĩ, tinha, titsa, titsõ, ĩ'madö'ö, ĩ'uptsõi, ĩnharĩ, ĩwapari, dapãrĩ -->
+    <feat name="Polarity" value="Neg" upos="NOUN">1</feat><!-- ñimiza'reseõ -->
+    <feat name="PronType" value="Dem" upos="PRON">1</feat><!-- Ãhã -->
+    <feat name="PronType" value="Ind" upos="PRON">2</feat><!-- ni'wa -->
+    <feat name="PronType" value="Int" upos="PRON">2</feat><!-- 'wa -->
+    <feat name="PronType" value="Prs" upos="PRON">5</feat><!-- õhã -->
+    <feat name="PronType" value="Tot" upos="PRON">5</feat><!-- aihini, uburé -->
+    <feat name="Reflex" value="Yes" upos="NOUN,PRON">10</feat><!-- tina, wasima, ĩĩsima, asina -->
+    <feat name="Tense" value="Fut" upos="PART">13</feat><!-- dza -->
+    <feat name="Tense" value="Past" upos="PART">31</feat><!-- ma -->
+    <feat name="Tense" value="Pres" upos="PART">109</feat><!-- te -->
+  </feats>
+  <!-- Statistics of universal dependency relations. -->
+  <deps unique="23">
+    <dep name="acl">2</dep>
+    <dep name="advcl">24</dep>
+    <dep name="advmod">58</dep>
+    <dep name="aux">27</dep>
+    <dep name="case">87</dep>
+    <dep name="ccomp">11</dep>
+    <dep name="conj">6</dep>
+    <dep name="dep">381</dep>
+    <dep name="det">64</dep>
+    <dep name="discourse">34</dep>
+    <dep name="dislocated">31</dep>
+    <dep name="iobj">23</dep>
+    <dep name="mark">25</dep>
+    <dep name="nmod">41</dep>
+    <dep name="nsubj">134</dep>
+    <dep name="nummod">9</dep>
+    <dep name="obj">66</dep>
+    <dep name="obl">84</dep>
+    <dep name="parataxis">59</dep>
+    <dep name="punct">271</dep>
+    <dep name="root">148</dep>
+    <dep name="vocative">8</dep>
+    <dep name="xcomp">4</dep>
+  </deps>
+</treebank>

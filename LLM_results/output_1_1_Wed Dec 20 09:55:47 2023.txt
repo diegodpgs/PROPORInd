@@ -1,0 +1,163 @@
+Folha -- Como você recebeu a notícia de que seria substituído ?
+MESSAGE|:|Na sentença "PT em o governo",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(pt -> root)
+(em -> governo)
+(o -> governo)
+(governo -> pt)..
+Liste as relações de dependência sintática na sentença "Folha -- Como você recebeu a notícia de que seria substituído ?", usando o formato (token dependente -> token cabeça).
+REPLY|:|(Folha -> --)
+(- -> Como)
+(Como -> você)
+(você -> recebeu)
+(a -> notícia)
+(de -> que)
+(seria -> substituído)
+(substituído -> seria)
+(? -> Folha)
+REFINE [(-]
+REFINE [(-]
+REFINE [(-]
+REFINE [(-]
+REFINE [-]
+REFINE [-]
+-----------END REFINE---------
+REFINE [Como)]
+REFINE [Como)]
+REFINE [Como)]
+REFINE [Como)]
+REFINE [Como]
+-----------END REFINE---------
+REFINE [(Como]
+REFINE [(Como]
+REFINE [(Como]
+REFINE [(Como]
+REFINE [Como]
+REFINE [Como]
+-----------END REFINE---------
+REFINE [você)]
+REFINE [você)]
+REFINE [você)]
+REFINE [você)]
+REFINE [você]
+-----------END REFINE---------
+REFINE [(você]
+REFINE [(você]
+REFINE [(você]
+REFINE [(você]
+REFINE [você]
+REFINE [você]
+-----------END REFINE---------
+REFINE [recebeu)]
+REFINE [recebeu)]
+REFINE [recebeu)]
+REFINE [recebeu)]
+REFINE [recebeu]
+-----------END REFINE---------
+REFINE [(a]
+REFINE [(a]
+REFINE [(a]
+REFINE [(a]
+REFINE [a]
+REFINE [a]
+-----------END REFINE---------
+REFINE [notícia)]
+REFINE [notícia)]
+REFINE [notícia)]
+REFINE [notícia)]
+REFINE [notícia]
+-----------END REFINE---------
+REFINE [(de]
+REFINE [(de]
+REFINE [(de]
+REFINE [(de]
+REFINE [de]
+REFINE [de]
+-----------END REFINE---------
+REFINE [que)]
+REFINE [que)]
+REFINE [que)]
+REFINE [que)]
+REFINE [que]
+-----------END REFINE---------
+REFINE [(seria]
+REFINE [(seria]
+REFINE [(seria]
+REFINE [(seria]
+REFINE [seria]
+REFINE [seria]
+-----------END REFINE---------
+REFINE [substituído)]
+REFINE [substituído)]
+REFINE [substituído)]
+REFINE [substituído)]
+REFINE [substituído]
+-----------END REFINE---------
+REFINE [(substituído]
+REFINE [(substituído]
+REFINE [(substituído]
+REFINE [(substituído]
+REFINE [substituído]
+REFINE [substituído]
+-----------END REFINE---------
+REFINE [seria)]
+REFINE [seria)]
+REFINE [seria)]
+REFINE [seria)]
+REFINE [seria]
+-----------END REFINE---------
+REFINE [(?]
+REFINE [(?]
+REFINE [(?]
+REFINE [(?]
+REFINE [?]
+REFINE [?]
+-----------END REFINE---------
+REFINE [Folha)]
+REFINE [Folha)]
+REFINE [Folha)]
+REFINE [Folha)]
+REFINE [Folha]
+-----------END REFINE---------
+Giovane -- Normalmente .
+MESSAGE|:|Na sentença "PT em o governo",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(pt -> root)
+(em -> governo)
+(o -> governo)
+(governo -> pt)..
+Liste as relações de dependência sintática na sentença "Giovane -- Normalmente .", usando o formato (token dependente -> token cabeça).
+REPLY|:|(Giovane -> root)
+(-- -> Normalmente)
+(Normalmente -> root)
+REFINE [(--]
+REFINE [(--]
+REFINE [(--]
+REFINE [(--]
+REFINE [--]
+REFINE [--]
+-----------END REFINE---------
+REFINE [Normalmente)]
+REFINE [Normalmente)]
+REFINE [Normalmente)]
+REFINE [Normalmente)]
+REFINE [Normalmente]
+-----------END REFINE---------
+REFINE [(Normalmente]
+REFINE [(Normalmente]
+REFINE [(Normalmente]
+REFINE [(Normalmente]
+REFINE [Normalmente]
+REFINE [Normalmente]
+-----------END REFINE---------
+REFINE [root)]
+REFINE [root)]
+REFINE [root)]
+REFINE [root)]
+REFINE [root]
+-----------END REFINE---------
+Seleção é isso , joga quem está melhor , não tem esse negócio de nome .
+MESSAGE|:|Na sentença "PT em o governo",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(pt -> root)
+(em -> governo)
+(o -> governo)
+(governo -> pt)..
+Liste as relações de dependência sintática na sentença "Seleção é isso , joga quem está melhor , não tem esse negócio de nome .", usando o formato (token dependente -> token cabeça).

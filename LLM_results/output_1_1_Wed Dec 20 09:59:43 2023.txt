@@ -1,0 +1,531 @@
+Folha -- Como você recebeu a notícia de que seria substituído ?
+MESSAGE|:|Na sentença "PT em o governo",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(pt -> root)
+(em -> governo)
+(o -> governo)
+(governo -> pt)..
+Liste as relações de dependência sintática na sentença "Folha -- Como você recebeu a notícia de que seria substituído ?", usando o formato (token dependente -> token cabeça).
+REPLY|:|(Folha -> --)
+(- -> Como)
+(Como -> você)
+(você -> recebeu)
+(recebeu -> a)
+(a -> notícia)
+(notícia -> de)
+(de -> que)
+(que -> seria)
+(seria -> substituído)
+(substituído -> ?)
+REFINE [(-]
+REFINE [(-]
+REFINE [(-]
+REFINE [(-]
+REFINE [-]
+REFINE [-]
+-----------END REFINE---------
+REFINE [Como)]
+REFINE [Como)]
+REFINE [Como)]
+REFINE [Como)]
+REFINE [Como]
+-----------END REFINE---------
+REFINE [(Como]
+REFINE [(Como]
+REFINE [(Como]
+REFINE [(Como]
+REFINE [Como]
+REFINE [Como]
+-----------END REFINE---------
+REFINE [você)]
+REFINE [você)]
+REFINE [você)]
+REFINE [você)]
+REFINE [você]
+-----------END REFINE---------
+REFINE [(você]
+REFINE [(você]
+REFINE [(você]
+REFINE [(você]
+REFINE [você]
+REFINE [você]
+-----------END REFINE---------
+REFINE [recebeu)]
+REFINE [recebeu)]
+REFINE [recebeu)]
+REFINE [recebeu)]
+REFINE [recebeu]
+-----------END REFINE---------
+REFINE [(recebeu]
+REFINE [(recebeu]
+REFINE [(recebeu]
+REFINE [(recebeu]
+REFINE [recebeu]
+REFINE [recebeu]
+-----------END REFINE---------
+REFINE [a)]
+REFINE [a)]
+REFINE [a)]
+REFINE [a)]
+REFINE [a]
+-----------END REFINE---------
+REFINE [(a]
+REFINE [(a]
+REFINE [(a]
+REFINE [(a]
+REFINE [a]
+REFINE [a]
+-----------END REFINE---------
+REFINE [notícia)]
+REFINE [notícia)]
+REFINE [notícia)]
+REFINE [notícia)]
+REFINE [notícia]
+-----------END REFINE---------
+REFINE [(notícia]
+REFINE [(notícia]
+REFINE [(notícia]
+REFINE [(notícia]
+REFINE [notícia]
+REFINE [notícia]
+-----------END REFINE---------
+REFINE [de)]
+REFINE [de)]
+REFINE [de)]
+REFINE [de)]
+REFINE [de]
+-----------END REFINE---------
+REFINE [(de]
+REFINE [(de]
+REFINE [(de]
+REFINE [(de]
+REFINE [de]
+REFINE [de]
+-----------END REFINE---------
+REFINE [que)]
+REFINE [que)]
+REFINE [que)]
+REFINE [que)]
+REFINE [que]
+-----------END REFINE---------
+REFINE [(que]
+REFINE [(que]
+REFINE [(que]
+REFINE [(que]
+REFINE [que]
+REFINE [que]
+-----------END REFINE---------
+REFINE [seria)]
+REFINE [seria)]
+REFINE [seria)]
+REFINE [seria)]
+REFINE [seria]
+-----------END REFINE---------
+REFINE [(seria]
+REFINE [(seria]
+REFINE [(seria]
+REFINE [(seria]
+REFINE [seria]
+REFINE [seria]
+-----------END REFINE---------
+REFINE [substituído)]
+REFINE [substituído)]
+REFINE [substituído)]
+REFINE [substituído)]
+REFINE [substituído]
+-----------END REFINE---------
+REFINE [(substituído]
+REFINE [(substituído]
+REFINE [(substituído]
+REFINE [(substituído]
+REFINE [substituído]
+REFINE [substituído]
+-----------END REFINE---------
+REFINE [?)]
+REFINE [?)]
+REFINE [?)]
+REFINE [?)]
+REFINE [?]
+-----------END REFINE---------
+chatGPT|:|-<@>Como<#>Como<@>você<#>você<@>recebeu<#>recebeu<@>a<#>a<@>notícia<#>notícia<@>de<#>de<@>que<#>que<@>seria<#>seria<@>substituído<#>substituído<@>?|:|UDA:0.250<#>DDA: 0.250
+GoldTree |:|Folha<@>root<@>root<#>--<@>Folha<@>punct<#>Como<@>recebeu<@>advmod<#>você<@>recebeu<@>nsubj<#>recebeu<@>Folha<@>parataxis<#>a<@>notícia<@>det<#>notícia<@>recebeu<@>obj<#>de<@>substituído<@>mark<#>que<@>substituído<@>mark<#>seria<@>substituído<@>aux<#>substituído<@>notícia<@>acl<#>?<@>Folha<@>punct
+>--<
+Giovane -- Normalmente .
+MESSAGE|:|Na sentença "PT em o governo",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(pt -> root)
+(em -> governo)
+(o -> governo)
+(governo -> pt)..
+Liste as relações de dependência sintática na sentença "Giovane -- Normalmente .", usando o formato (token dependente -> token cabeça).
+REPLY|:|(Giovane -> root)
+(-- -> root)
+(Normalmente -> root)
+REFINE [(--]
+REFINE [(--]
+REFINE [(--]
+REFINE [(--]
+REFINE [--]
+REFINE [--]
+-----------END REFINE---------
+REFINE [root)]
+REFINE [root)]
+REFINE [root)]
+REFINE [root)]
+REFINE [root]
+-----------END REFINE---------
+REFINE [(Normalmente]
+REFINE [(Normalmente]
+REFINE [(Normalmente]
+REFINE [(Normalmente]
+REFINE [Normalmente]
+REFINE [Normalmente]
+-----------END REFINE---------
+REFINE [root)]
+REFINE [root)]
+REFINE [root)]
+REFINE [root)]
+REFINE [root]
+-----------END REFINE---------
+chatGPT|:|--<@>root<#>Normalmente<@>root|:|UDA:0.000<#>DDA: 0.000
+GoldTree |:|Giovane<@>root<@>root<#>--<@>Giovane<@>punct<#>Normalmente<@>Giovane<@>parataxis<#>.<@>Giovane<@>punct
+>--<
+Seleção é isso , joga quem está melhor , não tem esse negócio de nome .
+MESSAGE|:|Na sentença "PT em o governo",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(pt -> root)
+(em -> governo)
+(o -> governo)
+(governo -> pt)..
+Liste as relações de dependência sintática na sentença "Seleção é isso , joga quem está melhor , não tem esse negócio de nome .", usando o formato (token dependente -> token cabeça).
+REPLY|:|(Seleção -> é)
+(é -> isso)
+(isso -> Seleção)
+(joga -> quem)
+(quem -> está)
+(está -> melhor)
+(melhor -> quem)
+(é -> isso)
+(isso -> Seleção)
+(não -> tem)
+(tem -> esse)
+(esse -> negócio)
+(negócio -> tem)
+(de -> nome)
+(nome -> negócio)
+REFINE [(é]
+REFINE [(é]
+REFINE [(é]
+REFINE [(é]
+REFINE [é]
+REFINE [é]
+-----------END REFINE---------
+REFINE [isso)]
+REFINE [isso)]
+REFINE [isso)]
+REFINE [isso)]
+REFINE [isso]
+-----------END REFINE---------
+REFINE [(isso]
+REFINE [(isso]
+REFINE [(isso]
+REFINE [(isso]
+REFINE [isso]
+REFINE [isso]
+-----------END REFINE---------
+REFINE [Seleção)]
+REFINE [Seleção)]
+REFINE [Seleção)]
+REFINE [Seleção)]
+REFINE [Seleção]
+-----------END REFINE---------
+REFINE [(joga]
+REFINE [(joga]
+REFINE [(joga]
+REFINE [(joga]
+REFINE [joga]
+REFINE [joga]
+-----------END REFINE---------
+REFINE [quem)]
+REFINE [quem)]
+REFINE [quem)]
+REFINE [quem)]
+REFINE [quem]
+-----------END REFINE---------
+REFINE [(quem]
+REFINE [(quem]
+REFINE [(quem]
+REFINE [(quem]
+REFINE [quem]
+REFINE [quem]
+-----------END REFINE---------
+REFINE [está)]
+REFINE [está)]
+REFINE [está)]
+REFINE [está)]
+REFINE [está]
+-----------END REFINE---------
+REFINE [(está]
+REFINE [(está]
+REFINE [(está]
+REFINE [(está]
+REFINE [está]
+REFINE [está]
+-----------END REFINE---------
+REFINE [melhor)]
+REFINE [melhor)]
+REFINE [melhor)]
+REFINE [melhor)]
+REFINE [melhor]
+-----------END REFINE---------
+REFINE [(melhor]
+REFINE [(melhor]
+REFINE [(melhor]
+REFINE [(melhor]
+REFINE [melhor]
+REFINE [melhor]
+-----------END REFINE---------
+REFINE [quem)]
+REFINE [quem)]
+REFINE [quem)]
+REFINE [quem)]
+REFINE [quem]
+-----------END REFINE---------
+REFINE [(é]
+REFINE [(é]
+REFINE [(é]
+REFINE [(é]
+REFINE [é]
+REFINE [é]
+-----------END REFINE---------
+REFINE [isso)]
+REFINE [isso)]
+REFINE [isso)]
+REFINE [isso)]
+REFINE [isso]
+-----------END REFINE---------
+REFINE [(isso]
+REFINE [(isso]
+REFINE [(isso]
+REFINE [(isso]
+REFINE [isso]
+REFINE [isso]
+-----------END REFINE---------
+REFINE [Seleção)]
+REFINE [Seleção)]
+REFINE [Seleção)]
+REFINE [Seleção)]
+REFINE [Seleção]
+-----------END REFINE---------
+REFINE [(não]
+REFINE [(não]
+REFINE [(não]
+REFINE [(não]
+REFINE [não]
+REFINE [não]
+-----------END REFINE---------
+REFINE [tem)]
+REFINE [tem)]
+REFINE [tem)]
+REFINE [tem)]
+REFINE [tem]
+-----------END REFINE---------
+REFINE [(tem]
+REFINE [(tem]
+REFINE [(tem]
+REFINE [(tem]
+REFINE [tem]
+REFINE [tem]
+-----------END REFINE---------
+REFINE [esse)]
+REFINE [esse)]
+REFINE [esse)]
+REFINE [esse)]
+REFINE [esse]
+-----------END REFINE---------
+REFINE [(esse]
+REFINE [(esse]
+REFINE [(esse]
+REFINE [(esse]
+REFINE [esse]
+REFINE [esse]
+-----------END REFINE---------
+REFINE [negócio)]
+REFINE [negócio)]
+REFINE [negócio)]
+REFINE [negócio)]
+REFINE [negócio]
+-----------END REFINE---------
+REFINE [(negócio]
+REFINE [(negócio]
+REFINE [(negócio]
+REFINE [(negócio]
+REFINE [negócio]
+REFINE [negócio]
+-----------END REFINE---------
+REFINE [tem)]
+REFINE [tem)]
+REFINE [tem)]
+REFINE [tem)]
+REFINE [tem]
+-----------END REFINE---------
+REFINE [(de]
+REFINE [(de]
+REFINE [(de]
+REFINE [(de]
+REFINE [de]
+REFINE [de]
+-----------END REFINE---------
+REFINE [nome)]
+REFINE [nome)]
+REFINE [nome)]
+REFINE [nome)]
+REFINE [nome]
+-----------END REFINE---------
+REFINE [(nome]
+REFINE [(nome]
+REFINE [(nome]
+REFINE [(nome]
+REFINE [nome]
+REFINE [nome]
+-----------END REFINE---------
+REFINE [negócio)]
+REFINE [negócio)]
+REFINE [negócio)]
+REFINE [negócio)]
+REFINE [negócio]
+-----------END REFINE---------
+chatGPT|:|é<@>isso<#>isso<@>Seleção<#>joga<@>quem<#>quem<@>está<#>está<@>melhor<#>melhor<@>quem<#>é<@>isso<#>isso<@>Seleção<#>não<@>tem<#>tem<@>esse<#>esse<@>negócio<#>negócio<@>tem<#>de<@>nome<#>nome<@>negócio|:|UDA:0.562<#>DDA: 0.438
+GoldTree |:|Seleção<@>isso<@>nsubj<#>é<@>isso<@>cop<#>isso<@>root<@>root<#>,<@>joga<@>punct<#>joga<@>isso<@>acl<#>quem<@>melhor<@>nsubj<#>está<@>melhor<@>cop<#>melhor<@>joga<@>csubj<#>,<@>tem<@>punct<#>não<@>tem<@>advmod<#>tem<@>joga<@>conj<#>esse<@>negócio<@>det<#>negócio<@>tem<@>nsubj<#>de<@>nome<@>case<#>nome<@>negócio<@>nmod<#>.<@>isso<@>punct
+>--<
+A melhor equipe é que deve jogar .
+MESSAGE|:|Na sentença "PT em o governo",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(pt -> root)
+(em -> governo)
+(o -> governo)
+(governo -> pt)..
+Liste as relações de dependência sintática na sentença "A melhor equipe é que deve jogar .", usando o formato (token dependente -> token cabeça).
+REPLY|:|(A -> root)
+(melhor -> equipe)
+(equipe -> root)
+(é -> equipe)
+(que -> equipe)
+(deve -> equipe)
+(jogar -> é)
+REFINE [(melhor]
+REFINE [(melhor]
+REFINE [(melhor]
+REFINE [(melhor]
+REFINE [melhor]
+REFINE [melhor]
+-----------END REFINE---------
+REFINE [equipe)]
+REFINE [equipe)]
+REFINE [equipe)]
+REFINE [equipe)]
+REFINE [equipe]
+-----------END REFINE---------
+REFINE [(equipe]
+REFINE [(equipe]
+REFINE [(equipe]
+REFINE [(equipe]
+REFINE [equipe]
+REFINE [equipe]
+-----------END REFINE---------
+REFINE [root)]
+REFINE [root)]
+REFINE [root)]
+REFINE [root)]
+REFINE [root]
+-----------END REFINE---------
+REFINE [(é]
+REFINE [(é]
+REFINE [(é]
+REFINE [(é]
+REFINE [é]
+REFINE [é]
+-----------END REFINE---------
+REFINE [equipe)]
+REFINE [equipe)]
+REFINE [equipe)]
+REFINE [equipe)]
+REFINE [equipe]
+-----------END REFINE---------
+REFINE [(que]
+REFINE [(que]
+REFINE [(que]
+REFINE [(que]
+REFINE [que]
+REFINE [que]
+-----------END REFINE---------
+REFINE [equipe)]
+REFINE [equipe)]
+REFINE [equipe)]
+REFINE [equipe)]
+REFINE [equipe]
+-----------END REFINE---------
+REFINE [(deve]
+REFINE [(deve]
+REFINE [(deve]
+REFINE [(deve]
+REFINE [deve]
+REFINE [deve]
+-----------END REFINE---------
+REFINE [equipe)]
+REFINE [equipe)]
+REFINE [equipe)]
+REFINE [equipe)]
+REFINE [equipe]
+-----------END REFINE---------
+REFINE [(jogar]
+REFINE [(jogar]
+REFINE [(jogar]
+REFINE [(jogar]
+REFINE [jogar]
+REFINE [jogar]
+-----------END REFINE---------
+REFINE [é)]
+REFINE [é)]
+REFINE [é)]
+REFINE [é)]
+REFINE [é]
+-----------END REFINE---------
+chatGPT|:|melhor<@>equipe<#>equipe<@>root<#>é<@>equipe<#>que<@>equipe<#>deve<@>equipe<#>jogar<@>é|:|UDA:0.375<#>DDA: 0.125
+GoldTree |:|A<@>equipe<@>det<#>melhor<@>equipe<@>amod<#>equipe<@>deve<@>nsubj<#>é<@>jogar<@>discourse<#>que<@>é<@>fixed<#>deve<@>root<@>root<#>jogar<@>deve<@>xcomp<#>.<@>jogar<@>punct
+>--<
+O NÚMERO 32
+MESSAGE|:|Na sentença "PT em o governo",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(pt -> root)
+(em -> governo)
+(o -> governo)
+(governo -> pt)..
+Liste as relações de dependência sintática na sentença "O NÚMERO 32", usando o formato (token dependente -> token cabeça).
+REPLY|:|(O -> root)
+(NÚMERO -> root)
+(32 -> root)
+REFINE [(NÚMERO]
+REFINE [(NÚMERO]
+REFINE [(NÚMERO]
+REFINE [(NÚMERO]
+REFINE [NÚMERO]
+REFINE [NÚMERO]
+-----------END REFINE---------
+REFINE [root)]
+REFINE [root)]
+REFINE [root)]
+REFINE [root)]
+REFINE [root]
+-----------END REFINE---------
+REFINE [(32]
+REFINE [(32]
+REFINE [(32]
+REFINE [(32]
+REFINE [32]
+REFINE [32]
+-----------END REFINE---------
+REFINE [root)]
+REFINE [root)]
+REFINE [root)]
+REFINE [root)]
+REFINE [root]
+-----------END REFINE---------
+chatGPT|:|NÚMERO<@>root<#>32<@>root|:|UDA:0.333<#>DDA: 0.333
+GoldTree |:|O<@>NÚMERO<@>det<#>NÚMERO<@>root<@>root<#>32<@>NÚMERO<@>nummod
+>--<

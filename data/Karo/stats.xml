@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treebank>
+  <!-- tokens means "surface tokens", e.g. Spanish "vámonos" counts as one token
+       words means "syntactic words", e.g. Spanish "vámonos" is split to two words, "vamos" and "nos"
+       fused is the number of tokens that are split to two or more syntactic words
+       The words and fused elements can be omitted if no token is split to smaller syntactic words. -->
+  <size>
+    <total><sentences>674</sentences><tokens>2319</tokens><words>2319</words><fused>0</fused></total>
+    <train><sentences>0</sentences><tokens>0</tokens><words>0</words><fused>0</fused></train>
+    <dev><sentences>0</sentences><tokens>0</tokens><words>0</words><fused>0</fused></dev>
+    <test><sentences>674</sentences><tokens>2319</tokens><words>2319</words><fused>0</fused></test>
+  </size>
+  <lemmas unique="458" /><!-- ʔe, õn, at, top, iʔke, ket, wĩ, kap, peʔ, wat, péŋ, ahyə, ŋa, nã, cú -->
+  <forms unique="772" /><!-- õn, at, iʔke, ahyə, wat, péŋ, ŋa, kaʔa, maʔpəy, nãn, peʔ, mãygãra, ʔet, cú, ʔa -->
+  <fusions unique="0" /><!--  -->
+  <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
+  <tags unique="13">
+    <tag name="ADJ">238</tag><!-- ʔaʔ, cú, pát, pap, káʔ, peʔ, kap, pɨʔ, pecép, ʔa -->
+    <tag name="ADP">83</tag><!-- peʔ, kəy, kõna, kõm, pihmãm, mãm, ʔerem, mã, pik, aʔ -->
+    <tag name="ADV">98</tag><!-- matet, kanãy, kõm, cú, məy, mɨy, kanãp, mõm, tẽna, kɨganape -->
+    <tag name="AUX">174</tag><!-- ʔe, nã, kap, waʔye -->
+    <tag name="NOUN">567</tag><!-- péŋ, kaʔa, maʔpəy, maʔwɨt, mãygãra, agóaʔpət, ip, owẽ, iyõm, wayo -->
+    <tag name="NUM">4</tag><!-- cagáro, cagárokõm, cagárokõmnem, pagon -->
+    <tag name="PART">299</tag><!-- iʔke, ahyə, yat, tap, mãm, nãnin, yahmãm, co, menə, at -->
+    <tag name="PRON">298</tag><!-- õn, at, wat, ŋa, ẽn, toat, et, yét, war, kaʔto -->
+    <tag name="PROPN">11</tag><!-- Babesáya, Antônio, Cabirera, Júnior, Kabirera, Kokõ, Naʔkɨt, Noep, Petĩp, Petɨp -->
+    <tag name="PUNCT">3</tag><!-- ,, ... -->
+    <tag name="SCONJ">24</tag><!-- kanãp, nãt, ye, nãr, yəye -->
+    <tag name="VERB">515</tag><!-- top, ket, wĩ, yaʔwat, wɨy, púŋ, ʔɨy, kə, pakát, ti -->
+    <tag name="X">5</tag><!-- kõm, mãm, to, tóp, ã -->
+  </tags>
+  <!-- Statistics of features and values. The comments show the most frequent word forms. -->
+  <feats unique="51">
+    <feat name="Aspect" value="Iter" upos="VERB">13</feat><!-- kãykãy, púŋpúŋ, cokcok, cutcut, tuytuy, uéué, wenwen, weriweri -->
+    <feat name="Case" value="Abe" upos="ADP">1</feat><!-- owikop -->
+    <feat name="Case" value="Abl" upos="ADP">1</feat><!-- ʔay -->
+    <feat name="Case" value="All" upos="ADP,PRON">3</feat><!-- apik, aʔpik, ŋapik -->
+    <feat name="Case" value="Com" upos="ADP,PART,VERB">38</feat><!-- rap, tap, nakəga, pihmãm, abihmãm, atati, aʔrati, bihmãm, mihmãm, nakõy -->
+    <feat name="Case" value="Dat" upos="ADP,PART,PRON">26</feat><!-- aʔkəy, okəy, kəy, ekəy, gəy, ŋakəy, (aʔkəy), kokəy, omãmkəy, tomãmkəy -->
+    <feat name="Case" value="Disp" upos="ADP">3</feat><!-- ʔerem -->
+    <feat name="Case" value="Ine" upos="ADP">1</feat><!-- bət -->
+    <feat name="Case" value="Ins" upos="ADP,PART">3</feat><!-- mã -->
+    <feat name="Case" value="Loc" upos="ADP">21</feat><!-- peʔ -->
+    <feat name="Case" value="Sim" upos="ADP">3</feat><!-- ŋõm, kõm -->
+    <feat name="Clas" value="Bds" upos="ADJ">4</feat><!-- maʔ -->
+    <feat name="Clas" value="Bss" upos="ADJ">12</feat><!-- gap, kap -->
+    <feat name="Clas" value="Ccv" upos="ADJ">15</feat><!-- káʔ, gáʔ, ká -->
+    <feat name="Clas" value="Cylb" upos="ADJ">19</feat><!-- bap, pap, map, pab, bab, bah -->
+    <feat name="Clas" value="Cylm" upos="ADJ">4</feat><!-- ʔɨp, ɨp -->
+    <feat name="Clas" value="Cyls" upos="ADJ">11</feat><!-- pɨʔ, bɨʔ, pɨʔtoʔ -->
+    <feat name="Clas" value="Fem" upos="AUX,PRON,VERB">41</feat><!-- ŋa, ŋakəy, ŋaap, ŋaat, ŋabean, ŋaken, ŋanãn, ŋapik, ŋaramãya, ŋaʔet -->
+    <feat name="Clas" value="Flat" upos="ADJ,NOUN">13</feat><!-- beʔ, meʔ, peʔ, be, peroʔ -->
+    <feat name="Clas" value="Rd" upos="ADJ">36</feat><!-- ʔa, ʔaʔ, aʔ, ʔaʔtoʔ -->
+    <feat name="Clas" value="Tflat" upos="ADJ">7</feat><!-- cɨʔ, beʔ, meʔ -->
+    <feat name="Clas" value="X" upos="ADJ">4</feat><!-- nãʔ -->
+    <feat name="Clusivity" value="Ex" upos="AUX,VERB">2</feat><!-- reʔkay, tenaʔwara -->
+    <feat name="Clusivity" value="In" upos="AUX,NOUN,PART,PRON,VERB">12</feat><!-- iʔtə, inaʔwara, iʔat, iʔca, iʔkap, iʔkõna, iʔpéya, iʔwirup, iʔyat, teʔyoy -->
+    <feat name="Corf" value="Yes" upos="ADP,AUX,NOUN,PRON,VERB">60</feat><!-- toʔwa, toat, tokõna, rokõna, tokera, totia, [towéya, roʔwa, tocaropaba, tocit -->
+    <feat name="Decl" value="Assert" upos="AUX,VERB">361</feat><!-- ʔet, aʔtoy, wet, wĩn, nãn, aʔwĩn, at, okay, ʔɨy, otoy -->
+    <feat name="Decl" value="AssertFoc" upos="AUX,VERB">48</feat><!-- wep, ap, ekerap, ʔep, aʔtop, okap, web, wĩm, arap, aʔwĩm -->
+    <feat name="Evident" value="Fh" upos="PART">49</feat><!-- nãnin, menə, aket, topə, igã, iʔkɨy, coke, pə, manã, memã -->
+    <feat name="Evident" value="Nfh" upos="PART">14</feat><!-- tə, menə, coke, igã, rə -->
+    <feat name="Int" value="Yes" upos="ADV,AUX,PART,PRON">48</feat><!-- ahyə, nãn, kõm, kɨgomət -->
+    <feat name="Mood" value="Opt" upos="VERB">12</feat><!-- abeʔmẽn, abeʔnan, abeʔnoy, abeʔŋət, beʔnogat, beʔŋət, meʔnẽy, meʔŋen, meʔŋət, oweʔŋen -->
+    <feat name="Nomzr" value="Circ" upos="ADP,PART,VERB">12</feat><!-- kanã, gotoy, kokəy -->
+    <feat name="Number" value="Plur" upos="ADJ,ADP,AUX,NOUN,PART,PRON,VERB">56</feat><!-- kaʔto, iʔtə, iʔyat, piro, tap, ʔaʔtoʔ, abagon, aʔwĩa, cibekonnoʔ, garokõna -->
+    <feat name="Number" value="Sing" upos="ADJ,ADP,AUX,NOUN,PART,PRON,VERB">612</feat><!-- õn, at, wat, ŋa, aʔtoy, ẽn, wet, aʔwĩn, et, okay -->
+    <feat name="Person" value="0" upos="VERB">2</feat><!-- bekɨga, bewĩa -->
+    <feat name="Person" value="1" upos="ADJ,ADP,AUX,NOUN,PART,PRON,VERB">295</feat><!-- õn, wat, wet, okay, war, oken, otoy, okera, oyaʔwan, wep -->
+    <feat name="Person" value="2" upos="ADP,AUX,NOUN,PRON,VERB">98</feat><!-- ẽn, et, eken, ekerap, kaʔto, ekera, ekəy, ʔa, ekap, epɨy -->
+    <feat name="Person" value="3" upos="ADJ,ADP,AUX,NOUN,PRON,VERB">324</feat><!-- at, ŋa, aʔtoy, toat, aʔwĩn, toʔwa, ar, aʔken, aʔnãn, aʔkay -->
+    <feat name="Person" value="3Imp" upos="AUX,NOUN,VERB">46</feat><!-- iket, ipá, itop, ibeon, ikap, ikérat, inãk, iwĩ, iyãy, ye -->
+    <feat name="Polarity" value="Neg" upos="PART">59</feat><!-- iʔke, taykit -->
+    <feat name="PronType" value="Dem" upos="PRON">8</feat><!-- yét, [yét, [yét] -->
+    <feat name="PronType" value="Emp" upos="ADP,PRON">9</feat><!-- tokõna, okõna, at, garokõna, rokõna -->
+    <feat name="PronType" value="Prs" upos="PART,PRON">248</feat><!-- õn, at, wat, ŋa, ẽn, toat, et, ar, war, [ar -->
+    <feat name="Redup" value="Yes" upos="NOUN,VERB">16</feat><!-- kãykãy, púŋpúŋ, cokcok, uéué, wenwen, cutcut, cácá, tuytuy, weriweri -->
+    <feat name="Reflex" value="Yes" upos="ADP,VERB">4</feat><!-- omãmkəy, omãmnoy, tomãmkəy, tomãmwĩn -->
+    <feat name="Tense" value="Fut" upos="AUX,PART">56</feat><!-- yat, okay, iga, aʔkay, gay, ikap, kay, nyat, okap, yar -->
+    <feat name="Tense" value="Past" upos="PART">10</feat><!-- co -->
+    <feat name="Tense" value="RPast" upos="PART">8</feat><!-- gán, kán, ŋán -->
+    <feat name="VerbForm" value="Ger" upos="AUX,VERB">147</feat><!-- toʔwa, okera, toba, wĩa, aʔwĩa, cára, tokera, wa, ekera, ʔa -->
+    <feat name="Voice" value="Cau" upos="VERB">17</feat><!-- amaken, mawɨya, amabaraʔkət, amagahmõm, amapəri, amati, emaberopit, emakət, imaterãn, imatẽran -->
+    <feat name="Voice" value="Pass" upos="VERB">7</feat><!-- abebeʔtɨra, abegahmõm, bekɨga, bemeŋãn, bewĩa, memaʔwaba, towewĩa -->
+  </feats>
+  <!-- Statistics of universal dependency relations. -->
+  <deps unique="26">
+    <dep name="acl">4</dep>
+    <dep name="advcl">3</dep>
+    <dep name="advmod">185</dep>
+    <dep name="amod">67</dep>
+    <dep name="appos">5</dep>
+    <dep name="aux">132</dep>
+    <dep name="case">84</dep>
+    <dep name="ccomp">8</dep>
+    <dep name="clf">153</dep>
+    <dep name="compound">45</dep>
+    <dep name="conj">7</dep>
+    <dep name="cop">21</dep>
+    <dep name="dep">67</dep>
+    <dep name="det">6</dep>
+    <dep name="discourse">61</dep>
+    <dep name="dislocated">1</dep>
+    <dep name="mark">109</dep>
+    <dep name="nmod">138</dep>
+    <dep name="nsubj">294</dep>
+    <dep name="nummod">4</dep>
+    <dep name="obj">151</dep>
+    <dep name="obl">72</dep>
+    <dep name="parataxis">6</dep>
+    <dep name="punct">3</dep>
+    <dep name="root">674</dep>
+    <dep name="xcomp">19</dep>
+  </deps>
+</treebank>

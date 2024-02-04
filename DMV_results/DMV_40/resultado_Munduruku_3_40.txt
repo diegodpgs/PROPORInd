@@ -1,0 +1,120 @@
+Save dump_models/dmv/Munduruku__3__train_40_viterbi_dmv.pickle
+14 tags
+------MARCADOR
+LOG->-modules/dmv_viterbi_model.py: DMV(object).__init__
+LOG->-modules/dmv_viterbi_model.py: DMV(object).init_params(self, train_tags, tag_set)
+initialize, sentence 0
+LOG->-modules/dmv_viterbi_model.py: eval(
+starting acc on length <= 10: #trees 31, undir 41.58, dir 24.21
+--MARCADOR while
+epoch 0, sentence 0
+
+
+avg_log_likelihood:-17.30979 time elapsed: 14.32 sec
+
+
+LOG->-modules/dmv_viterbi_model.py: eval(
+acc on length <= 10: #trees 31, undir 44.74, dir 26.84
+epoch 1, sentence 0
+
+
+avg_log_likelihood:-15.02053 time elapsed: 28.84 sec
+
+
+LOG->-modules/dmv_viterbi_model.py: eval(
+acc on length <= 10: #trees 31, undir 46.32, dir 28.42
+epoch 2, sentence 0
+
+
+avg_log_likelihood:-14.76153 time elapsed: 43.31 sec
+
+
+LOG->-modules/dmv_viterbi_model.py: eval(
+acc on length <= 10: #trees 31, undir 46.84, dir 29.47
+epoch 3, sentence 0
+
+
+avg_log_likelihood:-14.55934 time elapsed: 57.79 sec
+
+
+LOG->-modules/dmv_viterbi_model.py: eval(
+acc on length <= 10: #trees 31, undir 46.32, dir 28.95
+epoch 4, sentence 0
+
+
+avg_log_likelihood:-14.44206 time elapsed: 73.34 sec
+
+
+LOG->-modules/dmv_viterbi_model.py: eval(
+acc on length <= 10: #trees 31, undir 46.84, dir 29.47
+epoch 5, sentence 0
+
+
+avg_log_likelihood:-14.40029 time elapsed: 87.85 sec
+
+
+LOG->-modules/dmv_viterbi_model.py: eval(
+acc on length <= 10: #trees 31, undir 46.32, dir 28.42
+epoch 6, sentence 0
+
+
+avg_log_likelihood:-14.36084 time elapsed: 102.31 sec
+
+
+LOG->-modules/dmv_viterbi_model.py: eval(
+acc on length <= 10: #trees 31, undir 48.95, dir 30.00
+epoch 7, sentence 0
+
+
+avg_log_likelihood:-14.34104 time elapsed: 117.23 sec
+
+
+LOG->-modules/dmv_viterbi_model.py: eval(
+acc on length <= 10: #trees 31, undir 50.00, dir 30.53
+epoch 8, sentence 0
+
+
+avg_log_likelihood:-14.33586 time elapsed: 132.22 sec
+
+
+LOG->-modules/dmv_viterbi_model.py: eval(
+acc on length <= 10: #trees 31, undir 50.00, dir 30.53
+epoch 9, sentence 0
+
+
+avg_log_likelihood:-14.33586 time elapsed: 147.15 sec
+
+
+LOG->-modules/dmv_viterbi_model.py: eval(
+acc on length <= 10: #trees 31, undir 50.00, dir 30.53
+(0, -1)<#>(1, 0) |  6
+(0, 2)<#>(1, 0)<#>(2, -1)<#>(3, 2) |  11
+(0, 1)<#>(1, -1)<#>(2, 1) |  16
+(0, -1)<#>(1, 2)<#>(2, 0)<#>(3, 2)<#>(4, 3) |  22
+(0, -1)<#>(1, 0)<#>(2, 1) |  27
+(0, -1)<#>(1, 2)<#>(2, 0) |  32
+(0, 1)<#>(1, -1)<#>(2, 1) |  37
+(0, -1)<#>(1, 3)<#>(2, 1)<#>(3, 0)<#>(4, 3) |  42
+(0, -1)<#>(1, 0)<#>(2, 1)<#>(3, 2) |  47
+(0, 3)<#>(1, 2)<#>(2, 0)<#>(3, -1)<#>(4, 3) |  53
+(0, -1)<#>(1, 0)<#>(2, 3)<#>(3, 5)<#>(4, 3)<#>(5, 6)<#>(6, 1) |  58
+(0, 2)<#>(1, 0)<#>(2, 6)<#>(3, 2)<#>(4, 5)<#>(5, 3)<#>(6, -1)<#>(7, 6) |  101
+(0, -1)<#>(1, 2)<#>(2, 0)<#>(3, 4)<#>(4, 2) |  106
+(0, 3)<#>(1, 0)<#>(2, 1)<#>(3, 4)<#>(4, -1)<#>(5, 4) |  112
+(0, 3)<#>(1, 0)<#>(2, 1)<#>(3, 4)<#>(4, -1)<#>(5, 4) |  2005
+(0, 4)<#>(1, 2)<#>(2, 0)<#>(3, 2)<#>(4, -1)<#>(5, 4) |  2010
+(0, 3)<#>(1, 0)<#>(2, 0)<#>(3, -1)<#>(4, 3) |  2015
+(0, 3)<#>(1, 0)<#>(2, 1)<#>(3, 4)<#>(4, 6)<#>(5, 4)<#>(6, -1)<#>(7, 6) |  3001
+(0, 2)<#>(1, 0)<#>(2, -1)<#>(3, 2) |  5002
+(0, -1)<#>(1, 2)<#>(2, 3)<#>(3, 0)<#>(4, 6)<#>(5, 4)<#>(6, 3)<#>(7, 6)<#>(8, 7)<#>(9, 8) |  5007
+(0, 1)<#>(1, -1)<#>(2, 3)<#>(3, 1) |  794578
+(0, -1)<#>(1, 3)<#>(2, 1)<#>(3, 7)<#>(4, 3)<#>(5, 4)<#>(6, 5)<#>(7, 0)<#>(8, 7)<#>(9, 8)<#>(10, 9) |  7001
+(0, 1)<#>(1, 3)<#>(2, 1)<#>(3, -1)<#>(4, 3)<#>(5, 7)<#>(6, 5)<#>(7, 10)<#>(8, 7)<#>(9, 8)<#>(10, 4)<#>(11, 10)<#>(12, 11) |  7006
+(0, 2)<#>(1, 0)<#>(2, 4)<#>(3, 2)<#>(4, -1)<#>(5, 4)<#>(6, 5)<#>(7, 6)<#>(8, 7)<#>(9, 8)<#>(10, 9)<#>(11, 12)<#>(12, 10)<#>(13, 12) |  7011
+(0, 1)<#>(1, -1) |  0033.1
+(0, 1)<#>(1, -1)<#>(2, 1)<#>(3, 2)<#>(4, 3)<#>(5, 4)<#>(6, 8)<#>(7, 6)<#>(8, 5)<#>(9, 8) |  0033.6
+(0, -1)<#>(1, 0)<#>(2, 6)<#>(3, 4)<#>(4, 2)<#>(5, 4)<#>(6, 1)<#>(7, 6) |  0033.11
+(0, 3)<#>(1, 2)<#>(2, 0)<#>(3, -1)<#>(4, 3)<#>(5, 4) |  0033.16
+(0, -1)<#>(1, 0)<#>(2, 1)<#>(3, 2) |  0033.21
+(0, 1)<#>(1, -1)<#>(2, 1)<#>(3, 2) |  003.28
+(0, 2)<#>(1, 0)<#>(2, -1)<#>(3, 4)<#>(4, 8)<#>(5, 4)<#>(6, 5)<#>(7, 6)<#>(8, 2)<#>(9, 8)<#>(10, 9)<#>(11, 10) |  003.34

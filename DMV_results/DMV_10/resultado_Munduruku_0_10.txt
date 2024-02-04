@@ -1,0 +1,118 @@
+Save dump_models/dmv/Munduruku__0__train_10_viterbi_dmv.pickle
+15 tags
+------MARCADOR
+LOG->-modules/dmv_viterbi_model.py: DMV(object).__init__
+LOG->-modules/dmv_viterbi_model.py: DMV(object).init_params(self, train_tags, tag_set)
+initialize, sentence 0
+LOG->-modules/dmv_viterbi_model.py: eval(
+starting acc on length <= 10: #trees 29, undir 45.52, dir 24.83
+--MARCADOR while
+epoch 0, sentence 0
+
+
+avg_log_likelihood:-16.49162 time elapsed: 5.64 sec
+
+
+LOG->-modules/dmv_viterbi_model.py: eval(
+acc on length <= 10: #trees 29, undir 46.90, dir 27.59
+epoch 1, sentence 0
+
+
+avg_log_likelihood:-14.28485 time elapsed: 11.26 sec
+
+
+LOG->-modules/dmv_viterbi_model.py: eval(
+acc on length <= 10: #trees 29, undir 44.83, dir 24.83
+epoch 2, sentence 0
+
+
+avg_log_likelihood:-14.01226 time elapsed: 16.92 sec
+
+
+LOG->-modules/dmv_viterbi_model.py: eval(
+acc on length <= 10: #trees 29, undir 45.52, dir 25.52
+epoch 3, sentence 0
+
+
+avg_log_likelihood:-13.67717 time elapsed: 22.56 sec
+
+
+LOG->-modules/dmv_viterbi_model.py: eval(
+acc on length <= 10: #trees 29, undir 46.21, dir 25.52
+epoch 4, sentence 0
+
+
+avg_log_likelihood:-13.58400 time elapsed: 28.21 sec
+
+
+LOG->-modules/dmv_viterbi_model.py: eval(
+acc on length <= 10: #trees 29, undir 46.21, dir 26.21
+epoch 5, sentence 0
+
+
+avg_log_likelihood:-13.51983 time elapsed: 33.86 sec
+
+
+LOG->-modules/dmv_viterbi_model.py: eval(
+acc on length <= 10: #trees 29, undir 47.59, dir 26.90
+epoch 6, sentence 0
+
+
+avg_log_likelihood:-13.49127 time elapsed: 39.50 sec
+
+
+LOG->-modules/dmv_viterbi_model.py: eval(
+acc on length <= 10: #trees 29, undir 47.59, dir 26.90
+epoch 7, sentence 0
+
+
+avg_log_likelihood:-13.48300 time elapsed: 45.15 sec
+
+
+LOG->-modules/dmv_viterbi_model.py: eval(
+acc on length <= 10: #trees 29, undir 47.59, dir 26.90
+epoch 8, sentence 0
+
+
+avg_log_likelihood:-13.48300 time elapsed: 50.78 sec
+
+
+LOG->-modules/dmv_viterbi_model.py: eval(
+acc on length <= 10: #trees 29, undir 47.59, dir 26.90
+epoch 9, sentence 0
+
+
+avg_log_likelihood:-13.48300 time elapsed: 56.41 sec
+
+
+LOG->-modules/dmv_viterbi_model.py: eval(
+acc on length <= 10: #trees 29, undir 47.59, dir 26.90
+(0, -1)<#>(1, 3)<#>(2, 1)<#>(3, 0) |  1
+(0, 1)<#>(1, 2)<#>(2, -1)<#>(3, 2) |  8
+(0, 1)<#>(1, -1)<#>(2, 3)<#>(3, 1) |  13
+(0, -1)<#>(1, 2)<#>(2, 0) |  18
+(0, 1)<#>(1, -1)<#>(2, 1)<#>(3, 2) |  24
+(0, 1)<#>(1, -1) |  29
+(0, 1)<#>(1, 3)<#>(2, 1)<#>(3, 4)<#>(4, -1) |  34
+(0, 1)<#>(1, 2)<#>(2, -1)<#>(3, 2) |  39
+(0, 1)<#>(1, 2)<#>(2, -1)<#>(3, 2) |  44
+(0, -1)<#>(1, 0) |  50
+(0, -1)<#>(1, 3)<#>(2, 1)<#>(3, 0) |  55
+(0, 1)<#>(1, 3)<#>(2, 1)<#>(3, 4)<#>(4, 5)<#>(5, -1)<#>(6, 5) |  60
+(0, 8)<#>(1, 2)<#>(2, 4)<#>(3, 2)<#>(4, 7)<#>(5, 4)<#>(6, 5)<#>(7, 0)<#>(8, -1) |  103
+(0, 2)<#>(1, 0)<#>(2, -1)<#>(3, 2) |  108
+(0, 1)<#>(1, -1)<#>(2, 4)<#>(3, 2)<#>(4, 1) |  2002
+(0, -1)<#>(1, 3)<#>(2, 1)<#>(3, 0) |  2007
+(0, 1)<#>(1, 2)<#>(2, 3)<#>(3, 5)<#>(4, 3)<#>(5, 6)<#>(6, -1)<#>(7, 6) |  2012
+(0, 1)<#>(1, 2)<#>(2, 4)<#>(3, 2)<#>(4, -1)<#>(5, 4) |  2017
+(0, 1)<#>(1, 3)<#>(2, 1)<#>(3, -1) |  3003
+(0, 1)<#>(1, 2)<#>(2, 5)<#>(3, 4)<#>(4, 5)<#>(5, 6)<#>(6, 7)<#>(7, -1) |  5004
+(0, 3)<#>(1, 2)<#>(2, 0)<#>(3, 4)<#>(4, -1)<#>(5, 4) |  5009
+(0, 1)<#>(1, -1)<#>(2, 1) |  0788637
+(0, 2)<#>(1, 0)<#>(2, -1)<#>(3, 2) |  0033.3
+(0, 4)<#>(1, 2)<#>(2, 0)<#>(3, 2)<#>(4, 5)<#>(5, -1)<#>(6, 5) |  0033.8
+(0, -1)<#>(1, 0)<#>(2, 3)<#>(3, 4)<#>(4, 1)<#>(5, 4) |  0033.13
+(0, 4)<#>(1, 2)<#>(2, 3)<#>(3, 0)<#>(4, -1)<#>(5, 4)<#>(6, 5) |  0033.18
+(0, -1)<#>(1, 0)<#>(2, 1) |  0033.24
+(0, 1)<#>(1, 4)<#>(2, 3)<#>(3, 1)<#>(4, 6)<#>(5, 4)<#>(6, 7)<#>(7, -1)<#>(8, 7) |  003.30
+(0, 3)<#>(1, 2)<#>(2, 0)<#>(3, -1)<#>(4, 3) |  003.36

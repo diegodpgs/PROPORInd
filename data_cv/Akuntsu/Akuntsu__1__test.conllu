@@ -1,0 +1,633 @@
+# sent_id = 2
+# text = apara tep tʃopa jẽ
+# text_eng = This one sees banana's leaf (3.10b)
+# text_port =
+1	apara	apara	NOUN	n	_	2	nmod	_	_
+2	tep	ep	NOUN	n	Rel=Cont	3	obj	_	REL-leaf
+3	tʃopa	tʃop	VERB	vt	Tv=Yes	0	root	_	see-THV
+4	jẽ	jẽ	DET	dem	Deixis=Prox	3	nsubj	_	_
+
+# sent_id = 7
+# text = Ariano teita kɨrẽ
+# text_eng = Adriano arrives today (3.25b)
+# text_port =
+1	Ariano	Ariano	PROPN	pn	_	2	nsubj	_	_
+2	teita	ita	VERB	vi	Person=3|Reflex=Yes	0	root	_	_
+3	kɨrẽ	kɨrẽ	ADV	adv	_	2	advmod	_	_
+
+# sent_id = 12
+# text = Kɨte babape at
+# text_eng = Take one glass! (4.84b)
+# text_port =
+1	Kɨte	kɨte	NUM	num	_	2	nummod	_	_
+2	babape	babape	NOUN	n	_	3	obj	_	_
+3	at	at	VERB	vt	_	0	root	_	_
+
+# sent_id = 17
+# text = teti pururu aj ɨmɨmere etʃe
+# text_eng = His own mother came and stayed around the Omere (3.36)
+# text_port =
+1	teti	ti	NOUN	n	Person=3|Reflex=Yes	2	nsubj	_	_
+2	pururu	pururu	VERB	ideo	_	0	root	_	_
+3	aj	aj	VERB	vi	_	2	dep	_	_
+4	ɨmɨmere	ɨmɨmere	NOUN	n	_	2	obl	_	_
+5	etʃe	etʃe	ADP	posp	_	4	case	_	_
+
+# sent_id = 22
+# text = en ikoromka
+# text_eng = You cut it (3.28b)
+# text_port =
+1	en	en	PRON	pron	Number=Sing|Person=2|PronType=Prs	2	nsubj	_	_
+2	ikoromka	korom	VERB	vt	Person=3|Trans=Yes	0	root	_	_
+
+# sent_id = 27
+# text = oatap ãka ẽ ẽ , oatap õkwa on
+# text_eng = My hair, that way, I wash my hair (3.35)
+# text_port =
+1	oatap	atap	NOUN	n	Person=1	7	obj	_	_
+2	ãka	ãka	PART	pcl	_	1	discourse	_	_
+3	ẽ	ẽ	INTJ	intj	_	1	discourse	_	_
+4	ẽ	ẽ	INTJ	intj	_	1	discourse	_	_
+5	,	,	PUNCT	punct	_	1	punct	_	_
+6	oatap	atap	NOUN	n	Person=1	7	obj	_	_
+7	õkwa	õkwa	VERB	vi	_	0	root	_	_
+8	on	on	PRON	pron	Number=Sing|Person=1|PronType=Prs	7	nsubj	_	_
+
+# sent_id = 32
+# text = okwako ikona
+# text_eng = It is my guan's food (4.2b)
+# text_port =
+1	okwako	kwako	NOUN	n	Person=1	2	nmod	_	_
+2	ikona	ko	NOUN	n	Case=Tra|Person=3	0	root	_	_
+
+# sent_id = 37
+# text = Karow , omepirẽpitet , kwep te
+# text_eng = Carol, my granddaughter, climbs (4.5)
+# text_port =
+1	Karow	Karow	PROPN	pn	_	5	nsubj	_	_
+2	,	,	PUNCT	punct	_	1	punct	_	_
+3	omepirẽpitet	mepit	NOUN	n	Person=1	1	appos	_	_
+4	,	,	PUNCT	punct	_	3	punct	_	_
+5	kwep	kwep	VERB	vi	_	0	root	_	_
+6	te	te	PART	pclfoc	_	5	discourse	_	_
+
+# sent_id = 42
+# text = ek etʃe imaã
+# text_eng = Put it at the house (4.10d)
+# text_port =
+1	ek	ek	NOUN	n	_	3	obl	_	_
+2	etʃe	etʃe	ADP	posp	_	1	case	_	_
+3	imaã	maã	VERB	vt	Number=Sing|Person=3	0	root	_	_
+
+# sent_id = 47
+# text = en baj ete
+# text_eng = You are with the buriti (4.12)
+# text_port =
+1	en	en	PRON	pro	Number=Sing|Person=2|PronType=Prs	2	nsubj	_	_
+2	baj	baj	NOUN	n	_	0	root	_	_
+3	ete	ete	ADP	posp	_	2	case	_	_
+
+# sent_id = 52
+# text = okere atʃi pibõ
+# text_eng = I have pain into my ribs (4.15)
+# text_port =
+1	okere	kere	NOUN	n	Person=1	2	nsubj	_	_
+2	atʃi	atʃi	NOUN	n	_	0	root	_	_
+3	pibõ	pi	NOUN	n	Case=All	2	obl	_	_
+
+# sent_id = 57
+# text = kojõpebõ kɨjtpit at kom
+# text_eng = I will fish up to (until) the night (4.18a)
+# text_port =
+1	kojõpebõ	kojõpe	NOUN	n	Case=All	3	obl	_	_
+2	kɨjtpit	kɨjtpit	NOUN	n	_	3	obj	_	_
+3	at	at	VERB	vt	_	0	root	_	_
+4	kom	kom	PART	pcl	Tense=Fut	3	advmod	_	_
+
+# sent_id = 62
+# text = kɨrẽri ta paja , kiwkiw
+# text_eng = From now one, that one cleans, ripping, ripping (4.22)
+# text_port =
+1	kɨrẽri	kɨrẽ	NOUN	n	Case=Abl	3	obl	_	_
+2	ta	ta	DET	dem	Deixis=Dist	3	nsubj	_	_
+3	paja	paj	VERB	vi	Tv=Yes	0	root	_	_
+4	,	,	PUNCT	punct	_	3	punct	_	_
+5	kiwkiw	kiw	VERB	ideo	_	3	parataxis	_	_
+
+# sent_id = 67
+# text = kɨp tep eanampe
+# text_eng = The leaf of the tree is on your head (4.25c)
+# text_port =
+1	kɨp	kɨp	NOUN	n	_	2	nmod	_	_
+2	tep	ep	NOUN	n	Rel=Cont	0	root	_	_
+3	eanampe	anam	NOUN	n	Case=Loc|Person=2	2	obl	_	_
+
+# sent_id = 72
+# text = on ikiramka , ɨkɨ tʃooo , kɨpitʃik ɨkɨt ãka
+# text_eng = I poured the water, I poured water, the cold water, that way (4.27b)
+# text_port =
+1	on	on	PRON	pron	Number=Sing|Person=2|PronType=Prs	2	nsubj	_	_
+2	ikiramka	kiram	VERB	vt	Person=3|Trans=Yes	0	root	_	_
+3	,	,	PUNCT	punct	_	2	punct	_	_
+4	ɨkɨ	ɨkɨ	NOUN	n	_	5	nsubj	_	_
+5	tʃooo	tʃo	VERB	ideo	_	2	parataxis	_	_
+6	,	,	PUNCT	punct	_	5	punct	_	_
+7	kɨpitʃik	kɨpitʃik	NOUN	n	_	8	nmod	_	_
+8	ɨkɨt	ɨkɨ	NOUN	n	_	2	parataxis	_	_
+9	ãka	ãka	PART	pcl	_	8	discourse	_	_
+
+# sent_id = 77
+# text = niam Tʃaruj imokwa
+# text_eng = Bracelet, Tʃaruj's manufacture (4.29c)
+# text_port =
+1	niam	niam	NOUN	n	_	3	obj	_	_
+2	Tʃaruj	Tʃaruj	PROPN	pn	_	3	nmod	_	_
+3	imokwa	mokwa	NOUN	n	Nomzr=Obj	0	root	_	_
+
+# sent_id = 82
+# text = ke boroteatʃori tʃooo , jẽrom barobaro
+# text_eng = That star is getting bigger, there it is the star (another type of)(4.38)
+# text_port =
+1	ke	ke	DET	dem	Deixis=Dist	2	nmod	_	_
+2	boroteatʃori	borote	NOUN	n	_	0	root	_	_
+3	tʃooo	tʃo	NOUN	n	_	2	obl	_	_
+4	,	,	PUNCT	punct	_	2	punct	_	_
+5	jẽrom	jẽrom	DET	dem	Deixis=Dist	6	nmod	_	_
+6	barobaro	baro	NOUN	n	_	2	parataxis	_	_
+
+# sent_id = 87
+# text = en aramĩra , aramĩra baba
+# text_eng = You are woman, (a) middle-aged woman (4.54)
+# text_port =
+1	en	en	PRON	pron	Number=Sing|Person=2|PronType=Prs	2	nsubj	_	_
+2	aramĩra	aramĩra	NOUN	n	_	0	root	_	_
+3	,	,	PUNCT	punct	_	4	punct	_	_
+4	aramĩra	aramĩra	NOUN	n	_	5	nmod	_	_
+5	baba	baba	NOUN	n	_	2	nmod	_	_
+
+# sent_id = 92
+# text = temen tekɨjt ata
+# text_eng = Her husband got his salt (4.62b)
+# text_port =
+1	temen	men	NOUN	n	Person=3|Reflex=Yes	3	nsubj	_	_
+2	tekɨjt	kɨjt	NOUN	n	Person=3|Reflex=Yes	3	obj	_	_
+3	ata	at	VERB	vt	Tv=Yes	0	root	_	_
+
+# sent_id = 97
+# text = kirẽbõ kipera
+# text_eng = We woke up (4.67)
+# text_port =
+1	kirẽbõ	kirẽ	NOUN	n	Case=All	2	obl	_	_
+2	kipera	pera	VERB	vi	Clusivity=In|Person=1	0	root	_	_
+
+# sent_id = 0010.102
+# text = kebõ nɨram .
+# text_eng = That one is standing up
+# text_port = Aquela está levantando
+1	kebõ	ke	DET	dem	Case=Dat|Deixis=Prox	2	nsubj	_	_
+2	nɨram	nɨram	VERB	vi	_	0	root	_	_
+3	.	.	PUNCT	punct	_	2	punct	_	_
+
+# sent_id = 0010.152
+# text = kwako okwaj , ke no okwaj .
+# text_eng = Guan's tail, this other one's tail
+# text_port = Rabo do jacu, o rabo desse outro
+1	kwako	kwako	NOUN	n	_	2	nmod	_	_
+2	okwaj	okwaj	NOUN	n	_	0	root	_	_
+3	,	,	PUNCT	punct	_	2	punct	_	_
+4	ke	ke	DET	dem	Deixis=Dist	6	nmod	_	_
+5	no	no	PRON	pron	PronType=Ind	4	det	_	_
+6	okwaj	okwaj	NOUN	n	_	2	parataxis	_	_
+7	.	.	PUNCT	punct	_	6	punct	_	_
+
+# sent_id = 0010.202
+# text = Konibu kite ipa ka .
+# text_eng = Konibu is coming back alone
+# text_port = Konibu está voltando sozinho
+1	Konibu	Konibu	PROPN	pn	_	3	nsubj	_	_
+2	kite	kite	NUM	num	_	1	nummod	_	_
+3	ipa	ipa	VERB	vi	_	0	root	_	_
+4	ka	ka	AUX	aux	_	3	aux	_	_
+5	.	.	PUNCT	punct	_	3	punct	_	_
+
+# sent_id = 0010.242
+# text = okɨpi teip .
+# text_eng = My young daughter came back
+# text_port = Minha irmã.mais.nova voltou
+1	okɨpi	kɨpi	NOUN	n	Person=1	2	nsubj	_	_
+2	teip	ip	NOUN	n	Person=3|Reflex=Yes	0	root	_	_
+3	.	.	PUNCT	punct	_	2	punct	_	_
+
+# sent_id = 0010.292
+# text = eti etɨ õa te .
+# text_eng =  Your mother gave the basket
+# text_port =  Tua mãe deu o marico
+1	eti	ti	NOUN	n	Person=2	3	nsubj	_	_
+2	etɨ	etɨ	NOUN	n	_	3	obj	_	_
+3	õa	õ	VERB	vt	Tv=Yes	0	root	_	_
+4	te	te	PART	pclfoc	_	3	discourse	_	_
+5	.	.	PUNCT	punct	_	3	punct	_	_
+
+# sent_id = 0010.3323
+# text = etɨ , Ururu nia , Ururu nia etɨ , etɨ nia , nininia .
+# text_eng = The basket, Ururu is weaving, Ururu is weaving the basket, she is weaving the basket, weaving, weaving
+# text_port = O marico, Ururu está trançando, Ururu está trançando o marico, ela está trançando o marico, trançando, trançando
+1	etɨ	etɨ	NOUN	n	_	4	obj	_	_
+2	,	,	PUNCT	punct	_	1	punct	_	_
+3	Ururu	Ururu	PROPN	pn	_	4	nsubj	_	_
+4	nia	ni	VERB	vt	Tv=Yes	0	root	_	_
+5	,	,	PUNCT	punct	_	4	punct	_	_
+6	Ururu	Ururu	PROPN	pn	_	7	nsubj	_	_
+7	nia	ni	VERB	vt	Tv=Yes	4	parataxis	_	_
+8	etɨ	etɨ	NOUN	n	_	7	obj	_	_
+9	,	,	PUNCT	punct	_	7	punct	_	_
+10	etɨ	etɨ	NOUN	n	_	11	obj	_	_
+11	nia	ni	VERB	vt	Tv=Yes	7	parataxis	_	_
+12	,	,	PUNCT	punct	_	11	punct	_	_
+13	nininia	ni	VERB	vt	Redup=Yes|Tv=Yes	11	parataxis	_	_
+14	.	.	PUNCT	punct	_	13	punct	_	_
+
+# sent_id = 0010.382
+# text = komata eata .
+# text_eng =  You have picked beans
+# text_port =  Você pegou os feijões
+1	komata	komata	NOUN	n	_	2	obj	_	_
+2	eata	at	VERB	vt	Person=2|Tv=Yes	0	root	_	_
+3	.	.	PUNCT	punct	_	2	punct	_	_
+
+# sent_id = 0010.422
+# text = tanam koa ejã .
+# text_eng =  You are eating its head
+# text_port =  Você estºa comendo a cabeça dele
+1	tanam	anam	NOUN	n	Rel=Cont	2	obj	_	_
+2	koa	ko	VERB	vt	Tv=Yes	0	root	_	_
+3	ejã	jã	AUX	aux	Person=2	2	aux	_	_
+4	.	.	PUNCT	punct	_	2	punct	_	_
+
+# sent_id = 0010.442
+# text = en omepit .
+# text_eng = You are my daughter (8.1a)
+# text_port =
+1	en	en	PRON	pron	Number=Sing|Person=2|PronType=Prs	2	nsubj	_	_
+2	omepit	mepit	NOUN	n	Person=1	0	root	_	_
+3	.	.	PUNCT	punct	_	2	punct	_	_
+
+# sent_id = 0010.492
+# text = nakot aparapia .
+# text_eng = The man is non-Indian (8.2c)
+# text_port =
+1	nakot	nako	NOUN	n	_	2	nsubj	_	_
+2	aparapia	aparapia	NOUN	n	_	0	root	_	_
+3	.	.	PUNCT	punct	_	2	punct	_	_
+
+# sent_id = 0010.542
+# text = jẽ Aramĩra mepiterom .
+# text_eng = This is not Aramira's son (8.5b)
+# text_port =
+1	jẽ	jẽ	DET	dem	Deixis=Prox	3	nsubj	_	_
+2	Aramĩra	Aramĩra	PROPN	pn	_	3	nmod	_	_
+3-4	mepiterom	_	_	_	_	_	_	_	_
+3	mepit	mepit	NOUN	n	_	0	root	_	_
+4	erom	erom	ADV	adv	_	3	advmod	_	_
+5	.	.	PUNCT	punct	_	3	punct	_	_
+
+# sent_id = 0010.592
+# text = jẽ kemkɨ .
+# text_eng = This one has breast-milk (8.8c)
+# text_port =
+1	jẽ	jẽ	DET	dem	Deixis=Prox	2	nsubj	_	_
+2	kemkɨ	kemkɨ	NOUN	n	_	0	root	_	_
+3	.	.	PUNCT	punct	_	2	punct	_	_
+
+# sent_id = 0010.642
+# text = ekerom .
+# text_eng = There is no house (8.10a)
+# text_port =
+1-2	ekerom	_	_	_	_	_	_	_	_
+1	ek	ek	NOUN	n	_	0	root	_	_
+2	erom	rom	ADV	adv	_	1	advmod	_	_
+3	.	.	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 0010.692
+# text = ikopna .
+# text_eng = It is red (8.13a)
+# text_port =
+1	ikopna	kop	NOUN	n	Case=Tra|Person=3	0	root	_	_
+2	.	.	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 0010.742
+# text = tanam etʃe kap .
+# text_eng = A wasp is on his head (8.16b)
+# text_port =
+1	tanam	anam	NOUN	n	Rel=Cont	0	root	_	_
+2	etʃe	etʃe	ADP	posp	_	1	case	_	_
+3	kap	kap	NOUN	n	_	1	nsubj	_	_
+4	.	.	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 0010.792
+# text = pitoa okõjka kõjkõjkõj .
+# text_eng = I'm going to pound the tobacco, kneading (intensively) (8.19a)
+# text_port =
+1	pitoa	pitoa	NOUN	n	_	2	obj	_	_
+2	okõjka	kõj	VERB	vt	Person=1|Trans=Yes	0	root	_	_
+3	kõjkõjkõj	kõj	VERB	ideo	Redup=Yes	2	parataxis	_	_
+4	.	.	PUNCT	punct	_	2	punct	_	_
+
+# sent_id = 0010.842
+# text = apeka te ɨkɨ .
+# text_eng = Drink water! (8.22c)
+# text_port =
+1	apeka	apeka	VERB	vt	Trans=Yes	0	root	_	_
+2	te	te	PART	pclfoc	_	1	discourse	_	_
+3	ɨkɨ	ɨkɨ	NOUN	n	_	1	obj	_	_
+4	.	.	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 0010.892
+# text = tɨrɨ purururu mememe ek pagoppe .
+# text_eng = In two (days) that one goes back and forth and builds [on] a new house (8.27a)
+# text_port =
+1	tɨrɨ	tɨrɨ	NUM	num	NumType=Card	2	nummod	_	_
+2	purururu	puru	VERB	ideo	_	0	root	_	_
+3	mememe	me	VERB	ideo	_	2	parataxis	_	_
+4	ek	ek	NOUN	n	_	3	obj	_	_
+5	pagoppe	pagop	NOUN	n	Obl=Yes	4	nmod	_	_
+6	.	.	PUNCT	punct	_	2	punct	_	_
+
+# sent_id = 0010.1012
+# text = teita .
+# text_eng = He has arrived (8.29a)
+# text_port =
+1	teita	ita	VERB	vi	Person=3|Reflex=Yes	0	root	_	_
+2	.	.	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 0010.1062
+# text = eeta .
+# text_eng = You sleep (8.30d)
+# text_port =
+1	eeta	et	VERB	vi	Person=2|Tv=Yes	0	root	_	_
+2	.	.	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 0011.43
+# text = Txiramanty ibãn , ibarã , teten Txiramanty ibarãka . Toto ikiramkwatekwa , weren ato . awawaʧo awawaʧo pen baj , awawaʧo pen baj .
+# text_eng = Txiramanty broke it. Grandmother poured out it, (it) ended up. There were many baby bees, opened it, cleaned it.
+# text_port =
+1	Txiramanty	Txiramanty	PROPN	n	_	2	nsubj	_	_
+2	ibãn	ban	VERB	vt	_	0	root	_	_
+3	,	,	PUNCT	punct	_	2	punct	_	_
+4	ibarã	ban	VERB	n	Person=3|Tv=Yes	2	parataxis	_	_
+5	,	,	PUNCT	punct	_	4	punct	_	_
+6	teten	ten	NOUN	n	Person[psor]=3|Reflex=Yes	4	parataxis	_	_
+7	Txiramanty	Txiramanty	NOUN	n	_	8	nsubj	_	_
+8	ibarãka	ban	VERB	n	Person=3|Trans=Yes|Tv=Yes	4	parataxis	_	_
+9	.	.	PUNCT	punct	_	8	punct	_	_
+10	Toto	Toto	NOUN	n	_	11	nsubj	_	_
+11	ikiramkwatekwa	kiram	VERB	vt	Aspect=Iter|Person=3|Trans=Yes	8	parataxis	_	_
+12	,	,	PUNCT	punct	_	11	punct	_	_
+13	weren	weren	VERB	n	_	11	parataxis	_	_
+14	ato	ato	NOUN	n	_	13	nsubj	_	_
+15	.	.	PUNCT	punct	_	13	punct	_	_
+16	awawaʧo	awawaʧo	NOUN	n	_	18	parataxis	_	_
+17	awawaʧo	awawaʧo	NOUN	n	_	18	dep	_	_
+18	pen	pen	VERB	v	_	13	parataxis	_	_
+19	baj	baj	VERB	v	_	18	parataxis	_	_
+20	,	,	PUNCT	punct	_	19	punct	_	_
+21	awawaʧo	awawaʧo	NOUN	n	_	22	dep	_	_
+22	pen	pen	VERB	v	_	19	parataxis	_	_
+23	baj	baj	VERB	v	_	22	parataxis	_	_
+24	.	.	PUNCT	punct	_	23	punct	_	_
+
+# sent_id = 0010.1132
+# text = men tet ete ?
+# text_eng = Is there a husband's name? (8.36)
+# text_port =
+1	men	men	NOUN	n	_	2	nmod	_	_
+2	tet	et	NOUN	n	Rel=Cont	0	root	_	_
+3	ete	ete	ADP	posp	_	2	case	_	_
+4	?	?	PUNCT	punct	_	2	punct	_	_
+
+# sent_id = 0010.1182
+# text = nom jẽ aramĩra .
+# text_eng = No, this one is woman (8.42b)
+# text_port =
+1	nom	nom	ADV	adv	Polarity=Neg	3	advmod	_	_
+2	jẽ	jẽ	DET	dem	Deixis=Prox	3	nmod	_	_
+3	aramĩra	aramĩra	NOUN	n	_	0	root	_	_
+4	.	.	PUNCT	punct	_	3	punct	_	_
+
+# sent_id = 0010.1232
+# text = aroperi eipa ete ?
+# text_eng = Why did you come back? (8.46)
+# text_port =
+1	aroperi	arop	PRON	n	Case=Abl	2	obl	_	_
+2	eipa	ip	VERB	vt	Person=2|Tv=Yes	0	root	_	_
+3	ete	ete	ADP	posp	_	2	obl	_	_
+4	?	?	PUNCT	punct	_	2	punct	_	_
+
+# sent_id = 0010.1282
+# text = tara emenna ?
+# text_eng = Who is your husband? (8.50a)
+# text_port =
+1	tara	tara	PRON	pron	_	2	nsubj	_	_
+2	emenna	men	NOUN	n	Case=Tra|Person=2	0	root	_	_
+3	?	?	PUNCT	punct	_	2	punct	_	_
+
+# sent_id = 0010.1332
+# text = ãka tetʃeta ?
+# text_eng = How will he leave? (8.51b)
+# text_port =
+1	ãka	ãka	ADV	adv	_	2	advmod	_	_
+2	tetʃeta	tʃet	VERB	vi	Person=3|Reflex=Yes|Tv=Yes	0	root	_	_
+3	?	?	PUNCT	punct	_	2	punct	_	_
+
+# sent_id = 0010.1382
+# text = jãjerom .
+# text_eng = It isn't sharpened (8.54a)
+# text_port =
+1-2	jãjerom	_	_	_	_	_	_	_	_
+1	jãj	jãj	NOUN	n	_	0	root	_	_
+2	erom	erom	ADV	adv	Polarity=Neg	1	advmod	_	_
+3	.	.	PUNCT	punct	_	2	punct	_	_
+
+# sent_id = 0010.1432
+# text = akataba nom at .
+# text_eng = Don't get tucum (palm fiber (sp.)) (8.55b)
+# text_port =
+1	akataba	akataba	NOUN	n	_	3	nsubj	_	_
+2	nom	nom	ADV	adv	Polarity=Neg	3	advmod	_	_
+3	at	at	VERB	vt	_	0	root	_	_
+4	.	.	PUNCT	punct	_	3	punct	_	_
+
+# sent_id = 0010.1482
+# text = taot nom taot nom .
+# text_eng = It doesn't go out, it doesn't go out (8.55g)
+# text_port =
+1	taot	aot	VERB	vt	Person=3	0	root	_	_
+2	nom	nom	ADV	adv	Polarity=Neg	1	advmod	_	_
+3	taot	taot	VERB	vt	Person=3	1	discourse	_	_
+4	nom	nom	ADV	adv	Polarity=Neg	3	advmod	_	_
+5	.	.	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 0010.1602
+# text = Konibu ɨkɨbõ ka .
+# text_eng = Konibú is going up to the river (5.26a).
+1	Konibu	Konibu	PROPN	pn	_	3	nsubj	_	_
+2	ɨkɨbõ	ɨkɨb	NOUN	n	Case=All	3	case	_	_
+3	ka	ka	VERB	vi	_	0	root	_	_
+4	.	.	PUNCT	punct	_	3	punct	_	_
+
+# sent_id = 0010.1662
+# text = Pupak tʃe ikoa .
+# text_eng = Pupak comes to eat it (5.29a)
+1	Pupak	Pupak	PROPN	pn	_	3	nsubj	_	_
+2	tʃe	tʃe	AUX	aux	_	3	aux	_	_
+3	ikoa	ko	VERB	vt	Person=3|Tv=Yes	0	root	_	_
+4	.	.	PUNCT	punct	_	3	punct	_	_
+
+# sent_id = 0010.1712
+# text = pero tetka .
+# text_eng = Call the macaw's name! (5.31b)
+1	pero	pero	NOUN	n	_	2	obj	_	_
+2	tetka	et	VERB	vi	Person=3|Trans=Yes	0	root	_	_
+3	.	.	PUNCT	punct	_	2	punct	_	_
+
+# sent_id = 0010.1762
+# text = Aramĩra ikitka .
+# text_eng = Aramira is taking it off (5.31g)
+1	Aramĩra	aramĩra	PROPN	pn	_	2	nsubj	_	_
+2	ikitka	kit	VERB	vt	Person=3|Trans=Yes	0	root	_	_
+3	.	.	PUNCT	punct	_	2	punct	_	_
+
+# sent_id = 0010.1822
+# text = baj korõka .
+# text_eng = He is cutting the palm fiber (3.32e)
+1	baj	baj	NOUN	n	_	2	obj	_	_
+2	korõka	korõ	VERB	vt	Trans=Yes	0	root	_	_
+3	.	.	PUNCT	punct	_	2	punct	_	_
+
+# sent_id = 0010.1872
+# text = Aramĩɾa kani wɨbɨka .
+# text_eng = Aramira gave birth to Kani (5.33d)
+1	Aramĩɾa	Aramĩɾa	PROPN	pn	_	3	nsubj	_	_
+2	kani	kani	PROPN	pn	_	3	obj	_	_
+3	wɨbɨka	wɨbɨ	VERB	vt	Trans=Yes	0	root	_	_
+4	.	.	PUNCT	punct	_	3	punct	_	_
+
+# sent_id = 0010.1922
+# text = Aiga niramkwa .
+# text_eng = Aiga defecated over and over (5.34d)
+1	Aiga	Aiga	PROPN	pn	_	2	obj	_	_
+2	niramkwa	niram	VERB	vi	Trans=Yes	0	root	_	_
+3	.	.	PUNCT	punct	_	2	punct	_	_
+
+# sent_id = 0010.1972
+# text = apaw itetkwa .
+# text_eng = I call it grub (5.36b)
+1	apaw	apaw	NOUN	n	_	2	obj	_	_
+2	itetkwa	et	VERB	vt	Person=3|Rel=Cont|Trans=Yes	0	root	_	_
+3	.	.	PUNCT	punct	_	2	punct	_	_
+
+# sent_id = 0010.2022
+# text = Enotej po õkwa .
+# text_eng = She whashes Enotej's hand (5.37b)
+1	Enotej	Enotej	PROPN	pn	_	2	nmod	_	_
+2	po	po	NOUN	n	Reflex=Yes	3	obj	_	_
+3	õkwa	õkwa	VERB	vt	_	0	root	_	_
+4	.	.	PUNCT	punct	_	3	punct	_	_
+
+# sent_id = 0010.2082
+# text = Aramĩra tepo kinika .
+# text_eng = Aramira cut her own hand (5.40)
+1	Aramĩra	aramĩra	PROPN	pn	_	3	nsubj	_	_
+2	tepo	po	NOUN	Person=3|Reflex=Yes	_	3	obj	_	_
+3	kinika	kini	VERB	vt	Trans=Yes	0	root	_	_
+4	.	.	PUNCT	punct	_	3	punct	_	_
+
+# sent_id = 0010.3072
+# text = ino ikora en .
+# text_eng = the other one, you ate it (as usual) (5.44)
+1-2	ino	_	_	_	_	_	_	_	_
+1	i	i	PRON	pron	Person=3	2	det	_	_
+2	no	no	PRON	pron	PronType=Ind	3	obl	_	_
+3	ikora	kora	VERB	vt	Person=3	0	root	_	_
+4	en	en	PRON	pron	Number=Sing|Person=2|PronType=Prs	3	nsubj	_	_
+5	.	.	PUNCT	punct	_	4	punct	_	_
+
+# sent_id = 0010.4022
+# text = etʃetara kom .
+# text_eng = You will leave (to the forest) (5.46c)
+1	etʃetara	tʃet	VERB	vi	Aspect=Hab|Person=2|Tv=Yes	0	root	_	_
+2	kom	kom	PART	pcl	Tense=Fut	1	advmod	_	_
+3	.	.	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 0010.4072
+# text = ko am pega ekwa .
+# text_eng = (He) bring many fishing lines (5.49a)
+1	ko	ko	NOUN	n	_	2	nmod	_	_
+2	am	am	NOUN	n	_	3	obj	_	_
+3	pega	pega	VERB	vt	_	0	root	_	_
+4	ekwa	ekwa	PART	pcl	_	3	case	_	_
+5	.	.	PUNCT	punct	_	3	punct	_	_
+
+# sent_id =	0010.5022
+# text = Pupak imi tʃopa tʃe .
+# text_eng = (He) is coming to see Pupák's hunting (hunted thing) (5.30b)
+1	Pupak	Pupak	PROPN	pn	_	2	nmod	_	_
+2	imi	mi	NOUN	n	Nomzr=Obj	3	obj	_	_
+3	tʃopa	tʃop	VERB	vt	Tv=Yes	0	root	_	_
+4	tʃe	tʃe	AUX	aux	_	3	aux	_	_
+5	.	.	PUNCT	punct	_	3	punct	_	_
+
+# sent_id = 0010.5072
+# text = kwi jãjka .
+# text_eng = He is sharpening the axe (5.31e)
+1	kwi	kwi	NOUN	n	_	2	obj	_	_
+2	jãjka	jãj	VERB	vt	Trans=Yes	0	root	_	_
+3	.	.	PUNCT	punct	_	2	punct	_	_
+
+# sent_id = 0010.50132
+# text = orẽbõ otʃeta kom .
+# text_eng = I will leave (5.51b)
+1	orẽbõ	orẽ	PRON	pron	Case=Dat|Person=1|PronType=Prs	2	nsubj	_	_
+2	otʃeta	tʃet	VERB	vt	Person=1|Tv=Yes	0	root	_	_
+3	kom	kom	PART	pcl	Tense=Fut	2	advmod	_	_
+4	.	.	PUNCT	punct	_	2	punct	_	_
+
+# sent_id = 0010.50182
+# text = korakora nom aot tejã .
+# text_eng = Chicken is not going out	(5.19c)
+1	korakora	korakora	NOUN	n	_	3	nsubj	_	_
+2	nom	nom	ADV	adv	_	3	advmod	_	_
+3	aot	aot	VERB	vi	_	0	root	_	_
+4	tejã	jã	AUX	aux	Person=3|Reflex=Yes	3	aux	_	_
+5	.	.	PUNCT	punct	_	3	punct	_	_
+
+# sent_id = 0010.50232
+# text = ameko teeta iam .
+# text_eng = Jaguar sleeps (5.22)
+1	ameko	ameko	NOUN	n	_	2	nsubj	_	_
+2	teeta	et	VERB	vi	Person=3|Tv=Yes	0	root	_	_
+3	iam	am	AUX	aux	Person=3	2	aux	_	_
+4	.	.	PUNCT	punct	_	2	punct	_	_
+
+# sent_id = 0010.50282
+# text = otʃoa te Enotej teko otʃoa tʃe .
+# text_eng = Enotej sees me, she came to see me (5.24c)
+1	otʃoa	tʃop	VERB	vt	Person=1|Tv=Yes	0	root	_	_
+2	te	te	PART	pclfoc	_	1	discourse	_	_
+3	Enotej	Enotej	PROPN	pn	_	1	nsubj	_	_
+4	teko	ko	AUX	aux	_	1	aux	_	_
+5	otʃoa	tʃop	VERB	vt	Person=1|Tv=Yes	1	parataxis	_	_
+6	tʃe	tʃe	AUX	aux	_	5	aux	_	_
+7	.	.	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 0010.50332
+# text = erẽbõ atʃoa ka orẽbõ nom atʃorom .
+# text_eng = You (go and) bathe, I don't bathe (5.27b)
+1	erẽbõ	erẽ	PRON	pron	Case=All|Person=2|PronType=Prs	2	nsubj	_	_
+2	atʃoa	atʃo	VERB	vi	Tv=Yes	0	root	_	_
+3	ka	ka	AUX	aux	_	2	aux	_	_
+4	orẽbõ	orẽ	PRON	pron	Case=Dat|Person=1|PronType=Prs	6	nsubj	_	_
+5	nom	nom	ADV	adv	_	6	advmod	_	_
+6	atʃorom	atʃo	DET	dem	_	2	parataxis	_	_
+7	.	.	PUNCT	punct	_	2	punct	_	_
+

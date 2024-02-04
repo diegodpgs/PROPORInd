@@ -1,0 +1,370 @@
+# sent_id = 2
+# text = jexat o'tobuxik
+# text_eng = He found food
+# text_port = Ele achou comida
+1	jexat	xat	NOUN	n	_	2	obl	_	_
+2	o'tobuxik	dobuxik	VERB	v	Aspect=Perf|Number=Sing|Person=33	0	root	_	_
+
+# sent_id = 9
+# text = Xa iku xe
+# text_eng = The pequi tree is/lies near the slash
+# text_port = A árvore pequi está/está perto da barra
+1	Xa	xa	NOUN	n	_	2	nsubj	_	_
+2	iku	ku	NOUN	n	_	0	root	_	_
+3	xe	xe	ADP	pp	_	2	case	_	_
+
+# sent_id = 14
+# text = Toxaw tawe o'tobuxik
+# text_eng = The chief found the capuchin monkey
+# text_port = O chefe também achou o macaco-prego
+1	Toxaw	toxaw	NOUN	n	_	3	obl	_	_
+2	tawe	tawe	NOUN	n	_	3	obl	_	_
+3	o'tobuxik	dobuxik	VERB	vt	Aspect=Perf|Person=33	0	root	_	_
+
+# sent_id = 19
+# text = Ite awi o'tobuxik
+# text_eng = She found the needle.
+# text_port = Ela achou a agulha.
+1	Ite	ite	PRON	pro	_	3	obl	_	_
+2	awi	awi	NOUN	n	_	3	obl	_	_
+3	o'tobuxik	dobuxik	VERB	vt	Aspect=Perf|Person=3	0	root	_	_
+
+# sent_id = 25
+# text = Abu jexat o'tobuxik ?
+# text_eng = Who found the food?
+# text_port = Quem achou a comida?
+1	Abu	abu	PRON	pro	_	3	obl	_	_
+2	jexat	xat	NOUN	n	_	3	obl	_	_
+3	o'tobuxik	dobuxik	VERB	v	_	0	root	_	_
+4	?	?	PUNCT	punct	_	3	punct	_	_
+
+# sent_id = 30
+# text = Toxaw dak oexe
+# text_eng = The chief has/owns also a house. (?)
+# text_port = O chefe tambem chegou em casa.
+1	Toxaw	toxaw	NOUN	n	_	3	obl	_	_
+2	dak	dak	ADV	adv	_	3	advmod	_	_
+3	oexe	xe	VERB	v	_	0	root	_	_
+
+# sent_id = 35
+# text = Awawa ixaxet
+# text_eng = The grandmother has food.
+# text_port = Vovó tem comida.
+# sent_structure = 
+1	Awawa	awawa	NOUN	n	_	2	nsubj	_	_
+2	ixaxet	xat	NOUN	n	Red=Ex	0	root	_	_
+
+# sent_id = 40
+# text = cum jeku be
+# text_eng = He is in the slah.
+# text_port = Está na roça.
+1	cum	cu	VERB	vi	Aspect=Imp	0	root	_	_
+2	jeku	jeku	NOUN	n	Reflex=Yes	1	obl	_	_
+3	be	be	ADP	pp	_	2	case	_	_
+
+# sent_id = 45
+# text = I'it tak uk'a be
+# text_eng = The son is also at home. (in the house)
+# text_port = O filho também está em casa
+# sent_structure = 
+1	I'it	'it	NOUN	n	_	3	nsubj	_	_
+2	tak	tak	ADV	adv	_	3	advmod	_	_
+3	uk'a	uk'a	NOUN	n	_	0	root	_	_
+4	be	be	ADP	pp	_	3	case	_	_
+
+# sent_id = 51
+# text = Ixi wa'e kug̃
+# text_eng = The mother has a gourd.
+# text_port = A mãe tem uma cuia.
+# sent_structure = 
+1	Ixi	ixi	NOUN	n	_	3	nsubj	_	_
+2	wa'e	wa'e	NOUN	n	_	3	obj	_	_
+3	kug̃	kug̃	VERB	vx	_	0	root	_	_
+
+# sent_id = 56
+# text = puybit ka'ũmg̃u o'e
+# text_eng = There is no food vol 5 p39-1
+# text_port = Não há comida
+1	puybit	puybit	NOUN	n	_	2	nsubj	_	_
+2	ka'ũmg̃u	ka'ũmg̃u	VERB	cop	_	0	root	_	_
+3	o'e	'e	VERB	vi	Aspect=Perf|Evident=Nfh|Person=3	1	discourse	_	_
+
+# sent_id = 61
+# text = Kabiam doa iba'orere jedoti mug̃ẽg̃ẽm daxa xe
+# text_eng = in the morning the spider is busy webmaking (lit. making trousers) vol 5 36
+# text_port = A aranha eatá ocupada de dia fazendo a teia perto do fogo.
+1	Kabiam	Kabiam	ADV	adv	_	3	amod	_	_
+2	doa	_	NOUN	n	_	5	nsubj	_	_
+3	iba'orere	ba'orere	ADJ	adj	_	2	amod	_	_
+4	jedoti	_	NOUN	n	_	5	obl	_	_
+5	mug̃ẽg̃ẽm	_	VERB	v	Aspect=DurIprf	0	root	_	_
+6	daxa	daxa	NOUN	n	_	5	obj	_	_
+7	xe	xe	ADP	pp	_	6	case	_	_
+
+# sent_id = 104
+# text = wexik'a kake ixi duk'a be
+# text_eng = there is sweet-potato in mother’s house vol 2 13 
+# text_port = Há batata-doce na casa da mãe Vol 2 13
+1	wexik'a	wexik	NOUN	n	_	0	root	_	_
+2	kake	kake	AUX	aux	_	1	aux	_	_
+3	ixi	xi	NOUN	n	Rel=NCont	4	nmod	_	_
+4	duk'a	uk	NOUN	n	Rel=Cont	1	obl	_	_
+5	be	be	ADP	pp	Rel=Cont	4	case	_	_
+
+# sent_id = 109
+# text = ẽn eg̃ũm kise ayacat pe
+# text_eng = You gave a knife to the woman. [Postpositions in Munduruku (Tupi): Formal and Functional Features] (2019, 2f)
+# text_port = Você deu uma faca à mulher. [Pós -posições em Munduruku (Tupi): Formal e Funcional Recursos] (2019, 2F)
+1	ẽn	ẽn	PRON	pro	_	2	obl	_	_
+2	eg̃ũm	ũm	VERB	v	Aspect=Perf|Number=Sing|Person=2	0	root	_	_
+3	kise	kise	NOUN	n	_	2	obl	_	_
+4	ayacat	ayacat	NOUN	n	_	2	obl	_	_
+5	pe	pe	ADP	pp	_	4	case	_	_
+
+# sent_id = 2003
+# text = oxi eg̃ru ipi tẽg̃
+# text_eng = My mother’s hammock was close to the ground. [Postpositions in Munduruku (Tupi): Formal and Functional Features] (2019, 5b)
+# text_port = A rede da minha mãe estava perto do chão. [Pós -posições em Munduruku (Tupi): Formal e Funcional Recursos] (2019, 5b)
+1	oxi	xi	NOUN	n	Number=Sing|Person=1|Poss=Ina	2	nmod	_	_
+2	eg̃ru	g̃ru	NOUN	n	Poss=Ali|Rel=Cont	3	nsubj	_	_
+3	ipi	ipi	NOUN	n	Rel=NCont	0	root	_	_
+4	tẽg̃	tẽg̃	ADP	pp	Rel=Cont	3	case	_	_
+
+# sent_id = 2008
+# text = wexey bi wida biopak o'yaoka
+# text_eng = In my dream, a jaguar killed a cow. [Postpositions in Munduruku (Tupi): Formal and Functional Features] (2019, 24a)
+# text_port = No meu sonho, um jaguar matou uma vaca. [Pós -posições em Munduruku (TUPI): Recursos formais e funcionais] (2019, 24a)
+1	wexey	xey	NOUN	n	Poss=Ali	5	obl	_	_
+2	bi	bi	ADP	pp	_	1	case	_	_
+3	wida	wida	NOUN	n	_	5	obl	_	_
+4	biopak	biopak	NOUN	n	_	5	obl	_	_
+5	o'yaoka	aoka	VERB	vt	Aspect=Perf|Person=33	0	root	_	_
+
+# sent_id = 2013
+# text = ag̃okatkat bio aoka buje wida o'jenapõn
+# text_eng = After the man killed the tapir, the jaguar ran away. [Postpositions in Munduruku (Tupi): Formal and Functional Features] (2019, 19a)
+# text_port = Depois que o homem matou o tapir, o jaguar fugiu. [Pós -posições em Munduruku (Tupi): Formal e Funcional Recursos] (2019, 19a)
+1	ag̃okatkat	ag̃okatkat	NOUN	n	_	3	nsubj	_	_
+2	bio	bio	NOUN	n	_	3	obj	_	_
+3	aoka	aoka	VERB	vt	_	6	advcl	_	_
+4	buje	buje	SCONJ	sconj	_	3	mark	_	_
+5	wida	wida	NOUN	n	_	6	obl	_	_
+6	o'jenapõn	napõn	VERB	vi	Aspect=Perf|Person=3|Voice=Mid	0	root	_	_
+
+# sent_id = 2018
+# text = kobe xixi badi wi o'jebuk
+# text_eng = A huge ship appeared from inside (the lake). [Postpositions in Munduruku (Tupi): Formal and Functional Features] (2019, 13a)
+# text_port = Um navio enorme apareceu de dentro (o lago). [Pós -posições em Munduruku (Tupi): Formal e Funcional Recursos] (2019, 13a)
+1	kobe	kobe	NOUN	n	_	5	obl	_	_
+2	xixi	xixi	NOUN	n	_	1	nmod	_	_
+3	badi	badi	ADV	adv	_	5	obl	_	_
+4	wi	wi	ADP	pp	_	3	case	_	_
+5	o'jebuk	buk	VERB	vi	Aspect=Perf|Number=Sing|Person=3|Voice=Mid	0	root	_	_
+
+# sent_id = 5000
+# text = wamõat ag̃okatkat o'sutayxida
+# text_eng = The shaman married the man (lit: wifed the man). Gomes 2006: 80 (46a)
+# text_port = O pajé casou o homem (O pajé fez o homem ter esposa)
+1	wamõat	wamõat	NOUN	n	_	3	obl	_	_
+2	ag̃okatkat	ag̃okatkat	NOUN	n	_	3	obl	_	_
+3	o'sutayxida	tayxi	VERB	vt	Person=33|Trans=Yes	0	root	_	_
+
+# sent_id = 5005
+# text = ipi teg̃ kaxi bima o'taxadig̃curug̃
+# text_eng =     Gomes 2006: 238 (27f)
+# text_port = Quando o sol estava bem baixo, a fumaça do fogo apareceu.
+1	ipi	ipi	NOUN	n	_	2	nmod	_	_
+2	teg̃	teg̃	ADP	posp	_	5	advcl	_	_
+3	kaxi	kaxi	NOUN	n	_	2	nsubj	_	_
+4	bima	bima	SCONJ	sc	_	3	advcl	_	_
+5	o'taxadig̃curug̃	_	VERB	v	Aspect=Perf|Person=3|Rel=NCont	0	root	_	3-RNCont-fire-smoke.PERF
+
+# sent_id = 5010
+# text = Puybit aoka'ũm pima , irere jeedop ip
+# text_eng = If you don't kill the prey, you'll be hungry. Crofts 2004: 264
+# text_port = Enquanto não matarem caça, vão ficar com fome. / Vão ficar com fome até que matem caça
+1	Puybit	puybit	NOUN	n	_	2	obj	_	_
+2	aoka'ũm	aoka	VERB	v	Aspect=Perf|Polarity=Neg	6	advcl	_	_
+3	pima	pima	SCONJ	_	_	2	mark	_	_
+4	,	,	PUNCT	punct	_	2	punct	_	_
+5	irere	rere	NOUN	n	Rel=NCont	6	dep	_	_
+6	jeedop	e'em	VERB	v	Number=Plur|Tense=Fut	0	root	_	_
+7	ip	ip	PART	pcl	_	6	dep	_	_
+
+# sent_id = 0790637
+# text = kapedi tidaxip
+# text_eng = The coffee is hot (Comodo 1981: 41)
+# text_port = O café está quente
+1	kapedi	kape	NOUN	n	Class=Liquid	2	nsubj	_	_
+2	tidaxip	daxip	NOUN	n	Class=Liquid	0	root	_	_
+
+# sent_id = 7004
+# text = Pũg̃pũg̃ axima yobog̃ ma. Wasũbu, potip, yobog̃ayũ. Ag̃okatkayũ axima muyuhum pig̃am.
+# text_eng = Some fish are big. Manju and peacock bass are big. The men catch fish with a fishhook.       (Cartilha 7, 1.4)
+# text_port = Alguns peixes são grandes. Manju e tucunaré são grandes. Os homens pegam peixes com anzol.
+1	Pũg̃pũg̃	pũg̃	PRON	pro	_	2	det	_	_
+2	axima	axima	NOUN	n	_	3	nsubj	_	_
+3	yobog̃	bog̃	VERB	v	Rel=NCont	0	root	_	_
+4	ma	ma	PART	prcl	_	3	discourse	_	SpaceAfter=No
+5	.	.	PUNCT	PUNCT	_	3	punct	_	punct
+6	Wasũbu	wasũ	NOUN	n	Class=CilFlx	10	nsubj	_	SpaceAfter=No
+7	,	,	PUNCT	punct	_	6	punct	_	punct
+8	potip	potip	NOUN	n	_	6	conj	_	SpaceAfter=No
+9	,	,	PUNCT	punct	_	6	punct	_	punct
+10	yobog̃ayũ	bog̃	VERB	v	Number=Plur|Rel=NCont	3	parataxis	_	SpaceAfter=No
+11	.	.	PUNCT	PUNCT	_	10	punct	_	punct
+12	Ag̃okatkayũ	ag̃okatkat	NOUN	n	Number=Plur	14	nsubj	_	_
+13	axima	axima	NOUN	n	_	14	obj	_	_
+14	muyuhum	um	VERB	v	Voice=Cau	3	parataxis	_	_
+15	pig̃am	pig̃a	NOUN	n	Case=Ins	14	obl	_	SpaceAfter=No
+16	.	.	PUNCT	PUNCT	_	14	punct	_	punct
+
+# sent_id = 7009
+# text = Axima yobog̃at mupurukpurug̃ ip iwi be daxa ase . Ade bima , ade imupurukpurug̃ ip iwi be . Ade bima , yobog̃ iwi e'em . Ade ũm pima , iwi yopit ma e'em .
+# text_eng = They dry the big fish on the gridiron on the fire . When there are many , they dry them on the gridiron . When they are many , the gridiron is big . When they are not many , the gridiron is small .   (Cartilha 7, 3.3)
+# text_port = Eles secam os peixes grandes no moquem no fogo. Quando há muitos, eles os secam no moquem. Quando são muitos, o moquem é grande. Quando não são muitos, o moquem é pequeno. (Cartilha 7, 3.3)
+1	Axima	axima	NOUN	n	_	3	obj	_	_
+2	yobog̃at	bog̃	NOUN	n	_	1	nmod	_	_
+3	mupurukpurug̃	_	VERB	v	Voice=Cau	0	root	_	_
+4	ip	ip	PRON	pron	Number=Plur|Person=3|PronType=Prs	3	nsubj	_	_
+5	iwi	wi	NOUN	n	Rel=NCont	3	obl	_	_
+6	be	be	ADP	posp	_	5	case	_	_
+7	daxa	daxa	NOUN	n	Rel=NCont	3	obl	_	_
+8	ase	ase	ADP	posp	_	7	case	_	_
+9	.	.	PUNCT	PUNCT	_	3	punct	_	punct
+10	Ade	ade	NOUN	n	_	14	advcl	_	_
+11	bima	pima	SCONJ	sconj	_	10	mark	_	_
+12	,	,	PUNCT	punct	_	14	punct	_	punct
+13	ade	ade	NOUN	n	_	14	obj	_	_
+14	imupurukpurug̃	puruk	VERB	v	Rel=NCont|Voice=Cau	3	parataxis	_	_
+15	ip	ip	PRON	pron	Number=Plur|Person=3|PronType=Prs	14	nsubj	_	_
+16	iwi	wi	NOUN	n	Rel=NCont	14	obl	_	_
+17	be	be	ADP	posp	_	16	case	_	_
+18	.	.	PUNCT	PUNCT	_	14	punct	_	punct
+19	Ade	ade	NOUN	n	_	22	advcl	_	_
+20	bima	pima	SCONJ	sconj	_	19	mark	_	_
+21	,	,	PUNCT	punct	_	22	punct	_	punct
+22	yobog̃	bog̃	NOUN	n	Rel=NCont	3	parataxis	_	_
+23	iwi	wi	NOUN	n	_	22	nsubj	_	_
+24	e'em	e'em	AUX	aux	_	22	aux	_	_
+25	.	.	PUNCT	PUNCT	_	22	punct	_	punct
+26	Ade	ade	NOUN	n	_	31	advcl	_	_
+27	ũm	ũm	ADV	adv	_	26	advmod	_	_
+28	pima	pima	SCONJ	sconj	_	26	mark	_	_
+29	,	,	PUNCT	punct	_	31	punct	_	punct
+30	iwi	wi	NOUN	n	Rel=NCont	31	nsubj	_	_
+31	yopit	pit	NOUN	n	Rel=NCont	3	parataxis	_	_
+32	ma	ma	PART	prcl	_	31	discourse	_	_
+33	e'em	e'em	AUX	aux	_	31	aux	_	_
+34	.	.	PUNCT	PUNCT	_	31	punct	_	punct
+
+# sent_id = 7014
+# text = Tõm e'em ip . Ẽ be ijukjug̃ ip . Axima nõm cukcug̃ ip ẽ be , wãẽn tuk'a be . Tõm cuk puje , tõm ipriprim pag̃eiro'a be .
+# text_eng = The becom porridge (like). They pund it with the pestle. They pound the dough with the pestle in the over house. When the fish-dough is pounded, they strain it in the sieve. (Cartilha 7, 4.4)
+# text_port = Ficarão piracui. Elas pilam no pilão. Elas pilam o piracui no pilão, na casa do forno. Quando o piracui está pilado, elas empaneiram no paneiro.
+1	Tõm	tõm	NOUN	n	_	0	root	_	_
+2	e'em	e'em	AUX	aux	_	1	aux	_	_
+3	ip	ip	PRON	pro	Number=Plur|Person=3	1	nsubj	_	_
+4	.	.	PUNCT	punct	_	1	punct	_	punct
+5	Ẽ	ẽ	NOUN	n	_	7	obl	_	_
+6	be	be	ADP	posp	_	5	case	_	_
+7	ijukjug̃	cuk	VERB	v	Aspect=DurIprf|Rel=NCont	1	parataxis	_	_
+8	ip	ip	PRON	pro	Number=Plur|Person=3	7	nsubj	_	_
+9	.	.	PUNCT	punct	_	7	punct	_	punct
+10	Axima	axima	NOUN	n	_	11	nmod	_	_
+11	nõm	tõm	NOUN	n	_	12	obj	_	_
+12	cukcug̃	cuk	VERB	v	Aspect=DurIprf	1	parataxis	_	_
+13	ip	ip	PRON	pro	Number=Plur|Person=3	12	nsubj	_	_
+14	ẽ	ẽ	NOUN	n	_	12	obl	_	_
+15	be	be	ADP	posp	_	14	case	_	_
+16	,	,	PUNCT	punct	_	12	punct	_	punct
+17	wãẽn	wãẽn	NOUN	n	_	18	nmod	_	_
+18	tuk'a	uk	NOUN	n	Class=Round	12	obl	_	_
+19	be	be	ADP	posp	_	18	case	_	_
+20	.	.	PUNCT	punct	_	12	punct	_	punct
+21	Tõm	tõm	NOUN	n	_	22	obj	_	_
+22	cuk	cuk	NOUN	n	Aspect=Perf	26	advcl	_	_
+23	puje	puje	SCONJ	sconj	_	22	mark	_	_
+24	,	,	PUNCT	punct	_	22	punct	_	punct
+25	tõm	tõm	NOUN	n	_	26	obj	_	_
+26	ipriprim	rip	VERB	v	Aspect=DurIprf|Rel=NCont	1	parataxis	_	_
+27	pag̃eiro'a	pag̃eiro	NOUN	n	Class=Round	26	obl	_	_
+28	be	be	ADP	posp	_	27	case	_	_
+29	.	.	PUNCT	punct	_	26	punct	_	_
+
+# sent_id = 0033.4
+# text = Wuyjuyũ ma'g̃u koap pit osunuy .
+# text_eng = At the beginning he was a person.
+# text_port = Primeiramente era gente.
+1	Wuyjuyũ	wuyjuyũ	NOUN	n	Number=Plur	0	root	_	_
+2	ma'g̃u	ma'g̃u	PART	prcl	Polarity=Neg	1	discourse	_	_
+3	koap	koap	ADV	pp	_	1	advmod	_	_
+4	pit	pit	PART	prcl	Contv=Yes	1	discourse	_	_
+5	osunuy	osunuy	AUX	x	_	1	cop	_	_
+6	.	.	PUNCT	PUNCT	_	1	punct	_	_
+
+# sent_id = 003.9
+# text = I'o'o o'tobuxik .
+# text_eng = He thought when he already ate.
+# text_port = Achou já comido.
+1	I'o'o	'o	NOUN	n	Rel=NCont	2	obl	_	_
+2	o'tobuxik	dobuxik	VERB	vt	Aspect=Perf|Number[subj]=Sing|Person[obj]=3|Person[subj]=3	0	root	_	_
+3	.	.	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id = 0033.14
+# text = Icẽm ma pit , io'e . g̃ebuje bit o'jekõn g̃u .
+# text_eng = It's true, he (her brother) said. It did not eat anymore.
+# text_port = — Ê verdade, (o irmão dela) disse. Daí não comia mais.
+1	Icẽm	_	ADV	adv	_	0	root	_	_
+2	ma	ma	PART	prcl	_	1	discourse	_	_
+3	pit	pit	PART	prcl	_	1	discourse	_	_
+4	,	,	PUNCT	punct	_	1	punct	_	_
+5	io'e	o'e	VERB	vi	Evident=Nfh|Number[subj]=Sing|Person[subj]=3	1	parataxis	_	_
+6	.	.	PUNCT	PUNCT	_	5	punct	_	_
+7	g̃ebuje	g̃ebuje	ADV	n	_	9	advmod	_	_
+8	bit	bit	PART	part	Contv=Yes	9	discourse	_	_
+9	o'jekõn	kõn	VERB	vi	Aspect=Perf|Number[subj]=Sing|Person[subj]=3|Voice=Mid	5	parataxis	_	_
+10	g̃u	g̃u	PART	npart	Polarity=Neg	9	discourse	_	_
+11	.	.	PUNCT	PUNCT	_	9	punct	_	_
+
+# sent_id = 0033.19
+# text = Idibi konkõn g̃u o'e .
+# text_eng = It did not drink water
+# text_port = Não bebia água
+1	Idibi	idibi	NOUN	n	_	2	obj	_	_
+2	konkõn	konkõn	VERB	v	Aspect=Dur	0	root	_	_
+3	g̃u	g̃u	PART	npart	Polarity=Neg	2	advmod	_	_
+4	o'e	o'e	VERB	v	Aspect=Perf|Number[subj]=Sing|Person=3	2	parataxis	_	_
+5	.	.	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id = 003.26
+# text = Tip tag̃ o'ju .
+# text_eng = He/she walked far in the jungle
+# text_port = Foi longe—no centro do mato.
+1	Tip	tip	NOUN	n	_	3	obl	_	_
+2	tag̃	tag̃	ADP	posp	Rel=Cont	1	case	_	_
+3	o'ju	cu	VERB	v	Aspect=Perf|Number[subj]=Sing|Person[subj]=3	0	root	_	_
+4	.	.	PUNCT	punct	_	3	punct	_	_
+
+# sent_id = 003.31
+# text = Yobog̃at , yopĩcat i'uk'ug̃ ip jewebeam .
+# text_eng = They pulled from the big arch, and the small one for the kids.
+# text_port = Tiravam para si (arco) grande, e pequeno, para crianças
+1	Yobog̃at	yobog̃at	NOUN	n	_	4	obj	_	_
+2	,	,	PUNCT	punct	_	4	punct	_	_
+3	yopĩcat	_	NOUN	n	_	4	obj	_	_
+4	i'uk'ug̃	'uk	VERB	v	Aspect=DurIprf|Rel=NCont	0	root	_	_
+5	ip	ip	PART	prcl	Number=Plur|Person=3	4	dep	_	_
+6	jewebeam	jewebe	ADP	posp	_	4	obl	_	_
+7	.	.	PUNCT	punct	_	4	punct	_	_
+
+# sent_id = 003.37
+# text = Aypapa'ũm'ũm i'uk'ug̃ jekukum jedarug̃ .
+# text_eng = The old-timers were pulling it out to make their arch.
+# text_port = Os velhos antigos andavam tirando-o para fazer o arco deles.
+1	Aypapa'ũm'ũm	Aypapa'ũm'ũm	NOUN	n	Aspect=Dec|Number=Plur	2	nsubj	_	_
+2	i'uk'ug̃	i'uk	VERB	v	Aspect=DurIprf|Rel=NCont	0	root	_	_
+3	jekukum	jeku	VERB	v	Aspect=DurIprf|Voice=Mid	2	advcl	_	_
+4	jedarug̃	darug̃	NOUN	n	Reflex=Yes	3	obj	_	_
+5	.	.	PUNCT	PUNCT	_	4	punct	_	_
+

@@ -1,0 +1,352 @@
+Folha -- Como você recebeu a notícia de que seria substituído ?
+MESSAGE|:|Na sentença "PT em o governo",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(pt -> root)
+(em -> governo)
+(o -> governo)
+(governo -> pt)..
+Liste as relações de dependência sintática na sentença "Folha -- Como você recebeu a notícia de que seria substituído ?", usando o formato (token dependente -> token cabeça).
+REPLY|:|(Folha -> Como)
+(Como -> você)
+(você -> recebeu)
+(recebeu -> a)
+(a -> notícia)
+(notícia -> de)
+(de -> que)
+(que -> seria)
+(seria -> substituído)
+(substituído -> ?)
+Giovane -- Normalmente .
+MESSAGE|:|Na sentença "PT em o governo",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(pt -> root)
+(em -> governo)
+(o -> governo)
+(governo -> pt)..
+Liste as relações de dependência sintática na sentença "Giovane -- Normalmente .", usando o formato (token dependente -> token cabeça).
+REPLY|:|(Giovane -> root)
+(-- -> root)
+(Normalmente -> root)
+Seleção é isso , joga quem está melhor , não tem esse negócio de nome .
+MESSAGE|:|Na sentença "PT em o governo",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(pt -> root)
+(em -> governo)
+(o -> governo)
+(governo -> pt)..
+Liste as relações de dependência sintática na sentença "Seleção é isso , joga quem está melhor , não tem esse negócio de nome .", usando o formato (token dependente -> token cabeça).
+REPLY|:|(Seleção -> é)
+(é -> isso)
+(isso -> Seleção)
+(joga -> quem)
+(quem -> está)
+(está -> melhor)
+(melhor -> quem)
+(não -> tem)
+(tem -> esse)
+(esse -> negócio)
+(de -> nome)
+(nome -> esse)
+A melhor equipe é que deve jogar .
+MESSAGE|:|Na sentença "PT em o governo",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(pt -> root)
+(em -> governo)
+(o -> governo)
+(governo -> pt)..
+Liste as relações de dependência sintática na sentença "A melhor equipe é que deve jogar .", usando o formato (token dependente -> token cabeça).
+REPLY|:|(A -> root)
+(melhor -> equipe)
+(equipe -> root)
+(é -> equipe)
+(que -> equipe)
+(deve -> equipe)
+(jogar -> equipe)
+(. -> root)
+O NÚMERO 32
+MESSAGE|:|Na sentença "PT em o governo",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(pt -> root)
+(em -> governo)
+(o -> governo)
+(governo -> pt)..
+Liste as relações de dependência sintática na sentença "O NÚMERO 32", usando o formato (token dependente -> token cabeça).
+REPLY|:|(o -> número)
+(número -> 32)
+... casos positivos de dengue em Monte Aprazível ( 38 km de Rio Preto-SP ) foram divulgados ontem por o Ersa ( Escritório Regional de Saúde ) de Rio Preto .
+MESSAGE|:|Na sentença "PT em o governo",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(pt -> root)
+(em -> governo)
+(o -> governo)
+(governo -> pt)..
+Liste as relações de dependência sintática na sentença "... casos positivos de dengue em Monte Aprazível ( 38 km de Rio Preto-SP ) foram divulgados ontem por o Ersa ( Escritório Regional de Saúde ) de Rio Preto .", usando o formato (token dependente -> token cabeça).
+REPLY|:|(casos -> positivos)
+(positivos -> dengue)
+(dengue -> em)
+(em -> Monte)
+(Monte -> Aprazível)
+(Aprazível -> ())
+( -> km)
+(km -> de)
+(de -> Rio)
+(Rio -> Preto)
+(Preto -> -SP)
+(-SP -> foram)
+(foram -> divulgados)
+(divulgados -> ontem)
+(ontem -> por)
+(por -> o)
+(o -> Ersa)
+(Ersa -> ())
+( -> Escritório)
+(Escritório -> Regional)
+(Regional -> de)
+(de -> Saúde)
+(Saúde -> de)
+(de -> Rio)
+(Rio -> Preto)
+A região vive uma epidemia de a doença .
+MESSAGE|:|Na sentença "PT em o governo",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(pt -> root)
+(em -> governo)
+(o -> governo)
+(governo -> pt)..
+Liste as relações de dependência sintática na sentença "A região vive uma epidemia de a doença .", usando o formato (token dependente -> token cabeça).
+REPLY|:|(A -> root)
+(região -> A)
+(vive -> A)
+(uma -> epidemia)
+(epidemia -> vive)
+(de -> epidemia)
+(a -> doença)
+(doença -> de)
+A cidade de Monte Aprazível tem 68 casos confirmados .
+MESSAGE|:|Na sentença "PT em o governo",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(pt -> root)
+(em -> governo)
+(o -> governo)
+(governo -> pt)..
+Liste as relações de dependência sintática na sentença "A cidade de Monte Aprazível tem 68 casos confirmados .", usando o formato (token dependente -> token cabeça).
+REPLY|:|(A -> root)
+(cidade -> Monte Aprazível)
+(de -> Monte Aprazível)
+(Monte Aprazível -> cidade)
+(tem -> 68 casos confirmados)
+(68 casos confirmados -> tem)
+Rio Preto tem três casos positivos .
+MESSAGE|:|Na sentença "PT em o governo",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(pt -> root)
+(em -> governo)
+(o -> governo)
+(governo -> pt)..
+Liste as relações de dependência sintática na sentença "Rio Preto tem três casos positivos .", usando o formato (token dependente -> token cabeça).
+REPLY|:|(Rio -> Preto)
+(Preto -> tem)
+(tem -> três)
+(três -> casos)
+(casos -> positivos)
+(positivos -> Rio)
+Policiais Federais de o MS entram em greve
+MESSAGE|:|Na sentença "PT em o governo",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(pt -> root)
+(em -> governo)
+(o -> governo)
+(governo -> pt)..
+Liste as relações de dependência sintática na sentença "Policiais Federais de o MS entram em greve", usando o formato (token dependente -> token cabeça).
+REPLY|:|(Policiais -> Federais)
+(Federais -> de)
+(de -> o)
+(o -> MS)
+(MS -> entram)
+(entram -> em)
+(em -> greve)
+Os policiais federais de Mato Grosso de o Sul entraram em greve ontem , em adesão a o movimento iniciado em o Distrito Federal .
+MESSAGE|:|Na sentença "PT em o governo",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(pt -> root)
+(em -> governo)
+(o -> governo)
+(governo -> pt)..
+Liste as relações de dependência sintática na sentença "Os policiais federais de Mato Grosso de o Sul entraram em greve ontem , em adesão a o movimento iniciado em o Distrito Federal .", usando o formato (token dependente -> token cabeça).
+REPLY|:|(Os -> policiais)
+(policiais -> federais)
+(federais -> de)
+(de -> Mato Grosso)
+(Mato Grosso -> de)
+(de -> o)
+(o -> Sul)
+(Sul -> entraram)
+(em -> greve)
+(admissão -> a)
+(a -> o)
+(o -> movimento)
+(movimento -> iniciado)
+(iniciado -> em)
+(em -> Distrito)
+(Distrito -> Federal)
+(Federal -> em)
+A reivindicação é de equiparação salarial com a Polícia Civil de o DF , o que representaria um reajuste de 300 % .
+MESSAGE|:|Na sentença "PT em o governo",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(pt -> root)
+(em -> governo)
+(o -> governo)
+(governo -> pt)..
+Liste as relações de dependência sintática na sentença "A reivindicação é de equiparação salarial com a Polícia Civil de o DF , o que representaria um reajuste de 300 % .", usando o formato (token dependente -> token cabeça).
+REPLY|:|(A -> root)
+(reivindicação -> é)
+(é -> de)
+(de -> equiparação)
+(equiparação -> salarial)
+(salarial -> com)
+(com -> a)
+(a -> Polícia)
+(Polícia -> Civil)
+(Civil -> de)
+(de -> o)
+(o -> DF)
+(DF -> ,)
+(, -> o)
+(o -> que)
+(que -> representaria)
+(representaria -> um)
+(um -> reajuste)
+(reajuste -> de)
+(de -> 300)
+(300 -> %)
+Em Mato Grosso , a paralisação está prevista para começar hoje .
+MESSAGE|:|Na sentença "PT em o governo",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(pt -> root)
+(em -> governo)
+(o -> governo)
+(governo -> pt)..
+Liste as relações de dependência sintática na sentença "Em Mato Grosso , a paralisação está prevista para começar hoje .", usando o formato (token dependente -> token cabeça).
+REPLY|:|(Em -> Mato)
+(Mato -> Grosso)
+(a -> paralisação)
+(paralisação -> está)
+(está -> prevista)
+(prevista -> a)
+(a -> Mato)
+(Mato -> Grosso)
+(para -> começar)
+(começar -> hoje)
+(hoje -> está)
+(está -> prevista)
+(prevista -> a)
+(a -> Mato)
+(Mato -> Grosso)
+Todas receberam beijos de Itamar .
+MESSAGE|:|Na sentença "PT em o governo",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(pt -> root)
+(em -> governo)
+(o -> governo)
+(governo -> pt)..
+Liste as relações de dependência sintática na sentença "Todas receberam beijos de Itamar .", usando o formato (token dependente -> token cabeça).
+REPLY|:|(Todas -> receberam)
+(receberam -> beijos)
+(beijos -> de)
+(de -> Itamar)
+(Itamar -> root)
+Fu foi a mais calorosa .
+MESSAGE|:|Na sentença "PT em o governo",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(pt -> root)
+(em -> governo)
+(o -> governo)
+(governo -> pt)..
+Liste as relações de dependência sintática na sentença "Fu foi a mais calorosa .", usando o formato (token dependente -> token cabeça).
+REPLY|:|(Fu -> root)
+(foi -> Fu)
+(a -> mais)
+(mais -> calorosa)
+(calorosa -> Fu)
+Beijou , abraçou duas vezes e conversou por alguns minutos com o conterrâneo presidente .
+MESSAGE|:|Na sentença "PT em o governo",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(pt -> root)
+(em -> governo)
+(o -> governo)
+(governo -> pt)..
+Liste as relações de dependência sintática na sentença "Beijou , abraçou duas vezes e conversou por alguns minutos com o conterrâneo presidente .", usando o formato (token dependente -> token cabeça).
+REPLY|:|(Beijou -> o)
+(Beijou -> conterrâneo)
+(Beijou -> presidente)
+(abraçou -> o)
+(abraçou -> conterrâneo)
+(abraçou -> presidente)
+(duas -> vezes)
+(vezes -> abraçou)
+(conversou -> o)
+(conversou -> conterrâneo)
+(conversou -> presidente)
+(por -> alguns)
+(minutos -> conversou)
+(com -> o)
+(com -> conterrâneo)
+(com -> presidente)
+« Eu torci muito por você , viu ? » , disse Itamar a Fu .
+MESSAGE|:|Na sentença "PT em o governo",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(pt -> root)
+(em -> governo)
+(o -> governo)
+(governo -> pt)..
+Liste as relações de dependência sintática na sentença "« Eu torci muito por você , viu ? » , disse Itamar a Fu .", usando o formato (token dependente -> token cabeça).
+REPLY|:|(Eu -> torci)
+(torci -> muito)
+(muito -> por)
+(por -> você)
+(você -> viu)
+(viu -> ?)
+(? -> disse)
+(disse -> Itamar)
+(Itamar -> a)
+(a -> Fu)
+Cada usuário pode importar programas até o valor de US$ 200 mil .
+MESSAGE|:|Na sentença "PT em o governo",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(pt -> root)
+(em -> governo)
+(o -> governo)
+(governo -> pt)..
+Liste as relações de dependência sintática na sentença "Cada usuário pode importar programas até o valor de US$ 200 mil .", usando o formato (token dependente -> token cabeça).
+REPLY|:|(Cada -> usuário)
+(usuário -> pode)
+(pode -> importar)
+(importar -> programas)
+(programas -> até)
+(até -> o)
+(o -> valor)
+(valor -> de)
+(de -> us$)
+(us$ -> 200)
+(200 -> mil)
+(mil -> .)
+Os pedidos até US$ 20 mil dispensam guia de importação .
+MESSAGE|:|Na sentença "PT em o governo",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(pt -> root)
+(em -> governo)
+(o -> governo)
+(governo -> pt)..
+Liste as relações de dependência sintática na sentença "Os pedidos até US$ 20 mil dispensam guia de importação .", usando o formato (token dependente -> token cabeça).
+REPLY|:|(Os -> pedidos)
+(até -> US$)
+(US$ -> 20)
+(20 -> mil)
+(mil -> dispensam)
+(dispensam -> guia)
+(de -> importação)
+(importação -> .)
+Se o valor de a compra for baixo , é melhor pedir encomenda por correio normal .
+MESSAGE|:|Na sentença "PT em o governo",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(pt -> root)
+(em -> governo)
+(o -> governo)
+(governo -> pt)..
+Liste as relações de dependência sintática na sentença "Se o valor de a compra for baixo , é melhor pedir encomenda por correio normal .", usando o formato (token dependente -> token cabeça).
+REPLY|:|(Se -> o)
+(o -> valor)
+(valor -> de)
+(de -> a)
+(a -> compra)
+(compra -> for)
+(for -> baixo)
+(baixo -> ,)
+(, -> é)
+(é -> melhor)
+(melhor -> pedir)
+(pedir -> encomenda)
+(encomenda -> por)
+(por -> correio)
+(correio -> normal)
+(normal -> .)

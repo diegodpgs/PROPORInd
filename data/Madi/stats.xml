@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treebank>
+  <!-- tokens means "surface tokens", e.g. Spanish "vámonos" counts as one token
+       words means "syntactic words", e.g. Spanish "vámonos" is split to two words, "vamos" and "nos"
+       fused is the number of tokens that are split to two or more syntactic words
+       The words and fused elements can be omitted if no token is split to smaller syntactic words. -->
+  <size>
+    <total><sentences>20</sentences><tokens>114</tokens><words>115</words><fused>1</fused></total>
+    <train><sentences>0</sentences><tokens>0</tokens><words>0</words><fused>0</fused></train>
+    <dev><sentences>0</sentences><tokens>0</tokens><words>0</words><fused>0</fused></dev>
+    <test><sentences>20</sentences><tokens>114</tokens><words>115</words><fused>1</fused></test>
+  </size>
+  <lemmas unique="40" /><!-- ., na, e, tiwa, te, me, mita, otaa, tama, ya, ,, abe, ama, haa, ke -->
+  <forms unique="64" /><!-- ., Tiwa, me, e, te, ya, eke, otaa, ,, Taha, Yobe, abe, amake, haa, ini -->
+  <fusions unique="1" /><!-- kama -->
+  <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
+  <tags unique="8">
+    <tag name="ADV">3</tag><!-- ayata, faro, kabote -->
+    <tag name="AUX">13</tag><!-- na, ama -->
+    <tag name="NOUN">16</tag><!-- _, abe, yama, yobe, abise, howe, ini, ino, kabikana, taha -->
+    <tag name="PART">2</tag><!-- ke -->
+    <tag name="PRON">32</tag><!-- e, te, tiwa, me, otaa, _, era, nafi, otara -->
+    <tag name="PUNCT">20</tag><!-- ., ,, _ -->
+    <tag name="VERB">25</tag><!-- mita, _, tama, haa, ti, amosa, asota, awa, hero, ka -->
+    <tag name="X">4</tag><!-- ya, _ -->
+  </tags>
+  <!-- Statistics of features and values. The comments show the most frequent word forms. -->
+  <feats unique="35">
+    <feat name="Aspect" value="Hab" upos="VERB">1</feat><!-- kitate -->
+    <feat name="Cfm" value="Morning" upos="AUX,VERB">4</feat><!-- naminaba, naminabone, sawiminahaba, tabaminahaba -->
+    <feat name="Clusivity" value="Ex" upos="PART,PRON">5</feat><!-- otaa, otaake, otara -->
+    <feat name="Clusivity" value="In" upos="PRON">9</feat><!-- e, eke, era -->
+    <feat name="Comt" value="Yes" upos="AUX">2</feat><!-- kanemetemone, kawahi -->
+    <feat name="Decl" value="F" upos="AUX,PRON,VERB">9</feat><!-- amake, eke, amosarake, naminaba, naminabone, teke, tinahaboneke -->
+    <feat name="Dist" value="Yes" upos="VERB">1</feat><!-- tiwari -->
+    <feat name="Evident" value="Fh" upos="AUX,VERB">2</feat><!-- Otafara, onahara -->
+    <feat name="Evident" value="Nfh" upos="AUX,VERB">4</feat><!-- amosarake, kanemetemone, mitahani, omitani -->
+    <feat name="Gender" value="Fem" upos="ADV,AUX,NOUN,PART,VERB">25</feat><!-- ini, Otafara, amosarake, awahabana, faro, kanemetemone, kawahi, mita, mitahani, na -->
+    <feat name="Gender" value="Masc" upos="NOUN">1</feat><!-- ino -->
+    <feat name="Intension" value="Yes" upos="AUX,VERB">3</feat><!-- naminabone, tamabote, tinahaboneke -->
+    <feat name="NCount" value="Yes" upos="VERB">1</feat><!-- nafi -->
+    <feat name="Number" value="Plur" upos="AUX,PART,PRON,VERB">20</feat><!-- me, te, e, eke, era, otaake, sawiminahaba, teke, tinaharo -->
+    <feat name="Number" value="Sing" upos="AUX,PART,PRON">5</feat><!-- e, eke, oke, tinahaboneke -->
+    <feat name="Number[obj]" value="Plur" upos="PRON">1</feat><!-- otara -->
+    <feat name="Number[obj]" value="Sing" upos="PRON">6</feat><!-- Tiwa -->
+    <feat name="Number[subj]" value="Plur" upos="PRON">4</feat><!-- otaa, te -->
+    <feat name="Number[subj]" value="Sing" upos="AUX,VERB">6</feat><!-- Otafara, amosarake, omita, omitani, ona, onahara -->
+    <feat name="Person" value="1" upos="PART,PRON">9</feat><!-- e, eke, era, oke -->
+    <feat name="Person" value="2" upos="AUX,PRON,VERB">6</feat><!-- te, sawiminahaba, teke, tinahaboneke, tinaharo -->
+    <feat name="Person" value="3" upos="PRON">6</feat><!-- me -->
+    <feat name="Person[obj]" value="1" upos="PRON">1</feat><!-- otara -->
+    <feat name="Person[obj]" value="2" upos="PRON">6</feat><!-- Tiwa -->
+    <feat name="Person[psor]" value="1" upos="PRON">1</feat><!-- e -->
+    <feat name="Person[psor]" value="2" upos="PRON">2</feat><!-- te -->
+    <feat name="Person[subj]" value="1" upos="AUX,PRON,VERB">9</feat><!-- otaa, Otafara, amosarake, omita, omitani, ona, onahara -->
+    <feat name="Person[subj]" value="2" upos="PRON">1</feat><!-- te -->
+    <feat name="PronType" value="Prs" upos="PRON,VERB">6</feat><!-- e, me, sawiminahaba -->
+    <feat name="PronType" value="Tot" upos="PRON">1</feat><!-- nafi -->
+    <feat name="Redup" value="Yes" upos="VERB">1</feat><!-- titi -->
+    <feat name="Report" value="Yes" upos="AUX">1</feat><!-- kanemetemone -->
+    <feat name="Tense" value="Fut" upos="AUX,VERB">7</feat><!-- awahabana, naba, naminaba, naminabone, sawiminahaba, tabaminahaba, tamiba -->
+    <feat name="Tense" value="IPast" upos="AUX,VERB">5</feat><!-- Otafara, amosarake, mitahani, omitani, onahara -->
+    <feat name="Tense" value="RPast" upos="AUX">1</feat><!-- kanemetemone -->
+  </feats>
+  <!-- Statistics of universal dependency relations. -->
+  <deps unique="18">
+    <dep name="advcl">2</dep>
+    <dep name="advmod">2</dep>
+    <dep name="amod">2</dep>
+    <dep name="aux">10</dep>
+    <dep name="compound">1</dep>
+    <dep name="cop">1</dep>
+    <dep name="dep">8</dep>
+    <dep name="discourse">10</dep>
+    <dep name="expl">2</dep>
+    <dep name="nmod">3</dep>
+    <dep name="nsubj">15</dep>
+    <dep name="obj">14</dep>
+    <dep name="obl">2</dep>
+    <dep name="parataxis">1</dep>
+    <dep name="punct">20</dep>
+    <dep name="root">20</dep>
+    <dep name="vocative">1</dep>
+    <dep name="xcomp">1</dep>
+  </deps>
+</treebank>

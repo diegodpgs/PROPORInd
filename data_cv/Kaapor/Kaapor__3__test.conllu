@@ -1,0 +1,134 @@
+# sent_id = 4
+# text = aʔe tatu ke uʔuta
+# text_eng = He will eat the armadillo (Duarte 2019 [41a] TM)
+1	aʔe	aʔe	PRON	pro	Animacy=Hum|Number=Sing|Person=3	4	nsubj	_	_
+2	tatu	tatu	NOUN	n	Number=Sing	4	obj	_	_
+3	ke	ke	PART	pcl	_	4	nmod	_	_
+4	uʔuta	ʔu	VERB	vt	Person=3|Tense=Fut	0	root	_	_
+
+# sent_id = 9
+# text = ne ihẽke remusak ʔɪ
+# text_eng = You got me to see (it) (Duarte 2019 [19] JL)
+1	ne	ne	PRON	pro	_	3	nsubj	_	_
+2	ihẽke	ihẽ	PRON	pro	Case=Aff	3	iobj	_	_
+3	remusak	sak	VERB	vt	Voice=Cau	0	root	_	_
+4	ʔɪ	ʔɪ	AUX	aux	Aspect=Perf	3	aux	_	_
+
+# sent_id = 14
+# text = a’eta ma’e jukwahá ihẽke pe me’ẽ
+# text_eng = They gave poison to me (Duarte 2014 [25] NS)
+1	a’eta	a’e	PRON	pro	Number=Plur	6	nsubj	_	_
+2	ma’e	ma’e	NOUN	n	_	3	nmod	_	_
+3	jukwahá	jukwa	NOUN	n	Rel=Cont	6	obj	_	_
+4	ihẽke	ihẽ	PRON	pro	Case=Aff	6	obl	_	_
+5	pe	pe	ADP	pp	_	4	obl	_	_
+6	me’ẽ	me	VERB	vt	Person=3	0	root	_	_
+
+# sent_id = 18
+# text = ihẽke aʔar
+# text_eng = I have fallen (Duarte 2014 [4] NS)
+1	ihẽke	ihẽ	PRON	pro	Case=Aff	2	nsubj	_	_
+2	aʔar	ʔa	VERB	vt	Person=3	0	root	_	_
+
+# sent_id = 23
+# text = ihẽ neke akutukta
+# text_eng = I will poke you (Duarte 2019 [6] NS)
+1	ihẽ	ihẽ	PRON	pro	_	3	nsubj	_	_
+2	neke	ne	PRON	pro	_	3	obj	_	_
+3	akutukta	kutuk	VERB	vt	Person=1|Tense=Fut	0	root	_	_
+
+# sent_id = 28
+# text = aʔeke ehake tukwatĩ
+# text_eng = He has hurt his own eye (Duarte 2014 [31] NS)
+1	aʔeke	aʔe	PRON	pro	_	3	nsubj	_	_
+2	ehake	eha	NOUN	n	Case=Aff|Rel=Cont	3	obj	_	_
+3	tukwatĩ	tukwa	VERB	vt	Person=3	0	root	_	_
+
+# sent_id = 33
+# text = aʔe ʔokke mujã
+# text_eng = He has made the house (Duarte 2019 [34a] NS)
+1	aʔe	aʔe	PRON	pro	_	3	nsubj	_	_
+2	ʔokke	ʔok	NOUN	n	Case=Aff	3	obj	_	_
+3	mujã	mujã	VERB	vt	Person=3	0	root	_	_
+
+# sent_id = 1002
+# text = ajameʔẽ ke Urupe jeʔẽha mondo tĩ
+# text_eng = After that Lupercio sent word also (Kakumasu 1986: 327)
+1	ajameʔẽ	ajameʔẽ	ADV	v	_	5	advmod	_	_
+2	ke	ke	PART	prcl	_	3	discourse	_	_
+3	Urupe	urupe	PROPN	propn	_	5	nsubj	_	_
+4	jeʔẽha	jeʔẽ	NOUN	n	Nomzr=Circ	5	obj	_	_
+5	mondo	mondo	VERB	vt	Person=3	0	root	_	_
+6	tĩ	tĩ	ADV	adv	_	5	advmod	_	_
+
+# sent_id = 412
+# text = Tapiʔir ujan oho
+# text_pt = A anta correu para longe. (UKconnect [4] NS)
+# text_eng = The tapir ran away.
+1	Tapiʔir	Tapi	NOUN	n	Animacy=Anim|Number=Sing	2	obj	_	_
+2	ujan	jan	VERB	vi	Person=3	0	root	_	_
+3	oho	ho	VERB	vi	Person=3	2	compound	_	_
+
+# sent_id = 140456
+# text = Xõru nixói se aʔe
+# text_pt = O pai de Jon não estava aqui. (UKconnect [14] NS)
+# text_eng = Jon's father was not here. 
+1	Xõru	_	PROPN	propn	_	2	nsubj	_	_
+2	nixói	_	VERB	v	Person=3	0	root	_	_
+3	se	_	NOUN	n	_	2	obj	_	_
+4	aʔe	_	PRON	pro	_	2	nmod	_	_
+
+# sent_id = 704
+# text = pɪnupɪnuate ehe je
+# text_eng = She was really farting a lot on him (Godoy 2017 [4] JL)
+# text_por = Ficava peidando muito mesmo nele
+1	pɪnupɪnuate	pɪnu	VERB	vi	Intense=Yes	0	root	_	_
+2	ehe	ehe	ADP	posp	Rel=NCont	1	case	_	_
+3	je	je	PART	pcl	_	1	discourse	_	_
+
+# sent_id = 709
+# text = ihẽ neke apɪhɪk ʔɪ
+# text_eng = I will take you (Duarte 2019 [32] JL)
+1	ihẽ	ihẽ	PRON	pro	Number=Sing|Person=1	3	nsubj	_	_
+2	neke	ne	PRON	pro	Case=Aff|Number=Sing|Person=2	3	obj	_	_
+3	apɪhɪk	pɪhɪk	VERB	vt	Number=Sing|Person=1	0	root	_	_
+4	ʔɪ	ʔɪ	AUX	aux	_	3	aux	_	_
+
+# sent_id = 52
+# text = Purutu ahem
+# text_eng = Purutu shouted (Duarte 2019 [26b] SZ)
+1	Purutu	Purutu	PROPN	ppn	_	2	nsubj	_	_
+2	ahem	ahem	VERB	vi	Person=3	0	root	_	_
+
+# sent_id = 57
+# text = pe saʔe aʔi ihái ʃirurke pirokhũ je ihai aike
+# text_eng = So he … the old woman raised her own old skirt, her pants (Godoy 2017 [18] ZS)
+1	pe	pe	ADV	adv	_	6	advmod	_	_
+2	saʔe	saʔe	NOUN	n	_	3	nmod	_	_
+3	aʔi	aʔi	NOUN	n	Animacy=Hum	6	nsubj	_	_
+4	ihái	hái	NOUN	n	Person=3	6	obj	_	_
+5	ʃirurke	ʃirur	NOUN	n	Case=Aff	4	amod	_	_
+6	pirokhũ	pirok	VERB	vt	Intense=Yes	0	root	_	_
+7	je	je	PART	pcl	_	6	discourse	_	_
+8	ihai	hai	NOUN	n	Person=3	6	obj	_	_
+9	aike	ai	NOUN	n	Case=Aff	8	amod	_	_
+
+# sent_id = 62
+# text = pe riki katar ngã muhɪk
+# text_eng = And so they brought the flu (Kakumasu 1986: 328 [18] ZS)
+1	pe	pe	CCONJ	cc	_	5	cc	_	_
+2	riki	riki	ADV	adv	_	5	advmod	_	_
+3	katar	katar	NOUN	n	_	5	obj	_	_
+4	ngã	ngã	PRON	pro	Number=Plur|Person=3	5	nsubj	_	_
+5	muhɪk	hɪk	VERB	vi	Person=3|Voice=Cau	0	root	_	_
+
+# sent_id = 67
+# text = ihē rãi ihē amoīta tipe
+# text_eng = I wanted to put in my (false) teeth (but didn't) (Kakumasu 1986: 328 [16] ZS)
+1	ihē	ihē	PRON	pro	_	2	nmod	_	_
+2	rãi	rãi	NOUN	n	_	4	obj	_	_
+3	ihē	ihē	PRON	pro	_	4	nsubj	_	_
+4	amoīta	moī	VERB	vt	Number=Sing|Person=1|Tense=Fut	0	root	_	_
+5	tipe	tipe	PART	pcl	Aspect=Frus	4	discourse	_	_
+
+

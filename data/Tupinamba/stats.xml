@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treebank>
+  <!-- tokens means "surface tokens", e.g. Spanish "vámonos" counts as one token
+       words means "syntactic words", e.g. Spanish "vámonos" is split to two words, "vamos" and "nos"
+       fused is the number of tokens that are split to two or more syntactic words
+       The words and fused elements can be omitted if no token is split to smaller syntactic words. -->
+  <size>
+    <total><sentences>581</sentences><tokens>4397</tokens><words>4508</words><fused>103</fused></total>
+    <train><sentences>0</sentences><tokens>0</tokens><words>0</words><fused>0</fused></train>
+    <dev><sentences>0</sentences><tokens>0</tokens><words>0</words><fused>0</fused></dev>
+    <test><sentences>581</sentences><tokens>4397</tokens><words>4508</words><fused>103</fused></test>
+  </size>
+  <lemmas unique="1058" /><!-- ,, ., ?, ese, iko, ʔi, !, tupã, swi, so, aβa, marã, eko, ko, aʔe -->
+  <forms unique="1881" /><!-- ,, ., ?, !, Tupã, rese, swi, ko, marã, aβa, ;, ase, aʔe, amõ, e -->
+  <fusions unique="94" /><!-- apɨaβaiβa, kujãmuku, karaiβeβe, maʔeaiβa, maʔeaʔiβa, tekoaiβa, tekoaʔiβa, Aikoruŋ, Ajtaʔɨmeʔeŋ, Aβapaʔe, Ejpotamirĩumẽ, Imaranirũ, Karaiβokɨpe, Lourençoaŋaturama, Marãpipo -->
+  <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
+  <tags unique="14">
+    <tag name="ADP">285</tag><!-- ese, swi, supe, pupe, upi, rire, _, ri, janone, ire -->
+    <tag name="ADV">335</tag><!-- marã, βe, aβe, marãnamo, kori, aʔereme, serã, ipo, mamõ, jõ -->
+    <tag name="CCONJ">6</tag><!-- kojpo, aʔe, konipo, ʔnaroj -->
+    <tag name="DET">85</tag><!-- ko, aʔe, ajpo, iko, ako, ipo, Eβokwe, _, akwe(j), aʔepe -->
+    <tag name="INTJ">37</tag><!-- awje, aʔãni, erĩ, neʔĩ, Akajwa, eneʔĩ, te, to, Akai, Peʔĩ -->
+    <tag name="NOUN">1436</tag><!-- _, iko, eko, aβa, jar, maʔe, apɨaβ, tupã, so, sɨ -->
+    <tag name="NUM">17</tag><!-- mokõj, mosapɨr, _, mosapɨ, mosapɨrɨ, oito, ojepe, ojoirunɨk -->
+    <tag name="PART">184</tag><!-- jẽ, e, ɨβɨa, aʔe, je, ã, _, ae, rõ, teʔe -->
+    <tag name="PRON">202</tag><!-- ase, amõ, ise, ene, _, marã, jepe, maʔe, aβa, opaβ -->
+    <tag name="PROPN">161</tag><!-- Tupã, _, Ajaŋa, JesusCristo, Lourenço, Pedro, Jesus, Pilatos, Aimire, Rore -->
+    <tag name="PUNCT">1057</tag><!-- ,, ., ?, !, ;, _, :, são -->
+    <tag name="SCONJ">7</tag><!-- janone, jaβe, jepe, jepemo -->
+    <tag name="VERB">692</tag><!-- ʔi, _, so, potar, iko, ur, meʔeŋ, awsuβ, mono, suβ -->
+    <tag name="X">4</tag><!-- pipo, ?, _ -->
+  </tags>
+  <!-- Statistics of features and values. The comments show the most frequent word forms. -->
+  <feats unique="87">
+    <feat name="AdvType" value="Temp" upos="ADV">18</feat><!-- kori, aʔereme -->
+    <feat name="Animacy" value="Hum" upos="NOUN,VERB">3</feat><!-- moroepjakape, oporomoʔeβo, toporepejan -->
+    <feat name="Aspect" value="Compl" upos="VERB">4</feat><!-- Jaʔupa, aʔupakatune, sowaβopa, ʔupaβ -->
+    <feat name="Aspect" value="Iter" upos="NOUN,VERB">32</feat><!-- inupãnupã, poβupoβu, Oioaʔoaʔo, Oposẽposem, iakakapa, imomosema, imoperepereβi, imosɨkɨjekɨjeβo, inupãnupãsara, ipetepeteka -->
+    <feat name="Aspect" value="Lus" upos="NOUN,VERB">2</feat><!-- ajukaʔĩ, ojpotarĩ -->
+    <feat name="Case" value="All" upos="DET,NOUN">11</feat><!-- okarɨpe, ɨβɨtɨrɨpe, Mɨpe, aʔepe, moroepjakape, neratape, okusupe, ʃemonoape -->
+    <feat name="Case" value="Dat" upos="ADP,NOUN,PRON">30</feat><!-- eneβe, eneβo, peẽβe, aseβe, iseβe, iseβo, oreβo, peʔẽme, supe, ʃeβo -->
+    <feat name="Case" value="Loc" upos="ADV,DET,NOUN,PROPN,VERB">64</feat><!-- aʔepe, opɨʔape, tatape, ʃepope, mojaŋape, oreɨβɨjme, sekoape, ʃeatuaj, ʃerekoape, Ejmoiŋokatu -->
+    <feat name="Case" value="Per" upos="ADP,NOUN">6</feat><!-- ʔarɨβo, iporeawsuβerekoβope, iʔarɨβo, oajurɨβo, ojopɨterɨβo -->
+    <feat name="Case" value="Ref" upos="NOUN,PRON">396</feat><!-- janejara, apɨaβa, taβa, aiβa, raʔaŋaβa, taʔɨra, aʔiβa, jeʔeŋa, moruβisaβa, ʃejeʔeŋa -->
+    <feat name="Case" value="Tra" upos="NOUN">61</feat><!-- christãoramo, omaʔenwaramo, Tupãeteramo, jetanoŋaβamo, ʃeremiaramo, Nasawsuβarɨpɨramo, Otekokwaβeʔɨ̃mamo, Rejamo, Saʔaŋaβamo, Tupanamo -->
+    <feat name="Case" value="Voc" upos="NOUN,PART">3</feat><!-- ʃeruβɨwe, we -->
+    <feat name="Clusivity" value="Ex" upos="ADP,NOUN,PRON,VERB">42</feat><!-- oreswi, noromomeʔui, ore, orewasemaβa, oreʔaŋa, oreβo, oroiko, orowar, oroʔe, Orerese -->
+    <feat name="Clusivity" value="In" upos="ADP,NOUN,PRON,VERB">55</feat><!-- janejara, jamoma, jane, Jaʔupa, iaiemoitɨamo, iamomota, jajebɨjebɨ, jajporakar, jajupa, jamomeʔu -->
+    <feat name="ConjType" value="Disj" upos="CCONJ">2</feat><!-- kojpo -->
+    <feat name="Corf" value="Yes" upos="ADP,NOUN,VERB">32</feat><!-- ejupa, ojoupe, omaʔe, omojaŋara, opɨʔa, aiβete, oajurɨβo, oeko, ojekoka, ojewaka -->
+    <feat name="Degree" value="Aug" upos="NOUN,PROPN">12</feat><!-- kunumĩwasu, Peporeawsu, Sarawaiusu, iakaŋusuj, neruʔumusu, sukuriju, ɨgasaβusu, ʃetamũjusu, ʃeʔakusu -->
+    <feat name="Delib" value="Yes" upos="NOUN">1</feat><!-- ʃekatupe -->
+    <feat name="Dev" value="Pass" upos="NOUN">3</feat><!-- peremimojaŋwera, ʃeremimono -->
+    <feat name="Emph" value="Yes" upos="NOUN">2</feat><!-- joβasaβetaetawne, joβasaβine -->
+    <feat name="Evident" value="Fh" upos="PART">1</feat><!-- rako -->
+    <feat name="Foc" value="Yes" upos="ADV,PRON,VERB">6</feat><!-- Aʔete, Esenute, Maʔẽtepe, Memẽte, Naanamaruãte, peẽte -->
+    <feat name="Foreign" value="Yes" upos="NOUN">1</feat><!-- Capitão -->
+    <feat name="Hum" value="Yes" upos="NOUN,VERB">10</feat><!-- Oporakɨpwemono, imoreʔɨmara, iporerasow, maraʔara, morapitiara, moroapɨara, morope, morwara, neporawsuβara, ojoamotareʔɨ̃ -->
+    <feat name="Incorp" value="Yes" upos="VERB">7</feat><!-- Ojaoβok, Ijaoβoka, Ojepoej, Ojmoʔɨʔu, Ojmoʔɨʔupe, oporomoʔeβo -->
+    <feat name="Int" value="Yes" upos="ADP,ADV,DET,NOUN,PART,PRON,SCONJ,VERB">130</feat><!-- Marãpe, marã, eʔipe, Marãnamope, Aβape, aʔepe, maʔepe, Mamõpe, βepe, Erekepe -->
+    <feat name="Intens" value="Yes" upos="ADP,ADV,NOUN,PRON,VERB">84</feat><!-- Tupãeteramo, motaretekatu, neporãŋatu, opakatu, Aipotakatu, Ajemiŋatu, Ajemiŋatupe, Ajpotaretekatu, Ajãŋatune, Ejmoiŋokatu -->
+    <feat name="Mood" value="Cnd" upos="ADP,NOUN,PART,SCONJ,VERB">10</feat><!-- meemo, jepemo, orerorɨβetemo, pesememo, supemo, temonemo, ʃekwaukamo, ʃwemo, ʃwepemo -->
+    <feat name="Mood" value="Imp" upos="PART,VERB">42</feat><!-- Ejori, jori, Ejemi, Eame, Eiori, Ejepeʔa, Ejkuwaβ, Ejmojewasem, Ejor, Ejotĩ -->
+    <feat name="Mood" value="Irr" upos="NOUN">1</feat><!-- perekoreme -->
+    <feat name="Mood" value="Opt" upos="PART">2</feat><!-- temone -->
+    <feat name="Mood" value="Per" upos="NOUN,VERB">56</feat><!-- taso, toso, Taʃepɨsɨrõ, tasone, tereso, toromonone, Tajɨβõne, Takaʔune, Taʃemaran, Taʃepeʔa -->
+    <feat name="Mood" value="Sub" upos="NOUN,VERB">15</feat><!-- sekoreme, sɨkeme, asomo, aŋajpaβeʔɨmame, momeʔureme, omoʔaŋekoaime, osɨkamo, perekoreme -->
+    <feat name="Nomzr" value="Ag" upos="NOUN">26</feat><!-- kawara, omojaŋara, papera, eʔjara, imoreʔɨmara, inupãnupãsara, iporeawsuβerekosaramo, itɨmaramo, moaŋaipapara, moaŋajpapara -->
+    <feat name="Nomzr" value="CCirc" upos="NOUN">4</feat><!-- Paraiβɨwara, tekwara, ɨβakɨpenwara, ʔɨpaʔũmenwara -->
+    <feat name="Nomzr" value="Circ" upos="NOUN,VERB">58</feat><!-- raʔaŋaβa, jetanoŋaβamo, momewaβa, orewasemaβa, saʔaŋaβɨjara, sekoape, tekoaŋajpaβa, ɨβɨrajoasaβa, ʃerekoape, Saʔaŋaβamo -->
+    <feat name="Nomzr" value="DevPass" upos="NOUN">15</feat><!-- Naʃeremimotara, iatõjmɨreʔɨma, imojarɨpɨ́ramo, neremimimwera, neremimoawje, neremireko, oemiʔurama, remikuwaβamo, remimomotara, remimotara -->
+    <feat name="Nomzr" value="Hab" upos="NOUN">3</feat><!-- kɨreʔɨmβawera, nemwera, uʔuβorwera -->
+    <feat name="Nomzr" value="Pas" upos="NOUN">12</feat><!-- imoŋaraiβɨpɨra, Nasawsuβarɨpɨramo, ijɨβõmɨrwera, imoerapwanɨmɨra, imojarɨpɨrwera, imomoraŋɨpɨra, remiepjakamo, remimojaŋa, sawsukatupɨra, seroβiarɨpɨra -->
+    <feat name="Nomzr" value="Rel" upos="NOUN,VERB">18</feat><!-- serɨβaʔe, ojkoβaʔe, ikawĩwasuβaʔe, ipotasape, mojãβaʔe, naokajeβaʔeruã, okajβaʔe, opɨtaβaʔe, osemaʔe, osɨβaʔepwera -->
+    <feat name="NonFoc" value="Yes" upos="NOUN">92</feat><!-- sekow, serekow, rekow, sow, rerekow, turi, iʔew, isow, mojaŋi, ʃesow -->
+    <feat name="Number" value="Plur" upos="ADP,NOUN,PRON,VERB">134</feat><!-- janejara, cristãos, oreswi, peẽβe, Aβaaβape, iirũeta, noromomeʔui, ore, oreʔaŋa, oreβo -->
+    <feat name="Number" value="Sing" upos="ADP,NOUN,PART,PRON,VERB">347</feat><!-- ise, witekoβo, Ejori, ene, eneβe, eneβo, ʃe, jori, ne, nememɨra -->
+    <feat name="Number[obj]" value="Sing" upos="VERB">8</feat><!-- Ereipotape, Ereiuseipe, Orowereko, Tasepɨ, ajpokosu, nasenuβi, oroapɨ -->
+    <feat name="Number[psor]" value="Plur" upos="NOUN">28</feat><!-- pereko, peʔaŋa, janejara, peposaŋa, perekoreme, peremimojaŋwera, peretama, Peatõja, Perawsupa, janeretama -->
+    <feat name="Number[psor]" value="Sing" upos="ADP,NOUN">50</feat><!-- isɨ, nemonagwera, ʃeatuaj, ʃejeʔeŋa, ʃepo, ʃeretama, nekesaβa, nepoʃɨ, neratape, nerekoβiaramo -->
+    <feat name="Number[subj]" value="Plur" upos="VERB">15</feat><!-- jamoma, orowar, Pesawsu, ojpuru, oroso, peimoete, pejkɨaβo, pejor, pekaj, pemopɨatã -->
+    <feat name="Number[subj]" value="Sing" upos="NOUN,VERB">55</feat><!-- Aso, aimono, Aiko, Ereipotape, ajmeʔeŋ, Ajerure, Ajmoneβ, Ajtaʔɨ, Ajtɨk, Ajur -->
+    <feat name="NumType" value="Card" upos="NUM">13</feat><!-- mokõj, mosapɨr, mosapɨ, mosapɨrɨ, ojepe -->
+    <feat name="Person" value="1" upos="ADP,NOUN,PART,PRON,VERB">202</feat><!-- janejara, ise, witekoβo, ʃe, oreswi, Taʃepɨsɨrõ, iseβe, iseβo, jane, ore -->
+    <feat name="Person" value="2" upos="ADP,NOUN,PART,PRON,VERB">131</feat><!-- Ejori, ene, eneβe, eneβo, jori, ne, nememɨra, nereko, nerese, pereko -->
+    <feat name="Person" value="3" upos="NOUN,VERB">152</feat><!-- eʔi, ojaβo, eʔipe, neʔi, ojkoβo, oso, omanõmo, oweraso, Ojaseʔõereko, Ojkoβe -->
+    <feat name="Person[obj]" value="1" upos="VERB">1</feat><!-- tasenu -->
+    <feat name="Person[obj]" value="2" upos="VERB">4</feat><!-- Oropɨsɨk, Orowereko, oroapɨ, toropɨtɨβõne -->
+    <feat name="Person[obj]" value="3" upos="NOUN,VERB">100</feat><!-- Ojaoβok, aimono, ajmono, Ereipotape, Eresawsupe, Ojaratã, Ojerokɨ, Ojerokɨpe, Ojmoŋeta, Osoβasaβ -->
+    <feat name="Person[psor]" value="1" upos="ADP,NOUN,VERB">83</feat><!-- isɨ, ʃejeʔeŋa, ʃepope, janejara, ʃepo, ʃeremiaramo, ʃeretama, ʃesow, janejeʔeŋa, janerapisa -->
+    <feat name="Person[psor]" value="2" upos="NOUN,VERB">40</feat><!-- pereko, peʔaŋa, nemonagwera, peposaŋa, perekoreme, peremimojaŋwera, peretama, Neapwan, Peatõja, Perawsupa -->
+    <feat name="Person[psor]" value="3" upos="NOUN">1</feat><!-- osarõ -->
+    <feat name="Person[subj]" value="1" upos="NOUN,VERB">102</feat><!-- aimono, Aso, ajmono, taso, Aiko, ajmeʔeŋ, jamoma, naipotari, orowar, Aikoβe -->
+    <feat name="Person[subj]" value="2" upos="VERB">53</feat><!-- Erekepe, Ereipotape, Eresawsupe, ejupa, ereiko, tereso, Ejemorɨrɨj, Ejotĩ, Emoierekuaβ, Ereiuseipe -->
+    <feat name="Person[subj]" value="3" upos="VERB">88</feat><!-- Ojaoβok, Ojaratã, Ojerokɨ, Ojerokɨpe, Ojmoŋeta, Osoβasaβ, ojmeʔeŋ, ojmoete, toso, Nopɨtaj -->
+    <feat name="Polarity" value="Neg" upos="ADV,INTJ,NOUN,PART,VERB">98</feat><!-- neʔi, aani, aŋaj, Aʔãni, Niapɨsɨki, Peteumẽ, aβɨpotareʔɨma, naipotari, nikatui, umẽ -->
+    <feat name="Poss" value="Hum" upos="NOUN">1</feat><!-- moroposanoŋara -->
+    <feat name="Priv" value="Yes" upos="NOUN,VERB">13</feat><!-- Iamotareʔɨmeteβo, Najpotareʔɨm, aŋajpaβeʔɨmame, ikereʔɨmi, kuwaβeʔɨmamo, maraneʔɨma, ojoamotareʔɨ̃, oreamotareʔɨm, perawsuβareʔɨma, potareʔɨmi -->
+    <feat name="PronType" value="Dem" upos="PRON">6</feat><!-- aʔe, Ajpo, amoae, iko, ko -->
+    <feat name="PronType" value="Ind" upos="PRON">27</feat><!-- amõ, Ojepeĩome, amõamõ -->
+    <feat name="PronType" value="Int" upos="PRON">18</feat><!-- marã, aβa, Abatepe, Maʔemaʔe, Maʔerama, Maʔetepe, Umã, Umãβaʔe, sumarã, ʃesumarã -->
+    <feat name="PronType" value="Prs" upos="PART,PRON">72</feat><!-- ase, ise, ene, eneβe, eneβo, ʃe, ne, peẽβe, aseβe, iseβo -->
+    <feat name="PronType" value="Rcp" upos="NOUN">1</feat><!-- joapisaβa -->
+    <feat name="PronType" value="Tot" upos="PRON">22</feat><!-- opa, opaβejẽ, paβẽ, opamejẽ, opaβĩ, opakatu, paβi -->
+    <feat name="Recip" value="Yes" upos="VERB">2</feat><!-- Oioaʔoaʔo, ojoamotareʔɨ̃ -->
+    <feat name="Red" value="Di" upos="NOUN,VERB">14</feat><!-- imoperepereβawera, imoperepereβi, imosɨkɨjekɨjeβo, inupãnupãsara, jajebɨjebɨ, joβasaβetaetawne, mojeβɨjeβɨra, ojekajeka, ojoporuporwaβo, okaneʔõneʔõnamo -->
+    <feat name="Red" value="Mo" upos="VERB">2</feat><!-- neisusupa, oβuoβur -->
+    <feat name="Reflex" value="Yes" upos="ADP,NOUN,PRON,VERB">122</feat><!-- osɨ, o, oguβa, omaʔenwaramo, opɨʔape, Ajemiŋatu, Ajemiŋatupe, Ajemoɨrõ, Ajepɨk, Ajerure -->
+    <feat name="Rel" value="Abs" upos="NOUN">7</feat><!-- tata, tekopwera, tamũja, teko, tuβisaβa -->
+    <feat name="Rel" value="Cont" upos="ADP,NOUN,VERB">325</feat><!-- rese, janejara, rupi, supe, swi, pupe, reko, pereko, rawsupa, rekow -->
+    <feat name="Rel" value="Corf" upos="NOUN">1</feat><!-- opɨʔape -->
+    <feat name="Rel" value="Hum" upos="NOUN">39</feat><!-- teko, moʃɨ, mosaŋa, tekoara, Tuβa, tekoaŋajpaβa, torɨβa, toʔo, Moraseja, Mosaŋape -->
+    <feat name="Rel" value="NCont" upos="ADP,NOUN,PRON,SCONJ,VERB">387</feat><!-- sese, isupe, seko, sekow, sekoreme, serekow, isɨ, taʔɨra, serɨβaʔe, turi -->
+    <feat name="Speech" value="Man" upos="PART">2</feat><!-- ka -->
+    <feat name="Tense" value="Fut" upos="ADP,ADV,NOUN,PRON,SCONJ,VERB">52</feat><!-- janune, korine, mojaŋawama, ʃone, Ajãŋatune, Maʔerama, Tajɨβõne, Takaʔune, ajukaukane, amosene -->
+    <feat name="Tense" value="Past" upos="NOUN,VERB">59</feat><!-- nemonagwera, peremimojaŋwera, seʔõawera, seʔõmwera, tekopwera, Irumwera, Ojukaawera, Paraguasupenarwera, iaowerape, ijuβãni -->
+    <feat name="VerbForm" value="Ger" upos="NOUN,VERB">290</feat><!-- ojaβo, rawsupa, witekoβo, meʔeŋa, ojkoβo, pota, momewaβo, mota, omanõmo, reja -->
+    <feat name="Voice" value="Cau" upos="NOUN,VERB">105</feat><!-- ajmono, imoiŋoβo, momoʃɨaβo, ojmoete, Ajemoɨrõ, Amoramwe, Ejmoiŋokatu, Ejmojewasem, Emoierekuaβ, Namoʔaŋi -->
+    <feat name="Voice" value="Mid" upos="NOUN,VERB">3</feat><!-- Ojeaɨβɨk, Ojerokɨpe, ojekɨj -->
+    <feat name="Voice" value="Rcp" upos="VERB">1</feat><!-- ojoenõj -->
+    <feat name="Voice" value="SCau" upos="NOUN,VERB">42</feat><!-- oweraso, nererupa, oweru, Arojeβɨr, Ererureta, ajukaʔĩ, amoapɨ, amoiŋe, anojan, anosene -->
+  </feats>
+  <!-- Statistics of universal dependency relations. -->
+  <deps unique="27">
+    <dep name="acl">10</dep>
+    <dep name="advcl">241</dep>
+    <dep name="advmod">282</dep>
+    <dep name="amod">3</dep>
+    <dep name="appos">86</dep>
+    <dep name="case">221</dep>
+    <dep name="cc">11</dep>
+    <dep name="ccomp">20</dep>
+    <dep name="compound">31</dep>
+    <dep name="conj">118</dep>
+    <dep name="dep">76</dep>
+    <dep name="det">25</dep>
+    <dep name="discourse">197</dep>
+    <dep name="dislocated">10</dep>
+    <dep name="flat">6</dep>
+    <dep name="iobj">2</dep>
+    <dep name="mark">7</dep>
+    <dep name="nmod">376</dep>
+    <dep name="nsubj">214</dep>
+    <dep name="nummod">15</dep>
+    <dep name="obj">243</dep>
+    <dep name="obl">425</dep>
+    <dep name="parataxis">184</dep>
+    <dep name="punct">1057</dep>
+    <dep name="root">581</dep>
+    <dep name="vocative">15</dep>
+    <dep name="xcomp">52</dep>
+  </deps>
+</treebank>

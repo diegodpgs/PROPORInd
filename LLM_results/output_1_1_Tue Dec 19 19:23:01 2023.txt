@@ -1,0 +1,16 @@
+Folha -- Como você recebeu a notícia de que seria substituído ?
+MESSAGE|:|Na sentença "PT em o governo",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(pt -> root)
+(em -> governo)
+(o -> governo)
+(governo -> pt)..
+Liste as relações de dependência sintática na sentença "Folha -- Como você recebeu a notícia de que seria substituído ?", usando o formato (token dependente -> token cabeça).
+REPLY|:|(Folha -> Como)
+(Como -> você)
+(você -> recebeu)
+(recebeu -> a)
+(a -> notícia)
+(de -> que)
+(que -> seria)
+(seria -> substituído)
+(substituído -> ?)

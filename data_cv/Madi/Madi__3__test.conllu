@@ -1,0 +1,46 @@
+# sent_id = 004
+# text =  Te sawiminahaba teke , te nafi otara te asota naminabone te .
+# tetx_por = Vocês vão também, todos vocês, para nos ajudar (Let's get straw)
+# tetx_eng =
+1	Te	te	PRON	pron	Number=Plur|Person=2	2	nsubj	_	_
+2	sawiminahaba	_	VERB	vi	Cfm=Morning|Gender=Fem|Number=Plur|Person=2|PronType=Prs|Tense=Fut	0	root	_	_
+3	teke	te	PRON	_	Decl=F|Number=Plur|Person=2	2	discourse	_	_
+4	,	,	PUNCT	punct	_	2	punct	_	_
+5	te	te	PRON	pron	Number=Plur|Person[psor]=2	2	discourse	_	_
+6	nafi	nafi	PRON	pron	PronType=Tot	5	nmod	_	_
+7	otara	otara	PRON	pron	Clusivity=Ex|Number[obj]=Plur|Person[obj]=1	9	obj	_	_
+8	te	te	PRON	pron	Number=Plur|Person[psor]=2	9	nsubj	_	_
+9	asota	asota	VERB	v	_	2	xcomp	_	_
+10	naminabone	na	AUX	aux	Cfm=Morning|Decl=F|Gender=Fem|Intension=Yes|Tense=Fut	9	aux	_	_
+11	te	te	PRON	_	Number[subj]=Plur|Person[subj]=2	9	discourse	_	_
+12	.	.	PUNCT	punct	_	9	punct	_	_
+
+# sent_id = 002.1
+# text = Otafara .
+# text_por =
+# text_eng = I have just eaten
+1	Otafara	tafa	VERB	v	Evident=Fh|Gender=Fem|Number[subj]=Sing|Person[subj]=1|Tense=IPast	0	root	_	_
+2	.	.	PUNCT	punct	_	1	punct	_	_
+
+# sent_id = 002.6
+# text = Tiwa haa ona .
+# text_por =
+# text_eng = I call you
+1	Tiwa	tiwa	PRON	_	Number[obj]=Sing|Person[obj]=2	2	obj	_	_
+2	haa	haa	VERB	_	_	0	root	_	_
+3	ona	na	AUX	_	Gender=Fem|Number[subj]=Sing|Person[subj]=1	2	aux	_	_
+4	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 001.06
+# text = Aba tamabote me me tiwari kanemetemone wawasi ya
+# text_eng = They carried many fish in the fish trap (DJE)
+# text_por =
+1	Aba	_	NOUN	_	_	5	obj	_	_
+2	tamabote	tama	VERB	_	Intension=Yes	1	amod	_	_
+3	me	me	PRON	_	Number=Plur|Person=3	5	nsubj	_	_
+4	me	me	PRON	_	Number=Plur|Person=3	5	discourse	_	_
+5	tiwari	tiwa	VERB	_	Dist=Yes	0	root	_	_
+6	kanemetemone	na	AUX	aux	Comt=Yes|Evident=Nfh|Gender=Fem|Report=Yes|Tense=RPast	5	aux	_	_
+7	wawasi	wawasi	NOUN	_	_	5	obl	_	_
+8	ya	_	X	_	_	7	dep	_	_
+

@@ -1,0 +1,175 @@
+chatGPT|:|<@><#>yamunhã<@>root<#>timbiú<@>yamunhã<#>,<@>yamunhã<#>yapinaitika<@>yamunhã<#>,<@>yapinaitika<#>yamunhã<@>yapinaitika<#>kaxirí<@>yamunhã<#>.<@>yamunhã|:|UDA:0.750<#>DDA: 0.750
+DepRel |:|Yamunhã<@>root<@>root<#>timbiú<@>Yamunhã<@>obj<#>,<@>yapinaitika<@>punct<#>yapinaitika<@>timbiú<@>conj<#>,<@>yamunhã<@>punct<#>yamunhã<@>timbiú<@>conj<#>kaxirí<@>yamunhã<@>obj<#>.<@>Yamunhã<@>punct
+>--<
+chatGPT|:|<@><#>rembeú<@>root<#>aintá<@>rembeú<#>supé<@>aintá<#>puranga<@>supé<#>ixé<@>rembeú<#>.<@>rembeú|:|UDA:0.667<#>DDA: 0.667
+DepRel |:|Rembeú<@>root<@>root<#>aintá<@>Rembeú<@>iobj<#>supé<@>aintá<@>case<#>puranga<@>Rembeú<@>ccomp<#>ixé<@>puranga<@>nsubj<#>.<@>Rembeú<@>punct
+>--<
+chatGPT|:|<@><#>nhaã<@>yawara<#>yawara<@>root<#>,<@>yawara<#>aé<@>usuú<#>usuú<@>yawara<#>apigawa<@>yawara<#>.<@>yawara|:|UDA:0.571<#>DDA: 0.429
+DepRel |:|Nhaã<@>yawara<@>det<#>yawara<@>usuú<@>dislocated<#>,<@>yawara<@>punct<#>aé<@>usuú<@>nsubj<#>usuú<@>root<@>root<#>apigawa<@>usuú<@>obj<#>.<@>usuú<@>punct
+>--<
+chatGPT|:|se<@>ayururé<#>manha<@>ayururé<#>upitá<@>ayururé<#>arama<@>ayururé<#>yané<@>rendawa<#>rendawa<@>ayururé<#>upé<@>rendawa<#>se<@>rendawa<#>ratiwa<@>rendawa<#>uxari<@>ratiwa<#>waá<@>ratiwa<#>yandé<@>arã<#>arã<@>ayururé<#>.<@>ayururé|:|UDA:0.467<#>DDA: 0.333
+DepRel |:|Ayururé<@>root<@>root<#>se<@>manha<@>nmod<#>manha<@>Ayururé<@>obj<#>upitá<@>Ayururé<@>ccomp<#>arama<@>upitá<@>mark<#>yané<@>rendawa<@>nmod<#>rendawa<@>upitá<@>obl<#>upé<@>rendawa<@>case<#>se<@>ratiwa<@>nmod<#>ratiwa<@>uxari<@>nsubj<#>uxari<@>rendawa<@>acl<#>waá<@>uxari<@>obj<#>yandé<@>uxari<@>iobj<#>arã<@>yandé<@>case<#>.<@>Ayururé<@>punct
+>--<
+chatGPT|:|<@><#>Aintá<@>root<#>umaã<@>Aintá<#>uka<@>Aintá<#>mamé<@>Aintá<#>amurari<@>Aintá<#>.<@>Aintá|:|UDA:0.167<#>DDA: 0.000
+DepRel |:|Aintá<@>umaã<@>nsubj<#>umaã<@>root<@>root<#>uka<@>umaã<@>obj<#>mamé<@>amurari<@>advmod<#>amurari<@>uka<@>acl<#>.<@>umaã<@>punct
+>--<
+chatGPT|:|panhẽ<@>amunhã<#>maã<@>amunhã<#>mamé<@>amunhã<#>apurakí<@>mamé<#>waá<@>aikú<#>aikú<@>amunhã<#>.<@>amunhã|:|UDA:0.500<#>DDA: 0.500
+DepRel |:|Amunhã<@>root<@>root<#>panhẽ<@>maã<@>det<#>maã<@>Amunhã<@>obj<#>mamé<@>Amunhã<@>advmod<#>apurakí<@>mamé<@>advcl<#>waá<@>apurakí<@>obl<#>aikú<@>apurakí<@>aux<#>.<@>Amunhã<@>punct
+>--<
+chatGPT|:|<@><#>ixé<@>root<#>ti<@>ixé<#>amanduári<@>ixé<#>ayuíri<@>amanduári<#>se<@>família-itá<#>família-itá<@>amanduári<#>ruka<@>família-itá<#>kití<@>ruka<#>.<@>ixé|:|UDA:0.556<#>DDA: 0.333
+DepRel |:|Ixé<@>amanduári<@>nsubj<#>ti<@>amanduári<@>advmod<#>amanduári<@>root<@>root<#>ayuíri<@>amanduári<@>ccomp<#>se<@>família-itá<@>nmod<#>família-itá<@>ruka<@>nmod<#>ruka<@>ayuíri<@>obl<#>kití<@>ruka<@>case<#>.<@>amanduári<@>punct
+>--<
+chatGPT|:|kurí<@>ayuíri<#>anhũ<@>ayuíri<#>amaã<@>ayuíri<#>arã<@>ayuíri<#>se<@>ayuíri<#>anama-itá<@>ayuíri<#>.<@>ayuíri|:|UDA:0.375<#>DDA: 0.375
+DepRel |:|Ayuíri<@>root<@>root<#>kurí<@>Ayuíri<@>advmod<#>anhũ<@>amaã<@>advmod<#>amaã<@>Ayuíri<@>advcl<#>arã<@>amaã<@>mark<#>se<@>anama-itá<@>nmod<#>anama-itá<@>amaã<@>obj<#>.<@>Ayuíri<@>punct
+>--<
+chatGPT|:|<@><#>Yandé<@>root<#>yaikú<@>Yandé<#>ne<@>yaikú<#>ruakí<@>yaikú<#>.<@>Yandé|:|UDA:0.200<#>DDA: 0.000
+DepRel |:|Yandé<@>ne<@>nsubj<#>yaikú<@>ne<@>cop<#>ne<@>root<@>root<#>ruakí<@>ne<@>case<#>.<@>ne<@>punct
+>--<
+chatGPT|:|<@><#>nhaã<@>apigawa<#>apigawa<@>root<#>igara<@>apigawa<#>uikú<@>igara<#>se<@>raíra<#>raíra<@>apigawa<#>ruka<@>raíra<#>ruakí<@>ruka<#>.<@>apigawa|:|UDA:0.444<#>DDA: 0.222
+DepRel |:|Nhaã<@>igara<@>det<#>apigawa<@>igara<@>nmod<#>igara<@>ruka<@>nsubj<#>uikú<@>ruka<@>cop<#>se<@>raíra<@>nmod<#>raíra<@>ruka<@>nmod<#>ruka<@>root<@>root<#>ruakí<@>ruka<@>case<#>.<@>ruka<@>punct
+>--<
+chatGPT|:|<@><#>Pedro<@>puranga<#>raíra-itá<@>Pedro<#>puranga<@>raíra-itá<#>.<@>Pedro|:|UDA:0.500<#>DDA: 0.000
+DepRel |:|Pedro<@>raíra-itá<@>nmod<#>raíra-itá<@>puranga<@>nsubj<#>puranga<@>root<@>root<#>.<@>puranga<@>punct
+>--<
+chatGPT|:|<@><#>Maria<@>ruka<#>ruka<@>ti<#>ti<@>uikú<#>uikú<@>suakí<#>.<@>ruka|:|UDA:0.333<#>DDA: 0.333
+DepRel |:|Maria<@>ruka<@>nmod<#>ruka<@>suakí<@>nsubj<#>ti<@>suakí<@>advmod<#>uikú<@>suakí<@>cop<#>suakí<@>root<@>root<#>.<@>suakí<@>punct
+>--<
+chatGPT|:|Aintá<@>root<#>aintá<@>Aintá<#>rurí<@>Aintá<#>uikú<@>Aintá<#>.<@>Aintá|:|UDA:0.200<#>DDA: 0.000
+DepRel |:|Aintá<@>rurí<@>nsubj<#>aintá<@>rurí<@>expl<#>rurí<@>root<@>root<#>uikú<@>rurí<@>aux<#>.<@>rurí<@>punct
+>--<
+chatGPT|:|<@><#>aé<@>root<#>sakú<@>aé<#>.<@>aé|:|UDA:0.333<#>DDA: 0.000
+DepRel |:|Aé<@>sakú<@>nsubj<#>sakú<@>root<@>root<#>.<@>sakú<@>punct
+>--<
+chatGPT|:|<@><#>Aé<@>root<#>surí<@>Aé<#>uikú<@>Aé<#>.<@>Aé|:|UDA:0.250<#>DDA: 0.000
+DepRel |:|Aé<@>surí<@>nsubj<#>surí<@>root<@>root<#>uikú<@>surí<@>aux<#>.<@>surí<@>punct
+>--<
+chatGPT|:|pusé<@>i<#>.<@>i|:|UDA:0.333<#>DDA: 0.000
+DepRel |:|I<@>pusé<@>nsubj<#>pusé<@>root<@>root<#>.<@>pusé<@>punct
+>--<
+chatGPT|:|paranã<@>Igara<#>suakí<@>Igara<#>.<@>Igara|:|UDA:0.250<#>DDA: 0.000
+DepRel |:|Igara<@>paranã<@>nmod<#>paranã<@>suakí<@>nsubj<#>suakí<@>root<@>root<#>.<@>suakí<@>punct
+>--<
+chatGPT|:|<@><#>Igara<@>upé<#>uikú<@>Igara<#>paranã<@>Igara<#>upé<@>root<#>.<@>upé|:|UDA:0.200<#>DDA: 0.000
+DepRel |:|Igara<@>paranã<@>nsubj<#>uikú<@>paranã<@>cop<#>paranã<@>root<@>root<#>upé<@>paranã<@>case<#>.<@>paranã<@>punct
+>--<
+chatGPT|:|<@><#>ixé<@>root<#>aikú<@>ixé<#>i<@>irũmu<#>irũmu<@>aikú<#>.<@>ixé|:|UDA:0.200<#>DDA: 0.000
+DepRel |:|Ixé<@>i<@>nsubj<#>aikú<@>i<@>cop<#>i<@>root<@>root<#>irũmu<@>i<@>case<#>.<@>i<@>punct
+>--<
+chatGPT|:|taá<@>Awá<#>indé<@>taá<#>?<@>Awá|:|UDA:0.500<#>DDA: 0.500
+DepRel |:|Awá<@>root<@>root<#>taá<@>Awá<@>advmod<#>indé<@>Awá<@>nsubj<#>?<@>Awá<@>punct
+>--<
+chatGPT|:|pituna<@>root<#>,<@>pituna<#>pedro<@>pituna<#>!<@>pituna|:|UDA:0.800<#>DDA: 0.800
+DepRel |:|Puranga<@>pituna<@>amod<#>pituna<@>root<@>root<#>,<@>pituna<@>punct<#>Pedro<@>pituna<@>vocative<#>!<@>pituna<@>punct
+>--<
+chatGPT|:|,<@>pedro<#>antônio<@>pedro<#>aintá<@>anama-itá<#>maria<@>aintá<#>anama-itá<@>maria<#>.<@>aintá|:|UDA:0.500<#>DDA: 0.375
+DepRel |:|Pedro<@>anama-itá<@>dislocated<#>,<@>Antônio<@>punct<#>Antônio<@>Pedro<@>conj<#>,<@>Pedro<@>punct<#>aintá<@>anama-itá<@>nsubj<#>Maria<@>anama-itá<@>nmod<#>anama-itá<@>root<@>root<#>.<@>anama-itá<@>punct
+>--<
+chatGPT|:|<@><#>Indé<@>root<#>kunhã<@>Indé<#>.<@>Indé|:|UDA:0.333<#>DDA: 0.000
+DepRel |:|Indé<@>kunhã<@>nsubj<#>kunhã<@>root<@>root<#>.<@>kunhã<@>punct
+>--<
+chatGPT|:|pusé<@>se<#>.<@>se|:|UDA:0.333<#>DDA: 0.000
+DepRel |:|Se<@>pusé<@>nsubj<#>pusé<@>root<@>root<#>.<@>pusé<@>punct
+>--<
+chatGPT|:|<@><#>puranga<@>root<#>,<@>puranga<#>eré<@>puranga<#>,<@>puranga<#>peikú<@>puranga<#>iké<@>peikú<#>.<@>puranga|:|UDA:0.571<#>DDA: 0.429
+DepRel |:|Puranga<@>root<@>root<#>,<@>eré<@>punct<#>eré<@>Puranga<@>advmod<#>,<@>eré<@>punct<#>peikú<@>iké<@>cop<#>iké<@>Puranga<@>csubj<#>.<@>Puranga<@>punct
+>--<
+chatGPT|:|puranga<@>ara<#>ara<@>root<#>!<@>ara|:|UDA:1.000<#>DDA: 1.000
+DepRel |:|Puranga<@>ara<@>amod<#>ara<@>root<@>root<#>!<@>ara<@>punct
+>--<
+chatGPT|:|yané<@>yandé<#>pusé<@>yandé<#>.<@>yandé|:|UDA:0.250<#>DDA: 0.000
+DepRel |:|Yandé<@>pusé<@>nsubj<#>yané<@>pusé<@>expl<#>pusé<@>root<@>root<#>.<@>pusé<@>punct
+>--<
+chatGPT|:|barcelos<@>mamé<#>?<@>mamé|:|UDA:0.667<#>DDA: 0.667
+DepRel |:|Mamé<@>root<@>root<#>Barcelos<@>Mamé<@>nsubj<#>?<@>Mamé<@>punct
+>--<
+chatGPT|:|upitá<@>aé<#>yepé<@>aé<#>igara<@>yepé<#>mirĩ<@>igara<#>upé<@>mirĩ<#>maria<@>irũmu<#>irũmu<@>yepé<#>.<@>aé|:|UDA:0.444<#>DDA: 0.111
+DepRel |:|Aé<@>upitá<@>nsubj<#>upitá<@>root<@>root<#>yepé<@>igara<@>det<#>igara<@>upitá<@>obl<#>mirĩ<@>igara<@>amod<#>upé<@>igara<@>case<#>Maria<@>upitá<@>obl<#>irũmu<@>Maria<@>case<#>.<@>upitá<@>punct
+>--<
+chatGPT|:|apinaitika<@>ixé<#>siía<@>pirá<#>pirá<@>apinaitika<#>.<@>ixé|:|UDA:0.600<#>DDA: 0.400
+DepRel |:|Ixé<@>apinaitika<@>nsubj<#>apinaitika<@>root<@>root<#>siía<@>pirá<@>det<#>pirá<@>apinaitika<@>obj<#>.<@>apinaitika<@>punct
+>--<
+chatGPT|:|<@><#>Pedro<@>irũmu<#>uikú<@>Pedro<#>Maria<@>Pedro<#>irũmu<@>root<#>.<@>irũmu|:|UDA:0.200<#>DDA: 0.000
+DepRel |:|Pedro<@>Maria<@>nsubj<#>uikú<@>Maria<@>cop<#>Maria<@>root<@>root<#>irũmu<@>Maria<@>case<#>.<@>Maria<@>punct
+>--<
+chatGPT|:|makití<@>asú<#>aputari<@>makití<#>.<@>asú|:|UDA:0.750<#>DDA: 0.750
+DepRel |:|Asú<@>root<@>root<#>makití<@>Asú<@>advcl<#>aputari<@>makití<@>advcl<#>.<@>Asú<@>punct
+>--<
+chatGPT|:|nti<@>indé<#>puranga<@>indé<#>.<@>indé|:|UDA:0.250<#>DDA: 0.000
+DepRel |:|Indé<@>puranga<@>nsubj<#>nti<@>puranga<@>advmod<#>puranga<@>root<@>root<#>.<@>puranga<@>punct
+>--<
+chatGPT|:|será<@>root<#>indé<@>será<#>?<@>será|:|UDA:0.000<#>DDA: 0.000
+DepRel |:|Mira<@>root<@>root<#>será<@>Mira<@>advmod<#>indé<@>Mira<@>nsubj<#>?<@>Mira<@>punct
+>--<
+chatGPT|:|<@><#>mamé<@>root<#>taá<@>mamé<#>té<@>manha<#>remaã<@>manha<#>se<@>manha<#>manha<@>mané<#>?<@>mamé|:|UDA:0.286<#>DDA: 0.143
+DepRel |:|Mamé<@>remaã<@>advmod<#>taá<@>remaã<@>advmod<#>té<@>remaã<@>advmod<#>remaã<@>root<@>root<#>se<@>manha<@>nmod<#>manha<@>remaã<@>obj<#>?<@>remaã<@>punct
+>--<
+chatGPT|:|<@><#>Maã<@>rerikú<#>miapé<@>Maã<#>taá<@>rerikú<#>rerikú<@>root<#>?<@>rerikú|:|UDA:0.800<#>DDA: 0.600
+DepRel |:|Maã<@>miapé<@>det<#>miapé<@>rerikú<@>obj<#>taá<@>rerikú<@>advmod<#>rerikú<@>root<@>root<#>?<@>rerikú<@>punct
+>--<
+chatGPT|:|usika<@>kunhã-itá<#>.<@>kunhã-itá|:|UDA:0.333<#>DDA: 0.000
+DepRel |:|Kunhã-itá<@>usika<@>nsubj<#>usika<@>root<@>root<#>.<@>usika<@>punct
+>--<
+chatGPT|:|mira<@>root<#>umurari<@>mira<#>ape<@>mira<#>.<@>mira|:|UDA:0.200<#>DDA: 0.000
+DepRel |:|Siía<@>mira<@>det<#>mira<@>umurari<@>nsubj<#>umurari<@>root<@>root<#>ape<@>umurari<@>advmod<#>.<@>umurari<@>punct
+>--<
+chatGPT|:|<@><#>kwá<@>root<#>kamixá<@>kwá<#>puranga<@>kamixá<#>retana<@>kamixá<#>.<@>kwá|:|UDA:0.400<#>DDA: 0.000
+DepRel |:|Kwá<@>kamixá<@>det<#>kamixá<@>puranga<@>nsubj<#>puranga<@>root<@>root<#>retana<@>puranga<@>advmod<#>.<@>puranga<@>punct
+>--<
+chatGPT|:|uputari<@>xirura<#>yepé<@>xirura<#>xirura<@>root<#>pisasú<@>xirura<#>.<@>xirura|:|UDA:0.500<#>DDA: 0.333
+DepRel |:|Aé<@>uputari<@>nsubj<#>uputari<@>root<@>root<#>yepé<@>xirura<@>det<#>xirura<@>uputari<@>obj<#>pisasú<@>xirura<@>amod<#>.<@>uputari<@>punct
+>--<
+chatGPT|:|rupí<@>muíri<#>nhaã<@>muíri<#>?<@>muíri|:|UDA:0.750<#>DDA: 0.750
+DepRel |:|Muíri<@>root<@>root<#>rupí<@>Muíri<@>case<#>nhaã<@>Muíri<@>nsubj<#>?<@>Muíri<@>punct
+>--<
+chatGPT|:|.<@>umbaá|:|UDA:0.500<#>DDA: 0.500
+DepRel |:|Umbaá<@>root<@>root<#>.<@>Umbaá<@>punct
+>--<
+chatGPT|:|sekuyaramirĩ<@>xukúi<#>.<@>xukúi|:|UDA:0.667<#>DDA: 0.667
+DepRel |:|Xukúi<@>root<@>root<#>sekuyaramirĩ<@>Xukúi<@>nsubj<#>.<@>Xukúi<@>punct
+>--<
+chatGPT|:|<@><#>Pedro<@>usú<#>usú<@>apekatú<#>apekatú<@>pe<#>pe<@>suí<#>suí<@>.|:|UDA:0.500<#>DDA: 0.167
+DepRel |:|Pedro<@>usú<@>nsubj<#>usú<@>root<@>root<#>apekatú<@>usú<@>advmod<#>pe<@>usú<@>obl<#>suí<@>pe<@>case<#>.<@>usú<@>punct
+>--<
+chatGPT|:|<@><#>apurakí<@>root<#>maria<@>apurakí<#>supé<@>apurakí<#>.<@>apurakí|:|UDA:0.750<#>DDA: 0.750
+DepRel |:|Apurakí<@>root<@>root<#>Maria<@>Apurakí<@>obl<#>supé<@>Maria<@>case<#>.<@>Apurakí<@>punct
+>--<
+chatGPT|:|<@><#>kuíri<@>root<#>penhẽ<@>kuíri<#>pemaramunhã<@>penhẽ<#>yané<@>penhẽ<#>rupí<@>kuíri<#>.<@>kuíri|:|UDA:0.167<#>DDA: 0.000
+DepRel |:|Kuíri<@>pemaramunhã<@>advmod<#>penhẽ<@>pemaramunhã<@>nsubj<#>pemaramunhã<@>root<@>root<#>yané<@>pemaramunhã<@>obl<#>rupí<@>yané<@>case<#>.<@>pemaramunhã<@>punct
+>--<
+chatGPT|:|rupí<@>aikwé<#>aikwé<@>root<#>siía<@>mirá<#>mirá<@>aikwé<#>.<@>aikwé|:|UDA:0.667<#>DDA: 0.667
+DepRel |:|Kwá<@>aikwé<@>obl<#>rupí<@>Kwá<@>case<#>aikwé<@>root<@>root<#>siía<@>mirá<@>det<#>mirá<@>aikwé<@>nsubj<#>.<@>aikwé<@>punct
+>--<
+chatGPT|:|<@><#>se<@>riré<#>riré<@>usika<#>usika<@>ana<#>ana<@>amú<#>amú<@>apigawa<#>.<@>se|:|UDA:0.429<#>DDA: 0.143
+DepRel |:|Se<@>usika<@>obl<#>riré<@>Se<@>case<#>usika<@>root<@>root<#>ana<@>usika<@>advmod<#>amú<@>apigawa<@>det<#>apigawa<@>usika<@>nsubj<#>.<@>usika<@>punct
+>--<
+chatGPT|:|uyupirú<@>aé<#>ana<@>uyupirú<#>uwatá<@>ana<#>garapá<@>uwatá<#>suí<@>uwatá<#>.<@>aé|:|UDA:0.429<#>DDA: 0.286
+DepRel |:|Aé<@>uyupirú<@>nsubj<#>uyupirú<@>root<@>root<#>ana<@>uyupirú<@>advmod<#>uwatá<@>uyupirú<@>xcomp<#>garapá<@>uwatá<@>obl<#>suí<@>garapá<@>case<#>.<@>uyupirú<@>punct
+>--<
+chatGPT|:|raẽ<@>aikwé<#>será<@>aikwé<#>tuxawa<@>será<#>tuyuwé<@>tuxawa<#>?<@>aikwé|:|UDA:0.667<#>DDA: 0.667
+DepRel |:|Aikwé<@>root<@>root<#>raẽ<@>Aikwé<@>advmod<#>será<@>Aikwé<@>advmod<#>tuxawa<@>Aikwé<@>nsubj<#>tuyuwé<@>tuxawa<@>amod<#>?<@>Aikwé<@>punct
+>--<
+UDA 0.454
+DDA 0.300
+root;0.160;0.160;50
+obj;0.583;0.417;12
+punct;0.397;0.397;58
+conj;0.333;0.333;3
+iobj;0.500;0.500;2
+case;0.556;0.278;18
+ccomp;0.667;0.667;3
+nsubj;0.718;0.179;39
+det;0.727;0.455;11
+dislocated;0.500;0.000;2
+nmod;0.786;0.357;14
+mark;0.000;0.000;2
+obl;0.182;0.182;11
+acl;0.000;0.000;2
+advmod;0.455;0.364;22
+advcl;1.000;1.000;4
+aux;0.000;0.000;3
+cop;0.429;0.143;7
+expl;0.000;0.000;2
+amod;0.800;0.800;5
+vocative;1.000;1.000;1
+csubj;0.000;0.000;1
+xcomp;0.000;0.000;1

@@ -1,0 +1,146 @@
+# sent_id = 2
+# text = jane japikũj mi ?
+# text_eng = Did we row (Duarte 2019 [8])
+1	jane	jane	PRON	pro	Number=Sing|Person=1	2	nsubj	_	_
+2	japikũj	pikũj	VERB	vi	_	0	root	_	_
+3	mi	mi	PART	pcl	_	2	discourse	_	_
+4	?	?	PUNCT	punct	_	2	punct	_	_
+
+# sent_id = 7
+# text = Tuti ke ʃaʔe jukwa
+# text_eng = Xa’e killed Tuti (Duarte 2019 [29] TM)
+1	Tuti	Tuti	PROPN	prpn	_	4	obj	_	_
+2	ke	ke	PART	pcl	_	1	discourse	_	_
+3	ʃaʔe	ʃaʔe	PROPN	prpn	_	4	nsubj	_	_
+4	jukwa	jukwa	VERB	vt	Person=3	0	root	_	_
+
+# sent_id = 12
+# text = a’eta ajengar
+# text_eng = They sang (Duarte 2014 [23a] NS)
+1	a’eta	a'e	PRON	pro	Number=Plur	2	nsubj	_	_
+2	ajengar	jengar	VERB	vt	Person=1	0	root	_	_
+
+# sent_id = 2001
+# text = Maiɾ ɪwɪke hapɪ
+# text_eng = Mair burned the earth
+# text_por =   [GG]
+1	Maiɾ	maiɾ	PROPN	pn	_	3	nsubj	_	_
+2	ɪwɪke	ɪwɪ	NOUN	n	Case=Aff	3	obj	_	_
+3	hapɪ	hapɪ	VERB	vt	Person=3	0	root	_	_
+
+# sent_id = 21
+# text = aʔeke uʔuta pɪpɪhu ketĩ
+# text_eng = He will eat owl (Duarte 2014 [27] NS)
+1	aʔeke	aʔe	PRON	pro	_	2	nsubj	_	_
+2	uʔuta	ʔu	VERB	vt	Person=3|Tense=Fut	0	root	_	_
+3	pɪpɪhu	pɪpɪhu	NOUN	n	_	2	obj	_	_
+4	ketĩ	ke	PART	pcl	_	2	discourse	_	_
+
+# sent_id = 26
+# text = Anake heɁõɁɪ
+# text_eng = Ana got tired (Duarte 2014 [3] NS)
+1	Anake	Ana	PROPN	pn	_	2	nmod	_	_
+2	heɁõɁɪ	eɁõɁɪ	NOUN	n	Rel=NCont	0	root	_	_
+
+# sent_id = 31
+# text = ne ihẽ miʔuke reʔutĩ
+# text_eng = you usually eat my food [‘you usually eat it voluntarily.ʔ] (Duarte 2019 [14] NS)
+1	ne	ne	PRON	pro	_	4	nsubj	_	_
+2	ihẽ	ihẽ	PRON	pro	_	3	nmod	_	_
+3	miʔuke	miʔu	NOUN	n	Rel=Cont	4	obj	_	_
+4	reʔutĩ	eʔu	VERB	vt	Number=Sing|Person=2	0	root	_	_
+
+# sent_id = 36
+# text = neke uʔike rekarãjta
+# text_eng = You will mash a specific amount of manioc (in order to produce cassava flour) (Duarte 2019 [43] NS)
+1	neke	ne	PRON	pro	Case=Aff	3	nsubj	_	_
+2	uʔike	uʔi	NOUN	n	Case=Aff	3	obj	_	_
+3	rekarãjta	karãj	VERB	vt	Number=Sing|Person=2|Tense=Fut	0	root	_	_
+
+# sent_id = 20123
+# text = Tɪapu riki
+# text_pt = Ela fez um barulho. (UKconnect [2] NS)
+# text_eng = She made a noise.
+1	Tɪapu	tɪapu	NOUN	n	_	0	root	_	_
+2	riki	riki	PART	pcl	_	1	discourse	_	_
+
+# sent_id = 90234
+# text = Pe , imãi ihĩ
+# text_pt = E (a) mãe dela estava sentada lá. (UKconnect [9] NS)
+# text_eng =  And (her) mother was sitting there.
+1	Pe	pe	ADV	adv	_	4	advmod	_	_
+2	,	,	PUNCT	punct	_	1	punct	_	_
+3	imãi	mãi	NOUN	n	_	4	obj	_	_
+4	ihĩ	hĩ	VERB	v	Person=3	0	root	_	_
+
+# sent_id = 702
+# text = mahem arapuha himiʔu oho
+# text_eng = The deer will find some food (Duarte 2019 [20] JL)
+1	mahem	mahem	VERB	vt	Person=3	0	root	_	_
+2	arapuha	arapuha	NOUN	n	_	1	nsubj	_	_
+3	himiʔu	himiʔu	NOUN	n	_	1	obj	_	_
+4	oho	ho	AUX	aux	Person=3	1	aux	_	_
+
+# sent_id = 707
+# text = karai riki muka mopok
+# text_eng = It was the non-Indians that shot off shotguns (Kakumasu 1986: 328 [5] JL)
+1	karai	karai	NOUN	n	_	4	nsubj	_	_
+2	riki	riki	ADV	adv	_	1	advmod	_	_
+3	muka	muka	NOUN	n	_	4	obj	_	_
+4	mopok	mopok	VERB	vt	Person=3	0	root	_	_
+
+# sent_id = 50
+# text = taʔin hokwenke nupã uʔam
+# text_eng = The child is knocking at her door (standing up). (Duarte 2019 [17] SZ)
+1	taʔin	taʔin	NOUN	n	_	3	nsubj	_	_
+2	hokwenke	okwen	NOUN	n	Case=Aff|Person=3	3	obj	_	_
+3	nupã	nupã	VERB	vt	Person=3	0	root	_	_
+4	uʔam	ʔam	ADV	adv	_	3	advmod	_	_
+
+# sent_id = 55
+# text = pe imu uʔɪ raʔɪr mujã ipe je uʔɪ sepetu ɪrapar raʔɪr
+# text_eng = Then, his brother … made a small arrow with a tip of wood and a small bow for him (Godoy 2017 [14] ZS)
+1	pe	pe	ADV	adv	_	5	advmod	_	_
+2	imu	mu	NOUN	n	Person=3	5	nsubj	_	_
+3	uʔɪ	uʔɪ	NOUN	n	_	5	obj	_	_
+4	raʔɪr	raʔɪr	NOUN	n	_	3	amod	_	_
+5	mujã	mujã	VERB	vt	_	0	root	_	_
+6	ipe	pe	PRON	ppn	Person=3	5	iobj	_	_
+7	je	je	PART	pcl	_	5	discourse	_	_
+8	uʔɪ	uʔɪ	NOUN	n	_	5	obl	_	_
+9	sepetu	sepetu	NOUN	n	_	10	nmod	_	_
+10	ɪrapar	ɪrapar	NOUN	n	_	8	nmod	_	_
+11	raʔɪr	raʔɪr	NOUN	n	_	10	amod	_	_
+
+# sent_id = 60
+# text = ko ihē paper pinim amuwɪr nde pe
+# text_eng = Thus I sent a letter to you (Kakumasu 1986: 328 [6] ZS)
+1	ko	ko	ADV	adv	_	5	advmod	_	_
+2	ihē	ihē	PRON	pro	_	5	nsubj	_	_
+3	paper	paper	NOUN	n	_	5	obj	_	_
+4	pinim	pinim	NOUN	n	_	3	amod	_	_
+5	amuwɪr	wɪr	VERB	vi	Number=Sing|Person=1|Voice=Cau	0	root	_	_
+6	nde	nde	PRON	pro	_	5	iobj	_	_
+7	pe	pe	ADP	pp	_	6	case	_	_
+
+# sent_id = 65
+# text = ihē ndeke araho tar katu tipe
+# text_eng = I really want to take you (but can't) (Kakumasu 1986: 328 [7] ZS)
+1	ihē	ihē	PRON	pro	_	3	nsubj	_	_
+2	ndeke	nde	PRON	pro	Case=Aff	3	obj	_	_
+3	araho	raho	VERB	vt	Number=Sing|Person=1	0	root	_	_
+4	tar	tar	VERB	vt	_	3	ccomp	_	_
+5	katu	katu	ADV	adv	_	3	advmod	_	_
+6	tipe	tipe	PART	pcl	Aspect=Frus	3	discourse	_	_
+
+# sent_id = 70
+# text = ko riki ihē ahɪk ajur jarupa rehe
+# text_eng = I arrived here at the port (Kakumasu 1986: 328 [40] ZS)
+1	ko	ko	ADV	adv	_	4	advmod	_	_
+2	riki	riki	ADP	pp	_	1	case	_	_
+3	ihē	ihē	PRON	pro	_	4	nsubj	_	_
+4	ahɪk	hɪk	VERB	vt	Number=Sing|Person=1	0	root	_	_
+5	ajur	jur	VERB	vi	Number=Sing|Person=1	4	dep	_	_
+6	jarupa	jarupa	NOUN	n	_	4	obl	_	_
+7	rehe	rehe	ADP	pp	_	6	case	_	_
+

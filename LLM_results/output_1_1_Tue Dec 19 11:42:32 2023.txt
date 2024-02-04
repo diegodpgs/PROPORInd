@@ -1,0 +1,742 @@
+A sensação de insegurança e a debilidade de o poder público eram sem dúvida características de os Estados Unidos de o final de o século 18 , quando ( segundo a versão mais aceita ) a palavra teria sido inventada a partir de a prática adotada por um juiz Lynch , de condenar e executar seus adversários sem o devido processo legal .
+MESSAGE|:|Na sentença "T",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(todos -> adversários)
+(os -> adversários)
+(adversários -> eliminados)
+(de -> tótó)
+(tótó -> adversários)
+(foram -> eliminados)
+(eliminados -> root)
+(. -> eliminados)..
+Liste as relações de dependência sintática na sentença "A sensação de insegurança e a debilidade de o poder público eram sem dúvida características de os Estados Unidos de o final de o século 18 , quando ( segundo a versão mais aceita ) a palavra teria sido inventada a partir de a prática adotada por um juiz Lynch , de condenar e executar seus adversários sem o devido processo legal .", usando o formato (token dependente -> token cabeça).
+REPLY|:|A relação de dependência sintática na sentença é: 
+
+(sensação -> de)
+(insegurança -> sensação)
+(debilidade -> sensação)
+(poder -> público)
+(público -> de)
+(era -> características)
+(características -> sensação)
+(de -> Estados)
+(Estados -> Unidos)
+(século -> final)
+(final -> de)
+(a -> final)
+(palavra -> sido)
+(inventada -> palavra)
+(a -> partir)
+(prática -> adotada)
+(adotada -> partir)
+(juiz -> Lynch)
+(Lynch -> julgar)
+(condenar -> juiz)
+(executar -> juiz)
+(adversários -> condenar)
+(processo -> devido)
+(legal -> processo)
+(sem -> legal)
+(devido -> processo)
+(insegurança -> sensação)
+REFINE [(sensação]
+REFINE [(sensação]
+REFINE [(sensação]
+REFINE [(sensação]
+REFINE [sensação]
+REFINE [sensação]
+-----------END REFINE---------
+REFINE [de)]
+REFINE [de)]
+REFINE [de)]
+REFINE [de)]
+REFINE [de]
+-----------END REFINE---------
+REFINE [(insegurança]
+REFINE [(insegurança]
+REFINE [(insegurança]
+REFINE [(insegurança]
+REFINE [insegurança]
+REFINE [insegurança]
+-----------END REFINE---------
+REFINE [sensação)]
+REFINE [sensação)]
+REFINE [sensação)]
+REFINE [sensação)]
+REFINE [sensação]
+-----------END REFINE---------
+REFINE [(debilidade]
+REFINE [(debilidade]
+REFINE [(debilidade]
+REFINE [(debilidade]
+REFINE [debilidade]
+REFINE [debilidade]
+-----------END REFINE---------
+REFINE [sensação)]
+REFINE [sensação)]
+REFINE [sensação)]
+REFINE [sensação)]
+REFINE [sensação]
+-----------END REFINE---------
+REFINE [(poder]
+REFINE [(poder]
+REFINE [(poder]
+REFINE [(poder]
+REFINE [poder]
+REFINE [poder]
+-----------END REFINE---------
+REFINE [público)]
+REFINE [público)]
+REFINE [público)]
+REFINE [público)]
+REFINE [público]
+-----------END REFINE---------
+REFINE [(público]
+REFINE [(público]
+REFINE [(público]
+REFINE [(público]
+REFINE [público]
+REFINE [público]
+-----------END REFINE---------
+REFINE [de)]
+REFINE [de)]
+REFINE [de)]
+REFINE [de)]
+REFINE [de]
+-----------END REFINE---------
+REFINE [(era]
+REFINE [(era]
+REFINE [(era]
+REFINE [(era]
+REFINE [era]
+REFINE [era]
+-----------END REFINE---------
+REFINE [características)]
+REFINE [características)]
+REFINE [características)]
+REFINE [características)]
+REFINE [características]
+-----------END REFINE---------
+REFINE [(características]
+REFINE [(características]
+REFINE [(características]
+REFINE [(características]
+REFINE [características]
+REFINE [características]
+-----------END REFINE---------
+REFINE [sensação)]
+REFINE [sensação)]
+REFINE [sensação)]
+REFINE [sensação)]
+REFINE [sensação]
+-----------END REFINE---------
+REFINE [(de]
+REFINE [(de]
+REFINE [(de]
+REFINE [(de]
+REFINE [de]
+REFINE [de]
+-----------END REFINE---------
+REFINE [Estados)]
+REFINE [Estados)]
+REFINE [Estados)]
+REFINE [Estados)]
+REFINE [Estados]
+-----------END REFINE---------
+REFINE [(Estados]
+REFINE [(Estados]
+REFINE [(Estados]
+REFINE [(Estados]
+REFINE [Estados]
+REFINE [Estados]
+-----------END REFINE---------
+REFINE [Unidos)]
+REFINE [Unidos)]
+REFINE [Unidos)]
+REFINE [Unidos)]
+REFINE [Unidos]
+-----------END REFINE---------
+REFINE [(século]
+REFINE [(século]
+REFINE [(século]
+REFINE [(século]
+REFINE [século]
+REFINE [século]
+-----------END REFINE---------
+REFINE [final)]
+REFINE [final)]
+REFINE [final)]
+REFINE [final)]
+REFINE [final]
+-----------END REFINE---------
+REFINE [(final]
+REFINE [(final]
+REFINE [(final]
+REFINE [(final]
+REFINE [final]
+REFINE [final]
+-----------END REFINE---------
+REFINE [de)]
+REFINE [de)]
+REFINE [de)]
+REFINE [de)]
+REFINE [de]
+-----------END REFINE---------
+REFINE [(a]
+REFINE [(a]
+REFINE [(a]
+REFINE [(a]
+REFINE [a]
+REFINE [a]
+-----------END REFINE---------
+REFINE [final)]
+REFINE [final)]
+REFINE [final)]
+REFINE [final)]
+REFINE [final]
+-----------END REFINE---------
+REFINE [(palavra]
+REFINE [(palavra]
+REFINE [(palavra]
+REFINE [(palavra]
+REFINE [palavra]
+REFINE [palavra]
+-----------END REFINE---------
+REFINE [sido)]
+REFINE [sido)]
+REFINE [sido)]
+REFINE [sido)]
+REFINE [sido]
+-----------END REFINE---------
+REFINE [(inventada]
+REFINE [(inventada]
+REFINE [(inventada]
+REFINE [(inventada]
+REFINE [inventada]
+REFINE [inventada]
+-----------END REFINE---------
+REFINE [palavra)]
+REFINE [palavra)]
+REFINE [palavra)]
+REFINE [palavra)]
+REFINE [palavra]
+-----------END REFINE---------
+REFINE [(a]
+REFINE [(a]
+REFINE [(a]
+REFINE [(a]
+REFINE [a]
+REFINE [a]
+-----------END REFINE---------
+REFINE [partir)]
+REFINE [partir)]
+REFINE [partir)]
+REFINE [partir)]
+REFINE [partir]
+-----------END REFINE---------
+REFINE [(prática]
+REFINE [(prática]
+REFINE [(prática]
+REFINE [(prática]
+REFINE [prática]
+REFINE [prática]
+-----------END REFINE---------
+REFINE [adotada)]
+REFINE [adotada)]
+REFINE [adotada)]
+REFINE [adotada)]
+REFINE [adotada]
+-----------END REFINE---------
+REFINE [(adotada]
+REFINE [(adotada]
+REFINE [(adotada]
+REFINE [(adotada]
+REFINE [adotada]
+REFINE [adotada]
+-----------END REFINE---------
+REFINE [partir)]
+REFINE [partir)]
+REFINE [partir)]
+REFINE [partir)]
+REFINE [partir]
+-----------END REFINE---------
+REFINE [(juiz]
+REFINE [(juiz]
+REFINE [(juiz]
+REFINE [(juiz]
+REFINE [juiz]
+REFINE [juiz]
+-----------END REFINE---------
+REFINE [Lynch)]
+REFINE [Lynch)]
+REFINE [Lynch)]
+REFINE [Lynch)]
+REFINE [Lynch]
+-----------END REFINE---------
+REFINE [(Lynch]
+REFINE [(Lynch]
+REFINE [(Lynch]
+REFINE [(Lynch]
+REFINE [Lynch]
+REFINE [Lynch]
+-----------END REFINE---------
+REFINE [julgar)]
+REFINE [julgar)]
+REFINE [julgar)]
+REFINE [julgar)]
+REFINE [julgar]
+-----------END REFINE---------
+REFINE [(condenar]
+REFINE [(condenar]
+REFINE [(condenar]
+REFINE [(condenar]
+REFINE [condenar]
+REFINE [condenar]
+-----------END REFINE---------
+REFINE [juiz)]
+REFINE [juiz)]
+REFINE [juiz)]
+REFINE [juiz)]
+REFINE [juiz]
+-----------END REFINE---------
+REFINE [(executar]
+REFINE [(executar]
+REFINE [(executar]
+REFINE [(executar]
+REFINE [executar]
+REFINE [executar]
+-----------END REFINE---------
+REFINE [juiz)]
+REFINE [juiz)]
+REFINE [juiz)]
+REFINE [juiz)]
+REFINE [juiz]
+-----------END REFINE---------
+REFINE [(adversários]
+REFINE [(adversários]
+REFINE [(adversários]
+REFINE [(adversários]
+REFINE [adversários]
+REFINE [adversários]
+-----------END REFINE---------
+REFINE [condenar)]
+REFINE [condenar)]
+REFINE [condenar)]
+REFINE [condenar)]
+REFINE [condenar]
+-----------END REFINE---------
+REFINE [(processo]
+REFINE [(processo]
+REFINE [(processo]
+REFINE [(processo]
+REFINE [processo]
+REFINE [processo]
+-----------END REFINE---------
+REFINE [devido)]
+REFINE [devido)]
+REFINE [devido)]
+REFINE [devido)]
+REFINE [devido]
+-----------END REFINE---------
+REFINE [(legal]
+REFINE [(legal]
+REFINE [(legal]
+REFINE [(legal]
+REFINE [legal]
+REFINE [legal]
+-----------END REFINE---------
+REFINE [processo)]
+REFINE [processo)]
+REFINE [processo)]
+REFINE [processo)]
+REFINE [processo]
+-----------END REFINE---------
+REFINE [(sem]
+REFINE [(sem]
+REFINE [(sem]
+REFINE [(sem]
+REFINE [sem]
+REFINE [sem]
+-----------END REFINE---------
+REFINE [legal)]
+REFINE [legal)]
+REFINE [legal)]
+REFINE [legal)]
+REFINE [legal]
+-----------END REFINE---------
+REFINE [(devido]
+REFINE [(devido]
+REFINE [(devido]
+REFINE [(devido]
+REFINE [devido]
+REFINE [devido]
+-----------END REFINE---------
+REFINE [processo)]
+REFINE [processo)]
+REFINE [processo)]
+REFINE [processo)]
+REFINE [processo]
+-----------END REFINE---------
+REFINE [(insegurança]
+REFINE [(insegurança]
+REFINE [(insegurança]
+REFINE [(insegurança]
+REFINE [insegurança]
+REFINE [insegurança]
+-----------END REFINE---------
+REFINE [sensação)]
+REFINE [sensação)]
+REFINE [sensação)]
+REFINE [sensação)]
+REFINE [sensação]
+-----------END REFINE---------
+chatGPT|:|<@><#>sensação<@>de<#>insegurança<@>sensação<#>debilidade<@>sensação<#>poder<@>público<#>público<@>de<#>era<@>características<#>características<@>sensação<#>de<@>Estados<#>Estados<@>Unidos<#>século<@>final<#>final<@>de<#>a<@>final<#>palavra<@>sido<#>inventada<@>palavra<#>a<@>partir<#>prática<@>adotada<#>adotada<@>partir<#>juiz<@>Lynch<#>Lynch<@>julgar<#>condenar<@>juiz<#>executar<@>juiz<#>adversários<@>condenar<#>processo<@>devido<#>legal<@>processo<#>sem<@>legal<#>devido<@>processo<#>insegurança<@>sensação|:|UDA:0.222<#>DDA: 0.095
+GoldTree |:|A<@>sensação<@>det<#>sensação<@>características<@>nsubj<#>de<@>insegurança<@>case<#>insegurança<@>sensação<@>nmod<#>e<@>debilidade<@>cc<#>a<@>debilidade<@>det<#>debilidade<@>sensação<@>conj<#>de<@>poder<@>case<#>o<@>poder<@>det<#>poder<@>debilidade<@>nmod<#>público<@>poder<@>amod<#>eram<@>características<@>cop<#>sem<@>dúvida<@>case<#>dúvida<@>características<@>nmod<#>características<@>root<@>root<#>de<@>Estados<@>case<#>os<@>Estados<@>det<#>Estados<@>características<@>nmod<#>Unidos<@>Estados<@>flat<#>de<@>final<@>case<#>o<@>final<@>det<#>final<@>Estados<@>nmod<#>de<@>século<@>case<#>o<@>século<@>det<#>século<@>final<@>nmod<#>18<@>século<@>nummod<#>,<@>características<@>punct<#>quando<@>inventada<@>advmod<#>(<@>versão<@>punct<#>segundo<@>versão<@>case<#>a<@>versão<@>det<#>versão<@>quando<@>obl<#>mais<@>aceita<@>advmod<#>aceita<@>versão<@>acl<#>)<@>versão<@>punct<#>a<@>palavra<@>det<#>palavra<@>inventada<@>nsubj<#>teria<@>inventada<@>aux<#>sido<@>inventada<@>aux<#>inventada<@>características<@>advcl<#>a<@>partir<@>case<#>partir<@>quando<@>obl<#>de<@>prática<@>case<#>a<@>prática<@>det<#>prática<@>partir<@>nmod<#>adotada<@>prática<@>acl<#>por<@>juiz<@>case<#>um<@>juiz<@>det<#>juiz<@>adotada<@>obl<#>Lynch<@>juiz<@>appos<#>,<@>adotada<@>punct<#>de<@>condenar<@>mark<#>condenar<@>prática<@>acl<#>e<@>executar<@>cc<#>executar<@>condenar<@>conj<#>seus<@>adversários<@>det<#>adversários<@>executar<@>obj<#>sem<@>processo<@>case<#>o<@>processo<@>det<#>devido<@>processo<@>amod<#>processo<@>executar<@>obl<#>legal<@>processo<@>amod<#>.<@>características<@>punct
+>--<
+Os norte-americanos que se reuniram ontem em a Câmara de Comércio Brasil-Estados Unidos , em São Paulo , ficaram conformados com a derrota de sua seleção .
+MESSAGE|:|Na sentença "T",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(todos -> adversários)
+(os -> adversários)
+(adversários -> eliminados)
+(de -> tótó)
+(tótó -> adversários)
+(foram -> eliminados)
+(eliminados -> root)
+(. -> eliminados)..
+Liste as relações de dependência sintática na sentença "Os norte-americanos que se reuniram ontem em a Câmara de Comércio Brasil-Estados Unidos , em São Paulo , ficaram conformados com a derrota de sua seleção .", usando o formato (token dependente -> token cabeça).
+---------------ERROR--------------
+Os norte-americanos que se reuniram ontem em a Câmara de Comércio Brasil-Estados Unidos , em São Paulo , ficaram conformados com a derrota de sua seleção . Folha -- Como você recebeu a notícia de que seria substituído ?
+MESSAGE|:|Na sentença "T",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(todos -> adversários)
+(os -> adversários)
+(adversários -> eliminados)
+(de -> tótó)
+(tótó -> adversários)
+(foram -> eliminados)
+(eliminados -> root)
+(. -> eliminados)..
+Liste as relações de dependência sintática na sentença "Os norte-americanos que se reuniram ontem em a Câmara de Comércio Brasil-Estados Unidos , em São Paulo , ficaram conformados com a derrota de sua seleção . Folha -- Como você recebeu a notícia de que seria substituído ?", usando o formato (token dependente -> token cabeça).
+---------------ERROR--------------
+Giovane -- Normalmente .
+MESSAGE|:|Na sentença "T",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(todos -> adversários)
+(os -> adversários)
+(adversários -> eliminados)
+(de -> tótó)
+(tótó -> adversários)
+(foram -> eliminados)
+(eliminados -> root)
+(. -> eliminados)..
+Liste as relações de dependência sintática na sentença "Giovane -- Normalmente .", usando o formato (token dependente -> token cabeça).
+---------------ERROR--------------
+Seleção é isso , joga quem está melhor , não tem esse negócio de nome .
+MESSAGE|:|Na sentença "T",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(todos -> adversários)
+(os -> adversários)
+(adversários -> eliminados)
+(de -> tótó)
+(tótó -> adversários)
+(foram -> eliminados)
+(eliminados -> root)
+(. -> eliminados)..
+Liste as relações de dependência sintática na sentença "Seleção é isso , joga quem está melhor , não tem esse negócio de nome .", usando o formato (token dependente -> token cabeça).
+---------------ERROR--------------
+A melhor equipe é que deve jogar .
+MESSAGE|:|Na sentença "T",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(todos -> adversários)
+(os -> adversários)
+(adversários -> eliminados)
+(de -> tótó)
+(tótó -> adversários)
+(foram -> eliminados)
+(eliminados -> root)
+(. -> eliminados)..
+Liste as relações de dependência sintática na sentença "A melhor equipe é que deve jogar .", usando o formato (token dependente -> token cabeça).
+---------------ERROR--------------
+O NÚMERO 32
+MESSAGE|:|Na sentença "T",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(todos -> adversários)
+(os -> adversários)
+(adversários -> eliminados)
+(de -> tótó)
+(tótó -> adversários)
+(foram -> eliminados)
+(eliminados -> root)
+(. -> eliminados)..
+Liste as relações de dependência sintática na sentença "O NÚMERO 32", usando o formato (token dependente -> token cabeça).
+---------------ERROR--------------
+... casos positivos de dengue em Monte Aprazível ( 38 km de Rio Preto-SP ) foram divulgados ontem por o Ersa ( Escritório Regional de Saúde ) de Rio Preto .
+MESSAGE|:|Na sentença "T",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(todos -> adversários)
+(os -> adversários)
+(adversários -> eliminados)
+(de -> tótó)
+(tótó -> adversários)
+(foram -> eliminados)
+(eliminados -> root)
+(. -> eliminados)..
+Liste as relações de dependência sintática na sentença "... casos positivos de dengue em Monte Aprazível ( 38 km de Rio Preto-SP ) foram divulgados ontem por o Ersa ( Escritório Regional de Saúde ) de Rio Preto .", usando o formato (token dependente -> token cabeça).
+---------------ERROR--------------
+A região vive uma epidemia de a doença .
+MESSAGE|:|Na sentença "T",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(todos -> adversários)
+(os -> adversários)
+(adversários -> eliminados)
+(de -> tótó)
+(tótó -> adversários)
+(foram -> eliminados)
+(eliminados -> root)
+(. -> eliminados)..
+Liste as relações de dependência sintática na sentença "A região vive uma epidemia de a doença .", usando o formato (token dependente -> token cabeça).
+---------------ERROR--------------
+A cidade de Monte Aprazível tem 68 casos confirmados .
+MESSAGE|:|Na sentença "T",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(todos -> adversários)
+(os -> adversários)
+(adversários -> eliminados)
+(de -> tótó)
+(tótó -> adversários)
+(foram -> eliminados)
+(eliminados -> root)
+(. -> eliminados)..
+Liste as relações de dependência sintática na sentença "A cidade de Monte Aprazível tem 68 casos confirmados .", usando o formato (token dependente -> token cabeça).
+---------------ERROR--------------
+Rio Preto tem três casos positivos .
+MESSAGE|:|Na sentença "T",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(todos -> adversários)
+(os -> adversários)
+(adversários -> eliminados)
+(de -> tótó)
+(tótó -> adversários)
+(foram -> eliminados)
+(eliminados -> root)
+(. -> eliminados)..
+Liste as relações de dependência sintática na sentença "Rio Preto tem três casos positivos .", usando o formato (token dependente -> token cabeça).
+---------------ERROR--------------
+Policiais Federais de o MS entram em greve
+MESSAGE|:|Na sentença "T",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(todos -> adversários)
+(os -> adversários)
+(adversários -> eliminados)
+(de -> tótó)
+(tótó -> adversários)
+(foram -> eliminados)
+(eliminados -> root)
+(. -> eliminados)..
+Liste as relações de dependência sintática na sentença "Policiais Federais de o MS entram em greve", usando o formato (token dependente -> token cabeça).
+---------------ERROR--------------
+Os policiais federais de Mato Grosso de o Sul entraram em greve ontem , em adesão a o movimento iniciado em o Distrito Federal .
+MESSAGE|:|Na sentença "T",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(todos -> adversários)
+(os -> adversários)
+(adversários -> eliminados)
+(de -> tótó)
+(tótó -> adversários)
+(foram -> eliminados)
+(eliminados -> root)
+(. -> eliminados)..
+Liste as relações de dependência sintática na sentença "Os policiais federais de Mato Grosso de o Sul entraram em greve ontem , em adesão a o movimento iniciado em o Distrito Federal .", usando o formato (token dependente -> token cabeça).
+---------------ERROR--------------
+A reivindicação é de equiparação salarial com a Polícia Civil de o DF , o que representaria um reajuste de 300 % .
+MESSAGE|:|Na sentença "T",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(todos -> adversários)
+(os -> adversários)
+(adversários -> eliminados)
+(de -> tótó)
+(tótó -> adversários)
+(foram -> eliminados)
+(eliminados -> root)
+(. -> eliminados)..
+Liste as relações de dependência sintática na sentença "A reivindicação é de equiparação salarial com a Polícia Civil de o DF , o que representaria um reajuste de 300 % .", usando o formato (token dependente -> token cabeça).
+---------------ERROR--------------
+Em Mato Grosso , a paralisação está prevista para começar hoje .
+MESSAGE|:|Na sentença "T",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(todos -> adversários)
+(os -> adversários)
+(adversários -> eliminados)
+(de -> tótó)
+(tótó -> adversários)
+(foram -> eliminados)
+(eliminados -> root)
+(. -> eliminados)..
+Liste as relações de dependência sintática na sentença "Em Mato Grosso , a paralisação está prevista para começar hoje .", usando o formato (token dependente -> token cabeça).
+---------------ERROR--------------
+Todas receberam beijos de Itamar .
+MESSAGE|:|Na sentença "T",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(todos -> adversários)
+(os -> adversários)
+(adversários -> eliminados)
+(de -> tótó)
+(tótó -> adversários)
+(foram -> eliminados)
+(eliminados -> root)
+(. -> eliminados)..
+Liste as relações de dependência sintática na sentença "Todas receberam beijos de Itamar .", usando o formato (token dependente -> token cabeça).
+---------------ERROR--------------
+Fu foi a mais calorosa .
+MESSAGE|:|Na sentença "T",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(todos -> adversários)
+(os -> adversários)
+(adversários -> eliminados)
+(de -> tótó)
+(tótó -> adversários)
+(foram -> eliminados)
+(eliminados -> root)
+(. -> eliminados)..
+Liste as relações de dependência sintática na sentença "Fu foi a mais calorosa .", usando o formato (token dependente -> token cabeça).
+---------------ERROR--------------
+Beijou , abraçou duas vezes e conversou por alguns minutos com o conterrâneo presidente .
+MESSAGE|:|Na sentença "T",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(todos -> adversários)
+(os -> adversários)
+(adversários -> eliminados)
+(de -> tótó)
+(tótó -> adversários)
+(foram -> eliminados)
+(eliminados -> root)
+(. -> eliminados)..
+Liste as relações de dependência sintática na sentença "Beijou , abraçou duas vezes e conversou por alguns minutos com o conterrâneo presidente .", usando o formato (token dependente -> token cabeça).
+---------------ERROR--------------
+« Eu torci muito por você , viu ? » , disse Itamar a Fu .
+MESSAGE|:|Na sentença "T",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(todos -> adversários)
+(os -> adversários)
+(adversários -> eliminados)
+(de -> tótó)
+(tótó -> adversários)
+(foram -> eliminados)
+(eliminados -> root)
+(. -> eliminados)..
+Liste as relações de dependência sintática na sentença "« Eu torci muito por você , viu ? » , disse Itamar a Fu .", usando o formato (token dependente -> token cabeça).
+---------------ERROR--------------
+Cada usuário pode importar programas até o valor de US$ 200 mil .
+MESSAGE|:|Na sentença "T",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(todos -> adversários)
+(os -> adversários)
+(adversários -> eliminados)
+(de -> tótó)
+(tótó -> adversários)
+(foram -> eliminados)
+(eliminados -> root)
+(. -> eliminados)..
+Liste as relações de dependência sintática na sentença "Cada usuário pode importar programas até o valor de US$ 200 mil .", usando o formato (token dependente -> token cabeça).
+---------------ERROR--------------
+Os pedidos até US$ 20 mil dispensam guia de importação .
+MESSAGE|:|Na sentença "T",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(todos -> adversários)
+(os -> adversários)
+(adversários -> eliminados)
+(de -> tótó)
+(tótó -> adversários)
+(foram -> eliminados)
+(eliminados -> root)
+(. -> eliminados)..
+Liste as relações de dependência sintática na sentença "Os pedidos até US$ 20 mil dispensam guia de importação .", usando o formato (token dependente -> token cabeça).
+---------------ERROR--------------
+Se o valor de a compra for baixo , é melhor pedir encomenda por correio normal .
+MESSAGE|:|Na sentença "T",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(todos -> adversários)
+(os -> adversários)
+(adversários -> eliminados)
+(de -> tótó)
+(tótó -> adversários)
+(foram -> eliminados)
+(eliminados -> root)
+(. -> eliminados)..
+Liste as relações de dependência sintática na sentença "Se o valor de a compra for baixo , é melhor pedir encomenda por correio normal .", usando o formato (token dependente -> token cabeça).
+---------------ERROR--------------
+Por o correio expresso o frete custa próximo de US$ 50 .
+MESSAGE|:|Na sentença "T",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(todos -> adversários)
+(os -> adversários)
+(adversários -> eliminados)
+(de -> tótó)
+(tótó -> adversários)
+(foram -> eliminados)
+(eliminados -> root)
+(. -> eliminados)..
+Liste as relações de dependência sintática na sentença "Por o correio expresso o frete custa próximo de US$ 50 .", usando o formato (token dependente -> token cabeça).
+---------------ERROR--------------
+Se não quiser se aventurar por a importação direta , existem empresas , como a Brasoftware ( tel. 011/253-1588 ) que importam programas sob encomenda .
+MESSAGE|:|Na sentença "T",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(todos -> adversários)
+(os -> adversários)
+(adversários -> eliminados)
+(de -> tótó)
+(tótó -> adversários)
+(foram -> eliminados)
+(eliminados -> root)
+(. -> eliminados)..
+Liste as relações de dependência sintática na sentença "Se não quiser se aventurar por a importação direta , existem empresas , como a Brasoftware ( tel. 011/253-1588 ) que importam programas sob encomenda .", usando o formato (token dependente -> token cabeça).
+---------------ERROR--------------
+Segundo Ricardo Jordão , gerente de marketing de a Brasoftware , o produto -- entregue em o máximo em 15 dias -- sai por um preço similar a a importação feita por o usuário .
+MESSAGE|:|Na sentença "T",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(todos -> adversários)
+(os -> adversários)
+(adversários -> eliminados)
+(de -> tótó)
+(tótó -> adversários)
+(foram -> eliminados)
+(eliminados -> root)
+(. -> eliminados)..
+Liste as relações de dependência sintática na sentença "Segundo Ricardo Jordão , gerente de marketing de a Brasoftware , o produto -- entregue em o máximo em 15 dias -- sai por um preço similar a a importação feita por o usuário .", usando o formato (token dependente -> token cabeça).
+---------------ERROR--------------
+A taxa de serviço de a Brasoftware é coberta por o desconto que obtém junto a o fornecedor .
+MESSAGE|:|Na sentença "T",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(todos -> adversários)
+(os -> adversários)
+(adversários -> eliminados)
+(de -> tótó)
+(tótó -> adversários)
+(foram -> eliminados)
+(eliminados -> root)
+(. -> eliminados)..
+Liste as relações de dependência sintática na sentença "A taxa de serviço de a Brasoftware é coberta por o desconto que obtém junto a o fornecedor .", usando o formato (token dependente -> token cabeça).
+---------------ERROR--------------
+ARRIET CHANIN -- A artista mostra 15 monotipias trabalhadas em papel artesanal de folha de bananeira e 12 gravuras em metal , que são instrumentos musicais e conchas .
+MESSAGE|:|Na sentença "T",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(todos -> adversários)
+(os -> adversários)
+(adversários -> eliminados)
+(de -> tótó)
+(tótó -> adversários)
+(foram -> eliminados)
+(eliminados -> root)
+(. -> eliminados)..
+Liste as relações de dependência sintática na sentença "ARRIET CHANIN -- A artista mostra 15 monotipias trabalhadas em papel artesanal de folha de bananeira e 12 gravuras em metal , que são instrumentos musicais e conchas .", usando o formato (token dependente -> token cabeça).
+---------------ERROR--------------
+De seg a sex de as 11h a as 19h e sáb de as 10h a as 13h .
+MESSAGE|:|Na sentença "T",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(todos -> adversários)
+(os -> adversários)
+(adversários -> eliminados)
+(de -> tótó)
+(tótó -> adversários)
+(foram -> eliminados)
+(eliminados -> root)
+(. -> eliminados)..
+Liste as relações de dependência sintática na sentença "De seg a sex de as 11h a as 19h e sáb de as 10h a as 13h .", usando o formato (token dependente -> token cabeça).
+---------------ERROR--------------
+Preços de as obras : de R$ 50 a R$ 500 .
+MESSAGE|:|Na sentença "T",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(todos -> adversários)
+(os -> adversários)
+(adversários -> eliminados)
+(de -> tótó)
+(tótó -> adversários)
+(foram -> eliminados)
+(eliminados -> root)
+(. -> eliminados)..
+Liste as relações de dependência sintática na sentença "Preços de as obras : de R$ 50 a R$ 500 .", usando o formato (token dependente -> token cabeça).
+---------------ERROR--------------
+Até 30 de setembro .
+MESSAGE|:|Na sentença "T",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(todos -> adversários)
+(os -> adversários)
+(adversários -> eliminados)
+(de -> tótó)
+(tótó -> adversários)
+(foram -> eliminados)
+(eliminados -> root)
+(. -> eliminados)..
+Liste as relações de dependência sintática na sentença "Até 30 de setembro .", usando o formato (token dependente -> token cabeça).
+---------------ERROR--------------

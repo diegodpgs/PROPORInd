@@ -1,0 +1,2571 @@
+Inoba boe erore barägy ji , inoba boe erore karo ji , inoba boe erore kiogy ji , tygä tabo , baiga tabo , baiga akorewu tabo
+MESSAGE|:|Na sentença "U , duboe , imanamage , ityiemage",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(u -> root)
+(, -> u)
+(duboe -> u)
+(, -> duboe)
+(imanamage -> u)
+(, -> imanamage)
+(ityiemage -> imanamage)..
+Liste as relações de dependência sintática na sentença "Inoba boe erore barägy ji , inoba boe erore karo ji , inoba boe erore kiogy ji , tygä tabo , baiga tabo , baiga akorewu tabo", usando o formato (token dependente -> token cabeça).
+REPLY|:|(inoba -> erore)
+(boe -> inoba)
+(erore -> barägy)
+(barägy -> ji)
+(ji -> ,)
+(inoba -> erore)
+(boe -> inoba)
+(erore -> karo)
+(karo -> ji)
+(ji -> ,)
+(inoba -> erore)
+(boe -> inoba)
+(erore -> kiogy)
+(kiogy -> ji)
+(ji -> ,)
+(tygä -> tabo)
+(tabo -> baiga)
+(baiga -> tabo)
+(baiga -> akorewu)
+(akorewu -> tabo)
+REFINE [(boe]
+REFINE [(boe]
+REFINE [(boe]
+REFINE [(boe]
+REFINE [boe]
+REFINE [boe]
+-----------END REFINE---------
+REFINE [inoba)]
+REFINE [inoba)]
+REFINE [inoba)]
+REFINE [inoba)]
+REFINE [inoba]
+-----------END REFINE---------
+REFINE [(erore]
+REFINE [(erore]
+REFINE [(erore]
+REFINE [(erore]
+REFINE [erore]
+REFINE [erore]
+-----------END REFINE---------
+REFINE [barägy)]
+REFINE [barägy)]
+REFINE [barägy)]
+REFINE [barägy)]
+REFINE [barägy]
+-----------END REFINE---------
+REFINE [(barägy]
+REFINE [(barägy]
+REFINE [(barägy]
+REFINE [(barägy]
+REFINE [barägy]
+REFINE [barägy]
+-----------END REFINE---------
+REFINE [ji)]
+REFINE [ji)]
+REFINE [ji)]
+REFINE [ji)]
+REFINE [ji]
+-----------END REFINE---------
+REFINE [(ji]
+REFINE [(ji]
+REFINE [(ji]
+REFINE [(ji]
+REFINE [ji]
+REFINE [ji]
+-----------END REFINE---------
+REFINE [,)]
+REFINE [,)]
+REFINE [,)]
+REFINE [,)]
+REFINE [,]
+-----------END REFINE---------
+REFINE [(inoba]
+REFINE [(inoba]
+REFINE [(inoba]
+REFINE [(inoba]
+REFINE [inoba]
+REFINE [inoba]
+-----------END REFINE---------
+REFINE [erore)]
+REFINE [erore)]
+REFINE [erore)]
+REFINE [erore)]
+REFINE [erore]
+-----------END REFINE---------
+REFINE [(boe]
+REFINE [(boe]
+REFINE [(boe]
+REFINE [(boe]
+REFINE [boe]
+REFINE [boe]
+-----------END REFINE---------
+REFINE [inoba)]
+REFINE [inoba)]
+REFINE [inoba)]
+REFINE [inoba)]
+REFINE [inoba]
+-----------END REFINE---------
+REFINE [(erore]
+REFINE [(erore]
+REFINE [(erore]
+REFINE [(erore]
+REFINE [erore]
+REFINE [erore]
+-----------END REFINE---------
+REFINE [karo)]
+REFINE [karo)]
+REFINE [karo)]
+REFINE [karo)]
+REFINE [karo]
+-----------END REFINE---------
+REFINE [(karo]
+REFINE [(karo]
+REFINE [(karo]
+REFINE [(karo]
+REFINE [karo]
+REFINE [karo]
+-----------END REFINE---------
+REFINE [ji)]
+REFINE [ji)]
+REFINE [ji)]
+REFINE [ji)]
+REFINE [ji]
+-----------END REFINE---------
+REFINE [(ji]
+REFINE [(ji]
+REFINE [(ji]
+REFINE [(ji]
+REFINE [ji]
+REFINE [ji]
+-----------END REFINE---------
+REFINE [,)]
+REFINE [,)]
+REFINE [,)]
+REFINE [,)]
+REFINE [,]
+-----------END REFINE---------
+REFINE [(inoba]
+REFINE [(inoba]
+REFINE [(inoba]
+REFINE [(inoba]
+REFINE [inoba]
+REFINE [inoba]
+-----------END REFINE---------
+REFINE [erore)]
+REFINE [erore)]
+REFINE [erore)]
+REFINE [erore)]
+REFINE [erore]
+-----------END REFINE---------
+REFINE [(boe]
+REFINE [(boe]
+REFINE [(boe]
+REFINE [(boe]
+REFINE [boe]
+REFINE [boe]
+-----------END REFINE---------
+REFINE [inoba)]
+REFINE [inoba)]
+REFINE [inoba)]
+REFINE [inoba)]
+REFINE [inoba]
+-----------END REFINE---------
+REFINE [(erore]
+REFINE [(erore]
+REFINE [(erore]
+REFINE [(erore]
+REFINE [erore]
+REFINE [erore]
+-----------END REFINE---------
+REFINE [kiogy)]
+REFINE [kiogy)]
+REFINE [kiogy)]
+REFINE [kiogy)]
+REFINE [kiogy]
+-----------END REFINE---------
+REFINE [(kiogy]
+REFINE [(kiogy]
+REFINE [(kiogy]
+REFINE [(kiogy]
+REFINE [kiogy]
+REFINE [kiogy]
+-----------END REFINE---------
+REFINE [ji)]
+REFINE [ji)]
+REFINE [ji)]
+REFINE [ji)]
+REFINE [ji]
+-----------END REFINE---------
+REFINE [(ji]
+REFINE [(ji]
+REFINE [(ji]
+REFINE [(ji]
+REFINE [ji]
+REFINE [ji]
+-----------END REFINE---------
+REFINE [,)]
+REFINE [,)]
+REFINE [,)]
+REFINE [,)]
+REFINE [,]
+-----------END REFINE---------
+REFINE [(tygä]
+REFINE [(tygä]
+REFINE [(tygä]
+REFINE [(tygä]
+REFINE [tygä]
+REFINE [tygä]
+-----------END REFINE---------
+REFINE [tabo)]
+REFINE [tabo)]
+REFINE [tabo)]
+REFINE [tabo)]
+REFINE [tabo]
+-----------END REFINE---------
+REFINE [(tabo]
+REFINE [(tabo]
+REFINE [(tabo]
+REFINE [(tabo]
+REFINE [tabo]
+REFINE [tabo]
+-----------END REFINE---------
+REFINE [baiga)]
+REFINE [baiga)]
+REFINE [baiga)]
+REFINE [baiga)]
+REFINE [baiga]
+-----------END REFINE---------
+REFINE [(baiga]
+REFINE [(baiga]
+REFINE [(baiga]
+REFINE [(baiga]
+REFINE [baiga]
+REFINE [baiga]
+-----------END REFINE---------
+REFINE [tabo)]
+REFINE [tabo)]
+REFINE [tabo)]
+REFINE [tabo)]
+REFINE [tabo]
+-----------END REFINE---------
+REFINE [(baiga]
+REFINE [(baiga]
+REFINE [(baiga]
+REFINE [(baiga]
+REFINE [baiga]
+REFINE [baiga]
+-----------END REFINE---------
+REFINE [akorewu)]
+REFINE [akorewu)]
+REFINE [akorewu)]
+REFINE [akorewu)]
+REFINE [akorewu]
+-----------END REFINE---------
+REFINE [(akorewu]
+REFINE [(akorewu]
+REFINE [(akorewu]
+REFINE [(akorewu]
+REFINE [akorewu]
+REFINE [akorewu]
+-----------END REFINE---------
+REFINE [tabo)]
+REFINE [tabo)]
+REFINE [tabo)]
+REFINE [tabo)]
+REFINE [tabo]
+-----------END REFINE---------
+chatGPT|:|boe<@>inoba<#>erore<@>barägy<#>barägy<@>ji<#>ji<@>,<#>inoba<@>erore<#>boe<@>inoba<#>erore<@>karo<#>karo<@>ji<#>ji<@>,<#>inoba<@>erore<#>boe<@>inoba<#>erore<@>kiogy<#>kiogy<@>ji<#>ji<@>,<#>tygä<@>tabo<#>tabo<@>baiga<#>baiga<@>tabo<#>baiga<@>akorewu<#>akorewu<@>tabo|:|UDA:0.444<#>DDA: 0.111
+GoldTree |:|Inoba<@>erore<@>obj<#>boe<@>erore<@>nsubj<#>erore<@>root<@>root<#>barägy<@>erore<@>obl<#>ji<@>barägy<@>case<#>,<@>erore<@>punct<#>inoba<@>erore<@>obj<#>boe<@>erore<@>nsubj<#>erore<@>erore<@>parataxis<#>karo<@>erore<@>obl<#>ji<@>karo<@>case<#>,<@>erore<@>punct<#>inoba<@>erore<@>obj<#>boe<@>erore<@>case<#>erore<@>erore<@>parataxis<#>kiogy<@>erore<@>obl<#>ji<@>kiogy<@>case<#>,<@>erore<@>punct<#>tygä<@>erore<@>obl<#>tabo<@>tygä<@>case<#>,<@>tygä<@>punct<#>baiga<@>tygä<@>conj<#>tabo<@>baiga<@>case<#>,<@>baiga<@>punct<#>baiga<@>tygä<@>conj<#>akorewu<@>baiga<@>nmod<#>tabo<@>baiga<@>case
+>--<
+Pegareure rokare ino , mearydae bokwarewu , jorydae bokwarewu imedyre , rokare ino , aredyre rokare ino , dyre rokare ino
+MESSAGE|:|Na sentença "U , duboe , imanamage , ityiemage",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(u -> root)
+(, -> u)
+(duboe -> u)
+(, -> duboe)
+(imanamage -> u)
+(, -> imanamage)
+(ityiemage -> imanamage)..
+Liste as relações de dependência sintática na sentença "Pegareure rokare ino , mearydae bokwarewu , jorydae bokwarewu imedyre , rokare ino , aredyre rokare ino , dyre rokare ino", usando o formato (token dependente -> token cabeça).
+REPLY|:|As relações de dependência sintática na sentença "Pegareure rokare ino , mearydae bokwarewu , jorydae bokwarewu imedyre , rokare ino , aredyre rokare ino , dyre rokare ino" são:
+
+(pegareure -> rokare)
+(rokare -> ino)
+(ino -> ,)
+(mearydae -> bokwarewu)
+(bokwarewu -> mearydae)
+(jorydae -> bokwarewu)
+(bokwarewu -> imedyre)
+(imedyre -> jorydae)
+(rokare -> ino)
+(aredyre -> rokare)
+(rokare -> ino)
+(dyre -> rokare)
+(rokare -> ino)
+REFINE [(pegareure]
+REFINE [(pegareure]
+REFINE [(pegareure]
+REFINE [(pegareure]
+REFINE [pegareure]
+REFINE [pegareure]
+-----------END REFINE---------
+REFINE [rokare)]
+REFINE [rokare)]
+REFINE [rokare)]
+REFINE [rokare)]
+REFINE [rokare]
+-----------END REFINE---------
+REFINE [(rokare]
+REFINE [(rokare]
+REFINE [(rokare]
+REFINE [(rokare]
+REFINE [rokare]
+REFINE [rokare]
+-----------END REFINE---------
+REFINE [ino)]
+REFINE [ino)]
+REFINE [ino)]
+REFINE [ino)]
+REFINE [ino]
+-----------END REFINE---------
+REFINE [(ino]
+REFINE [(ino]
+REFINE [(ino]
+REFINE [(ino]
+REFINE [ino]
+REFINE [ino]
+-----------END REFINE---------
+REFINE [,)]
+REFINE [,)]
+REFINE [,)]
+REFINE [,)]
+REFINE [,]
+-----------END REFINE---------
+REFINE [(mearydae]
+REFINE [(mearydae]
+REFINE [(mearydae]
+REFINE [(mearydae]
+REFINE [mearydae]
+REFINE [mearydae]
+-----------END REFINE---------
+REFINE [bokwarewu)]
+REFINE [bokwarewu)]
+REFINE [bokwarewu)]
+REFINE [bokwarewu)]
+REFINE [bokwarewu]
+-----------END REFINE---------
+REFINE [(bokwarewu]
+REFINE [(bokwarewu]
+REFINE [(bokwarewu]
+REFINE [(bokwarewu]
+REFINE [bokwarewu]
+REFINE [bokwarewu]
+-----------END REFINE---------
+REFINE [mearydae)]
+REFINE [mearydae)]
+REFINE [mearydae)]
+REFINE [mearydae)]
+REFINE [mearydae]
+-----------END REFINE---------
+REFINE [(jorydae]
+REFINE [(jorydae]
+REFINE [(jorydae]
+REFINE [(jorydae]
+REFINE [jorydae]
+REFINE [jorydae]
+-----------END REFINE---------
+REFINE [bokwarewu)]
+REFINE [bokwarewu)]
+REFINE [bokwarewu)]
+REFINE [bokwarewu)]
+REFINE [bokwarewu]
+-----------END REFINE---------
+REFINE [(bokwarewu]
+REFINE [(bokwarewu]
+REFINE [(bokwarewu]
+REFINE [(bokwarewu]
+REFINE [bokwarewu]
+REFINE [bokwarewu]
+-----------END REFINE---------
+REFINE [imedyre)]
+REFINE [imedyre)]
+REFINE [imedyre)]
+REFINE [imedyre)]
+REFINE [imedyre]
+-----------END REFINE---------
+REFINE [(imedyre]
+REFINE [(imedyre]
+REFINE [(imedyre]
+REFINE [(imedyre]
+REFINE [imedyre]
+REFINE [imedyre]
+-----------END REFINE---------
+REFINE [jorydae)]
+REFINE [jorydae)]
+REFINE [jorydae)]
+REFINE [jorydae)]
+REFINE [jorydae]
+-----------END REFINE---------
+REFINE [(rokare]
+REFINE [(rokare]
+REFINE [(rokare]
+REFINE [(rokare]
+REFINE [rokare]
+REFINE [rokare]
+-----------END REFINE---------
+REFINE [ino)]
+REFINE [ino)]
+REFINE [ino)]
+REFINE [ino)]
+REFINE [ino]
+-----------END REFINE---------
+REFINE [(aredyre]
+REFINE [(aredyre]
+REFINE [(aredyre]
+REFINE [(aredyre]
+REFINE [aredyre]
+REFINE [aredyre]
+-----------END REFINE---------
+REFINE [rokare)]
+REFINE [rokare)]
+REFINE [rokare)]
+REFINE [rokare)]
+REFINE [rokare]
+-----------END REFINE---------
+REFINE [(rokare]
+REFINE [(rokare]
+REFINE [(rokare]
+REFINE [(rokare]
+REFINE [rokare]
+REFINE [rokare]
+-----------END REFINE---------
+REFINE [ino)]
+REFINE [ino)]
+REFINE [ino)]
+REFINE [ino)]
+REFINE [ino]
+-----------END REFINE---------
+REFINE [(dyre]
+REFINE [(dyre]
+REFINE [(dyre]
+REFINE [(dyre]
+REFINE [dyre]
+REFINE [dyre]
+-----------END REFINE---------
+REFINE [rokare)]
+REFINE [rokare)]
+REFINE [rokare)]
+REFINE [rokare)]
+REFINE [rokare]
+-----------END REFINE---------
+REFINE [(rokare]
+REFINE [(rokare]
+REFINE [(rokare]
+REFINE [(rokare]
+REFINE [rokare]
+REFINE [rokare]
+-----------END REFINE---------
+REFINE [ino)]
+REFINE [ino)]
+REFINE [ino)]
+REFINE [ino)]
+REFINE [ino]
+-----------END REFINE---------
+chatGPT|:|<@><#>pegareure<@>rokare<#>rokare<@>ino<#>ino<@>,<#>mearydae<@>bokwarewu<#>bokwarewu<@>mearydae<#>jorydae<@>bokwarewu<#>bokwarewu<@>imedyre<#>imedyre<@>jorydae<#>rokare<@>ino<#>aredyre<@>rokare<#>rokare<@>ino<#>dyre<@>rokare<#>rokare<@>ino|:|UDA:0.429<#>DDA: 0.143
+GoldTree |:|Pegareure<@>rokare<@>ccomp<#>rokare<@>root<@>root<#>ino<@>rokare<@>advmod<#>,<@>rokare<@>punct<#>mearydae<@>imedyre<@>acl<#>bokwarewu<@>mearydae<@>dep<#>,<@>mearydae<@>punct<#>jorydae<@>mearydae<@>conj<#>bokwarewu<@>jorydae<@>dep<#>imedyre<@>rokare<@>nsubj<#>,<@>rokare<@>punct<#>rokare<@>rokare<@>parataxis<#>ino<@>rokare<@>advmod<#>,<@>rokare<@>punct<#>aredyre<@>rokare<@>nsubj<#>rokare<@>rokare<@>parataxis<#>ino<@>rokare<@>advmod<#>,<@>rokare<@>punct<#>dyre<@>rokare<@>ccomp<#>rokare<@>rokare<@>parataxis<#>ino<@>rokare<@>advmod
+>--<
+Deu ure boku to , ure itura to , Deu ure ju , kuiada , aroe nowu boe jamedy boe ure to boe enogwagewu ji
+MESSAGE|:|Na sentença "U , duboe , imanamage , ityiemage",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(u -> root)
+(, -> u)
+(duboe -> u)
+(, -> duboe)
+(imanamage -> u)
+(, -> imanamage)
+(ityiemage -> imanamage)..
+Liste as relações de dependência sintática na sentença "Deu ure boku to , ure itura to , Deu ure ju , kuiada , aroe nowu boe jamedy boe ure to boe enogwagewu ji", usando o formato (token dependente -> token cabeça).
+REPLY|:|(deu -> root)
+(ure -> deu)
+(boku -> ure)
+(to -> deu)
+(ure -> to)
+(itura -> ure)
+(to -> itura)
+(deu -> ure)
+(ure -> ju)
+(kuiada -> ure)
+(aroe -> kuiada)
+(nowu -> aroe)
+(boe -> nowu)
+(jamady -> boe)
+(boe -> nowu)
+(ure -> to)
+(boe -> to)
+(enogwagewu -> boe)
+(ji -> enogwagewu)
+REFINE [(ure]
+REFINE [(ure]
+REFINE [(ure]
+REFINE [(ure]
+REFINE [ure]
+REFINE [ure]
+-----------END REFINE---------
+REFINE [deu)]
+REFINE [deu)]
+REFINE [deu)]
+REFINE [deu)]
+REFINE [deu]
+-----------END REFINE---------
+REFINE [(boku]
+REFINE [(boku]
+REFINE [(boku]
+REFINE [(boku]
+REFINE [boku]
+REFINE [boku]
+-----------END REFINE---------
+REFINE [ure)]
+REFINE [ure)]
+REFINE [ure)]
+REFINE [ure)]
+REFINE [ure]
+-----------END REFINE---------
+REFINE [(to]
+REFINE [(to]
+REFINE [(to]
+REFINE [(to]
+REFINE [to]
+REFINE [to]
+-----------END REFINE---------
+REFINE [deu)]
+REFINE [deu)]
+REFINE [deu)]
+REFINE [deu)]
+REFINE [deu]
+-----------END REFINE---------
+REFINE [(ure]
+REFINE [(ure]
+REFINE [(ure]
+REFINE [(ure]
+REFINE [ure]
+REFINE [ure]
+-----------END REFINE---------
+REFINE [to)]
+REFINE [to)]
+REFINE [to)]
+REFINE [to)]
+REFINE [to]
+-----------END REFINE---------
+REFINE [(itura]
+REFINE [(itura]
+REFINE [(itura]
+REFINE [(itura]
+REFINE [itura]
+REFINE [itura]
+-----------END REFINE---------
+REFINE [ure)]
+REFINE [ure)]
+REFINE [ure)]
+REFINE [ure)]
+REFINE [ure]
+-----------END REFINE---------
+REFINE [(to]
+REFINE [(to]
+REFINE [(to]
+REFINE [(to]
+REFINE [to]
+REFINE [to]
+-----------END REFINE---------
+REFINE [itura)]
+REFINE [itura)]
+REFINE [itura)]
+REFINE [itura)]
+REFINE [itura]
+-----------END REFINE---------
+REFINE [(deu]
+REFINE [(deu]
+REFINE [(deu]
+REFINE [(deu]
+REFINE [deu]
+REFINE [deu]
+-----------END REFINE---------
+REFINE [ure)]
+REFINE [ure)]
+REFINE [ure)]
+REFINE [ure)]
+REFINE [ure]
+-----------END REFINE---------
+REFINE [(ure]
+REFINE [(ure]
+REFINE [(ure]
+REFINE [(ure]
+REFINE [ure]
+REFINE [ure]
+-----------END REFINE---------
+REFINE [ju)]
+REFINE [ju)]
+REFINE [ju)]
+REFINE [ju)]
+REFINE [ju]
+-----------END REFINE---------
+REFINE [(kuiada]
+REFINE [(kuiada]
+REFINE [(kuiada]
+REFINE [(kuiada]
+REFINE [kuiada]
+REFINE [kuiada]
+-----------END REFINE---------
+REFINE [ure)]
+REFINE [ure)]
+REFINE [ure)]
+REFINE [ure)]
+REFINE [ure]
+-----------END REFINE---------
+REFINE [(aroe]
+REFINE [(aroe]
+REFINE [(aroe]
+REFINE [(aroe]
+REFINE [aroe]
+REFINE [aroe]
+-----------END REFINE---------
+REFINE [kuiada)]
+REFINE [kuiada)]
+REFINE [kuiada)]
+REFINE [kuiada)]
+REFINE [kuiada]
+-----------END REFINE---------
+REFINE [(nowu]
+REFINE [(nowu]
+REFINE [(nowu]
+REFINE [(nowu]
+REFINE [nowu]
+REFINE [nowu]
+-----------END REFINE---------
+REFINE [aroe)]
+REFINE [aroe)]
+REFINE [aroe)]
+REFINE [aroe)]
+REFINE [aroe]
+-----------END REFINE---------
+REFINE [(boe]
+REFINE [(boe]
+REFINE [(boe]
+REFINE [(boe]
+REFINE [boe]
+REFINE [boe]
+-----------END REFINE---------
+REFINE [nowu)]
+REFINE [nowu)]
+REFINE [nowu)]
+REFINE [nowu)]
+REFINE [nowu]
+-----------END REFINE---------
+REFINE [(jamady]
+REFINE [(jamady]
+REFINE [(jamady]
+REFINE [(jamady]
+REFINE [jamady]
+REFINE [jamady]
+-----------END REFINE---------
+REFINE [boe)]
+REFINE [boe)]
+REFINE [boe)]
+REFINE [boe)]
+REFINE [boe]
+-----------END REFINE---------
+REFINE [(boe]
+REFINE [(boe]
+REFINE [(boe]
+REFINE [(boe]
+REFINE [boe]
+REFINE [boe]
+-----------END REFINE---------
+REFINE [nowu)]
+REFINE [nowu)]
+REFINE [nowu)]
+REFINE [nowu)]
+REFINE [nowu]
+-----------END REFINE---------
+REFINE [(ure]
+REFINE [(ure]
+REFINE [(ure]
+REFINE [(ure]
+REFINE [ure]
+REFINE [ure]
+-----------END REFINE---------
+REFINE [to)]
+REFINE [to)]
+REFINE [to)]
+REFINE [to)]
+REFINE [to]
+-----------END REFINE---------
+REFINE [(boe]
+REFINE [(boe]
+REFINE [(boe]
+REFINE [(boe]
+REFINE [boe]
+REFINE [boe]
+-----------END REFINE---------
+REFINE [to)]
+REFINE [to)]
+REFINE [to)]
+REFINE [to)]
+REFINE [to]
+-----------END REFINE---------
+REFINE [(enogwagewu]
+REFINE [(enogwagewu]
+REFINE [(enogwagewu]
+REFINE [(enogwagewu]
+REFINE [enogwagewu]
+REFINE [enogwagewu]
+-----------END REFINE---------
+REFINE [boe)]
+REFINE [boe)]
+REFINE [boe)]
+REFINE [boe)]
+REFINE [boe]
+-----------END REFINE---------
+REFINE [(ji]
+REFINE [(ji]
+REFINE [(ji]
+REFINE [(ji]
+REFINE [ji]
+REFINE [ji]
+-----------END REFINE---------
+REFINE [enogwagewu)]
+REFINE [enogwagewu)]
+REFINE [enogwagewu)]
+REFINE [enogwagewu)]
+REFINE [enogwagewu]
+-----------END REFINE---------
+chatGPT|:|ure<@>deu<#>boku<@>ure<#>to<@>deu<#>ure<@>to<#>itura<@>ure<#>to<@>itura<#>deu<@>ure<#>ure<@>ju<#>kuiada<@>ure<#>aroe<@>kuiada<#>nowu<@>aroe<#>boe<@>nowu<#>jamady<@>boe<#>boe<@>nowu<#>ure<@>to<#>boe<@>to<#>enogwagewu<@>boe<#>ji<@>enogwagewu|:|UDA:0.280<#>DDA: 0.120
+GoldTree |:|Deu<@>to<@>nsubj<#>ure<@>to<@>dep<#>boku<@>to<@>obj<#>to<@>root<@>root<#>,<@>to<@>punct<#>ure<@>to<@>dep<#>itura<@>to<@>obj<#>to<@>to<@>parataxis<#>,<@>to<@>punct<#>Deu<@>to<@>nsubj<#>ure<@>to<@>dep<#>ju<@>to<@>obj<#>,<@>ju<@>punct<#>kuiada<@>ju<@>conj<#>,<@>kuiada<@>punct<#>aroe<@>ju<@>conj<#>nowu<@>boe<@>nmod<#>boe<@>ju<@>conj<#>jamedy<@>boe<@>nmod<#>boe<@>ju<@>conj<#>ure<@>to<@>dep<#>to<@>to<@>parataxis<#>boe<@>enogwagewu<@>nsubj<#>enogwagewu<@>to<@>advcl<#>ji<@>enogwagewu<@>case
+>--<
+Deu ure ia aredu to , nowu oredu iere Adão , oreduje iere Eva
+MESSAGE|:|Na sentença "U , duboe , imanamage , ityiemage",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(u -> root)
+(, -> u)
+(duboe -> u)
+(, -> duboe)
+(imanamage -> u)
+(, -> imanamage)
+(ityiemage -> imanamage)..
+Liste as relações de dependência sintática na sentença "Deu ure ia aredu to , nowu oredu iere Adão , oreduje iere Eva", usando o formato (token dependente -> token cabeça).
+REPLY|:|(deu -> root)
+(ure -> deu)
+(ia -> ure)
+(aredu -> ure)
+(to -> deu)
+(, -> deu)
+(nowu -> to)
+(oredu -> nowu)
+(iere -> oredu)
+(Adão -> iere)
+(, -> deu)
+(oreduje -> deu)
+(iere -> oreduje)
+(Eva -> iere)
+REFINE [(ure]
+REFINE [(ure]
+REFINE [(ure]
+REFINE [(ure]
+REFINE [ure]
+REFINE [ure]
+-----------END REFINE---------
+REFINE [deu)]
+REFINE [deu)]
+REFINE [deu)]
+REFINE [deu)]
+REFINE [deu]
+-----------END REFINE---------
+REFINE [(ia]
+REFINE [(ia]
+REFINE [(ia]
+REFINE [(ia]
+REFINE [ia]
+REFINE [ia]
+-----------END REFINE---------
+REFINE [ure)]
+REFINE [ure)]
+REFINE [ure)]
+REFINE [ure)]
+REFINE [ure]
+-----------END REFINE---------
+REFINE [(aredu]
+REFINE [(aredu]
+REFINE [(aredu]
+REFINE [(aredu]
+REFINE [aredu]
+REFINE [aredu]
+-----------END REFINE---------
+REFINE [ure)]
+REFINE [ure)]
+REFINE [ure)]
+REFINE [ure)]
+REFINE [ure]
+-----------END REFINE---------
+REFINE [(to]
+REFINE [(to]
+REFINE [(to]
+REFINE [(to]
+REFINE [to]
+REFINE [to]
+-----------END REFINE---------
+REFINE [deu)]
+REFINE [deu)]
+REFINE [deu)]
+REFINE [deu)]
+REFINE [deu]
+-----------END REFINE---------
+REFINE [(,]
+REFINE [(,]
+REFINE [(,]
+REFINE [(,]
+REFINE [,]
+REFINE [,]
+-----------END REFINE---------
+REFINE [deu)]
+REFINE [deu)]
+REFINE [deu)]
+REFINE [deu)]
+REFINE [deu]
+-----------END REFINE---------
+REFINE [(nowu]
+REFINE [(nowu]
+REFINE [(nowu]
+REFINE [(nowu]
+REFINE [nowu]
+REFINE [nowu]
+-----------END REFINE---------
+REFINE [to)]
+REFINE [to)]
+REFINE [to)]
+REFINE [to)]
+REFINE [to]
+-----------END REFINE---------
+REFINE [(oredu]
+REFINE [(oredu]
+REFINE [(oredu]
+REFINE [(oredu]
+REFINE [oredu]
+REFINE [oredu]
+-----------END REFINE---------
+REFINE [nowu)]
+REFINE [nowu)]
+REFINE [nowu)]
+REFINE [nowu)]
+REFINE [nowu]
+-----------END REFINE---------
+REFINE [(iere]
+REFINE [(iere]
+REFINE [(iere]
+REFINE [(iere]
+REFINE [iere]
+REFINE [iere]
+-----------END REFINE---------
+REFINE [oredu)]
+REFINE [oredu)]
+REFINE [oredu)]
+REFINE [oredu)]
+REFINE [oredu]
+-----------END REFINE---------
+REFINE [(Adão]
+REFINE [(Adão]
+REFINE [(Adão]
+REFINE [(Adão]
+REFINE [Adão]
+REFINE [Adão]
+-----------END REFINE---------
+REFINE [iere)]
+REFINE [iere)]
+REFINE [iere)]
+REFINE [iere)]
+REFINE [iere]
+-----------END REFINE---------
+REFINE [(,]
+REFINE [(,]
+REFINE [(,]
+REFINE [(,]
+REFINE [,]
+REFINE [,]
+-----------END REFINE---------
+REFINE [deu)]
+REFINE [deu)]
+REFINE [deu)]
+REFINE [deu)]
+REFINE [deu]
+-----------END REFINE---------
+REFINE [(oreduje]
+REFINE [(oreduje]
+REFINE [(oreduje]
+REFINE [(oreduje]
+REFINE [oreduje]
+REFINE [oreduje]
+-----------END REFINE---------
+REFINE [deu)]
+REFINE [deu)]
+REFINE [deu)]
+REFINE [deu)]
+REFINE [deu]
+-----------END REFINE---------
+REFINE [(iere]
+REFINE [(iere]
+REFINE [(iere]
+REFINE [(iere]
+REFINE [iere]
+REFINE [iere]
+-----------END REFINE---------
+REFINE [oreduje)]
+REFINE [oreduje)]
+REFINE [oreduje)]
+REFINE [oreduje)]
+REFINE [oreduje]
+-----------END REFINE---------
+REFINE [(Eva]
+REFINE [(Eva]
+REFINE [(Eva]
+REFINE [(Eva]
+REFINE [Eva]
+REFINE [Eva]
+-----------END REFINE---------
+REFINE [iere)]
+REFINE [iere)]
+REFINE [iere)]
+REFINE [iere)]
+REFINE [iere]
+-----------END REFINE---------
+chatGPT|:|ure<@>deu<#>ia<@>ure<#>aredu<@>ure<#>to<@>deu<#>,<@>deu<#>nowu<@>to<#>oredu<@>nowu<#>iere<@>oredu<#>Adão<@>iere<#>,<@>deu<#>oreduje<@>deu<#>iere<@>oreduje<#>Eva<@>iere|:|UDA:0.429<#>DDA: 0.000
+GoldTree |:|Deu<@>to<@>nsubj<#>ure<@>to<@>dep<#>ia<@>aredu<@>det<#>aredu<@>to<@>obj<#>to<@>root<@>root<#>,<@>to<@>punct<#>nowu<@>oredu<@>det<#>oredu<@>iere<@>nmod<#>iere<@>Adão<@>nsubj<#>Adão<@>to<@>parataxis<#>,<@>Adão<@>punct<#>oreduje<@>iere<@>nmod<#>iere<@>Eva<@>nsubj<#>Eva<@>to<@>parataxis
+>--<
+Deu koiare ure Satanae towuje ure bope towuje boekare etaidure etugoduwo pudumiwo tugurire , pudumiwo tugodure Deu kori kocare Deu ure rugadu barigu
+MESSAGE|:|Na sentença "U , duboe , imanamage , ityiemage",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(u -> root)
+(, -> u)
+(duboe -> u)
+(, -> duboe)
+(imanamage -> u)
+(, -> imanamage)
+(ityiemage -> imanamage)..
+Liste as relações de dependência sintática na sentença "Deu koiare ure Satanae towuje ure bope towuje boekare etaidure etugoduwo pudumiwo tugurire , pudumiwo tugodure Deu kori kocare Deu ure rugadu barigu", usando o formato (token dependente -> token cabeça).
+REPLY|:|(Deu -> root)
+(koiare -> Deu)
+(ure -> koiare)
+(Satanae -> ure)
+(towuje -> Satanae)
+(ure -> towuje)
+(bope -> towuje)
+(towuje -> bope)
+(boekare -> towuje)
+(etaidure -> boekare)
+(etugoduwo -> etaidure)
+(pudumiwo -> etugoduwo)
+(tugurire -> pudumiwo)
+(, -> tugurire)
+(pudumiwo -> tugurire)
+(tugodure -> Deu)
+(Deu -> tugodure)
+(kori -> Deu)
+(kocare -> kori)
+(Deu -> kocare)
+(ure -> Deu)
+(rugadu -> ure)
+(barigu -> rugadu)
+REFINE [(koiare]
+REFINE [(koiare]
+REFINE [(koiare]
+REFINE [(koiare]
+REFINE [koiare]
+REFINE [koiare]
+-----------END REFINE---------
+REFINE [Deu)]
+REFINE [Deu)]
+REFINE [Deu)]
+REFINE [Deu)]
+REFINE [Deu]
+-----------END REFINE---------
+REFINE [(ure]
+REFINE [(ure]
+REFINE [(ure]
+REFINE [(ure]
+REFINE [ure]
+REFINE [ure]
+-----------END REFINE---------
+REFINE [koiare)]
+REFINE [koiare)]
+REFINE [koiare)]
+REFINE [koiare)]
+REFINE [koiare]
+-----------END REFINE---------
+REFINE [(Satanae]
+REFINE [(Satanae]
+REFINE [(Satanae]
+REFINE [(Satanae]
+REFINE [Satanae]
+REFINE [Satanae]
+-----------END REFINE---------
+REFINE [ure)]
+REFINE [ure)]
+REFINE [ure)]
+REFINE [ure)]
+REFINE [ure]
+-----------END REFINE---------
+REFINE [(towuje]
+REFINE [(towuje]
+REFINE [(towuje]
+REFINE [(towuje]
+REFINE [towuje]
+REFINE [towuje]
+-----------END REFINE---------
+REFINE [Satanae)]
+REFINE [Satanae)]
+REFINE [Satanae)]
+REFINE [Satanae)]
+REFINE [Satanae]
+-----------END REFINE---------
+REFINE [(ure]
+REFINE [(ure]
+REFINE [(ure]
+REFINE [(ure]
+REFINE [ure]
+REFINE [ure]
+-----------END REFINE---------
+REFINE [towuje)]
+REFINE [towuje)]
+REFINE [towuje)]
+REFINE [towuje)]
+REFINE [towuje]
+-----------END REFINE---------
+REFINE [(bope]
+REFINE [(bope]
+REFINE [(bope]
+REFINE [(bope]
+REFINE [bope]
+REFINE [bope]
+-----------END REFINE---------
+REFINE [towuje)]
+REFINE [towuje)]
+REFINE [towuje)]
+REFINE [towuje)]
+REFINE [towuje]
+-----------END REFINE---------
+REFINE [(towuje]
+REFINE [(towuje]
+REFINE [(towuje]
+REFINE [(towuje]
+REFINE [towuje]
+REFINE [towuje]
+-----------END REFINE---------
+REFINE [bope)]
+REFINE [bope)]
+REFINE [bope)]
+REFINE [bope)]
+REFINE [bope]
+-----------END REFINE---------
+REFINE [(boekare]
+REFINE [(boekare]
+REFINE [(boekare]
+REFINE [(boekare]
+REFINE [boekare]
+REFINE [boekare]
+-----------END REFINE---------
+REFINE [towuje)]
+REFINE [towuje)]
+REFINE [towuje)]
+REFINE [towuje)]
+REFINE [towuje]
+-----------END REFINE---------
+REFINE [(etaidure]
+REFINE [(etaidure]
+REFINE [(etaidure]
+REFINE [(etaidure]
+REFINE [etaidure]
+REFINE [etaidure]
+-----------END REFINE---------
+REFINE [boekare)]
+REFINE [boekare)]
+REFINE [boekare)]
+REFINE [boekare)]
+REFINE [boekare]
+-----------END REFINE---------
+REFINE [(etugoduwo]
+REFINE [(etugoduwo]
+REFINE [(etugoduwo]
+REFINE [(etugoduwo]
+REFINE [etugoduwo]
+REFINE [etugoduwo]
+-----------END REFINE---------
+REFINE [etaidure)]
+REFINE [etaidure)]
+REFINE [etaidure)]
+REFINE [etaidure)]
+REFINE [etaidure]
+-----------END REFINE---------
+REFINE [(pudumiwo]
+REFINE [(pudumiwo]
+REFINE [(pudumiwo]
+REFINE [(pudumiwo]
+REFINE [pudumiwo]
+REFINE [pudumiwo]
+-----------END REFINE---------
+REFINE [etugoduwo)]
+REFINE [etugoduwo)]
+REFINE [etugoduwo)]
+REFINE [etugoduwo)]
+REFINE [etugoduwo]
+-----------END REFINE---------
+REFINE [(tugurire]
+REFINE [(tugurire]
+REFINE [(tugurire]
+REFINE [(tugurire]
+REFINE [tugurire]
+REFINE [tugurire]
+-----------END REFINE---------
+REFINE [pudumiwo)]
+REFINE [pudumiwo)]
+REFINE [pudumiwo)]
+REFINE [pudumiwo)]
+REFINE [pudumiwo]
+-----------END REFINE---------
+REFINE [(,]
+REFINE [(,]
+REFINE [(,]
+REFINE [(,]
+REFINE [,]
+REFINE [,]
+-----------END REFINE---------
+REFINE [tugurire)]
+REFINE [tugurire)]
+REFINE [tugurire)]
+REFINE [tugurire)]
+REFINE [tugurire]
+-----------END REFINE---------
+REFINE [(pudumiwo]
+REFINE [(pudumiwo]
+REFINE [(pudumiwo]
+REFINE [(pudumiwo]
+REFINE [pudumiwo]
+REFINE [pudumiwo]
+-----------END REFINE---------
+REFINE [tugurire)]
+REFINE [tugurire)]
+REFINE [tugurire)]
+REFINE [tugurire)]
+REFINE [tugurire]
+-----------END REFINE---------
+REFINE [(tugodure]
+REFINE [(tugodure]
+REFINE [(tugodure]
+REFINE [(tugodure]
+REFINE [tugodure]
+REFINE [tugodure]
+-----------END REFINE---------
+REFINE [Deu)]
+REFINE [Deu)]
+REFINE [Deu)]
+REFINE [Deu)]
+REFINE [Deu]
+-----------END REFINE---------
+REFINE [(Deu]
+REFINE [(Deu]
+REFINE [(Deu]
+REFINE [(Deu]
+REFINE [Deu]
+REFINE [Deu]
+-----------END REFINE---------
+REFINE [tugodure)]
+REFINE [tugodure)]
+REFINE [tugodure)]
+REFINE [tugodure)]
+REFINE [tugodure]
+-----------END REFINE---------
+REFINE [(kori]
+REFINE [(kori]
+REFINE [(kori]
+REFINE [(kori]
+REFINE [kori]
+REFINE [kori]
+-----------END REFINE---------
+REFINE [Deu)]
+REFINE [Deu)]
+REFINE [Deu)]
+REFINE [Deu)]
+REFINE [Deu]
+-----------END REFINE---------
+REFINE [(kocare]
+REFINE [(kocare]
+REFINE [(kocare]
+REFINE [(kocare]
+REFINE [kocare]
+REFINE [kocare]
+-----------END REFINE---------
+REFINE [kori)]
+REFINE [kori)]
+REFINE [kori)]
+REFINE [kori)]
+REFINE [kori]
+-----------END REFINE---------
+REFINE [(Deu]
+REFINE [(Deu]
+REFINE [(Deu]
+REFINE [(Deu]
+REFINE [Deu]
+REFINE [Deu]
+-----------END REFINE---------
+REFINE [kocare)]
+REFINE [kocare)]
+REFINE [kocare)]
+REFINE [kocare)]
+REFINE [kocare]
+-----------END REFINE---------
+REFINE [(ure]
+REFINE [(ure]
+REFINE [(ure]
+REFINE [(ure]
+REFINE [ure]
+REFINE [ure]
+-----------END REFINE---------
+REFINE [Deu)]
+REFINE [Deu)]
+REFINE [Deu)]
+REFINE [Deu)]
+REFINE [Deu]
+-----------END REFINE---------
+REFINE [(rugadu]
+REFINE [(rugadu]
+REFINE [(rugadu]
+REFINE [(rugadu]
+REFINE [rugadu]
+REFINE [rugadu]
+-----------END REFINE---------
+REFINE [ure)]
+REFINE [ure)]
+REFINE [ure)]
+REFINE [ure)]
+REFINE [ure]
+-----------END REFINE---------
+REFINE [(barigu]
+REFINE [(barigu]
+REFINE [(barigu]
+REFINE [(barigu]
+REFINE [barigu]
+REFINE [barigu]
+-----------END REFINE---------
+REFINE [rugadu)]
+REFINE [rugadu)]
+REFINE [rugadu)]
+REFINE [rugadu)]
+REFINE [rugadu]
+-----------END REFINE---------
+chatGPT|:|koiare<@>Deu<#>ure<@>koiare<#>Satanae<@>ure<#>towuje<@>Satanae<#>ure<@>towuje<#>bope<@>towuje<#>towuje<@>bope<#>boekare<@>towuje<#>etaidure<@>boekare<#>etugoduwo<@>etaidure<#>pudumiwo<@>etugoduwo<#>tugurire<@>pudumiwo<#>,<@>tugurire<#>pudumiwo<@>tugurire<#>tugodure<@>Deu<#>Deu<@>tugodure<#>kori<@>Deu<#>kocare<@>kori<#>Deu<@>kocare<#>ure<@>Deu<#>rugadu<@>ure<#>barigu<@>rugadu|:|UDA:0.435<#>DDA: 0.261
+GoldTree |:|Deu<@>towuje<@>nsubj<#>koiare<@>towuje<@>advmod<#>ure<@>towuje<@>dep<#>Satanae<@>towuje<@>obj<#>towuje<@>root<@>root<#>ure<@>towuje<@>dep<#>bope<@>towuje<@>obj<#>towuje<@>towuje<@>parataxis<#>boekare<@>etaidure<@>advmod<#>etaidure<@>towuje<@>parataxis<#>etugoduwo<@>etaidure<@>xcomp<#>pudumiwo<@>etugoduwo<@>obj<#>tugurire<@>etugoduwo<@>xcomp<#>,<@>tugurire<@>punct<#>pudumiwo<@>tugodure<@>obj<#>tugodure<@>etugoduwo<@>xcomp<#>Deu<@>tugodure<@>obl<#>kori<@>Deu<@>case<#>kocare<@>barigu<@>discourse<#>Deu<@>barigu<@>nsubj<#>ure<@>barigu<@>dep<#>rugadu<@>barigu<@>discourse<#>barigu<@>tugodure<@>parataxis
+>--<
+adugore emage ewito
+MESSAGE|:|Na sentença "U , duboe , imanamage , ityiemage",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(u -> root)
+(, -> u)
+(duboe -> u)
+(, -> duboe)
+(imanamage -> u)
+(, -> imanamage)
+(ityiemage -> imanamage)..
+Liste as relações de dependência sintática na sentença "adugore emage ewito", usando o formato (token dependente -> token cabeça).
+REPLY|:|Na sentença "adugore emage ewito", as relações de dependência sintática seriam:
+
+(adugore -> emage)
+(emage -> ewito)
+REFINE [(adugore]
+REFINE [(adugore]
+REFINE [(adugore]
+REFINE [(adugore]
+REFINE [adugore]
+REFINE [adugore]
+-----------END REFINE---------
+REFINE [emage)]
+REFINE [emage)]
+REFINE [emage)]
+REFINE [emage)]
+REFINE [emage]
+-----------END REFINE---------
+REFINE [(emage]
+REFINE [(emage]
+REFINE [(emage]
+REFINE [(emage]
+REFINE [emage]
+REFINE [emage]
+-----------END REFINE---------
+REFINE [ewito)]
+REFINE [ewito)]
+REFINE [ewito)]
+REFINE [ewito)]
+REFINE [ewito]
+-----------END REFINE---------
+chatGPT|:|<@><#>adugore<@>emage<#>emage<@>ewito|:|UDA:0.333<#>DDA: 0.333
+GoldTree |:|adugore<@>ewito<@>nsubj<#>emage<@>ewito<@>obj<#>ewito<@>root<@>root
+>--<
+imedy ure karo kowuje
+MESSAGE|:|Na sentença "U , duboe , imanamage , ityiemage",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(u -> root)
+(, -> u)
+(duboe -> u)
+(, -> duboe)
+(imanamage -> u)
+(, -> imanamage)
+(ityiemage -> imanamage)..
+Liste as relações de dependência sintática na sentença "imedy ure karo kowuje", usando o formato (token dependente -> token cabeça).
+REPLY|:|(i -> ure)
+(medy -> ure)
+(u -> karo)
+(kowuje -> u)
+REFINE [(medy]
+REFINE [(medy]
+REFINE [(medy]
+REFINE [(medy]
+REFINE [medy]
+REFINE [medy]
+-----------END REFINE---------
+REFINE [ure)]
+REFINE [ure)]
+REFINE [ure)]
+REFINE [ure)]
+REFINE [ure]
+-----------END REFINE---------
+REFINE [(u]
+REFINE [(u]
+REFINE [(u]
+REFINE [(u]
+REFINE [u]
+REFINE [u]
+-----------END REFINE---------
+REFINE [karo)]
+REFINE [karo)]
+REFINE [karo)]
+REFINE [karo)]
+REFINE [karo]
+-----------END REFINE---------
+REFINE [(kowuje]
+REFINE [(kowuje]
+REFINE [(kowuje]
+REFINE [(kowuje]
+REFINE [kowuje]
+REFINE [kowuje]
+-----------END REFINE---------
+REFINE [u)]
+REFINE [u)]
+REFINE [u)]
+REFINE [u)]
+REFINE [u]
+-----------END REFINE---------
+chatGPT|:|medy<@>ure<#>u<@>karo<#>kowuje<@>u|:|UDA:0.000<#>DDA: 0.000
+GoldTree |:|imedy<@>kowuje<@>nsubj<#>ure<@>imedy<@>dep<#>karo<@>kowuje<@>obj<#>kowuje<@>root<@>root
+>--<
+ikie
+MESSAGE|:|Na sentença "U , duboe , imanamage , ityiemage",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(u -> root)
+(, -> u)
+(duboe -> u)
+(, -> duboe)
+(imanamage -> u)
+(, -> imanamage)
+(ityiemage -> imanamage)..
+Liste as relações de dependência sintática na sentença "ikie", usando o formato (token dependente -> token cabeça).
+REPLY|:|Não é possível listar as relações de dependência sintática na sentença "ikie" apenas com o formato (token dependente -> token cabeça), pois é necessário ter informações adicionais para construir a árvore de dependência.
+chatGPT|:||:|UDA:0.000<#>DDA: 0.000
+GoldTree |:|ikie<@>root<@>root
+>--<
+negekygyre erudyre pudyi pobo to
+MESSAGE|:|Na sentença "U , duboe , imanamage , ityiemage",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(u -> root)
+(, -> u)
+(duboe -> u)
+(, -> duboe)
+(imanamage -> u)
+(, -> imanamage)
+(ityiemage -> imanamage)..
+Liste as relações de dependência sintática na sentença "negekygyre erudyre pudyi pobo to", usando o formato (token dependente -> token cabeça).
+REPLY|:|As relações de dependência sintática na sentença "negekygyre erudyre pudyi pobo to" são:
+
+(negekygyre -> pudyi)
+(erudyre -> negekygyre)
+(pudyi -> erudyre)
+(pobo -> pudyi)
+(to -> pobo)
+REFINE [(negekygyre]
+REFINE [(negekygyre]
+REFINE [(negekygyre]
+REFINE [(negekygyre]
+REFINE [negekygyre]
+REFINE [negekygyre]
+-----------END REFINE---------
+REFINE [pudyi)]
+REFINE [pudyi)]
+REFINE [pudyi)]
+REFINE [pudyi)]
+REFINE [pudyi]
+-----------END REFINE---------
+REFINE [(erudyre]
+REFINE [(erudyre]
+REFINE [(erudyre]
+REFINE [(erudyre]
+REFINE [erudyre]
+REFINE [erudyre]
+-----------END REFINE---------
+REFINE [negekygyre)]
+REFINE [negekygyre)]
+REFINE [negekygyre)]
+REFINE [negekygyre)]
+REFINE [negekygyre]
+-----------END REFINE---------
+REFINE [(pudyi]
+REFINE [(pudyi]
+REFINE [(pudyi]
+REFINE [(pudyi]
+REFINE [pudyi]
+REFINE [pudyi]
+-----------END REFINE---------
+REFINE [erudyre)]
+REFINE [erudyre)]
+REFINE [erudyre)]
+REFINE [erudyre)]
+REFINE [erudyre]
+-----------END REFINE---------
+REFINE [(pobo]
+REFINE [(pobo]
+REFINE [(pobo]
+REFINE [(pobo]
+REFINE [pobo]
+REFINE [pobo]
+-----------END REFINE---------
+REFINE [pudyi)]
+REFINE [pudyi)]
+REFINE [pudyi)]
+REFINE [pudyi)]
+REFINE [pudyi]
+-----------END REFINE---------
+REFINE [(to]
+REFINE [(to]
+REFINE [(to]
+REFINE [(to]
+REFINE [to]
+REFINE [to]
+-----------END REFINE---------
+REFINE [pobo)]
+REFINE [pobo)]
+REFINE [pobo)]
+REFINE [pobo)]
+REFINE [pobo]
+-----------END REFINE---------
+chatGPT|:|<@><#>negekygyre<@>pudyi<#>erudyre<@>negekygyre<#>pudyi<@>erudyre<#>pobo<@>pudyi<#>to<@>pobo|:|UDA:0.600<#>DDA: 0.400
+GoldTree |:|negekygyre<@>erudyre<@>nsubj<#>erudyre<@>root<@>root<#>pudyi<@>erudyre<@>obl<#>pobo<@>erudyre<@>obl<#>to<@>pobo<@>case
+>--<
+inakore itaregodyie
+MESSAGE|:|Na sentença "U , duboe , imanamage , ityiemage",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(u -> root)
+(, -> u)
+(duboe -> u)
+(, -> duboe)
+(imanamage -> u)
+(, -> imanamage)
+(ityiemage -> imanamage)..
+Liste as relações de dependência sintática na sentença "inakore itaregodyie", usando o formato (token dependente -> token cabeça).
+REPLY|:|(inakore -> itaregodyie)
+(itaregodyie -> root)
+REFINE [(itaregodyie]
+REFINE [(itaregodyie]
+REFINE [(itaregodyie]
+REFINE [(itaregodyie]
+REFINE [itaregodyie]
+REFINE [itaregodyie]
+-----------END REFINE---------
+REFINE [root)]
+REFINE [root)]
+REFINE [root)]
+REFINE [root)]
+REFINE [root]
+-----------END REFINE---------
+chatGPT|:|itaregodyie<@>root|:|UDA:0.000<#>DDA: 0.000
+GoldTree |:|inakore<@>root<@>root<#>itaregodyie<@>inakore<@>xcomp
+>--<
+epagare toro ceno dinheiro bagai
+MESSAGE|:|Na sentença "U , duboe , imanamage , ityiemage",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(u -> root)
+(, -> u)
+(duboe -> u)
+(, -> duboe)
+(imanamage -> u)
+(, -> imanamage)
+(ityiemage -> imanamage)..
+Liste as relações de dependência sintática na sentença "epagare toro ceno dinheiro bagai", usando o formato (token dependente -> token cabeça).
+REPLY|:|(epagare -> toro)
+(toro -> root)
+(ceno -> toro)
+(dinheiro -> toro)
+(bagai -> ceno)
+REFINE [(toro]
+REFINE [(toro]
+REFINE [(toro]
+REFINE [(toro]
+REFINE [toro]
+REFINE [toro]
+-----------END REFINE---------
+REFINE [root)]
+REFINE [root)]
+REFINE [root)]
+REFINE [root)]
+REFINE [root]
+-----------END REFINE---------
+REFINE [(ceno]
+REFINE [(ceno]
+REFINE [(ceno]
+REFINE [(ceno]
+REFINE [ceno]
+REFINE [ceno]
+-----------END REFINE---------
+REFINE [toro)]
+REFINE [toro)]
+REFINE [toro)]
+REFINE [toro)]
+REFINE [toro]
+-----------END REFINE---------
+REFINE [(dinheiro]
+REFINE [(dinheiro]
+REFINE [(dinheiro]
+REFINE [(dinheiro]
+REFINE [dinheiro]
+REFINE [dinheiro]
+-----------END REFINE---------
+REFINE [toro)]
+REFINE [toro)]
+REFINE [toro)]
+REFINE [toro)]
+REFINE [toro]
+-----------END REFINE---------
+REFINE [(bagai]
+REFINE [(bagai]
+REFINE [(bagai]
+REFINE [(bagai]
+REFINE [bagai]
+REFINE [bagai]
+-----------END REFINE---------
+REFINE [ceno)]
+REFINE [ceno)]
+REFINE [ceno)]
+REFINE [ceno)]
+REFINE [ceno]
+-----------END REFINE---------
+chatGPT|:|toro<@>root<#>ceno<@>toro<#>dinheiro<@>toro<#>bagai<@>ceno|:|UDA:0.000<#>DDA: 0.000
+GoldTree |:|epagare<@>root<@>root<#>toro<@>epagare<@>advmod<#>ceno<@>dinheiro<@>nmod<#>dinheiro<@>epagare<@>obl<#>bagai<@>dinheiro<@>case
+>--<
+mearudaere tumotyie
+MESSAGE|:|Na sentença "U , duboe , imanamage , ityiemage",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(u -> root)
+(, -> u)
+(duboe -> u)
+(, -> duboe)
+(imanamage -> u)
+(, -> imanamage)
+(ityiemage -> imanamage)..
+Liste as relações de dependência sintática na sentença "mearudaere tumotyie", usando o formato (token dependente -> token cabeça).
+REPLY|:|(mearudaere -> root)
+(tumotyie -> mearudaere)
+REFINE [(tumotyie]
+REFINE [(tumotyie]
+REFINE [(tumotyie]
+REFINE [(tumotyie]
+REFINE [tumotyie]
+REFINE [tumotyie]
+-----------END REFINE---------
+REFINE [mearudaere)]
+REFINE [mearudaere)]
+REFINE [mearudaere)]
+REFINE [mearudaere)]
+REFINE [mearudaere]
+-----------END REFINE---------
+chatGPT|:|tumotyie<@>mearudaere|:|UDA:0.500<#>DDA: 0.500
+GoldTree |:|mearudaere<@>root<@>root<#>tumotyie<@>mearudaere<@>ccomp
+>--<
+patuwo pabai kae
+MESSAGE|:|Na sentença "U , duboe , imanamage , ityiemage",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(u -> root)
+(, -> u)
+(duboe -> u)
+(, -> duboe)
+(imanamage -> u)
+(, -> imanamage)
+(ityiemage -> imanamage)..
+Liste as relações de dependência sintática na sentença "patuwo pabai kae", usando o formato (token dependente -> token cabeça).
+REPLY|:|(patuwo -> pabai)
+(pabai -> kae)
+REFINE [(pabai]
+REFINE [(pabai]
+REFINE [(pabai]
+REFINE [(pabai]
+REFINE [pabai]
+REFINE [pabai]
+-----------END REFINE---------
+REFINE [kae)]
+REFINE [kae)]
+REFINE [kae)]
+REFINE [kae)]
+REFINE [kae]
+-----------END REFINE---------
+chatGPT|:|pabai<@>kae|:|UDA:0.333<#>DDA: 0.000
+GoldTree |:|patuwo<@>root<@>root<#>pabai<@>patuwo<@>obl<#>kae<@>pabai<@>case
+>--<
+ikare awy i kado
+MESSAGE|:|Na sentença "U , duboe , imanamage , ityiemage",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(u -> root)
+(, -> u)
+(duboe -> u)
+(, -> duboe)
+(imanamage -> u)
+(, -> imanamage)
+(ityiemage -> imanamage)..
+Liste as relações de dependência sintática na sentença "ikare awy i kado", usando o formato (token dependente -> token cabeça).
+REPLY|:|(ikare -> kado)
+(ikare -> awy)
+(i -> ikare)
+REFINE [(ikare]
+REFINE [(ikare]
+REFINE [(ikare]
+REFINE [(ikare]
+REFINE [ikare]
+REFINE [ikare]
+-----------END REFINE---------
+REFINE [awy)]
+REFINE [awy)]
+REFINE [awy)]
+REFINE [awy)]
+REFINE [awy]
+-----------END REFINE---------
+REFINE [(i]
+REFINE [(i]
+REFINE [(i]
+REFINE [(i]
+REFINE [i]
+REFINE [i]
+-----------END REFINE---------
+REFINE [ikare)]
+REFINE [ikare)]
+REFINE [ikare)]
+REFINE [ikare)]
+REFINE [ikare]
+-----------END REFINE---------
+chatGPT|:|ikare<@>awy<#>i<@>ikare|:|UDA:0.000<#>DDA: 0.000
+GoldTree |:|ikare<@>kado<@>nsubj<#>awy<@>i<@>det<#>i<@>kado<@>obj<#>kado<@>root<@>root
+>--<
+itykadyre
+MESSAGE|:|Na sentença "U , duboe , imanamage , ityiemage",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(u -> root)
+(, -> u)
+(duboe -> u)
+(, -> duboe)
+(imanamage -> u)
+(, -> imanamage)
+(ityiemage -> imanamage)..
+Liste as relações de dependência sintática na sentença "itykadyre", usando o formato (token dependente -> token cabeça).
+REPLY|:|(it -> yka)
+(yka -> dyre)
+REFINE [(yka]
+REFINE [(yka]
+REFINE [(yka]
+REFINE [(yka]
+REFINE [yka]
+REFINE [yka]
+-----------END REFINE---------
+REFINE [dyre)]
+REFINE [dyre)]
+REFINE [dyre)]
+REFINE [dyre)]
+REFINE [dyre]
+-----------END REFINE---------
+chatGPT|:|yka<@>dyre|:|UDA:0.000<#>DDA: 0.000
+GoldTree |:|itykadyre<@>root<@>root
+>--<
+cekigodyre adugo kowuje
+MESSAGE|:|Na sentença "U , duboe , imanamage , ityiemage",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(u -> root)
+(, -> u)
+(duboe -> u)
+(, -> duboe)
+(imanamage -> u)
+(, -> imanamage)
+(ityiemage -> imanamage)..
+Liste as relações de dependência sintática na sentença "cekigodyre adugo kowuje", usando o formato (token dependente -> token cabeça).
+REPLY|:|(cekigodyre -> adugo)
+(adugo -> kowuje)
+REFINE [(adugo]
+REFINE [(adugo]
+REFINE [(adugo]
+REFINE [(adugo]
+REFINE [adugo]
+REFINE [adugo]
+-----------END REFINE---------
+REFINE [kowuje)]
+REFINE [kowuje)]
+REFINE [kowuje)]
+REFINE [kowuje)]
+REFINE [kowuje]
+-----------END REFINE---------
+chatGPT|:|adugo<@>kowuje|:|UDA:0.333<#>DDA: 0.333
+GoldTree |:|cekigodyre<@>kowuje<@>nsubj<#>adugo<@>kowuje<@>obj<#>kowuje<@>root<@>root
+>--<
+imi iwogure pobu bagai
+MESSAGE|:|Na sentença "U , duboe , imanamage , ityiemage",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(u -> root)
+(, -> u)
+(duboe -> u)
+(, -> duboe)
+(imanamage -> u)
+(, -> imanamage)
+(ityiemage -> imanamage)..
+Liste as relações de dependência sintática na sentença "imi iwogure pobu bagai", usando o formato (token dependente -> token cabeça).
+REPLY|:|Na sentença "imi iwogure pobu bagai", as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça):
+
+(imi -> iwogure)
+(iwogure -> pobu)
+(pobu -> bagai)
+REFINE [(imi]
+REFINE [(imi]
+REFINE [(imi]
+REFINE [(imi]
+REFINE [imi]
+REFINE [imi]
+-----------END REFINE---------
+REFINE [iwogure)]
+REFINE [iwogure)]
+REFINE [iwogure)]
+REFINE [iwogure)]
+REFINE [iwogure]
+-----------END REFINE---------
+REFINE [(iwogure]
+REFINE [(iwogure]
+REFINE [(iwogure]
+REFINE [(iwogure]
+REFINE [iwogure]
+REFINE [iwogure]
+-----------END REFINE---------
+REFINE [pobu)]
+REFINE [pobu)]
+REFINE [pobu)]
+REFINE [pobu)]
+REFINE [pobu]
+-----------END REFINE---------
+REFINE [(pobu]
+REFINE [(pobu]
+REFINE [(pobu]
+REFINE [(pobu]
+REFINE [pobu]
+REFINE [pobu]
+-----------END REFINE---------
+REFINE [bagai)]
+REFINE [bagai)]
+REFINE [bagai)]
+REFINE [bagai)]
+REFINE [bagai]
+-----------END REFINE---------
+chatGPT|:|<@><#>imi<@>iwogure<#>iwogure<@>pobu<#>pobu<@>bagai|:|UDA:0.750<#>DDA: 0.250
+GoldTree |:|imi<@>iwogure<@>nsubj<#>iwogure<@>root<@>root<#>pobu<@>iwogure<@>obl<#>bagai<@>pobu<@>case
+>--<
+joruduiwabokware
+MESSAGE|:|Na sentença "U , duboe , imanamage , ityiemage",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(u -> root)
+(, -> u)
+(duboe -> u)
+(, -> duboe)
+(imanamage -> u)
+(, -> imanamage)
+(ityiemage -> imanamage)..
+Liste as relações de dependência sintática na sentença "joruduiwabokware", usando o formato (token dependente -> token cabeça).
+REPLY|:|As relações de dependência sintática na sentença "joruduiwabokware" são mostradas abaixo:
+(joruduiwabokware -> root)
+
+REFINE [(joruduiwabokware]
+REFINE [(joruduiwabokware]
+REFINE [(joruduiwabokware]
+REFINE [(joruduiwabokware]
+REFINE [joruduiwabokware]
+REFINE [joruduiwabokware]
+-----------END REFINE---------
+REFINE [root)]
+REFINE [root)]
+REFINE [root)]
+REFINE [root)]
+REFINE [root]
+-----------END REFINE---------
+chatGPT|:|joruduiwabokware<@>root<#><@>|:|UDA:1.000<#>DDA: 1.000
+GoldTree |:|joruduiwabokware<@>root<@>root
+>--<
+boere boe tygu woe
+MESSAGE|:|Na sentença "U , duboe , imanamage , ityiemage",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(u -> root)
+(, -> u)
+(duboe -> u)
+(, -> duboe)
+(imanamage -> u)
+(, -> imanamage)
+(ityiemage -> imanamage)..
+Liste as relações de dependência sintática na sentença "boere boe tygu woe", usando o formato (token dependente -> token cabeça).
+REPLY|:|Na sentença "boere boe tygu woe", as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça):
+
+(boere -> woe)
+(boe -> boere)
+(tygu -> boere)
+(woe -> boe)
+REFINE [(boere]
+REFINE [(boere]
+REFINE [(boere]
+REFINE [(boere]
+REFINE [boere]
+REFINE [boere]
+-----------END REFINE---------
+REFINE [woe)]
+REFINE [woe)]
+REFINE [woe)]
+REFINE [woe)]
+REFINE [woe]
+-----------END REFINE---------
+REFINE [(boe]
+REFINE [(boe]
+REFINE [(boe]
+REFINE [(boe]
+REFINE [boe]
+REFINE [boe]
+-----------END REFINE---------
+REFINE [boere)]
+REFINE [boere)]
+REFINE [boere)]
+REFINE [boere)]
+REFINE [boere]
+-----------END REFINE---------
+REFINE [(tygu]
+REFINE [(tygu]
+REFINE [(tygu]
+REFINE [(tygu]
+REFINE [tygu]
+REFINE [tygu]
+-----------END REFINE---------
+REFINE [boere)]
+REFINE [boere)]
+REFINE [boere)]
+REFINE [boere)]
+REFINE [boere]
+-----------END REFINE---------
+REFINE [(woe]
+REFINE [(woe]
+REFINE [(woe]
+REFINE [(woe]
+REFINE [woe]
+REFINE [woe]
+-----------END REFINE---------
+REFINE [boe)]
+REFINE [boe)]
+REFINE [boe)]
+REFINE [boe)]
+REFINE [boe]
+-----------END REFINE---------
+chatGPT|:|<@><#>boere<@>woe<#>boe<@>boere<#>tygu<@>boere<#>woe<@>boe|:|UDA:0.250<#>DDA: 0.000
+GoldTree |:|boere<@>tygu<@>nsubj<#>boe<@>tygu<@>obj<#>tygu<@>root<@>root<#>woe<@>tygu<@>advcl
+>--<
+iogudyba ubai käwydyre ?
+MESSAGE|:|Na sentença "U , duboe , imanamage , ityiemage",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(u -> root)
+(, -> u)
+(duboe -> u)
+(, -> duboe)
+(imanamage -> u)
+(, -> imanamage)
+(ityiemage -> imanamage)..
+Liste as relações de dependência sintática na sentença "iogudyba ubai käwydyre ?", usando o formato (token dependente -> token cabeça).
+REPLY|:|(iogudyba -> ubai)
+(ubai -> root)
+(, -> ubai)
+(käwydyre -> ubai)
+(? -> ubai)
+REFINE [(ubai]
+REFINE [(ubai]
+REFINE [(ubai]
+REFINE [(ubai]
+REFINE [ubai]
+REFINE [ubai]
+-----------END REFINE---------
+REFINE [root)]
+REFINE [root)]
+REFINE [root)]
+REFINE [root)]
+REFINE [root]
+-----------END REFINE---------
+REFINE [(,]
+REFINE [(,]
+REFINE [(,]
+REFINE [(,]
+REFINE [,]
+REFINE [,]
+-----------END REFINE---------
+REFINE [ubai)]
+REFINE [ubai)]
+REFINE [ubai)]
+REFINE [ubai)]
+REFINE [ubai]
+-----------END REFINE---------
+REFINE [(käwydyre]
+REFINE [(käwydyre]
+REFINE [(käwydyre]
+REFINE [(käwydyre]
+REFINE [käwydyre]
+REFINE [käwydyre]
+-----------END REFINE---------
+REFINE [ubai)]
+REFINE [ubai)]
+REFINE [ubai)]
+REFINE [ubai)]
+REFINE [ubai]
+-----------END REFINE---------
+REFINE [(?]
+REFINE [(?]
+REFINE [(?]
+REFINE [(?]
+REFINE [?]
+REFINE [?]
+-----------END REFINE---------
+REFINE [ubai)]
+REFINE [ubai)]
+REFINE [ubai)]
+REFINE [ubai)]
+REFINE [ubai]
+-----------END REFINE---------
+chatGPT|:|ubai<@>root<#>,<@>ubai<#>käwydyre<@>ubai<#>?<@>ubai|:|UDA:0.250<#>DDA: 0.000
+GoldTree |:|iogudyba<@>ubai<@>nmod<#>ubai<@>käwydyre<@>nsubj<#>käwydyre<@>root<@>root<#>?<@>käwydyre<@>punct
+>--<
+ure aiwo kowuje
+MESSAGE|:|Na sentença "U , duboe , imanamage , ityiemage",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(u -> root)
+(, -> u)
+(duboe -> u)
+(, -> duboe)
+(imanamage -> u)
+(, -> imanamage)
+(ityiemage -> imanamage)..
+Liste as relações de dependência sintática na sentença "ure aiwo kowuje", usando o formato (token dependente -> token cabeça).
+REPLY|:|(u -> root)
+(ure -> u)
+(aiwo -> u)
+(kowuje -> u)
+REFINE [(ure]
+REFINE [(ure]
+REFINE [(ure]
+REFINE [(ure]
+REFINE [ure]
+REFINE [ure]
+-----------END REFINE---------
+REFINE [u)]
+REFINE [u)]
+REFINE [u)]
+REFINE [u)]
+REFINE [u]
+-----------END REFINE---------
+REFINE [(aiwo]
+REFINE [(aiwo]
+REFINE [(aiwo]
+REFINE [(aiwo]
+REFINE [aiwo]
+REFINE [aiwo]
+-----------END REFINE---------
+REFINE [u)]
+REFINE [u)]
+REFINE [u)]
+REFINE [u)]
+REFINE [u]
+-----------END REFINE---------
+REFINE [(kowuje]
+REFINE [(kowuje]
+REFINE [(kowuje]
+REFINE [(kowuje]
+REFINE [kowuje]
+REFINE [kowuje]
+-----------END REFINE---------
+REFINE [u)]
+REFINE [u)]
+REFINE [u)]
+REFINE [u)]
+REFINE [u]
+-----------END REFINE---------
+chatGPT|:|ure<@>u<#>aiwo<@>u<#>kowuje<@>u|:|UDA:0.000<#>DDA: 0.000
+GoldTree |:|ure<@>kowuje<@>nsubj<#>aiwo<@>kowuje<@>obj<#>kowuje<@>root<@>root
+>--<
+iogudyba koiaba ure karo kowuje ?
+MESSAGE|:|Na sentença "U , duboe , imanamage , ityiemage",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(u -> root)
+(, -> u)
+(duboe -> u)
+(, -> duboe)
+(imanamage -> u)
+(, -> imanamage)
+(ityiemage -> imanamage)..
+Liste as relações de dependência sintática na sentença "iogudyba koiaba ure karo kowuje ?", usando o formato (token dependente -> token cabeça).
+REPLY|:|(iogudyba -> koiaba)
+(koiaba -> ure)
+(ure -> karo)
+(karo -> kowuje)
+(kowuje -> ?)
+REFINE [(koiaba]
+REFINE [(koiaba]
+REFINE [(koiaba]
+REFINE [(koiaba]
+REFINE [koiaba]
+REFINE [koiaba]
+-----------END REFINE---------
+REFINE [ure)]
+REFINE [ure)]
+REFINE [ure)]
+REFINE [ure)]
+REFINE [ure]
+-----------END REFINE---------
+REFINE [(ure]
+REFINE [(ure]
+REFINE [(ure]
+REFINE [(ure]
+REFINE [ure]
+REFINE [ure]
+-----------END REFINE---------
+REFINE [karo)]
+REFINE [karo)]
+REFINE [karo)]
+REFINE [karo)]
+REFINE [karo]
+-----------END REFINE---------
+REFINE [(karo]
+REFINE [(karo]
+REFINE [(karo]
+REFINE [(karo]
+REFINE [karo]
+REFINE [karo]
+-----------END REFINE---------
+REFINE [kowuje)]
+REFINE [kowuje)]
+REFINE [kowuje)]
+REFINE [kowuje)]
+REFINE [kowuje]
+-----------END REFINE---------
+REFINE [(kowuje]
+REFINE [(kowuje]
+REFINE [(kowuje]
+REFINE [(kowuje]
+REFINE [kowuje]
+REFINE [kowuje]
+-----------END REFINE---------
+REFINE [?)]
+REFINE [?)]
+REFINE [?)]
+REFINE [?)]
+REFINE [?]
+-----------END REFINE---------
+chatGPT|:|koiaba<@>ure<#>ure<@>karo<#>karo<@>kowuje<#>kowuje<@>?|:|UDA:0.333<#>DDA: 0.167
+GoldTree |:|iogudyba<@>kowuje<@>nsubj<#>koiaba<@>iogudyba<@>obl<#>ure<@>kowuje<@>dep<#>karo<@>kowuje<@>obj<#>kowuje<@>root<@>root<#>?<@>kowuje<@>punct
+>--<
+akore tudyie tubai kae
+MESSAGE|:|Na sentença "U , duboe , imanamage , ityiemage",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(u -> root)
+(, -> u)
+(duboe -> u)
+(, -> duboe)
+(imanamage -> u)
+(, -> imanamage)
+(ityiemage -> imanamage)..
+Liste as relações de dependência sintática na sentença "akore tudyie tubai kae", usando o formato (token dependente -> token cabeça).
+REPLY|:|Na sentença "akore tudyie tubai kae", as relações de dependência sintática seriam:
+
+(akore -> root)
+(tudyie -> akore)
+(tubai -> tudyie)
+(kae -> tudyie)
+REFINE [(akore]
+REFINE [(akore]
+REFINE [(akore]
+REFINE [(akore]
+REFINE [akore]
+REFINE [akore]
+-----------END REFINE---------
+REFINE [root)]
+REFINE [root)]
+REFINE [root)]
+REFINE [root)]
+REFINE [root]
+-----------END REFINE---------
+REFINE [(tudyie]
+REFINE [(tudyie]
+REFINE [(tudyie]
+REFINE [(tudyie]
+REFINE [tudyie]
+REFINE [tudyie]
+-----------END REFINE---------
+REFINE [akore)]
+REFINE [akore)]
+REFINE [akore)]
+REFINE [akore)]
+REFINE [akore]
+-----------END REFINE---------
+REFINE [(tubai]
+REFINE [(tubai]
+REFINE [(tubai]
+REFINE [(tubai]
+REFINE [tubai]
+REFINE [tubai]
+-----------END REFINE---------
+REFINE [tudyie)]
+REFINE [tudyie)]
+REFINE [tudyie)]
+REFINE [tudyie)]
+REFINE [tudyie]
+-----------END REFINE---------
+REFINE [(kae]
+REFINE [(kae]
+REFINE [(kae]
+REFINE [(kae]
+REFINE [kae]
+REFINE [kae]
+-----------END REFINE---------
+REFINE [tudyie)]
+REFINE [tudyie)]
+REFINE [tudyie)]
+REFINE [tudyie)]
+REFINE [tudyie]
+-----------END REFINE---------
+chatGPT|:|<@><#>akore<@>root<#>tudyie<@>akore<#>tubai<@>tudyie<#>kae<@>tudyie|:|UDA:0.750<#>DDA: 0.750
+GoldTree |:|akore<@>root<@>root<#>tudyie<@>akore<@>ccomp<#>tubai<@>tudyie<@>obl<#>kae<@>tubai<@>case
+>--<
+ire iwogure bagaiwy karo bito
+MESSAGE|:|Na sentença "U , duboe , imanamage , ityiemage",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(u -> root)
+(, -> u)
+(duboe -> u)
+(, -> duboe)
+(imanamage -> u)
+(, -> imanamage)
+(ityiemage -> imanamage)..
+Liste as relações de dependência sintática na sentença "ire iwogure bagaiwy karo bito", usando o formato (token dependente -> token cabeça).
+REPLY|:|(ire -> root)
+(iwogure -> ire)
+(bagaiwy -> iwogure)
+(karo -> bagaiwy)
+(bito -> karo)
+REFINE [(iwogure]
+REFINE [(iwogure]
+REFINE [(iwogure]
+REFINE [(iwogure]
+REFINE [iwogure]
+REFINE [iwogure]
+-----------END REFINE---------
+REFINE [ire)]
+REFINE [ire)]
+REFINE [ire)]
+REFINE [ire)]
+REFINE [ire]
+-----------END REFINE---------
+REFINE [(bagaiwy]
+REFINE [(bagaiwy]
+REFINE [(bagaiwy]
+REFINE [(bagaiwy]
+REFINE [bagaiwy]
+REFINE [bagaiwy]
+-----------END REFINE---------
+REFINE [iwogure)]
+REFINE [iwogure)]
+REFINE [iwogure)]
+REFINE [iwogure)]
+REFINE [iwogure]
+-----------END REFINE---------
+REFINE [(karo]
+REFINE [(karo]
+REFINE [(karo]
+REFINE [(karo]
+REFINE [karo]
+REFINE [karo]
+-----------END REFINE---------
+REFINE [bagaiwy)]
+REFINE [bagaiwy)]
+REFINE [bagaiwy)]
+REFINE [bagaiwy)]
+REFINE [bagaiwy]
+-----------END REFINE---------
+REFINE [(bito]
+REFINE [(bito]
+REFINE [(bito]
+REFINE [(bito]
+REFINE [bito]
+REFINE [bito]
+-----------END REFINE---------
+REFINE [karo)]
+REFINE [karo)]
+REFINE [karo)]
+REFINE [karo)]
+REFINE [karo]
+-----------END REFINE---------
+chatGPT|:|iwogure<@>ire<#>bagaiwy<@>iwogure<#>karo<@>bagaiwy<#>bito<@>karo|:|UDA:0.400<#>DDA: 0.200
+GoldTree |:|ire<@>bito<@>nsubj<#>iwogure<@>bito<@>acl<#>bagaiwy<@>iwogure<@>obl<#>karo<@>bito<@>obj<#>bito<@>root<@>root
+>--<
+iwogure itaidykaredy tapo
+MESSAGE|:|Na sentença "U , duboe , imanamage , ityiemage",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(u -> root)
+(, -> u)
+(duboe -> u)
+(, -> duboe)
+(imanamage -> u)
+(, -> imanamage)
+(ityiemage -> imanamage)..
+Liste as relações de dependência sintática na sentença "iwogure itaidykaredy tapo", usando o formato (token dependente -> token cabeça).
+REPLY|:|(iwogure -> tapo)
+(itaidykaredy -> iwogure)
+(tapo -> itaidykaredy)
+REFINE [(itaidykaredy]
+REFINE [(itaidykaredy]
+REFINE [(itaidykaredy]
+REFINE [(itaidykaredy]
+REFINE [itaidykaredy]
+REFINE [itaidykaredy]
+-----------END REFINE---------
+REFINE [iwogure)]
+REFINE [iwogure)]
+REFINE [iwogure)]
+REFINE [iwogure)]
+REFINE [iwogure]
+-----------END REFINE---------
+REFINE [(tapo]
+REFINE [(tapo]
+REFINE [(tapo]
+REFINE [(tapo]
+REFINE [tapo]
+REFINE [tapo]
+-----------END REFINE---------
+REFINE [itaidykaredy)]
+REFINE [itaidykaredy)]
+REFINE [itaidykaredy)]
+REFINE [itaidykaredy)]
+REFINE [itaidykaredy]
+-----------END REFINE---------
+chatGPT|:|itaidykaredy<@>iwogure<#>tapo<@>itaidykaredy|:|UDA:0.667<#>DDA: 0.667
+GoldTree |:|iwogure<@>root<@>root<#>itaidykaredy<@>iwogure<@>ccomp<#>tapo<@>itaidykaredy<@>obl
+>--<
+ioruduiwakare kaiba imedyre karo bito
+MESSAGE|:|Na sentença "U , duboe , imanamage , ityiemage",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(u -> root)
+(, -> u)
+(duboe -> u)
+(, -> duboe)
+(imanamage -> u)
+(, -> imanamage)
+(ityiemage -> imanamage)..
+Liste as relações de dependência sintática na sentença "ioruduiwakare kaiba imedyre karo bito", usando o formato (token dependente -> token cabeça).
+REPLY|:|As relações de dependência sintática na sentença "ioruduiwakare kaiba imedyre karo bito" são:
+
+(ioruduiwakare -> root)
+(kaiba -> ioruduiwakare)
+(imedyre -> ioruduiwakare)
+(karo -> imedyre)
+(bito -> kaiba)
+REFINE [(ioruduiwakare]
+REFINE [(ioruduiwakare]
+REFINE [(ioruduiwakare]
+REFINE [(ioruduiwakare]
+REFINE [ioruduiwakare]
+REFINE [ioruduiwakare]
+-----------END REFINE---------
+REFINE [root)]
+REFINE [root)]
+REFINE [root)]
+REFINE [root)]
+REFINE [root]
+-----------END REFINE---------
+REFINE [(kaiba]
+REFINE [(kaiba]
+REFINE [(kaiba]
+REFINE [(kaiba]
+REFINE [kaiba]
+REFINE [kaiba]
+-----------END REFINE---------
+REFINE [ioruduiwakare)]
+REFINE [ioruduiwakare)]
+REFINE [ioruduiwakare)]
+REFINE [ioruduiwakare)]
+REFINE [ioruduiwakare]
+-----------END REFINE---------
+REFINE [(imedyre]
+REFINE [(imedyre]
+REFINE [(imedyre]
+REFINE [(imedyre]
+REFINE [imedyre]
+REFINE [imedyre]
+-----------END REFINE---------
+REFINE [ioruduiwakare)]
+REFINE [ioruduiwakare)]
+REFINE [ioruduiwakare)]
+REFINE [ioruduiwakare)]
+REFINE [ioruduiwakare]
+-----------END REFINE---------
+REFINE [(karo]
+REFINE [(karo]
+REFINE [(karo]
+REFINE [(karo]
+REFINE [karo]
+REFINE [karo]
+-----------END REFINE---------
+REFINE [imedyre)]
+REFINE [imedyre)]
+REFINE [imedyre)]
+REFINE [imedyre)]
+REFINE [imedyre]
+-----------END REFINE---------
+REFINE [(bito]
+REFINE [(bito]
+REFINE [(bito]
+REFINE [(bito]
+REFINE [bito]
+REFINE [bito]
+-----------END REFINE---------
+REFINE [kaiba)]
+REFINE [kaiba)]
+REFINE [kaiba)]
+REFINE [kaiba)]
+REFINE [kaiba]
+-----------END REFINE---------
+chatGPT|:|<@><#>ioruduiwakare<@>root<#>kaiba<@>ioruduiwakare<#>imedyre<@>ioruduiwakare<#>karo<@>imedyre<#>bito<@>kaiba|:|UDA:0.400<#>DDA: 0.200
+GoldTree |:|ioruduiwakare<@>root<@>root<#>kaiba<@>bito<@>advmod<#>imedyre<@>bito<@>nsubj<#>karo<@>bito<@>obj<#>bito<@>ioruduiwakare<@>ccomp
+>--<
+marenarure aki rema
+MESSAGE|:|Na sentença "U , duboe , imanamage , ityiemage",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(u -> root)
+(, -> u)
+(duboe -> u)
+(, -> duboe)
+(imanamage -> u)
+(, -> imanamage)
+(ityiemage -> imanamage)..
+Liste as relações de dependência sintática na sentença "marenarure aki rema", usando o formato (token dependente -> token cabeça).
+REPLY|:|(marenarure -> aki)
+ (rem -> aki)
+REFINE [(rem]
+REFINE [(rem]
+REFINE [(rem]
+REFINE [(rem]
+REFINE [rem]
+REFINE [rem]
+-----------END REFINE---------
+REFINE [aki)]
+REFINE [aki)]
+REFINE [aki)]
+REFINE [aki)]
+REFINE [aki]
+-----------END REFINE---------
+chatGPT|:|rem<@>aki|:|UDA:0.000<#>DDA: 0.000
+GoldTree |:|marenarure<@>root<@>root<#>aki<@>marenarure<@>nsubj<#>rema<@>marenarure<@>dep
+>--<
+imode karo maky imedy rakydy negedyrogu rakydy ai
+MESSAGE|:|Na sentença "U , duboe , imanamage , ityiemage",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(u -> root)
+(, -> u)
+(duboe -> u)
+(, -> duboe)
+(imanamage -> u)
+(, -> imanamage)
+(ityiemage -> imanamage)..
+Liste as relações de dependência sintática na sentença "imode karo maky imedy rakydy negedyrogu rakydy ai", usando o formato (token dependente -> token cabeça).
+REPLY|:|As relações de dependência sintática na sentença "imode karo maky imedy rakydy negedyrogu rakydy ai" são mostradas abaixo:
+
+(imode -> karo)
+(karo -> root)
+(maky -> karo)
+(imedy -> rakydy)
+(rakydy -> karo)
+(negedyrogu -> rakydy)
+(rakydy -> maky)
+(ai -> rakydy)
+REFINE [(imode]
+REFINE [(imode]
+REFINE [(imode]
+REFINE [(imode]
+REFINE [imode]
+REFINE [imode]
+-----------END REFINE---------
+REFINE [karo)]
+REFINE [karo)]
+REFINE [karo)]
+REFINE [karo)]
+REFINE [karo]
+-----------END REFINE---------
+REFINE [(karo]
+REFINE [(karo]
+REFINE [(karo]
+REFINE [(karo]
+REFINE [karo]
+REFINE [karo]
+-----------END REFINE---------
+REFINE [root)]
+REFINE [root)]
+REFINE [root)]
+REFINE [root)]
+REFINE [root]
+-----------END REFINE---------
+REFINE [(maky]
+REFINE [(maky]
+REFINE [(maky]
+REFINE [(maky]
+REFINE [maky]
+REFINE [maky]
+-----------END REFINE---------
+REFINE [karo)]
+REFINE [karo)]
+REFINE [karo)]
+REFINE [karo)]
+REFINE [karo]
+-----------END REFINE---------
+REFINE [(imedy]
+REFINE [(imedy]
+REFINE [(imedy]
+REFINE [(imedy]
+REFINE [imedy]
+REFINE [imedy]
+-----------END REFINE---------
+REFINE [rakydy)]
+REFINE [rakydy)]
+REFINE [rakydy)]
+REFINE [rakydy)]
+REFINE [rakydy]
+-----------END REFINE---------
+REFINE [(rakydy]
+REFINE [(rakydy]
+REFINE [(rakydy]
+REFINE [(rakydy]
+REFINE [rakydy]
+REFINE [rakydy]
+-----------END REFINE---------
+REFINE [karo)]
+REFINE [karo)]
+REFINE [karo)]
+REFINE [karo)]
+REFINE [karo]
+-----------END REFINE---------
+REFINE [(negedyrogu]
+REFINE [(negedyrogu]
+REFINE [(negedyrogu]
+REFINE [(negedyrogu]
+REFINE [negedyrogu]
+REFINE [negedyrogu]
+-----------END REFINE---------
+REFINE [rakydy)]
+REFINE [rakydy)]
+REFINE [rakydy)]
+REFINE [rakydy)]
+REFINE [rakydy]
+-----------END REFINE---------
+REFINE [(rakydy]
+REFINE [(rakydy]
+REFINE [(rakydy]
+REFINE [(rakydy]
+REFINE [rakydy]
+REFINE [rakydy]
+-----------END REFINE---------
+REFINE [maky)]
+REFINE [maky)]
+REFINE [maky)]
+REFINE [maky)]
+REFINE [maky]
+-----------END REFINE---------
+REFINE [(ai]
+REFINE [(ai]
+REFINE [(ai]
+REFINE [(ai]
+REFINE [ai]
+REFINE [ai]
+-----------END REFINE---------
+REFINE [rakydy)]
+REFINE [rakydy)]
+REFINE [rakydy)]
+REFINE [rakydy)]
+REFINE [rakydy]
+-----------END REFINE---------
+chatGPT|:|<@><#>imode<@>karo<#>karo<@>root<#>maky<@>karo<#>imedy<@>rakydy<#>rakydy<@>karo<#>negedyrogu<@>rakydy<#>rakydy<@>maky<#>ai<@>rakydy|:|UDA:0.375<#>DDA: 0.000
+GoldTree |:|imode<@>maky<@>nsubj<#>karo<@>maky<@>obj<#>maky<@>root<@>root<#>imedy<@>maky<@>obl<#>rakydy<@>imedy<@>conj<#>negedyrogu<@>imedy<@>conj<#>rakydy<@>negedyrogu<@>conj<#>ai<@>imedy<@>case
+>--<
+Fabrício ure awagoe ebito
+MESSAGE|:|Na sentença "U , duboe , imanamage , ityiemage",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(u -> root)
+(, -> u)
+(duboe -> u)
+(, -> duboe)
+(imanamage -> u)
+(, -> imanamage)
+(ityiemage -> imanamage)..
+Liste as relações de dependência sintática na sentença "Fabrício ure awagoe ebito", usando o formato (token dependente -> token cabeça).
+REPLY|:|(Fabrício -> ure)
+(ure -> awagoe)
+(awagoe -> ebito)
+(ebito -> root)
+REFINE [(ure]
+REFINE [(ure]
+REFINE [(ure]
+REFINE [(ure]
+REFINE [ure]
+REFINE [ure]
+-----------END REFINE---------
+REFINE [awagoe)]
+REFINE [awagoe)]
+REFINE [awagoe)]
+REFINE [awagoe)]
+REFINE [awagoe]
+-----------END REFINE---------
+REFINE [(awagoe]
+REFINE [(awagoe]
+REFINE [(awagoe]
+REFINE [(awagoe]
+REFINE [awagoe]
+REFINE [awagoe]
+-----------END REFINE---------
+REFINE [ebito)]
+REFINE [ebito)]
+REFINE [ebito)]
+REFINE [ebito)]
+REFINE [ebito]
+-----------END REFINE---------
+REFINE [(ebito]
+REFINE [(ebito]
+REFINE [(ebito]
+REFINE [(ebito]
+REFINE [ebito]
+REFINE [ebito]
+-----------END REFINE---------
+REFINE [root)]
+REFINE [root)]
+REFINE [root)]
+REFINE [root)]
+REFINE [root]
+-----------END REFINE---------
+chatGPT|:|ure<@>awagoe<#>awagoe<@>ebito<#>ebito<@>root|:|UDA:0.500<#>DDA: 0.500
+GoldTree |:|Fabrício<@>ebito<@>nsubj<#>ure<@>ebito<@>dep<#>awagoe<@>ebito<@>obj<#>ebito<@>root<@>root
+>--<
+ibai pemegamodykare
+MESSAGE|:|Na sentença "U , duboe , imanamage , ityiemage",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(u -> root)
+(, -> u)
+(duboe -> u)
+(, -> duboe)
+(imanamage -> u)
+(, -> imanamage)
+(ityiemage -> imanamage)..
+Liste as relações de dependência sintática na sentença "ibai pemegamodykare", usando o formato (token dependente -> token cabeça).
+REPLY|:|(ibai -> pemegamodykare)
+(pemegamodykare -> root)
+REFINE [(pemegamodykare]
+REFINE [(pemegamodykare]
+REFINE [(pemegamodykare]
+REFINE [(pemegamodykare]
+REFINE [pemegamodykare]
+REFINE [pemegamodykare]
+-----------END REFINE---------
+REFINE [root)]
+REFINE [root)]
+REFINE [root)]
+REFINE [root)]
+REFINE [root]
+-----------END REFINE---------
+chatGPT|:|pemegamodykare<@>root|:|UDA:0.500<#>DDA: 0.500
+GoldTree |:|ibai<@>pemegamodykare<@>nsubj<#>pemegamodykare<@>root<@>root
+>--<

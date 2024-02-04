@@ -1,0 +1,158 @@
+Save dump_models/dmv/Bororo__4__train_10_viterbi_dmv.pickle
+16 tags
+------MARCADOR
+LOG->-modules/dmv_viterbi_model.py: DMV(object).__init__
+LOG->-modules/dmv_viterbi_model.py: DMV(object).init_params(self, train_tags, tag_set)
+initialize, sentence 0
+LOG->-modules/dmv_viterbi_model.py: eval(
+starting acc on length <= 10: #trees 69, undir 50.60, dir 30.68
+--MARCADOR while
+epoch 0, sentence 0
+
+
+avg_log_likelihood:-14.56501 time elapsed: 11.41 sec
+
+
+LOG->-modules/dmv_viterbi_model.py: eval(
+acc on length <= 10: #trees 69, undir 54.18, dir 33.07
+epoch 1, sentence 0
+
+
+avg_log_likelihood:-12.72318 time elapsed: 22.63 sec
+
+
+LOG->-modules/dmv_viterbi_model.py: eval(
+acc on length <= 10: #trees 69, undir 54.58, dir 33.86
+epoch 2, sentence 0
+
+
+avg_log_likelihood:-12.40932 time elapsed: 33.62 sec
+
+
+LOG->-modules/dmv_viterbi_model.py: eval(
+acc on length <= 10: #trees 69, undir 54.98, dir 34.26
+epoch 3, sentence 0
+
+
+avg_log_likelihood:-12.28123 time elapsed: 44.64 sec
+
+
+LOG->-modules/dmv_viterbi_model.py: eval(
+acc on length <= 10: #trees 69, undir 54.98, dir 34.26
+epoch 4, sentence 0
+
+
+avg_log_likelihood:-12.15156 time elapsed: 55.67 sec
+
+
+LOG->-modules/dmv_viterbi_model.py: eval(
+acc on length <= 10: #trees 69, undir 54.98, dir 34.26
+epoch 5, sentence 0
+
+
+avg_log_likelihood:-12.12095 time elapsed: 66.70 sec
+
+
+LOG->-modules/dmv_viterbi_model.py: eval(
+acc on length <= 10: #trees 69, undir 55.38, dir 35.06
+epoch 6, sentence 0
+
+
+avg_log_likelihood:-12.10846 time elapsed: 77.70 sec
+
+
+LOG->-modules/dmv_viterbi_model.py: eval(
+acc on length <= 10: #trees 69, undir 55.38, dir 35.06
+epoch 7, sentence 0
+
+
+avg_log_likelihood:-12.10757 time elapsed: 88.68 sec
+
+
+LOG->-modules/dmv_viterbi_model.py: eval(
+acc on length <= 10: #trees 69, undir 55.38, dir 35.06
+epoch 8, sentence 0
+
+
+avg_log_likelihood:-12.10637 time elapsed: 99.69 sec
+
+
+LOG->-modules/dmv_viterbi_model.py: eval(
+acc on length <= 10: #trees 69, undir 55.78, dir 35.86
+epoch 9, sentence 0
+
+
+avg_log_likelihood:-12.10080 time elapsed: 110.73 sec
+
+
+LOG->-modules/dmv_viterbi_model.py: eval(
+acc on length <= 10: #trees 69, undir 56.18, dir 36.65
+(0, -1)<#>(1, 2)<#>(2, 4)<#>(3, 2)<#>(4, 0)<#>(5, 6)<#>(6, 4) |  criacao_02
+(0, -1)<#>(1, 2)<#>(2, 0)<#>(3, 2)<#>(4, 5)<#>(5, 3)<#>(6, 5)<#>(7, 6) |  criacao_12
+(0, 1)<#>(1, 2)<#>(2, -1)<#>(3, 2) |  ABE-19
+(0, -1)<#>(1, 2)<#>(2, 0) |  ABE-24
+(0, -1) |  ABE-30
+(0, -1)<#>(1, 0) |  ABE-35
+(0, -1)<#>(1, 0)<#>(2, 1) |  ABE-42a
+(0, -1)<#>(1, 2)<#>(2, 0)<#>(3, 2) |  ABE-62
+(0, -1)<#>(1, 2)<#>(2, 0)<#>(3, 2) |  ABE-215
+(0, 1)<#>(1, -1)<#>(2, 1) |  ABE-220
+(0, 1)<#>(1, -1)<#>(2, 1) |  ABE-226
+(0, 1)<#>(1, -1) |  ABE-235
+(0, 1)<#>(1, -1)<#>(2, 1)<#>(3, 2)<#>(4, 3) |  ABE-242
+(0, -1) |  ABE-247
+(0, 1)<#>(1, -1)<#>(2, 1)<#>(3, 2) |  ABE-253
+(0, -1)<#>(1, 2)<#>(2, 0)<#>(3, 2)<#>(4, 3)<#>(5, 4) |  ABE-260
+(0, 2)<#>(1, 0)<#>(2, -1)<#>(3, 5)<#>(4, 3)<#>(5, 2) |  ABE-267
+(0, 1)<#>(1, -1)<#>(2, 3)<#>(3, 1)<#>(4, 3) |  ABE-272
+(0, 2)<#>(1, 0)<#>(2, 3)<#>(3, -1)<#>(4, 3)<#>(5, 4) |  ABE-277
+(0, 3)<#>(1, 2)<#>(2, 0)<#>(3, 4)<#>(4, -1)<#>(5, 4)<#>(6, 5) |  ABE-282
+(0, -1) |  ABE-294
+(0, 1)<#>(1, 2)<#>(2, 3)<#>(3, -1)<#>(4, 3) |  ABE-299
+(0, 1)<#>(1, -1)<#>(2, 3)<#>(3, 1) |  ABE-304
+(0, -1)<#>(1, 0) |  ABE-313
+(0, -1)<#>(1, 0) |  ABE-318
+(0, 1)<#>(1, -1) |  ABE-323
+(0, 1)<#>(1, 2)<#>(2, -1)<#>(3, 2) |  ABE-328
+(0, 1)<#>(1, -1)<#>(2, 1) |  ABE-336
+(0, 1)<#>(1, -1) |  ABE-342
+(0, 1)<#>(1, -1)<#>(2, 1) |  ABE-358
+(0, -1)<#>(1, 2)<#>(2, 0) |  ABE-367
+(0, 1)<#>(1, -1)<#>(2, 1)<#>(3, 2) |  CGPB-p13.2
+(0, -1) |  CGPB-p19.3.1
+(0, 1)<#>(1, 3)<#>(2, 1)<#>(3, -1)<#>(4, 3) |  CGPB-p24.1
+(0, -1)<#>(1, 0) |  CGPB-p40.2
+(0, 1)<#>(1, -1)<#>(2, 1) |  CGPB-p46.3.1
+(0, 2)<#>(1, 0)<#>(2, -1)<#>(3, 2)<#>(4, 5)<#>(5, 3)<#>(6, 5) |  CGPB-p55.1
+(0, 1)<#>(1, 2)<#>(2, -1)<#>(3, 2)<#>(4, 5)<#>(5, 3)<#>(6, 5) |  CGPB-p56.3
+(0, -1)<#>(1, 2)<#>(2, 3)<#>(3, 4)<#>(4, 0)<#>(5, 4)<#>(6, 5)<#>(7, 6)<#>(8, 7)<#>(9, 8) |  CGPB-p61.2
+(0, -1)<#>(1, 0) |  00.14bPessGr
+(0, 1)<#>(1, -1) |  00.43aPessGr
+(0, 1)<#>(1, 2)<#>(2, 4)<#>(3, 2)<#>(4, 7)<#>(5, 4)<#>(6, 5)<#>(7, -1) |  00.55cPessGr
+(0, 1)<#>(1, -1)<#>(2, 1)<#>(3, 2)<#>(4, 5)<#>(5, 6)<#>(6, 3)<#>(7, 6) |  0056a.PessGr
+(0, 1)<#>(1, 3)<#>(2, 1)<#>(3, -1)<#>(4, 3) |  0057d.PessGr
+(0, 4)<#>(1, 0)<#>(2, 1)<#>(3, 2)<#>(4, -1) |  0057i.PessGr
+(0, 1)<#>(1, -1)<#>(2, 3)<#>(3, 1) |  0057n.PessGr
+(0, 1)<#>(1, -1)<#>(2, 3)<#>(3, 1) |  0057r.PessGr
+(0, -1) |  0064b.PessGr
+(0, 1)<#>(1, 2)<#>(2, 3)<#>(3, -1)<#>(4, 3) |  0066e.PessGr
+(0, -1)<#>(1, 0)<#>(2, 1) |  0067d.PessGr
+(0, -1)<#>(1, 2)<#>(2, 0)<#>(3, 5)<#>(4, 3)<#>(5, 2) |  0067i.PessGr
+(0, 1)<#>(1, 2)<#>(2, 4)<#>(3, 2)<#>(4, -1)<#>(5, 4) |  0067n.PessGr
+(0, 1)<#>(1, 2)<#>(2, -1) |  0071c.PessGr
+(0, 1)<#>(1, -1)<#>(2, 1) |  0071h.PessGr
+(0, 1)<#>(1, -1) |  0072e.PessGr
+(0, 1)<#>(1, -1) |  0073a.PessGr
+(0, 1)<#>(1, -1) |  0076b.PessGr
+(0, 1)<#>(1, 2)<#>(2, -1)<#>(3, 2) |  0086a.PessGr
+(0, -1)<#>(1, 2)<#>(2, 0) |  0089a.PessGr
+(0, -1)<#>(1, 0) |  0093a.PessGr
+(0, 1)<#>(1, -1)<#>(2, 1)<#>(3, 2) |  0094c.PessGr
+(0, -1)<#>(1, 0) |  0099a.PessGr
+(0, 1)<#>(1, 2)<#>(2, -1)<#>(3, 2) |  00100d.PessGr
+(0, -1) |  101e.PessGr
+(0, -1) |  101j.PessGr
+(0, -1) |  101o.PessGr
+(0, -1) |  101t.PessGr
+(0, -1)<#>(1, 0) |  sabia.013
+(0, 7)<#>(1, 2)<#>(2, 3)<#>(3, 4)<#>(4, 5)<#>(5, 0)<#>(6, 5)<#>(7, -1)<#>(8, 9)<#>(9, 7) |  sabia.018

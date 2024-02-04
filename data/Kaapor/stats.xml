@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treebank>
+  <!-- tokens means "surface tokens", e.g. Spanish "vámonos" counts as one token
+       words means "syntactic words", e.g. Spanish "vámonos" is split to two words, "vamos" and "nos"
+       fused is the number of tokens that are split to two or more syntactic words
+       The words and fused elements can be omitted if no token is split to smaller syntactic words. -->
+  <size>
+    <total><sentences>83</sentences><tokens>366</tokens><words>366</words><fused>0</fused></total>
+    <train><sentences>0</sentences><tokens>0</tokens><words>0</words><fused>0</fused></train>
+    <dev><sentences>0</sentences><tokens>0</tokens><words>0</words><fused>0</fused></dev>
+    <test><sentences>83</sentences><tokens>366</tokens><words>366</words><fused>0</fused></test>
+  </size>
+  <lemmas unique="178" /><!-- ihẽ, pe, je, ke, ne, aʔe, tĩ, ho, ihē, riki, ʔu, ,, ʔɪ, aʔi, sak -->
+  <forms unique="219" /><!-- pe, ihẽ, je, ke, tĩ, aʔe, ihē, ihẽke, riki, oho, ,, ne, neke, ʔɪ, raʔɪr -->
+  <fusions unique="0" /><!--  -->
+  <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
+  <tags unique="14">
+    <tag name="ADJ">1</tag><!-- panem -->
+    <tag name="ADP">9</tag><!-- pe, ehe, rehe, riki -->
+    <tag name="ADV">37</tag><!-- pe, tĩ, riki, ko, pahar, uhu, _, aja, ajameʔẽ, amõ -->
+    <tag name="AUX">6</tag><!-- ʔɪ, ho, ʃo -->
+    <tag name="CCONJ">4</tag><!-- pe -->
+    <tag name="DET">3</tag><!-- ko, ne, upa -->
+    <tag name="NOUN">88</tag><!-- aʔi, uʔi, raʔɪr, Tapi, _, ai, hái, kɪ, mu, pirer -->
+    <tag name="NUM">1</tag><!-- _ -->
+    <tag name="PART">37</tag><!-- je, ke, tĩ, tipe, riki, ta, mi, upa, ã, ɪm -->
+    <tag name="PRON">62</tag><!-- ihẽ, aʔe, ne, ihē, a’e, gā, nde, pe, ta, _ -->
+    <tag name="PROPN">20</tag><!-- Maíra, Purutu, _, ʃaʔe, Ana, Arauxu, Kaninde, Oropo, Tuti, kaitā -->
+    <tag name="PUNCT">6</tag><!-- ,, ? -->
+    <tag name="SCONJ">2</tag><!-- rahã -->
+    <tag name="VERB">90</tag><!-- ho, ʔu, sak, _, ahem, jan, karãj, mujã, nupã, raho -->
+  </tags>
+  <!-- Statistics of features and values. The comments show the most frequent word forms. -->
+  <feats unique="16">
+    <feat name="Animacy" value="Anim" upos="NOUN">2</feat><!-- Tapiʔir -->
+    <feat name="Animacy" value="Hum" upos="NOUN,PRON,PROPN">8</feat><!-- aʔe, aʔi, Mataru, aʔike, kurumĩ, ʃaʔe -->
+    <feat name="Aspect" value="Frus" upos="PART">3</feat><!-- tipe -->
+    <feat name="Aspect" value="Perf" upos="AUX">3</feat><!-- ʔɪ -->
+    <feat name="Case" value="Aff" upos="NOUN,PRON,PROPN">36</feat><!-- ihẽke, neke, uʔike, taɁɪnke, Purutuke, aike, aʔike, a’etake, ehake, hokwenke -->
+    <feat name="Intense" value="Yes" upos="VERB">7</feat><!-- nejɪtɪʔɪmte, netawate, parahɪahɪ, pirokhũ, piɾokhũ, pɪnuhũ, pɪnupɪnuate -->
+    <feat name="Nomzr" value="Circ" upos="NOUN">1</feat><!-- jeʔẽha -->
+    <feat name="Number" value="Plur" upos="NOUN,PRON,VERB">11</feat><!-- a’eta, ngā, a’etake, hãʔĩmke, kujãtake, ngã, peharõta, ta, take -->
+    <feat name="Number" value="Sing" upos="NOUN,PRON,PROPN,VERB">29</feat><!-- Tapiʔir, ahota, araho, aʔe, Mataru, ahɪk, ajur, akarãj, amoīta, amujã -->
+    <feat name="Person" value="1" upos="AUX,NOUN,PRON,VERB">26</feat><!-- ahota, araho, asak, ihẽ, ahɪk, ajapi, ajengar, ajumukahem, ajur, akarãj -->
+    <feat name="Person" value="2" upos="PRON,VERB">11</feat><!-- rekarãjta, eremuɁe, nejɪtɪʔɪmte, neke, nekeã, netawate, peharõta, remupuʔam, renupã, reʔutĩ -->
+    <feat name="Person" value="3" upos="AUX,NOUN,PRON,VERB">58</feat><!-- oho, uʔuta, ahem, aʔe, imu, ipe, matɪr, ngā, nupã, ujan -->
+    <feat name="Rel" value="Cont" upos="ADP,NOUN">5</feat><!-- ehake, jukwahá, miʔuke, raʔɪr, rehe -->
+    <feat name="Rel" value="NCont" upos="ADP,NOUN">7</feat><!-- ehe, heɁõɁɪ, huʔɨ, ikɪ, ikɪke, indo, ipɪke -->
+    <feat name="Tense" value="Fut" upos="VERB">12</feat><!-- uʔuta, ahota, rekarãjta, akutukta, amoīta, peharõta, ukwerta -->
+    <feat name="Voice" value="Cau" upos="VERB">10</feat><!-- ajumukahem, amujengar, amuwɪr, amuɁe, eremuɁe, muhɪk, mupinim, muwak, remupuʔam, remusak -->
+  </feats>
+  <!-- Statistics of universal dependency relations. -->
+  <deps unique="23">
+    <dep name="advcl">3</dep>
+    <dep name="advmod">37</dep>
+    <dep name="amod">9</dep>
+    <dep name="aux">6</dep>
+    <dep name="case">7</dep>
+    <dep name="cc">4</dep>
+    <dep name="ccomp">2</dep>
+    <dep name="compound">1</dep>
+    <dep name="conj">2</dep>
+    <dep name="dep">1</dep>
+    <dep name="det">1</dep>
+    <dep name="discourse">32</dep>
+    <dep name="iobj">5</dep>
+    <dep name="mark">2</dep>
+    <dep name="nmod">23</dep>
+    <dep name="nsubj">72</dep>
+    <dep name="nummod">1</dep>
+    <dep name="obj">58</dep>
+    <dep name="obl">8</dep>
+    <dep name="parataxis">1</dep>
+    <dep name="punct">6</dep>
+    <dep name="root">83</dep>
+    <dep name="xcomp">2</dep>
+  </deps>
+</treebank>

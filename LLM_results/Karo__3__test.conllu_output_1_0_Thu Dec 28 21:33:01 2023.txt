@@ -1,0 +1,1077 @@
+maʔwɨr ameko roy
+MESSAGE|:|Na sentença "iyá ʔaʔ",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(iyá -> root)
+(ʔaʔ -> iyá)..
+Liste as relações de dependência sintática na sentença "maʔwɨr ameko roy", usando o formato (token dependente -> token cabeça).
+REPLY|:|(maʔwɨr -> root)
+(ameko -> maʔwɨr)
+(roy -> maʔwɨr)
+REFINE [(ameko]
+REFINE [(ameko]
+REFINE [(ameko]
+REFINE [(ameko]
+REFINE [ameko]
+REFINE [ameko]
+-----------END REFINE---------
+REFINE [maʔwɨr)]
+REFINE [maʔwɨr)]
+REFINE [maʔwɨr)]
+REFINE [maʔwɨr)]
+REFINE [maʔwɨr]
+-----------END REFINE---------
+REFINE [(roy]
+REFINE [(roy]
+REFINE [(roy]
+REFINE [(roy]
+REFINE [roy]
+REFINE [roy]
+-----------END REFINE---------
+REFINE [maʔwɨr)]
+REFINE [maʔwɨr)]
+REFINE [maʔwɨr)]
+REFINE [maʔwɨr)]
+REFINE [maʔwɨr]
+-----------END REFINE---------
+chatGPT|:|ameko<@>maʔwɨr<#>roy<@>maʔwɨr|:|UDA:0.333<#>DDA: 0.000
+GoldTree |:|maʔwɨr<@>roy<@>nsubj<#>ameko<@>roy<@>obj<#>roy<@>root<@>root
+>--<
+yate naʔcəg wew
+MESSAGE|:|Na sentença "naʔyop cɨʔ",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(naʔyop -> root)
+(cɨʔ -> naʔyop)..
+Liste as relações de dependência sintática na sentença "yate naʔcəg wew", usando o formato (token dependente -> token cabeça).
+REPLY|:|(yate -> root)
+(naʔcəg -> yate)
+(wew -> yate)
+REFINE [(naʔcəg]
+REFINE [(naʔcəg]
+REFINE [(naʔcəg]
+REFINE [(naʔcəg]
+REFINE [naʔcəg]
+REFINE [naʔcəg]
+-----------END REFINE---------
+REFINE [yate)]
+REFINE [yate)]
+REFINE [yate)]
+REFINE [yate)]
+REFINE [yate]
+-----------END REFINE---------
+REFINE [(wew]
+REFINE [(wew]
+REFINE [(wew]
+REFINE [(wew]
+REFINE [wew]
+REFINE [wew]
+-----------END REFINE---------
+REFINE [yate)]
+REFINE [yate)]
+REFINE [yate)]
+REFINE [yate)]
+REFINE [yate]
+-----------END REFINE---------
+chatGPT|:|naʔcəg<@>yate<#>wew<@>yate|:|UDA:0.333<#>DDA: 0.000
+GoldTree |:|yate<@>naʔcəg<@>nmod<#>naʔcəg<@>root<@>root<#>wew<@>naʔcəg<@>amod
+>--<
+ar inãw rati
+MESSAGE|:|Na sentença "õn aʔpap toy",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(õn -> toy)
+(aʔpap -> toy)
+(toy -> root)..
+Liste as relações de dependência sintática na sentença "ar inãw rati", usando o formato (token dependente -> token cabeça).
+REPLY|:|(ar -> rati)
+(inãw -> rati)
+(rati -> root)
+REFINE [(inãw]
+REFINE [(inãw]
+REFINE [(inãw]
+REFINE [(inãw]
+REFINE [inãw]
+REFINE [inãw]
+-----------END REFINE---------
+REFINE [rati)]
+REFINE [rati)]
+REFINE [rati)]
+REFINE [rati)]
+REFINE [rati]
+-----------END REFINE---------
+REFINE [(rati]
+REFINE [(rati]
+REFINE [(rati]
+REFINE [(rati]
+REFINE [rati]
+REFINE [rati]
+-----------END REFINE---------
+REFINE [root)]
+REFINE [root)]
+REFINE [root)]
+REFINE [root)]
+REFINE [root]
+-----------END REFINE---------
+chatGPT|:|inãw<@>rati<#>rati<@>root|:|UDA:0.667<#>DDA: 0.667
+GoldTree |:|ar<@>rati<@>nsubj<#>inãw<@>rati<@>obj<#>rati<@>root<@>root
+>--<
+iyõm mãt
+MESSAGE|:|Na sentença "agóaʔpət at kaʔa ʔaʔ",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(agóaʔpət -> kaʔa)
+(at -> agóaʔpət)
+(kaʔa -> root)
+(ʔaʔ -> kaʔa)..
+Liste as relações de dependência sintática na sentença "iyõm mãt", usando o formato (token dependente -> token cabeça).
+REPLY|:|(iyõm -> mãt)
+(mãt -> root)
+REFINE [(mãt]
+REFINE [(mãt]
+REFINE [(mãt]
+REFINE [(mãt]
+REFINE [mãt]
+REFINE [mãt]
+-----------END REFINE---------
+REFINE [root)]
+REFINE [root)]
+REFINE [root)]
+REFINE [root)]
+REFINE [root]
+-----------END REFINE---------
+chatGPT|:|mãt<@>root|:|UDA:0.000<#>DDA: 0.000
+GoldTree |:|iyõm<@>root<@>root<#>mãt<@>iyõm<@>amod
+>--<
+okun ŋɨt
+MESSAGE|:|Na sentença "inãk ká becép káʔ",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(inãk -> root)
+(ká -> inãk)
+(becép -> inãk)
+(káʔ -> inãk)..
+Liste as relações de dependência sintática na sentença "okun ŋɨt", usando o formato (token dependente -> token cabeça).
+REPLY|:|Não é possível estabelecer relações de dependência sintática na sentença "okun ŋɨt" sem mais contexto ou informações.
+chatGPT|:||:|UDA:0.000<#>DDA: 0.000
+GoldTree |:|okun<@>root<@>root<#>ŋɨt<@>okun<@>amod
+>--<
+wagag naká
+MESSAGE|:|Na sentença "maʔteg iʔke",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(maʔteg -> root)
+(iʔke -> maʔteg)..
+Liste as relações de dependência sintática na sentença "wagag naká", usando o formato (token dependente -> token cabeça).
+REPLY|:|As relações de dependência sintática na sentença "wagag naká" são:
+
+(naká -> wagag)
+REFINE [(naká]
+REFINE [(naká]
+REFINE [(naká]
+REFINE [(naká]
+REFINE [naká]
+REFINE [naká]
+-----------END REFINE---------
+REFINE [wagag)]
+REFINE [wagag)]
+REFINE [wagag)]
+REFINE [wagag)]
+REFINE [wagag]
+-----------END REFINE---------
+chatGPT|:|<@><#>naká<@>wagag|:|UDA:0.500<#>DDA: 0.000
+GoldTree |:|wagag<@>naká<@>nmod<#>naká<@>root<@>root
+>--<
+nãn iket
+MESSAGE|:|Na sentença "ayaʔwan tə",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(ayaʔwan -> root)
+(tə -> ayaʔwan)..
+Liste as relações de dependência sintática na sentença "nãn iket", usando o formato (token dependente -> token cabeça).
+REPLY|:|(nãn -> iket)
+(iket -> root)
+REFINE [(iket]
+REFINE [(iket]
+REFINE [(iket]
+REFINE [(iket]
+REFINE [iket]
+REFINE [iket]
+-----------END REFINE---------
+REFINE [root)]
+REFINE [root)]
+REFINE [root)]
+REFINE [root)]
+REFINE [root]
+-----------END REFINE---------
+chatGPT|:|iket<@>root|:|UDA:0.500<#>DDA: 0.500
+GoldTree |:|nãn<@>iket<@>nsubj<#>iket<@>root<@>root
+>--<
+kɨgomət ĩya ẽn iwĩ
+MESSAGE|:|Na sentença "ocorah wét",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(ocorah -> wét)
+(wét -> root)..
+Liste as relações de dependência sintática na sentença "kɨgomət ĩya ẽn iwĩ", usando o formato (token dependente -> token cabeça).
+REPLY|:|(kɨgomət -> iwĩ)
+(ĩya -> kɨgomət)
+(ẽn -> kɨgomət)
+(iwĩ -> root)
+REFINE [(ĩya]
+REFINE [(ĩya]
+REFINE [(ĩya]
+REFINE [(ĩya]
+REFINE [ĩya]
+REFINE [ĩya]
+-----------END REFINE---------
+REFINE [kɨgomət)]
+REFINE [kɨgomət)]
+REFINE [kɨgomət)]
+REFINE [kɨgomət)]
+REFINE [kɨgomət]
+-----------END REFINE---------
+REFINE [(ẽn]
+REFINE [(ẽn]
+REFINE [(ẽn]
+REFINE [(ẽn]
+REFINE [ẽn]
+REFINE [ẽn]
+-----------END REFINE---------
+REFINE [kɨgomət)]
+REFINE [kɨgomət)]
+REFINE [kɨgomət)]
+REFINE [kɨgomət)]
+REFINE [kɨgomət]
+-----------END REFINE---------
+REFINE [(iwĩ]
+REFINE [(iwĩ]
+REFINE [(iwĩ]
+REFINE [(iwĩ]
+REFINE [iwĩ]
+REFINE [iwĩ]
+-----------END REFINE---------
+REFINE [root)]
+REFINE [root)]
+REFINE [root)]
+REFINE [root)]
+REFINE [root]
+-----------END REFINE---------
+chatGPT|:|ĩya<@>kɨgomət<#>ẽn<@>kɨgomət<#>iwĩ<@>root|:|UDA:0.500<#>DDA: 0.250
+GoldTree |:|kɨgomət<@>ĩya<@>det<#>ĩya<@>iwĩ<@>obj<#>ẽn<@>iwĩ<@>nsubj<#>iwĩ<@>root<@>root
+>--<
+maʔpəy icɨ téy
+MESSAGE|:|Na sentença "õn okõna ip ʔɨy",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(õn -> ʔɨy)
+(okõna -> õn)
+(ip -> ʔɨy)
+(ʔɨy -> root)..
+Liste as relações de dependência sintática na sentença "maʔpəy icɨ téy", usando o formato (token dependente -> token cabeça).
+REPLY|:|(maʔpəy -> téy)
+(icɨ -> maʔpəy)
+(téy -> root)
+REFINE [(icɨ]
+REFINE [(icɨ]
+REFINE [(icɨ]
+REFINE [(icɨ]
+REFINE [icɨ]
+REFINE [icɨ]
+-----------END REFINE---------
+REFINE [maʔpəy)]
+REFINE [maʔpəy)]
+REFINE [maʔpəy)]
+REFINE [maʔpəy)]
+REFINE [maʔpəy]
+-----------END REFINE---------
+REFINE [(téy]
+REFINE [(téy]
+REFINE [(téy]
+REFINE [(téy]
+REFINE [téy]
+REFINE [téy]
+-----------END REFINE---------
+REFINE [root)]
+REFINE [root)]
+REFINE [root)]
+REFINE [root)]
+REFINE [root]
+-----------END REFINE---------
+chatGPT|:|icɨ<@>maʔpəy<#>téy<@>root|:|UDA:0.333<#>DDA: 0.333
+GoldTree |:|maʔpəy<@>téy<@>nsubj<#>icɨ<@>téy<@>obj<#>téy<@>root<@>root
+>--<
+wayo naká
+MESSAGE|:|Na sentença "maʔpəy ŋa",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(maʔpəy -> root)
+(ŋa -> maʔpəy)..
+Liste as relações de dependência sintática na sentença "wayo naká", usando o formato (token dependente -> token cabeça).
+REPLY|:|Neste caso, a sentença "wayo naká" não possui relação de dependência sintática, pois ambos os tokens são independentes e não há uma hierarquia entre eles.
+chatGPT|:||:|UDA:0.000<#>DDA: 0.000
+GoldTree |:|wayo<@>naká<@>compound<#>naká<@>root<@>root
+>--<
+et tágɨp
+MESSAGE|:|Na sentença "[at toat macaʔɨt wĩn nãt] totia",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+([at -> wĩn)
+(toat -> macaʔɨt)
+(macaʔɨt -> wĩn)
+(wĩn -> root)
+(nãt] -> wĩn)
+(totia -> wĩn)..
+Liste as relações de dependência sintática na sentença "et tágɨp", usando o formato (token dependente -> token cabeça).
+REPLY|:|(et -> tágɨp)
+chatGPT|:||:|UDA:0.000<#>DDA: 0.000
+GoldTree |:|et<@>tágɨp<@>nmod<#>tágɨp<@>root<@>root
+>--<
+tabat tap
+MESSAGE|:|Na sentença "káram nãk pɨʔ ʔĩt pɨʔ",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(káram -> nãk)
+(nãk -> root)
+(pɨʔ -> nãk)
+(ʔĩt -> nãk)
+(pɨʔ -> nãk)..
+Liste as relações de dependência sintática na sentença "tabat tap", usando o formato (token dependente -> token cabeça).
+REPLY|:|(tabat -> tap)
+(tap -> root)
+REFINE [(tap]
+REFINE [(tap]
+REFINE [(tap]
+REFINE [(tap]
+REFINE [tap]
+REFINE [tap]
+-----------END REFINE---------
+REFINE [root)]
+REFINE [root)]
+REFINE [root)]
+REFINE [root)]
+REFINE [root]
+-----------END REFINE---------
+chatGPT|:|tap<@>root|:|UDA:0.000<#>DDA: 0.000
+GoldTree |:|tabat<@>root<@>root<#>tap<@>tabat<@>case
+>--<
+mɨy mãm péŋ ʔep toʔwa
+MESSAGE|:|Na sentença "agóaʔpət aʔnãn igã",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(agóaʔpət -> root)
+(aʔnãn -> agóaʔpət)
+(igã -> agóaʔpət)..
+Liste as relações de dependência sintática na sentença "mɨy mãm péŋ ʔep toʔwa", usando o formato (token dependente -> token cabeça).
+REPLY|:|(mɨy -> root)
+(mãm -> mɨy)
+(péŋ -> mɨy)
+(ʔep -> mɨy)
+(toʔwa -> mɨy)
+REFINE [(mãm]
+REFINE [(mãm]
+REFINE [(mãm]
+REFINE [(mãm]
+REFINE [mãm]
+REFINE [mãm]
+-----------END REFINE---------
+REFINE [mɨy)]
+REFINE [mɨy)]
+REFINE [mɨy)]
+REFINE [mɨy)]
+REFINE [mɨy]
+-----------END REFINE---------
+REFINE [(péŋ]
+REFINE [(péŋ]
+REFINE [(péŋ]
+REFINE [(péŋ]
+REFINE [péŋ]
+REFINE [péŋ]
+-----------END REFINE---------
+REFINE [mɨy)]
+REFINE [mɨy)]
+REFINE [mɨy)]
+REFINE [mɨy)]
+REFINE [mɨy]
+-----------END REFINE---------
+REFINE [(ʔep]
+REFINE [(ʔep]
+REFINE [(ʔep]
+REFINE [(ʔep]
+REFINE [ʔep]
+REFINE [ʔep]
+-----------END REFINE---------
+REFINE [mɨy)]
+REFINE [mɨy)]
+REFINE [mɨy)]
+REFINE [mɨy)]
+REFINE [mɨy]
+-----------END REFINE---------
+REFINE [(toʔwa]
+REFINE [(toʔwa]
+REFINE [(toʔwa]
+REFINE [(toʔwa]
+REFINE [toʔwa]
+REFINE [toʔwa]
+-----------END REFINE---------
+REFINE [mɨy)]
+REFINE [mɨy)]
+REFINE [mɨy)]
+REFINE [mɨy)]
+REFINE [mɨy]
+-----------END REFINE---------
+chatGPT|:|mãm<@>mɨy<#>péŋ<@>mɨy<#>ʔep<@>mɨy<#>toʔwa<@>mɨy|:|UDA:0.400<#>DDA: 0.200
+GoldTree |:|mɨy<@>péŋ<@>amod<#>mãm<@>mɨy<@>discourse<#>péŋ<@>root<@>root<#>ʔep<@>péŋ<@>aux<#>toʔwa<@>péŋ<@>aux
+>--<
+tenaʔwara reʔkay
+MESSAGE|:|Na sentença "cúrem wat kaʔa ʔa",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(cúrem -> root)
+(wat -> kaʔa)
+(kaʔa -> cúrem)
+(ʔa -> kaʔa)..
+Liste as relações de dependência sintática na sentença "tenaʔwara reʔkay", usando o formato (token dependente -> token cabeça).
+REPLY|:|As relações de dependência sintática na sentença "tenaʔwara reʔkay" são:
+
+(tenaʔwara -> reʔkay)
+
+(reʔkay -> tenaʔwara)
+REFINE [(tenaʔwara]
+REFINE [(tenaʔwara]
+REFINE [(tenaʔwara]
+REFINE [(tenaʔwara]
+REFINE [tenaʔwara]
+REFINE [tenaʔwara]
+-----------END REFINE---------
+REFINE [reʔkay)]
+REFINE [reʔkay)]
+REFINE [reʔkay)]
+REFINE [reʔkay)]
+REFINE [reʔkay]
+-----------END REFINE---------
+REFINE [(reʔkay]
+REFINE [(reʔkay]
+REFINE [(reʔkay]
+REFINE [(reʔkay]
+REFINE [reʔkay]
+REFINE [reʔkay]
+-----------END REFINE---------
+REFINE [tenaʔwara)]
+REFINE [tenaʔwara)]
+REFINE [tenaʔwara)]
+REFINE [tenaʔwara)]
+REFINE [tenaʔwara]
+-----------END REFINE---------
+chatGPT|:|<@><#>tenaʔwara<@>reʔkay<#><@><#>reʔkay<@>tenaʔwara|:|UDA:0.500<#>DDA: 0.000
+GoldTree |:|tenaʔwara<@>root<@>root<#>reʔkay<@>tenaʔwara<@>aux
+>--<
+õn wat tap yaʔti nãn cúrem
+MESSAGE|:|Na sentença "agóaʔpət péŋ wĩn paʔpiktem",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(agóaʔpət -> wĩn)
+(péŋ -> wĩn)
+(wĩn -> root)
+(paʔpiktem -> péŋ)..
+Liste as relações de dependência sintática na sentença "õn wat tap yaʔti nãn cúrem", usando o formato (token dependente -> token cabeça).
+REPLY|:|(õn -> tap)
+(wat -> õn)
+(tap -> cúrem)
+(yaʔti -> tap)
+(nãn -> cúrem)
+(cúrem -> root)
+REFINE [(wat]
+REFINE [(wat]
+REFINE [(wat]
+REFINE [(wat]
+REFINE [wat]
+REFINE [wat]
+-----------END REFINE---------
+REFINE [õn)]
+REFINE [õn)]
+REFINE [õn)]
+REFINE [õn)]
+REFINE [õn]
+-----------END REFINE---------
+REFINE [(tap]
+REFINE [(tap]
+REFINE [(tap]
+REFINE [(tap]
+REFINE [tap]
+REFINE [tap]
+-----------END REFINE---------
+REFINE [cúrem)]
+REFINE [cúrem)]
+REFINE [cúrem)]
+REFINE [cúrem)]
+REFINE [cúrem]
+-----------END REFINE---------
+REFINE [(yaʔti]
+REFINE [(yaʔti]
+REFINE [(yaʔti]
+REFINE [(yaʔti]
+REFINE [yaʔti]
+REFINE [yaʔti]
+-----------END REFINE---------
+REFINE [tap)]
+REFINE [tap)]
+REFINE [tap)]
+REFINE [tap)]
+REFINE [tap]
+-----------END REFINE---------
+REFINE [(nãn]
+REFINE [(nãn]
+REFINE [(nãn]
+REFINE [(nãn]
+REFINE [nãn]
+REFINE [nãn]
+-----------END REFINE---------
+REFINE [cúrem)]
+REFINE [cúrem)]
+REFINE [cúrem)]
+REFINE [cúrem)]
+REFINE [cúrem]
+-----------END REFINE---------
+REFINE [(cúrem]
+REFINE [(cúrem]
+REFINE [(cúrem]
+REFINE [(cúrem]
+REFINE [cúrem]
+REFINE [cúrem]
+-----------END REFINE---------
+REFINE [root)]
+REFINE [root)]
+REFINE [root)]
+REFINE [root)]
+REFINE [root]
+-----------END REFINE---------
+chatGPT|:|wat<@>õn<#>tap<@>cúrem<#>yaʔti<@>tap<#>nãn<@>cúrem<#>cúrem<@>root|:|UDA:0.000<#>DDA: 0.000
+GoldTree |:|õn<@>yaʔti<@>nsubj<#>wat<@>yaʔti<@>obj<#>tap<@>wat<@>case<#>yaʔti<@>root<@>root<#>nãn<@>yaʔti<@>cop<#>cúrem<@>yaʔti<@>advmod
+>--<
+owagon oyakay tokõna
+MESSAGE|:|Na sentença "oweʔcɨn [at oto kanãp]",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(oweʔcɨn -> root)
+([at -> oto)
+(oto -> oweʔcɨn)
+(kanãp] -> oto)..
+Liste as relações de dependência sintática na sentença "owagon oyakay tokõna", usando o formato (token dependente -> token cabeça).
+REPLY|:|Na sentença "owagon oyakay tokõna", as relações de dependência sintática são:
+
+(owagon -> root)
+(oyakay -> owagon)
+(tokõna -> owagon)
+REFINE [(owagon]
+REFINE [(owagon]
+REFINE [(owagon]
+REFINE [(owagon]
+REFINE [owagon]
+REFINE [owagon]
+-----------END REFINE---------
+REFINE [root)]
+REFINE [root)]
+REFINE [root)]
+REFINE [root)]
+REFINE [root]
+-----------END REFINE---------
+REFINE [(oyakay]
+REFINE [(oyakay]
+REFINE [(oyakay]
+REFINE [(oyakay]
+REFINE [oyakay]
+REFINE [oyakay]
+-----------END REFINE---------
+REFINE [owagon)]
+REFINE [owagon)]
+REFINE [owagon)]
+REFINE [owagon)]
+REFINE [owagon]
+-----------END REFINE---------
+REFINE [(tokõna]
+REFINE [(tokõna]
+REFINE [(tokõna]
+REFINE [(tokõna]
+REFINE [tokõna]
+REFINE [tokõna]
+-----------END REFINE---------
+REFINE [owagon)]
+REFINE [owagon)]
+REFINE [owagon)]
+REFINE [owagon)]
+REFINE [owagon]
+-----------END REFINE---------
+chatGPT|:|<@><#>owagon<@>root<#>oyakay<@>owagon<#>tokõna<@>owagon|:|UDA:0.333<#>DDA: 0.000
+GoldTree |:|owagon<@>oyakay<@>nsubj<#>oyakay<@>root<@>root<#>tokõna<@>oyakay<@>case
+>--<
+aʔwét tokõna
+MESSAGE|:|Na sentença "towagon gəy",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(towagon -> root)
+(gəy -> towagon)..
+Liste as relações de dependência sintática na sentença "aʔwét tokõna", usando o formato (token dependente -> token cabeça).
+REPLY|:|(aʔwét -> tokõna)
+(tokõna -> aʔwét)
+REFINE [(tokõna]
+REFINE [(tokõna]
+REFINE [(tokõna]
+REFINE [(tokõna]
+REFINE [tokõna]
+REFINE [tokõna]
+-----------END REFINE---------
+REFINE [aʔwét)]
+REFINE [aʔwét)]
+REFINE [aʔwét)]
+REFINE [aʔwét)]
+REFINE [aʔwét]
+-----------END REFINE---------
+chatGPT|:|tokõna<@>aʔwét|:|UDA:0.500<#>DDA: 0.500
+GoldTree |:|aʔwét<@>root<@>root<#>tokõna<@>aʔwét<@>case
+>--<
+at towirup ʔot cúrem
+MESSAGE|:|Na sentença "owakán matet wat iyõm pihmãm",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(owakán -> root)
+(matet -> owakán)
+(wat -> iyõm)
+(iyõm -> owakán)
+(pihmãm -> iyõm)..
+Liste as relações de dependência sintática na sentença "at towirup ʔot cúrem", usando o formato (token dependente -> token cabeça).
+REPLY|:|(at -> root)
+(towirup -> at)
+(ʔot -> at)
+(cúrem -> ʔot)
+REFINE [(towirup]
+REFINE [(towirup]
+REFINE [(towirup]
+REFINE [(towirup]
+REFINE [towirup]
+REFINE [towirup]
+-----------END REFINE---------
+REFINE [at)]
+REFINE [at)]
+REFINE [at)]
+REFINE [at)]
+REFINE [at]
+-----------END REFINE---------
+REFINE [(ʔot]
+REFINE [(ʔot]
+REFINE [(ʔot]
+REFINE [(ʔot]
+REFINE [ʔot]
+REFINE [ʔot]
+-----------END REFINE---------
+REFINE [at)]
+REFINE [at)]
+REFINE [at)]
+REFINE [at)]
+REFINE [at]
+-----------END REFINE---------
+REFINE [(cúrem]
+REFINE [(cúrem]
+REFINE [(cúrem]
+REFINE [(cúrem]
+REFINE [cúrem]
+REFINE [cúrem]
+-----------END REFINE---------
+REFINE [ʔot)]
+REFINE [ʔot)]
+REFINE [ʔot)]
+REFINE [ʔot)]
+REFINE [ʔot]
+-----------END REFINE---------
+chatGPT|:|towirup<@>at<#>ʔot<@>at<#>cúrem<@>ʔot|:|UDA:0.500<#>DDA: 0.250
+GoldTree |:|at<@>ʔot<@>nsubj<#>towirup<@>ʔot<@>obj<#>ʔot<@>root<@>root<#>cúrem<@>ʔot<@>advmod
+>--<
+maʔwɨt at kaʔa õn itop
+MESSAGE|:|Na sentença "korét capõt pát",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(korét -> root)
+(capõt -> korét)
+(pát -> korét)..
+Liste as relações de dependência sintática na sentença "maʔwɨt at kaʔa õn itop", usando o formato (token dependente -> token cabeça).
+REPLY|:|(maʔwɨt -> root)
+(at -> maʔwɨt)
+(kaʔa -> at)
+(õn -> kaʔa)
+(itop -> maʔwɨt)
+REFINE [(at]
+REFINE [(at]
+REFINE [(at]
+REFINE [(at]
+REFINE [at]
+REFINE [at]
+-----------END REFINE---------
+REFINE [maʔwɨt)]
+REFINE [maʔwɨt)]
+REFINE [maʔwɨt)]
+REFINE [maʔwɨt)]
+REFINE [maʔwɨt]
+-----------END REFINE---------
+REFINE [(kaʔa]
+REFINE [(kaʔa]
+REFINE [(kaʔa]
+REFINE [(kaʔa]
+REFINE [kaʔa]
+REFINE [kaʔa]
+-----------END REFINE---------
+REFINE [at)]
+REFINE [at)]
+REFINE [at)]
+REFINE [at)]
+REFINE [at]
+-----------END REFINE---------
+REFINE [(õn]
+REFINE [(õn]
+REFINE [(õn]
+REFINE [(õn]
+REFINE [õn]
+REFINE [õn]
+-----------END REFINE---------
+REFINE [kaʔa)]
+REFINE [kaʔa)]
+REFINE [kaʔa)]
+REFINE [kaʔa)]
+REFINE [kaʔa]
+-----------END REFINE---------
+REFINE [(itop]
+REFINE [(itop]
+REFINE [(itop]
+REFINE [(itop]
+REFINE [itop]
+REFINE [itop]
+-----------END REFINE---------
+REFINE [maʔwɨt)]
+REFINE [maʔwɨt)]
+REFINE [maʔwɨt)]
+REFINE [maʔwɨt)]
+REFINE [maʔwɨt]
+-----------END REFINE---------
+chatGPT|:|at<@>maʔwɨt<#>kaʔa<@>at<#>õn<@>kaʔa<#>itop<@>maʔwɨt|:|UDA:0.200<#>DDA: 0.200
+GoldTree |:|maʔwɨt<@>kaʔa<@>nmod<#>at<@>maʔwɨt<@>case<#>kaʔa<@>root<@>root<#>õn<@>itop<@>nsubj<#>itop<@>kaʔa<@>ccomp
+>--<
+ŋa omacopɨn
+MESSAGE|:|Na sentença "wat awe orabitẽy",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(wat -> awe)
+(awe -> orabitẽy)
+(orabitẽy -> root)..
+Liste as relações de dependência sintática na sentença "ŋa omacopɨn", usando o formato (token dependente -> token cabeça).
+REPLY|:|(ŋa -> omacopɨn)
+(omacopɨn -> root)
+REFINE [(omacopɨn]
+REFINE [(omacopɨn]
+REFINE [(omacopɨn]
+REFINE [(omacopɨn]
+REFINE [omacopɨn]
+REFINE [omacopɨn]
+-----------END REFINE---------
+REFINE [root)]
+REFINE [root)]
+REFINE [root)]
+REFINE [root)]
+REFINE [root]
+-----------END REFINE---------
+chatGPT|:|omacopɨn<@>root|:|UDA:0.500<#>DDA: 0.500
+GoldTree |:|ŋa<@>omacopɨn<@>nsubj<#>omacopɨn<@>root<@>root
+>--<
+at amati
+MESSAGE|:|Na sentença "yét maʔwɨt",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(yét -> maʔwɨt)
+(maʔwɨt -> root)..
+Liste as relações de dependência sintática na sentença "at amati", usando o formato (token dependente -> token cabeça).
+REPLY|:|(at -> amati)
+(amati -> root)
+REFINE [(amati]
+REFINE [(amati]
+REFINE [(amati]
+REFINE [(amati]
+REFINE [amati]
+REFINE [amati]
+-----------END REFINE---------
+REFINE [root)]
+REFINE [root)]
+REFINE [root)]
+REFINE [root)]
+REFINE [root]
+-----------END REFINE---------
+chatGPT|:|amati<@>root|:|UDA:0.500<#>DDA: 0.500
+GoldTree |:|at<@>amati<@>nsubj<#>amati<@>root<@>root
+>--<
+õn wat owẽ raken
+MESSAGE|:|Na sentença "õn púŋ kanã yaʔti nãn",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(õn -> yaʔti)
+(púŋ -> yaʔti)
+(kanã -> púŋ)
+(yaʔti -> root)
+(nãn -> yaʔti)..
+Liste as relações de dependência sintática na sentença "õn wat owẽ raken", usando o formato (token dependente -> token cabeça).
+REPLY|:|(õn -> raken)
+(wat -> raken)
+(owẽ -> wat)
+(raken -> root)
+REFINE [(wat]
+REFINE [(wat]
+REFINE [(wat]
+REFINE [(wat]
+REFINE [wat]
+REFINE [wat]
+-----------END REFINE---------
+REFINE [raken)]
+REFINE [raken)]
+REFINE [raken)]
+REFINE [raken)]
+REFINE [raken]
+-----------END REFINE---------
+REFINE [(owẽ]
+REFINE [(owẽ]
+REFINE [(owẽ]
+REFINE [(owẽ]
+REFINE [owẽ]
+REFINE [owẽ]
+-----------END REFINE---------
+REFINE [wat)]
+REFINE [wat)]
+REFINE [wat)]
+REFINE [wat)]
+REFINE [wat]
+-----------END REFINE---------
+REFINE [(raken]
+REFINE [(raken]
+REFINE [(raken]
+REFINE [(raken]
+REFINE [raken]
+REFINE [raken]
+-----------END REFINE---------
+REFINE [root)]
+REFINE [root)]
+REFINE [root)]
+REFINE [root)]
+REFINE [root]
+-----------END REFINE---------
+chatGPT|:|wat<@>raken<#>owẽ<@>wat<#>raken<@>root|:|UDA:0.500<#>DDA: 0.250
+GoldTree |:|õn<@>raken<@>nsubj<#>wat<@>owẽ<@>nmod<#>owẽ<@>raken<@>obj<#>raken<@>root<@>root
+>--<
+cãn nakəga
+MESSAGE|:|Na sentença "maʔpəy ŋa pára ŋa",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(maʔpəy -> root)
+(ŋa -> maʔpəy)
+(pára -> maʔpəy)
+(ŋa -> maʔpəy)..
+Liste as relações de dependência sintática na sentença "cãn nakəga", usando o formato (token dependente -> token cabeça).
+REPLY|:|As relações de dependência sintática na sentença "cãn nakəga" são:
+
+(cãn -> nakəga)
+(nakəga -> root)
+REFINE [(cãn]
+REFINE [(cãn]
+REFINE [(cãn]
+REFINE [(cãn]
+REFINE [cãn]
+REFINE [cãn]
+-----------END REFINE---------
+REFINE [nakəga)]
+REFINE [nakəga)]
+REFINE [nakəga)]
+REFINE [nakəga)]
+REFINE [nakəga]
+-----------END REFINE---------
+REFINE [(nakəga]
+REFINE [(nakəga]
+REFINE [(nakəga]
+REFINE [(nakəga]
+REFINE [nakəga]
+REFINE [nakəga]
+-----------END REFINE---------
+REFINE [root)]
+REFINE [root)]
+REFINE [root)]
+REFINE [root)]
+REFINE [root]
+-----------END REFINE---------
+chatGPT|:|<@><#>cãn<@>nakəga<#>nakəga<@>root|:|UDA:1.000<#>DDA: 1.000
+GoldTree |:|cãn<@>nakəga<@>obj<#>nakəga<@>root<@>root
+>--<
+taykit yaw be bewĩa
+MESSAGE|:|Na sentença "õn aʔtoy iʔke at kaʔa ʔa peʔ",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(õn -> aʔtoy)
+(aʔtoy -> root)
+(iʔke -> aʔtoy)
+(at -> kaʔa)
+(kaʔa -> aʔtoy)
+(ʔa -> kaʔa)
+(peʔ -> kaʔa)..
+Liste as relações de dependência sintática na sentença "taykit yaw be bewĩa", usando o formato (token dependente -> token cabeça).
+REPLY|:|(taykit -> yaw)
+(yaw -> root)
+(be -> yaw)
+(bewĩa -> yaw)
+REFINE [(yaw]
+REFINE [(yaw]
+REFINE [(yaw]
+REFINE [(yaw]
+REFINE [yaw]
+REFINE [yaw]
+-----------END REFINE---------
+REFINE [root)]
+REFINE [root)]
+REFINE [root)]
+REFINE [root)]
+REFINE [root]
+-----------END REFINE---------
+REFINE [(be]
+REFINE [(be]
+REFINE [(be]
+REFINE [(be]
+REFINE [be]
+REFINE [be]
+-----------END REFINE---------
+REFINE [yaw)]
+REFINE [yaw)]
+REFINE [yaw)]
+REFINE [yaw)]
+REFINE [yaw]
+-----------END REFINE---------
+REFINE [(bewĩa]
+REFINE [(bewĩa]
+REFINE [(bewĩa]
+REFINE [(bewĩa]
+REFINE [bewĩa]
+REFINE [bewĩa]
+-----------END REFINE---------
+REFINE [yaw)]
+REFINE [yaw)]
+REFINE [yaw)]
+REFINE [yaw)]
+REFINE [yaw]
+-----------END REFINE---------
+chatGPT|:|yaw<@>root<#>be<@>yaw<#>bewĩa<@>yaw|:|UDA:0.500<#>DDA: 0.250
+GoldTree |:|taykit<@>bewĩa<@>advmod<#>yaw<@>bewĩa<@>nsubj<#>be<@>yaw<@>compound<#>bewĩa<@>root<@>root
+>--<
+abegahmõm nã
+MESSAGE|:|Na sentença "maʔwɨt ken",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(maʔwɨt -> ken)
+(ken -> root)..
+Liste as relações de dependência sintática na sentença "abegahmõm nã", usando o formato (token dependente -> token cabeça).
+REPLY|:|(abegahmõm -> nã)
+(nã -> root)
+REFINE [(nã]
+REFINE [(nã]
+REFINE [(nã]
+REFINE [(nã]
+REFINE [nã]
+REFINE [nã]
+-----------END REFINE---------
+REFINE [root)]
+REFINE [root)]
+REFINE [root)]
+REFINE [root)]
+REFINE [root]
+-----------END REFINE---------
+chatGPT|:|nã<@>root|:|UDA:0.000<#>DDA: 0.000
+GoldTree |:|abegahmõm<@>root<@>root<#>nã<@>abegahmõm<@>cop
+>--<
+tap toroyapít
+MESSAGE|:|Na sentença "taykir at aʔtoy iga",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(taykir -> aʔtoy)
+(at -> aʔtoy)
+(aʔtoy -> root)
+(iga -> aʔtoy)..
+Liste as relações de dependência sintática na sentença "tap toroyapít", usando o formato (token dependente -> token cabeça).
+REPLY|:|(tap -> toroyapít)
+(toroyapít -> root)
+REFINE [(toroyapít]
+REFINE [(toroyapít]
+REFINE [(toroyapít]
+REFINE [(toroyapít]
+REFINE [toroyapít]
+REFINE [toroyapít]
+-----------END REFINE---------
+REFINE [root)]
+REFINE [root)]
+REFINE [root)]
+REFINE [root)]
+REFINE [root]
+-----------END REFINE---------
+chatGPT|:|toroyapít<@>root|:|UDA:0.500<#>DDA: 0.500
+GoldTree |:|tap<@>toroyapít<@>nsubj<#>toroyapít<@>root<@>root
+>--<
+inãw beʔnogat
+MESSAGE|:|Na sentença "maʔwɨt ken",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(maʔwɨt -> ken)
+(ken -> root)..
+Liste as relações de dependência sintática na sentença "inãw beʔnogat", usando o formato (token dependente -> token cabeça).
+REPLY|:|(inãw -> beʔnogat)
+(beʔnogat -> root)
+REFINE [(beʔnogat]
+REFINE [(beʔnogat]
+REFINE [(beʔnogat]
+REFINE [(beʔnogat]
+REFINE [beʔnogat]
+REFINE [beʔnogat]
+-----------END REFINE---------
+REFINE [root)]
+REFINE [root)]
+REFINE [root)]
+REFINE [root)]
+REFINE [root]
+-----------END REFINE---------
+chatGPT|:|beʔnogat<@>root|:|UDA:0.500<#>DDA: 0.500
+GoldTree |:|inãw<@>beʔnogat<@>obj<#>beʔnogat<@>root<@>root
+>--<
+õn aʔpẽn
+MESSAGE|:|Na sentença "[yét péŋ] paʔpan",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+([yét -> péŋ])
+(péŋ] -> paʔpan)
+(paʔpan -> root)..
+Liste as relações de dependência sintática na sentença "õn aʔpẽn", usando o formato (token dependente -> token cabeça).
+REPLY|:|(õn -> aʔpẽn)
+(aʔpẽn -> root)
+REFINE [(aʔpẽn]
+REFINE [(aʔpẽn]
+REFINE [(aʔpẽn]
+REFINE [(aʔpẽn]
+REFINE [aʔpẽn]
+REFINE [aʔpẽn]
+-----------END REFINE---------
+REFINE [root)]
+REFINE [root)]
+REFINE [root)]
+REFINE [root)]
+REFINE [root]
+-----------END REFINE---------
+chatGPT|:|aʔpẽn<@>root|:|UDA:0.500<#>DDA: 0.500
+GoldTree |:|õn<@>aʔpẽn<@>nsubj<#>aʔpẽn<@>root<@>root
+>--<
+õn ip peʔnɨy
+MESSAGE|:|Na sentença "tik wán ahyə et kaʔa ʔa peʔ",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(tik -> wán)
+(wán -> root)
+(ahyə -> wán)
+(et -> kaʔa)
+(kaʔa -> wán)
+(ʔa -> kaʔa)
+(peʔ -> kaʔa)..
+Liste as relações de dependência sintática na sentença "õn ip peʔnɨy", usando o formato (token dependente -> token cabeça).
+REPLY|:|As relações de dependência sintática na sentença "õn ip peʔnɨy" são:
+
+(õn -> peʔnɨy)
+(ip -> peʔnɨy)
+(peʔnɨy -> root)
+REFINE [(õn]
+REFINE [(õn]
+REFINE [(õn]
+REFINE [(õn]
+REFINE [õn]
+REFINE [õn]
+-----------END REFINE---------
+REFINE [peʔnɨy)]
+REFINE [peʔnɨy)]
+REFINE [peʔnɨy)]
+REFINE [peʔnɨy)]
+REFINE [peʔnɨy]
+-----------END REFINE---------
+REFINE [(ip]
+REFINE [(ip]
+REFINE [(ip]
+REFINE [(ip]
+REFINE [ip]
+REFINE [ip]
+-----------END REFINE---------
+REFINE [peʔnɨy)]
+REFINE [peʔnɨy)]
+REFINE [peʔnɨy)]
+REFINE [peʔnɨy)]
+REFINE [peʔnɨy]
+-----------END REFINE---------
+REFINE [(peʔnɨy]
+REFINE [(peʔnɨy]
+REFINE [(peʔnɨy]
+REFINE [(peʔnɨy]
+REFINE [peʔnɨy]
+REFINE [peʔnɨy]
+-----------END REFINE---------
+REFINE [root)]
+REFINE [root)]
+REFINE [root)]
+REFINE [root)]
+REFINE [root]
+-----------END REFINE---------
+chatGPT|:|<@><#>õn<@>peʔnɨy<#>ip<@>peʔnɨy<#>peʔnɨy<@>root|:|UDA:1.000<#>DDA: 1.000
+GoldTree |:|õn<@>peʔnɨy<@>nsubj<#>ip<@>peʔnɨy<@>obj<#>peʔnɨy<@>root<@>root
+>--<
+kaʔa ʔaʔtoʔ
+MESSAGE|:|Na sentença "et owã emakət",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(et -> owã)
+(owã -> emakət)
+(emakət -> root)..
+Liste as relações de dependência sintática na sentença "kaʔa ʔaʔtoʔ", usando o formato (token dependente -> token cabeça).
+REPLY|:|Não é possível realizar a análise de dependência sintática na sentença "kaʔa ʔaʔtoʔ" sem mais contexto, pois faltam informações específicas sobre quais são os elementos fraseológicos (tokens) e qual é o cabeça da frase (root).
+chatGPT|:||:|UDA:0.000<#>DDA: 0.000
+GoldTree |:|kaʔa<@>root<@>root<#>ʔaʔtoʔ<@>kaʔa<@>clf
+>--<

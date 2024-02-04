@@ -1,0 +1,6797 @@
+A sensação de insegurança e a debilidade de o poder público eram sem dúvida características de os Estados Unidos de o final de o século 18 , quando ( segundo a versão mais aceita ) a palavra teria sido inventada a partir de a prática adotada por um juiz Lynch , de condenar e executar seus adversários sem o devido processo legal .
+MESSAGE|:|Na sentença "Q",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(ontem -> dividida)
+(, -> ontem)
+(a -> conferência)
+(conferência -> dividida)
+(interministerial -> conferência)
+(foi -> dividida)
+(dividida -> root)
+(em -> partes)
+(duas -> partes)
+(partes -> dividida)
+(. -> dividida)Na sentença "u",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(quem -> tiver)
+(tiver -> ganhará)
+(resposta -> tiver)
+(ganhará -> root)
+(o -> país)
+(país -> ganhará)
+(. -> ganhará)..
+Liste as relações de dependência sintática na sentença "A sensação de insegurança e a debilidade de o poder público eram sem dúvida características de os Estados Unidos de o final de o século 18 , quando ( segundo a versão mais aceita ) a palavra teria sido inventada a partir de a prática adotada por um juiz Lynch , de condenar e executar seus adversários sem o devido processo legal .", usando o formato (token dependente -> token cabeça).
+REPLY|:|(A -> sensação)
+(sensação -> de)
+(insegurança -> sensação)
+(e -> insegurança)
+(debilidade -> sensação)
+(debilidade -> e)
+(poder -> debilidade)
+(público -> poder)
+(de -> poder)
+(o -> poder)
+(eram -> características)
+(características -> sensação)
+(sensação -> eram)
+(sem -> características)
+(dúvida -> sem)
+(características -> dúvida)
+(sem -> insegurança)
+(características -> sem)
+(Foram -> Estados)
+(Estados -> características)
+(Unidos -> Estados)
+(de -> Estados)
+(o -> século)
+(século -> final)
+(final -> Estados)
+(de -> século)
+(do -> século)
+(quando -> final)
+(versão -> segundo)
+(a -> versão)
+(segundo -> versão)
+(também -> versão)
+(aceita -> segundo)
+(a -> palavra)
+(palavra -> inventada)
+(inventada -> aceita)
+(a -> prática)
+(prática -> adotada)
+(adotada -> a)
+(por -> adotada)
+(Juiz -> Lynch)
+(Lynch -> por)
+(condenar -> Juiz)
+(e -> condenar)
+(executar -> condenar)
+(seus -> adversários)
+(adversários -> executar)
+(sem -> adversários)
+(processo -> devido)
+(devido -> processo)
+(legal -> processo)
+(processo -> devido)
+(. -> inventada)
+REFINE [(sensação]
+REFINE [(sensação]
+REFINE [(sensação]
+REFINE [(sensação]
+REFINE [sensação]
+REFINE [sensação]
+-----------END REFINE---------
+REFINE [de)]
+REFINE [de)]
+REFINE [de)]
+REFINE [de)]
+REFINE [de]
+-----------END REFINE---------
+REFINE [(insegurança]
+REFINE [(insegurança]
+REFINE [(insegurança]
+REFINE [(insegurança]
+REFINE [insegurança]
+REFINE [insegurança]
+-----------END REFINE---------
+REFINE [sensação)]
+REFINE [sensação)]
+REFINE [sensação)]
+REFINE [sensação)]
+REFINE [sensação]
+-----------END REFINE---------
+REFINE [(e]
+REFINE [(e]
+REFINE [(e]
+REFINE [(e]
+REFINE [e]
+REFINE [e]
+-----------END REFINE---------
+REFINE [insegurança)]
+REFINE [insegurança)]
+REFINE [insegurança)]
+REFINE [insegurança)]
+REFINE [insegurança]
+-----------END REFINE---------
+REFINE [(debilidade]
+REFINE [(debilidade]
+REFINE [(debilidade]
+REFINE [(debilidade]
+REFINE [debilidade]
+REFINE [debilidade]
+-----------END REFINE---------
+REFINE [sensação)]
+REFINE [sensação)]
+REFINE [sensação)]
+REFINE [sensação)]
+REFINE [sensação]
+-----------END REFINE---------
+REFINE [(debilidade]
+REFINE [(debilidade]
+REFINE [(debilidade]
+REFINE [(debilidade]
+REFINE [debilidade]
+REFINE [debilidade]
+-----------END REFINE---------
+REFINE [e)]
+REFINE [e)]
+REFINE [e)]
+REFINE [e)]
+REFINE [e]
+-----------END REFINE---------
+REFINE [(poder]
+REFINE [(poder]
+REFINE [(poder]
+REFINE [(poder]
+REFINE [poder]
+REFINE [poder]
+-----------END REFINE---------
+REFINE [debilidade)]
+REFINE [debilidade)]
+REFINE [debilidade)]
+REFINE [debilidade)]
+REFINE [debilidade]
+-----------END REFINE---------
+REFINE [(público]
+REFINE [(público]
+REFINE [(público]
+REFINE [(público]
+REFINE [público]
+REFINE [público]
+-----------END REFINE---------
+REFINE [poder)]
+REFINE [poder)]
+REFINE [poder)]
+REFINE [poder)]
+REFINE [poder]
+-----------END REFINE---------
+REFINE [(de]
+REFINE [(de]
+REFINE [(de]
+REFINE [(de]
+REFINE [de]
+REFINE [de]
+-----------END REFINE---------
+REFINE [poder)]
+REFINE [poder)]
+REFINE [poder)]
+REFINE [poder)]
+REFINE [poder]
+-----------END REFINE---------
+REFINE [(o]
+REFINE [(o]
+REFINE [(o]
+REFINE [(o]
+REFINE [o]
+REFINE [o]
+-----------END REFINE---------
+REFINE [poder)]
+REFINE [poder)]
+REFINE [poder)]
+REFINE [poder)]
+REFINE [poder]
+-----------END REFINE---------
+REFINE [(eram]
+REFINE [(eram]
+REFINE [(eram]
+REFINE [(eram]
+REFINE [eram]
+REFINE [eram]
+-----------END REFINE---------
+REFINE [características)]
+REFINE [características)]
+REFINE [características)]
+REFINE [características)]
+REFINE [características]
+-----------END REFINE---------
+REFINE [(características]
+REFINE [(características]
+REFINE [(características]
+REFINE [(características]
+REFINE [características]
+REFINE [características]
+-----------END REFINE---------
+REFINE [sensação)]
+REFINE [sensação)]
+REFINE [sensação)]
+REFINE [sensação)]
+REFINE [sensação]
+-----------END REFINE---------
+REFINE [(sensação]
+REFINE [(sensação]
+REFINE [(sensação]
+REFINE [(sensação]
+REFINE [sensação]
+REFINE [sensação]
+-----------END REFINE---------
+REFINE [eram)]
+REFINE [eram)]
+REFINE [eram)]
+REFINE [eram)]
+REFINE [eram]
+-----------END REFINE---------
+REFINE [(sem]
+REFINE [(sem]
+REFINE [(sem]
+REFINE [(sem]
+REFINE [sem]
+REFINE [sem]
+-----------END REFINE---------
+REFINE [características)]
+REFINE [características)]
+REFINE [características)]
+REFINE [características)]
+REFINE [características]
+-----------END REFINE---------
+REFINE [(dúvida]
+REFINE [(dúvida]
+REFINE [(dúvida]
+REFINE [(dúvida]
+REFINE [dúvida]
+REFINE [dúvida]
+-----------END REFINE---------
+REFINE [sem)]
+REFINE [sem)]
+REFINE [sem)]
+REFINE [sem)]
+REFINE [sem]
+-----------END REFINE---------
+REFINE [(características]
+REFINE [(características]
+REFINE [(características]
+REFINE [(características]
+REFINE [características]
+REFINE [características]
+-----------END REFINE---------
+REFINE [dúvida)]
+REFINE [dúvida)]
+REFINE [dúvida)]
+REFINE [dúvida)]
+REFINE [dúvida]
+-----------END REFINE---------
+REFINE [(sem]
+REFINE [(sem]
+REFINE [(sem]
+REFINE [(sem]
+REFINE [sem]
+REFINE [sem]
+-----------END REFINE---------
+REFINE [insegurança)]
+REFINE [insegurança)]
+REFINE [insegurança)]
+REFINE [insegurança)]
+REFINE [insegurança]
+-----------END REFINE---------
+REFINE [(características]
+REFINE [(características]
+REFINE [(características]
+REFINE [(características]
+REFINE [características]
+REFINE [características]
+-----------END REFINE---------
+REFINE [sem)]
+REFINE [sem)]
+REFINE [sem)]
+REFINE [sem)]
+REFINE [sem]
+-----------END REFINE---------
+REFINE [(Foram]
+REFINE [(Foram]
+REFINE [(Foram]
+REFINE [(Foram]
+REFINE [Foram]
+REFINE [Foram]
+-----------END REFINE---------
+REFINE [Estados)]
+REFINE [Estados)]
+REFINE [Estados)]
+REFINE [Estados)]
+REFINE [Estados]
+-----------END REFINE---------
+REFINE [(Estados]
+REFINE [(Estados]
+REFINE [(Estados]
+REFINE [(Estados]
+REFINE [Estados]
+REFINE [Estados]
+-----------END REFINE---------
+REFINE [características)]
+REFINE [características)]
+REFINE [características)]
+REFINE [características)]
+REFINE [características]
+-----------END REFINE---------
+REFINE [(Unidos]
+REFINE [(Unidos]
+REFINE [(Unidos]
+REFINE [(Unidos]
+REFINE [Unidos]
+REFINE [Unidos]
+-----------END REFINE---------
+REFINE [Estados)]
+REFINE [Estados)]
+REFINE [Estados)]
+REFINE [Estados)]
+REFINE [Estados]
+-----------END REFINE---------
+REFINE [(de]
+REFINE [(de]
+REFINE [(de]
+REFINE [(de]
+REFINE [de]
+REFINE [de]
+-----------END REFINE---------
+REFINE [Estados)]
+REFINE [Estados)]
+REFINE [Estados)]
+REFINE [Estados)]
+REFINE [Estados]
+-----------END REFINE---------
+REFINE [(o]
+REFINE [(o]
+REFINE [(o]
+REFINE [(o]
+REFINE [o]
+REFINE [o]
+-----------END REFINE---------
+REFINE [século)]
+REFINE [século)]
+REFINE [século)]
+REFINE [século)]
+REFINE [século]
+-----------END REFINE---------
+REFINE [(século]
+REFINE [(século]
+REFINE [(século]
+REFINE [(século]
+REFINE [século]
+REFINE [século]
+-----------END REFINE---------
+REFINE [final)]
+REFINE [final)]
+REFINE [final)]
+REFINE [final)]
+REFINE [final]
+-----------END REFINE---------
+REFINE [(final]
+REFINE [(final]
+REFINE [(final]
+REFINE [(final]
+REFINE [final]
+REFINE [final]
+-----------END REFINE---------
+REFINE [Estados)]
+REFINE [Estados)]
+REFINE [Estados)]
+REFINE [Estados)]
+REFINE [Estados]
+-----------END REFINE---------
+REFINE [(de]
+REFINE [(de]
+REFINE [(de]
+REFINE [(de]
+REFINE [de]
+REFINE [de]
+-----------END REFINE---------
+REFINE [século)]
+REFINE [século)]
+REFINE [século)]
+REFINE [século)]
+REFINE [século]
+-----------END REFINE---------
+REFINE [(do]
+REFINE [(do]
+REFINE [(do]
+REFINE [(do]
+REFINE [do]
+REFINE [do]
+-----------END REFINE---------
+REFINE [século)]
+REFINE [século)]
+REFINE [século)]
+REFINE [século)]
+REFINE [século]
+-----------END REFINE---------
+REFINE [(quando]
+REFINE [(quando]
+REFINE [(quando]
+REFINE [(quando]
+REFINE [quando]
+REFINE [quando]
+-----------END REFINE---------
+REFINE [final)]
+REFINE [final)]
+REFINE [final)]
+REFINE [final)]
+REFINE [final]
+-----------END REFINE---------
+REFINE [(versão]
+REFINE [(versão]
+REFINE [(versão]
+REFINE [(versão]
+REFINE [versão]
+REFINE [versão]
+-----------END REFINE---------
+REFINE [segundo)]
+REFINE [segundo)]
+REFINE [segundo)]
+REFINE [segundo)]
+REFINE [segundo]
+-----------END REFINE---------
+REFINE [(a]
+REFINE [(a]
+REFINE [(a]
+REFINE [(a]
+REFINE [a]
+REFINE [a]
+-----------END REFINE---------
+REFINE [versão)]
+REFINE [versão)]
+REFINE [versão)]
+REFINE [versão)]
+REFINE [versão]
+-----------END REFINE---------
+REFINE [(segundo]
+REFINE [(segundo]
+REFINE [(segundo]
+REFINE [(segundo]
+REFINE [segundo]
+REFINE [segundo]
+-----------END REFINE---------
+REFINE [versão)]
+REFINE [versão)]
+REFINE [versão)]
+REFINE [versão)]
+REFINE [versão]
+-----------END REFINE---------
+REFINE [(também]
+REFINE [(também]
+REFINE [(também]
+REFINE [(também]
+REFINE [também]
+REFINE [também]
+-----------END REFINE---------
+REFINE [versão)]
+REFINE [versão)]
+REFINE [versão)]
+REFINE [versão)]
+REFINE [versão]
+-----------END REFINE---------
+REFINE [(aceita]
+REFINE [(aceita]
+REFINE [(aceita]
+REFINE [(aceita]
+REFINE [aceita]
+REFINE [aceita]
+-----------END REFINE---------
+REFINE [segundo)]
+REFINE [segundo)]
+REFINE [segundo)]
+REFINE [segundo)]
+REFINE [segundo]
+-----------END REFINE---------
+REFINE [(a]
+REFINE [(a]
+REFINE [(a]
+REFINE [(a]
+REFINE [a]
+REFINE [a]
+-----------END REFINE---------
+REFINE [palavra)]
+REFINE [palavra)]
+REFINE [palavra)]
+REFINE [palavra)]
+REFINE [palavra]
+-----------END REFINE---------
+REFINE [(palavra]
+REFINE [(palavra]
+REFINE [(palavra]
+REFINE [(palavra]
+REFINE [palavra]
+REFINE [palavra]
+-----------END REFINE---------
+REFINE [inventada)]
+REFINE [inventada)]
+REFINE [inventada)]
+REFINE [inventada)]
+REFINE [inventada]
+-----------END REFINE---------
+REFINE [(inventada]
+REFINE [(inventada]
+REFINE [(inventada]
+REFINE [(inventada]
+REFINE [inventada]
+REFINE [inventada]
+-----------END REFINE---------
+REFINE [aceita)]
+REFINE [aceita)]
+REFINE [aceita)]
+REFINE [aceita)]
+REFINE [aceita]
+-----------END REFINE---------
+REFINE [(a]
+REFINE [(a]
+REFINE [(a]
+REFINE [(a]
+REFINE [a]
+REFINE [a]
+-----------END REFINE---------
+REFINE [prática)]
+REFINE [prática)]
+REFINE [prática)]
+REFINE [prática)]
+REFINE [prática]
+-----------END REFINE---------
+REFINE [(prática]
+REFINE [(prática]
+REFINE [(prática]
+REFINE [(prática]
+REFINE [prática]
+REFINE [prática]
+-----------END REFINE---------
+REFINE [adotada)]
+REFINE [adotada)]
+REFINE [adotada)]
+REFINE [adotada)]
+REFINE [adotada]
+-----------END REFINE---------
+REFINE [(adotada]
+REFINE [(adotada]
+REFINE [(adotada]
+REFINE [(adotada]
+REFINE [adotada]
+REFINE [adotada]
+-----------END REFINE---------
+REFINE [a)]
+REFINE [a)]
+REFINE [a)]
+REFINE [a)]
+REFINE [a]
+-----------END REFINE---------
+REFINE [(por]
+REFINE [(por]
+REFINE [(por]
+REFINE [(por]
+REFINE [por]
+REFINE [por]
+-----------END REFINE---------
+REFINE [adotada)]
+REFINE [adotada)]
+REFINE [adotada)]
+REFINE [adotada)]
+REFINE [adotada]
+-----------END REFINE---------
+REFINE [(Juiz]
+REFINE [(Juiz]
+REFINE [(Juiz]
+REFINE [(Juiz]
+REFINE [Juiz]
+REFINE [Juiz]
+-----------END REFINE---------
+REFINE [Lynch)]
+REFINE [Lynch)]
+REFINE [Lynch)]
+REFINE [Lynch)]
+REFINE [Lynch]
+-----------END REFINE---------
+REFINE [(Lynch]
+REFINE [(Lynch]
+REFINE [(Lynch]
+REFINE [(Lynch]
+REFINE [Lynch]
+REFINE [Lynch]
+-----------END REFINE---------
+REFINE [por)]
+REFINE [por)]
+REFINE [por)]
+REFINE [por)]
+REFINE [por]
+-----------END REFINE---------
+REFINE [(condenar]
+REFINE [(condenar]
+REFINE [(condenar]
+REFINE [(condenar]
+REFINE [condenar]
+REFINE [condenar]
+-----------END REFINE---------
+REFINE [Juiz)]
+REFINE [Juiz)]
+REFINE [Juiz)]
+REFINE [Juiz)]
+REFINE [Juiz]
+-----------END REFINE---------
+REFINE [(e]
+REFINE [(e]
+REFINE [(e]
+REFINE [(e]
+REFINE [e]
+REFINE [e]
+-----------END REFINE---------
+REFINE [condenar)]
+REFINE [condenar)]
+REFINE [condenar)]
+REFINE [condenar)]
+REFINE [condenar]
+-----------END REFINE---------
+REFINE [(executar]
+REFINE [(executar]
+REFINE [(executar]
+REFINE [(executar]
+REFINE [executar]
+REFINE [executar]
+-----------END REFINE---------
+REFINE [condenar)]
+REFINE [condenar)]
+REFINE [condenar)]
+REFINE [condenar)]
+REFINE [condenar]
+-----------END REFINE---------
+REFINE [(seus]
+REFINE [(seus]
+REFINE [(seus]
+REFINE [(seus]
+REFINE [seus]
+REFINE [seus]
+-----------END REFINE---------
+REFINE [adversários)]
+REFINE [adversários)]
+REFINE [adversários)]
+REFINE [adversários)]
+REFINE [adversários]
+-----------END REFINE---------
+REFINE [(adversários]
+REFINE [(adversários]
+REFINE [(adversários]
+REFINE [(adversários]
+REFINE [adversários]
+REFINE [adversários]
+-----------END REFINE---------
+REFINE [executar)]
+REFINE [executar)]
+REFINE [executar)]
+REFINE [executar)]
+REFINE [executar]
+-----------END REFINE---------
+REFINE [(sem]
+REFINE [(sem]
+REFINE [(sem]
+REFINE [(sem]
+REFINE [sem]
+REFINE [sem]
+-----------END REFINE---------
+REFINE [adversários)]
+REFINE [adversários)]
+REFINE [adversários)]
+REFINE [adversários)]
+REFINE [adversários]
+-----------END REFINE---------
+REFINE [(processo]
+REFINE [(processo]
+REFINE [(processo]
+REFINE [(processo]
+REFINE [processo]
+REFINE [processo]
+-----------END REFINE---------
+REFINE [devido)]
+REFINE [devido)]
+REFINE [devido)]
+REFINE [devido)]
+REFINE [devido]
+-----------END REFINE---------
+REFINE [(devido]
+REFINE [(devido]
+REFINE [(devido]
+REFINE [(devido]
+REFINE [devido]
+REFINE [devido]
+-----------END REFINE---------
+REFINE [processo)]
+REFINE [processo)]
+REFINE [processo)]
+REFINE [processo)]
+REFINE [processo]
+-----------END REFINE---------
+REFINE [(legal]
+REFINE [(legal]
+REFINE [(legal]
+REFINE [(legal]
+REFINE [legal]
+REFINE [legal]
+-----------END REFINE---------
+REFINE [processo)]
+REFINE [processo)]
+REFINE [processo)]
+REFINE [processo)]
+REFINE [processo]
+-----------END REFINE---------
+REFINE [(processo]
+REFINE [(processo]
+REFINE [(processo]
+REFINE [(processo]
+REFINE [processo]
+REFINE [processo]
+-----------END REFINE---------
+REFINE [devido)]
+REFINE [devido)]
+REFINE [devido)]
+REFINE [devido)]
+REFINE [devido]
+-----------END REFINE---------
+REFINE [(.]
+REFINE [(.]
+REFINE [(.]
+REFINE [(.]
+REFINE [.]
+REFINE [.]
+-----------END REFINE---------
+REFINE [inventada)]
+REFINE [inventada)]
+REFINE [inventada)]
+REFINE [inventada)]
+REFINE [inventada]
+-----------END REFINE---------
+chatGPT|:|sensação<@>de<#>insegurança<@>sensação<#>e<@>insegurança<#>debilidade<@>sensação<#>debilidade<@>e<#>poder<@>debilidade<#>público<@>poder<#>de<@>poder<#>o<@>poder<#>eram<@>características<#>características<@>sensação<#>sensação<@>eram<#>sem<@>características<#>dúvida<@>sem<#>características<@>dúvida<#>sem<@>insegurança<#>características<@>sem<#>Foram<@>Estados<#>Estados<@>características<#>Unidos<@>Estados<#>de<@>Estados<#>o<@>século<#>século<@>final<#>final<@>Estados<#>de<@>século<#>do<@>século<#>quando<@>final<#>versão<@>segundo<#>a<@>versão<#>segundo<@>versão<#>também<@>versão<#>aceita<@>segundo<#>a<@>palavra<#>palavra<@>inventada<#>inventada<@>aceita<#>a<@>prática<#>prática<@>adotada<#>adotada<@>a<#>por<@>adotada<#>Juiz<@>Lynch<#>Lynch<@>por<#>condenar<@>Juiz<#>e<@>condenar<#>executar<@>condenar<#>seus<@>adversários<#>adversários<@>executar<#>sem<@>adversários<#>processo<@>devido<#>devido<@>processo<#>legal<@>processo<#>processo<@>devido<#>.<@>inventada|:|UDA:0.476<#>DDA: 0.349
+GoldTree |:|A<@>sensação<@>det<#>sensação<@>características<@>nsubj<#>de<@>insegurança<@>case<#>insegurança<@>sensação<@>nmod<#>e<@>debilidade<@>cc<#>a<@>debilidade<@>det<#>debilidade<@>sensação<@>conj<#>de<@>poder<@>case<#>o<@>poder<@>det<#>poder<@>debilidade<@>nmod<#>público<@>poder<@>amod<#>eram<@>características<@>cop<#>sem<@>dúvida<@>case<#>dúvida<@>características<@>nmod<#>características<@>root<@>root<#>de<@>Estados<@>case<#>os<@>Estados<@>det<#>Estados<@>características<@>nmod<#>Unidos<@>Estados<@>flat<#>de<@>final<@>case<#>o<@>final<@>det<#>final<@>Estados<@>nmod<#>de<@>século<@>case<#>o<@>século<@>det<#>século<@>final<@>nmod<#>18<@>século<@>nummod<#>,<@>características<@>punct<#>quando<@>inventada<@>advmod<#>(<@>versão<@>punct<#>segundo<@>versão<@>case<#>a<@>versão<@>det<#>versão<@>quando<@>obl<#>mais<@>aceita<@>advmod<#>aceita<@>versão<@>acl<#>)<@>versão<@>punct<#>a<@>palavra<@>det<#>palavra<@>inventada<@>nsubj<#>teria<@>inventada<@>aux<#>sido<@>inventada<@>aux<#>inventada<@>características<@>advcl<#>a<@>partir<@>case<#>partir<@>quando<@>obl<#>de<@>prática<@>case<#>a<@>prática<@>det<#>prática<@>partir<@>nmod<#>adotada<@>prática<@>acl<#>por<@>juiz<@>case<#>um<@>juiz<@>det<#>juiz<@>adotada<@>obl<#>Lynch<@>juiz<@>appos<#>,<@>adotada<@>punct<#>de<@>condenar<@>mark<#>condenar<@>prática<@>acl<#>e<@>executar<@>cc<#>executar<@>condenar<@>conj<#>seus<@>adversários<@>det<#>adversários<@>executar<@>obj<#>sem<@>processo<@>case<#>o<@>processo<@>det<#>devido<@>processo<@>amod<#>processo<@>executar<@>obl<#>legal<@>processo<@>amod<#>.<@>características<@>punct
+>--<
+Os norte-americanos que se reuniram ontem em a Câmara de Comércio Brasil-Estados Unidos , em São Paulo , ficaram conformados com a derrota de sua seleção .
+MESSAGE|:|Na sentença "O",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(a -> análise)
+(análise -> conduzida)
+(de -> mapas)
+(os -> mapas)
+(mapas -> análise)
+(magnéticos -> mapas)
+(, -> análise)
+(que -> encontra)
+(se -> encontra)
+(encontra -> análise)
+(em -> âmbito)
+(o -> âmbito)
+(âmbito -> encontra)
+(de -> abordagem)
+(a -> abordagem)
+(abordagem -> âmbito)
+(qualitativa -> abordagem)
+(de -> interpretação)
+(esta -> interpretação)
+(interpretação -> abordagem)
+(, -> encontra)
+(foi -> conduzida)
+(conduzida -> root)
+(com -> auxílio)
+(o -> auxílio)
+(auxílio -> conduzida)
+(de -> método)
+(o -> método)
+(método -> auxílio)
+(de -> amplitude)
+(a -> amplitude)
+(amplitude -> método)
+(de -> sinal)
+(o -> sinal)
+(sinal -> amplitude)
+(analítico -> sinal)
+(que -> calculado)
+(é -> calculado)
+(calculado -> sinal)
+(em -> dimensões)
+(as -> dimensões)
+(três -> dimensões)
+(dimensões -> calculado)
+(sobre -> grids)
+(os -> grids)
+(grids -> calculado)
+(de -> valores)
+(valores -> grids)
+(de -> campo)
+(o -> campo)
+(campo -> valores)
+(magnético -> campo)
+(total -> campo)
+(. -> conduzida)Na sentença " ",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(o -> consumidor)
+(consumidor -> precisa)
+(precisa -> root)
+(saber -> precisa)
+(diferenciar -> saber)
+(as -> coberturas)
+(coberturas -> diferenciar)
+(e -> considera)
+(, -> vezes)
+(muitas -> vezes)
+(vezes -> considera)
+(, -> vezes)
+(ele -> considera)
+(considera -> precisa)
+(apenas -> lista)
+(uma -> lista)
+(lista -> considera)
+(de -> preços)
+(preços -> lista)
+(comparando -> lista)
+(as -> seguradoras)
+(seguradoras -> comparando)
+(. -> precisa)..
+Liste as relações de dependência sintática na sentença "Os norte-americanos que se reuniram ontem em a Câmara de Comércio Brasil-Estados Unidos , em São Paulo , ficaram conformados com a derrota de sua seleção .", usando o formato (token dependente -> token cabeça).
+REPLY|:|(os -> norte-americanos)
+(norte-americanos -> reuniram)
+(reuniram -> ficaram)
+(que -> reuniram)
+(se -> reuniram)
+(em -> reuniram)
+(a -> Câmara)
+(Câmara -> Comércio)
+(Comércio -> em)
+(Brasil-Estados -> Comércio)
+(Unidos -> Brasil-Estados)
+(Brasil-Estados -> Comércio)
+(Comércio -> em)
+(em -> reuniram)
+(São -> Paulo)
+(Paulo -> em)
+(ficaram -> conformados)
+(com -> derrota)
+(a -> derrota)
+(seleção -> derrota)
+(de -> derrota)
+(sua -> seleção)
+(seleção -> ficaram)
+(. -> conformados)
+REFINE [(norte-americanos]
+REFINE [(norte-americanos]
+REFINE [(norte-americanos]
+REFINE [(norte-americanos]
+REFINE [norte-americanos]
+REFINE [norte-americanos]
+-----------END REFINE---------
+REFINE [reuniram)]
+REFINE [reuniram)]
+REFINE [reuniram)]
+REFINE [reuniram)]
+REFINE [reuniram]
+-----------END REFINE---------
+REFINE [(reuniram]
+REFINE [(reuniram]
+REFINE [(reuniram]
+REFINE [(reuniram]
+REFINE [reuniram]
+REFINE [reuniram]
+-----------END REFINE---------
+REFINE [ficaram)]
+REFINE [ficaram)]
+REFINE [ficaram)]
+REFINE [ficaram)]
+REFINE [ficaram]
+-----------END REFINE---------
+REFINE [(que]
+REFINE [(que]
+REFINE [(que]
+REFINE [(que]
+REFINE [que]
+REFINE [que]
+-----------END REFINE---------
+REFINE [reuniram)]
+REFINE [reuniram)]
+REFINE [reuniram)]
+REFINE [reuniram)]
+REFINE [reuniram]
+-----------END REFINE---------
+REFINE [(se]
+REFINE [(se]
+REFINE [(se]
+REFINE [(se]
+REFINE [se]
+REFINE [se]
+-----------END REFINE---------
+REFINE [reuniram)]
+REFINE [reuniram)]
+REFINE [reuniram)]
+REFINE [reuniram)]
+REFINE [reuniram]
+-----------END REFINE---------
+REFINE [(em]
+REFINE [(em]
+REFINE [(em]
+REFINE [(em]
+REFINE [em]
+REFINE [em]
+-----------END REFINE---------
+REFINE [reuniram)]
+REFINE [reuniram)]
+REFINE [reuniram)]
+REFINE [reuniram)]
+REFINE [reuniram]
+-----------END REFINE---------
+REFINE [(a]
+REFINE [(a]
+REFINE [(a]
+REFINE [(a]
+REFINE [a]
+REFINE [a]
+-----------END REFINE---------
+REFINE [Câmara)]
+REFINE [Câmara)]
+REFINE [Câmara)]
+REFINE [Câmara)]
+REFINE [Câmara]
+-----------END REFINE---------
+REFINE [(Câmara]
+REFINE [(Câmara]
+REFINE [(Câmara]
+REFINE [(Câmara]
+REFINE [Câmara]
+REFINE [Câmara]
+-----------END REFINE---------
+REFINE [Comércio)]
+REFINE [Comércio)]
+REFINE [Comércio)]
+REFINE [Comércio)]
+REFINE [Comércio]
+-----------END REFINE---------
+REFINE [(Comércio]
+REFINE [(Comércio]
+REFINE [(Comércio]
+REFINE [(Comércio]
+REFINE [Comércio]
+REFINE [Comércio]
+-----------END REFINE---------
+REFINE [em)]
+REFINE [em)]
+REFINE [em)]
+REFINE [em)]
+REFINE [em]
+-----------END REFINE---------
+REFINE [(Brasil-Estados]
+REFINE [(Brasil-Estados]
+REFINE [(Brasil-Estados]
+REFINE [(Brasil-Estados]
+REFINE [Brasil-Estados]
+REFINE [Brasil-Estados]
+-----------END REFINE---------
+REFINE [Comércio)]
+REFINE [Comércio)]
+REFINE [Comércio)]
+REFINE [Comércio)]
+REFINE [Comércio]
+-----------END REFINE---------
+REFINE [(Unidos]
+REFINE [(Unidos]
+REFINE [(Unidos]
+REFINE [(Unidos]
+REFINE [Unidos]
+REFINE [Unidos]
+-----------END REFINE---------
+REFINE [Brasil-Estados)]
+REFINE [Brasil-Estados)]
+REFINE [Brasil-Estados)]
+REFINE [Brasil-Estados)]
+REFINE [Brasil-Estados]
+-----------END REFINE---------
+REFINE [(Brasil-Estados]
+REFINE [(Brasil-Estados]
+REFINE [(Brasil-Estados]
+REFINE [(Brasil-Estados]
+REFINE [Brasil-Estados]
+REFINE [Brasil-Estados]
+-----------END REFINE---------
+REFINE [Comércio)]
+REFINE [Comércio)]
+REFINE [Comércio)]
+REFINE [Comércio)]
+REFINE [Comércio]
+-----------END REFINE---------
+REFINE [(Comércio]
+REFINE [(Comércio]
+REFINE [(Comércio]
+REFINE [(Comércio]
+REFINE [Comércio]
+REFINE [Comércio]
+-----------END REFINE---------
+REFINE [em)]
+REFINE [em)]
+REFINE [em)]
+REFINE [em)]
+REFINE [em]
+-----------END REFINE---------
+REFINE [(em]
+REFINE [(em]
+REFINE [(em]
+REFINE [(em]
+REFINE [em]
+REFINE [em]
+-----------END REFINE---------
+REFINE [reuniram)Os norte-americanos que se reuniram ontem em a Câmara de Comércio Brasil-Estados Unidos , em São Paulo , ficaram conformados com a derrota de sua seleção . Folha -- Como você recebeu a notícia de que seria substituído ?
+MESSAGE|:|Na sentença "S",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(o -> constitui)
+(que -> constitui)
+(em -> si)
+(si -> constitui)
+(mesmo -> si)
+(constitui -> root)
+(uma -> forma)
+(forma -> constitui)
+(de -> consagração)
+(consagração -> forma)
+(e -> acentuação)
+(uma -> acentuação)
+(acentuação -> constitui)
+(de -> importância)
+(importância -> acentuação)
+(. -> constitui)Na sentença "e",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(sete -> anos)
+(anos -> root)
+(de -> prisão)
+(prisão -> anos)
+(por -> transporte)
+(transporte -> prisão)
+(de -> droga)
+(droga -> transporte)..
+Liste as relações de dependência sintática na sentença "Os norte-americanos que se reuniram ontem em a Câmara de Comércio Brasil-Estados Unidos , em São Paulo , ficaram conformados com a derrota de sua seleção . Folha -- Como você recebeu a notícia de que seria substituído ?", usando o formato (token dependente -> token cabeça).
+REPLY|:|As relações de dependência sintática na sentença "Os norte-americanos que se reuniram ontem em a Câmara de Comércio Brasil-Estados Unidos , em São Paulo , ficaram conformados com a derrota de sua seleção . Folha -- Como você recebeu a notícia de que seria substituído ?" são mostradas abaixo:
+
+(que -> reuniram)
+(reuniram -> norte-americanos)
+(os -> norte-americanos)
+(em -> reuniram)
+(Câmara -> em)
+(Comércio -> Câmara)
+(Brasil-Estados -> Comércio)
+(Unidos -> Brasil-Estados)
+(em -> Unidos)
+(São -> em)
+(Paulo -> em)
+(ficaram -> conformados)
+(conformados -> ficaram)
+(com -> derrota)
+(derrota -> conformados)
+(de -> derrota)
+(sua -> seleção)
+(seleção -> derrota)
+(.) -> ficaram)
+(Folha -> Como)
+(você -> recebeu)
+(recebeu -> Como)
+(a -> notícia)
+(de -> notícia)
+(seria -> substituído)
+(substituído -> recebeu)
+(que -> substituído)
+REFINE [(que]
+REFINE [(que]
+REFINE [(que]
+REFINE [(que]
+REFINE [que]
+REFINE [que]
+-----------END REFINE---------
+REFINE [reuniram)]
+REFINE [reuniram)]
+REFINE [reuniram)]
+REFINE [reuniram)]
+REFINE [reuniram]
+-----------END REFINE---------
+REFINE [(reuniram]
+REFINE [(reuniram]
+REFINE [(reuniram]
+REFINE [(reuniram]
+REFINE [reuniram]
+REFINE [reuniram]
+-----------END REFINE---------
+REFINE [norte-americanos)]
+REFINE [norte-americanos)]
+REFINE [norte-americanos)]
+REFINE [norte-americanos)]
+REFINE [norte-americanos]
+-----------END REFINE---------
+REFINE [(os]
+REFINE [(os]
+REFINE [(os]
+REFINE [(os]
+REFINE [os]
+REFINE [os]
+-----------END REFINE---------
+REFINE [norte-americanos)]
+REFINE [norte-americanos)]
+REFINE [norte-americanos)]
+REFINE [norte-americanos)]
+REFINE [norte-americanos]
+-----------END REFINE---------
+REFINE [(em]
+REFINE [(em]
+REFINE [(em]
+REFINE [(em]
+REFINE [em]
+REFINE [em]
+-----------END REFINE---------
+REFINE [reuniram)]
+REFINE [reuniram)]
+REFINE [reuniram)]
+REFINE [reuniram)]
+REFINE [reuniram]
+-----------END REFINE---------
+REFINE [(Câmara]
+REFINE [(Câmara]
+REFINE [(Câmara]
+REFINE [(Câmara]
+REFINE [Câmara]
+REFINE [Câmara]
+-----------END REFINE---------
+REFINE [em)]
+REFINE [em)]
+REFINE [em)]
+REFINE [em)]
+REFINE [em]
+-----------END REFINE---------
+REFINE [(Comércio]
+REFINE [(Comércio]
+REFINE [(Comércio]
+REFINE [(Comércio]
+REFINE [Comércio]
+REFINE [Comércio]
+-----------END REFINE---------
+REFINE [Câmara)]
+REFINE [Câmara)]
+REFINE [Câmara)]
+REFINE [Câmara)]
+REFINE [Câmara]
+-----------END REFINE---------
+REFINE [(Brasil-Estados]
+REFINE [(Brasil-Estados]
+REFINE [(Brasil-Estados]
+REFINE [(Brasil-Estados]
+REFINE [Brasil-Estados]
+REFINE [Brasil-Estados]
+-----------END REFINE---------
+REFINE [Comércio)]
+REFINE [Comércio)]
+REFINE [Comércio)]
+REFINE [Comércio)]
+REFINE [Comércio]
+-----------END REFINE---------
+REFINE [(Unidos]
+REFINE [(Unidos]
+REFINE [(Unidos]
+REFINE [(Unidos]
+REFINE [Unidos]
+REFINE [Unidos]
+-----------END REFINE---------
+REFINE [Brasil-Estados)]
+REFINE [Brasil-Estados)]
+REFINE [Brasil-Estados)]
+REFINE [Brasil-Estados)]
+REFINE [Brasil-Estados]
+-----------END REFINE---------
+REFINE [(em]
+REFINE [(em]
+REFINE [(em]
+REFINE [(em]
+REFINE [em]
+REFINE [em]
+-----------END REFINE---------
+REFINE [Unidos)]
+REFINE [Unidos)]
+REFINE [Unidos)]
+REFINE [Unidos)]
+REFINE [Unidos]
+-----------END REFINE---------
+REFINE [(São]
+REFINE [(São]
+REFINE [(São]
+REFINE [(São]
+REFINE [São]
+REFINE [São]
+-----------END REFINE---------
+REFINE [em)]
+REFINE [em)]
+REFINE [em)]
+REFINE [em)]
+REFINE [em]
+-----------END REFINE---------
+REFINE [(Paulo]
+REFINE [(Paulo]
+REFINE [(Paulo]
+REFINE [(Paulo]
+REFINE [Paulo]
+REFINE [Paulo]
+-----------END REFINE---------
+REFINE [em)]
+REFINE [em)]
+REFINE [em)]
+REFINE [em)]
+REFINE [em]
+-----------END REFINE---------
+REFINE [(ficaram]
+REFINE [(ficaram]
+REFINE [(ficaram]
+REFINE [(ficaram]
+REFINE [ficaram]
+REFINE [ficaram]
+-----------END REFINE---------
+REFINE [conformados)]
+REFINE [conformados)]
+REFINE [conformados)]
+REFINE [conformados)]
+REFINE [conformados]
+-----------END REFINE---------
+REFINE [(conformados]
+REFINE [(conformados]
+REFINE [(conformados]
+REFINE [(conformados]
+REFINE [conformados]
+REFINE [conformados]
+-----------END REFINE---------
+REFINE [ficaram)]
+REFINE [ficaram)]
+REFINE [ficaram)]
+REFINE [ficaram)]
+REFINE [ficaram]
+-----------END REFINE---------
+REFINE [(com]
+REFINE [(com]
+REFINE [(com]
+REFINE [(com]
+REFINE [com]
+REFINE [com]
+-----------END REFINE---------
+REFINE [derrota)]
+REFINE [derrota)]
+REFINE [derrota)]
+REFINE [derrota)]
+REFINE [derrota]
+-----------END REFINE---------
+REFINE [(derrota]
+REFINE [(derrota]
+REFINE [(derrota]
+REFINE [(derrota]
+REFINE [derrota]
+REFINE [derrota]
+-----------END REFINE---------
+REFINE [conformados)]
+REFINE [conformados)]
+REFINE [conformados)]
+REFINE [conformados)]
+REFINE [conformados]
+-----------END REFINE---------
+REFINE [(de]
+REFINE [(de]
+REFINE [(de]
+REFINE [(de]
+REFINE [de]
+REFINE [de]
+-----------END REFINE---------
+REFINE [derrota)]
+REFINE [derrota)]
+REFINE [derrota)]
+REFINE [derrota)]
+REFINE [derrota]
+-----------END REFINE---------
+REFINE [(sua]
+REFINE [(sua]
+REFINE [(sua]
+REFINE [(sua]
+REFINE [sua]
+REFINE [sua]
+-----------END REFINE---------
+REFINE [seleção)]
+REFINE [seleção)]
+REFINE [seleção)]
+REFINE [seleção)]
+REFINE [seleção]
+-----------END REFINE---------
+REFINE [(seleção]
+REFINE [(seleção]
+REFINE [(seleção]
+REFINE [(seleção]
+REFINE [seleção]
+REFINE [seleção]
+-----------END REFINE---------
+REFINE [derrota)]
+REFINE [derrota)]
+REFINE [derrota)]
+REFINE [derrota)]
+REFINE [derrota]
+-----------END REFINE---------
+REFINE [(.)]
+REFINE [(.)]
+REFINE [(.)]
+REFINE [(.)]
+REFINE [.)]
+REFINE [.]
+-----------END REFINE---------
+REFINE [ficaram)]
+REFINE [ficaram)]
+REFINE [ficaram)]
+REFINE [ficaram)]
+REFINE [ficaram]
+-----------END REFINE---------
+REFINE [(Folha]
+REFINE [(Folha]
+REFINE [(Folha]
+REFINE [(Folha]
+REFINE [Folha]
+REFINE [Folha]
+-----------END REFINE---------
+REFINE [Como)]
+REFINE [Como)]
+REFINE [Como)]
+REFINE [Como)]
+REFINE [Como]
+-----------END REFINE---------
+REFINE [(você]
+REFINE [(você]
+REFINE [(você]
+REFINE [(você]
+REFINE [você]
+REFINE [você]
+-----------END REFINE---------
+REFINE [recebeu)]
+REFINE [recebeu)]
+REFINE [recebeu)]
+REFINE [recebeu)]
+REFINE [recebeu]
+-----------END REFINE---------
+REFINE [(recebeu]
+REFINE [(recebeu]
+REFINE [(recebeu]
+REFINE [(recebeu]
+REFINE [recebeu]
+REFINE [recebeu]
+-----------END REFINE---------
+REFINE [Como)]
+REFINE [Como)]
+REFINE [Como)]
+REFINE [Como)]
+REFINE [Como]
+-----------END REFINE----------------END REFINE---------
+REFINE [São Paulo)]
+REFINE [São Paulo)]
+REFINE [São]
+REFINE [São]
+REFINE [São]
+-----------END REFINE---------
+REFINE [(conformados]
+REFINE [(conformados]
+REFINE [(conformados]
+REFINE [(conformados]
+REFINE [conformados]
+REFINE [conformados]
+-----------END REFINE---------
+REFINE [ficaram)]
+REFINE [ficaram)]
+REFINE [ficaram)]
+REFINE [ficaram)]
+REFINE [ficaram]
+-----------END REFINE---------
+REFINE [(conformados]
+REFINE [(confoREFINE [(seria]
+REFINE [(seria]
+REFINE [(seria]
+REFINE [(seria]
+REFINE [seria]
+REFINE [seria]
+-----------END REFINE---------
+REFINE [substituído)]
+REFINE [substituído)]
+REFINE [substituído)]
+REFINE [substituído)]
+REFINE [substituído]
+-----------END REFINE---------
+REFINE [(substituído]
+REFINE [(substituído]
+REFINE [(substituído]
+REFINE [(substituído]
+REFINE [substituído]
+REFINE [substituído]
+-----------END REFINE---------
+REFINE [recebeu)]
+REFINE [recebeu)]
+REFINE [recebeu)]
+REFINE [recebeu)]
+REFINE [recebeu]
+-----------END REFINE---------
+REFINE [(que]
+REFINE [(que]
+REFINE [(que]
+REFINE [(que]
+REFINE [que]
+REFINE [que]
+-----------END REFINE---------
+REFINE [substituído)]
+REFINE [substituído)]
+REFINE [substituído)]
+REFINE [substituído)]
+REFINE [substituído]
+-----------END REFINE---------
+chatGPT|:|<@><#>que<@>reuniram<#>reuniram<@>norte-americanos<#>os<@>norte-americanos<#>em<@>reuniram<#>Câmara<@>em<#>Comércio<@>Câmara<#>Brasil-Estados<@>Comércio<#>Unidos<@>Brasil-Estados<#>em<@>Unidos<#>São<@>em<#>Paulo<@>em<#>ficaram<@>conformados<#>conformados<@>ficaram<#>com<@>derrota<#>derrota<@>conformados<#>de<@>derrota<#>sua<@>seleção<#>seleção<@>derrota<#>.<@>ficaram<#>Folha<@>Como<#>você<@>recebeu<#>recebeu<@>Como<#>a<@>notícia<#>de<@>notícia<#>seria<@>substituído<#>substituído<@>recebeu<#>que<@>substituído|:|UDA:0.282<#>DDA: 0.205
+GoldTree |:|Os<@>--<@>det<#>norte-americanos<@>ficaram<@>nsubj<#>que<@>recebeu<@>nsubj<#>se<@>recebeu<@>expl<#>reuniram<@>--<@>acl<#>ontem<@>recebeu<@>advmod<#>em<@>que<@>case<#>a<@>que<@>det<#>Câmara<@>recebeu<@>obl<#>de<@>substituído<@>case<#>Comércio<@>que<@>nmod<#>Brasil-Estados<@>substituído<@>flat<#>Unidos<@>substituído<@>flat<#>,<@>recebeu<@>punct<#>em<@>São<@>case<#>São<@>recebeu<@>obl<#>Paulo<@>São<@>flat<#>,<@>recebeu<@>punct<#>ficaram<@>root<@>root<#>conformados<@>ficaram<@>xcomp<#>com<@>derrota<@>case<#>a<@>derrota<@>det<#>derrota<@>ficaram<@>obl<#>de<@>seleção<@>case<#>sua<@>seleção<@>det<#>seleção<@>derrota<@>nmod<#>.<@>ficaram<@>punct<#>Folha<@>root<@>root<#>--<@>Folha<@>punct<#>Como<@>recebeu<@>advmod<#>você<@>recebeu<@>nsubj<#>recebeu<@>Folha<@>parataxis<#>a<@>notícia<@>det<#>notícia<@>recebeu<@>obj<#>de<@>substituído<@>mark<#>que<@>substituído<@>mark<#>seria<@>substituído<@>aux<#>substituído<@>notícia<@>acl<#>?<@>Folha<@>punct
+>--<
+Giovane -- Normalmente .
+MESSAGE|:|Na sentença "R",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(a -> versão)
+(versão -> diferente)
+(de -> igreja)
+(a -> igreja)
+(igreja -> versão)
+(maná -> igreja)
+(é -> diferente)
+(naturalmente -> diferente)
+(diferente -> root)
+(: -> diferente)Na sentença "u",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(rui -> root)
+(pereira -> rui)
+(martins -> rui)
+(, -> rui)
+(em -> berna)
+(berna -> rui)..
+Liste as relações de dependência sintática na sentença "Giovane -- Normalmente .", usando o formato (token dependente -> token cabeça).
+REPLY|:|Na sentença "Giovane -- Normalmente .", as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça):
+
+(Giovane -> --)
+(-- -> Normalmente)
+(Normalmente -> .)
+(. -> Normalmente)
+REFINE [(Giovane]
+REFINE [(Giovane]
+REFINE [(Giovane]
+REFINE [(Giovane]
+REFINE [Giovane]
+REFINE [Giovane]
+-----------END REFINE---------
+REFINE [--)]
+REFINE [--)]
+REFINE [--)]
+REFINE [--)]
+REFINE [--]
+-----------END REFINE---------
+REFINE [(--]
+REFINE [(--]
+REFINE [(--]
+REFINE [(--]
+REFINE [--]
+REFINE [--]
+-----------END REFINE---------
+REFINE [Normalmente)]
+REFINE [Normalmente)]
+REFINE [Normalmente)]
+REFINE [Normalmente)]
+REFINE [Normalmente]
+-----------END REFINE---------
+REFINE [(Normalmente]
+REFINE [(Normalmente]
+REFINE [(Normalmente]
+REFINE [(Normalmente]
+REFINE [Normalmente]
+REFINE [Normalmente]
+-----------END REFINE---------
+REFINE [.)]
+REFINE [.)]
+REFINE [.)]
+REFINE [.)]
+REFINE [.]
+-----------END REFINE---------
+REFINE [(.]
+REFINE [(.]
+REFINE [(.]
+REFINE [(.]
+REFINE [.]
+REFINE [.]
+-----------END REFINE---------
+REFINE [Normalmente)]
+REFINE [Normalmente)]
+REFINE [Normalmente)]
+REFINE [Normalmente)]
+REFINE [Normalmente]
+-----------END REFINE---------
+chatGPT|:|<@><#>Giovane<@>--<#>--<@>Normalmente<#>Normalmente<@>.<#>.<@>Normalmente|:|UDA:0.250<#>DDA: 0.000
+GoldTree |:|Giovane<@>root<@>root<#>--<@>Giovane<@>punct<#>Normalmente<@>Giovane<@>parataxis<#>.<@>Giovane<@>punct
+>--<
+Seleção é isso , joga quem está melhor , não tem esse negócio de nome .
+MESSAGE|:|Na sentença "D",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(luis -> nasceu)
+(yãnez -> luis)
+(, -> luis)
+(o -> candidato)
+(candidato -> luis)
+(de -> psoe)
+(o -> psoe)
+(psoe -> candidato)
+(por -> sevilha)
+(sevilha -> candidato)
+(, -> luis)
+(nasceu -> root)
+(aqui -> nasceu)
+(, -> nasceu)
+(mas -> vive)
+(vive -> nasceu)
+(há -> vive)
+(muitos -> anos)
+(anos -> há)
+(em -> madrid)
+(madrid -> vive)
+(. -> nasceu)Na sentença "e",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(dentro -> acredita)
+(de -> cob)
+(o -> cob)
+(próprio -> cob)
+(cob -> dentro)
+(, -> porém)
+(porém -> acredita)
+(, -> porém)
+(acredita -> root)
+(se -> acredita)
+(que -> encerrado)
+(o -> ciclo)
+(ciclo -> encerrado)
+(de -> cartola)
+(o -> cartola)
+(cartola -> ciclo)
+(já -> encerrado)
+(está -> encerrado)
+(encerrado -> acredita)
+(. -> acredita)..
+Liste as relações de dependência sintática na sentença "Seleção é isso , joga quem está melhor , não tem esse negócio de nome .", usando o formato (token dependente -> token cabeça).
+REPLY|:|As relações de dependência sintática na sentença "Seleção é isso , joga quem está melhor , não tem esse negócio de nome ." são:
+
+(Seleção -> é)
+(isso -> é)
+(, -> é)
+(joga -> é)
+(quem -> joga)
+(está -> joga)
+(melhor -> está)
+(, -> joga)
+(não -> tem)
+(tem -> joga)
+(esse -> negócio)
+(negócio -> tem)
+(de -> negócio)
+(nome -> negócio)
+(. -> é)
+REFINE [(Seleção]
+REFINE [(Seleção]
+REFINE [(Seleção]
+REFINE [(Seleção]
+REFINE [Seleção]
+REFINE [Seleção]
+-----------END REFINE---------
+REFINE [é)]
+REFINE [é)]
+REFINE [é)]
+REFINE [é)]
+REFINE [é]
+-----------END REFINE---------
+REFINE [(isso]
+REFINE [(isso]
+REFINE [(isso]
+REFINE [(isso]
+REFINE [isso]
+REFINE [isso]
+-----------END REFINE---------
+REFINE [é)]
+REFINE [é)]
+REFINE [é)]
+REFINE [é)]
+REFINE [é]
+-----------END REFINE---------
+REFINE [(,]
+REFINE [(,]
+REFINE [(,]
+REFINE [(,]
+REFINE [,]
+REFINE [,]
+-----------END REFINE---------
+REFINE [é)]
+REFINE [é)]
+REFINE [é)]
+REFINE [é)]
+REFINE [é]
+-----------END REFINE---------
+REFINE [(joga]
+REFINE [(joga]
+REFINE [(joga]
+REFINE [(joga]
+REFINE [joga]
+REFINE [joga]
+-----------END REFINE---------
+REFINE [é)]
+REFINE [é)]
+REFINE [é)]
+REFINE [é)]
+REFINE [é]
+-----------END REFINE---------
+REFINE [(quem]
+REFINE [(quem]
+REFINE [(quem]
+REFINE [(quem]
+REFINE [quem]
+REFINE [quem]
+-----------END REFINE---------
+REFINE [joga)]
+REFINE [joga)]
+REFINE [joga)]
+REFINE [joga)]
+REFINE [joga]
+-----------END REFINE---------
+REFINE [(está]
+REFINE [(está]
+REFINE [(está]
+REFINE [(está]
+REFINE [está]
+REFINE [está]
+-----------END REFINE---------
+REFINE [jREPLY|:|Na sentença "Seleção é isso , joga quem está melhor , não tem esse negócio de nome .", as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça):
+
+(Seleção -> é)
+(é -> root)
+(isso -> é)
+(, -> é)
+(joga -> é)
+(quem -> joga)
+(está -> melhor)
+(melhor -> está)
+(não -> tem)
+(tem -> é)
+(esse -> negócio)
+(negócio -> tem)
+(de -> negócio)
+(nome -> negócio)
+(. -> é)
+REFINE [(Seleção]
+REFINE [(Seleção]
+REFINE [(Seleção]
+REFINE [(Seleção]
+REFINE [Seleção]
+REFINE [Seleção]
+-----------END REFINE---------
+REFINE [é)]
+REFINE [é)]
+REFINE [é)]
+REFINE [é)]
+REFINE [é]
+-----------END REFINE---------
+REFINE [(é]
+REFINE [(é]
+REFINE [(é]
+REFINE [(é]
+REFINE [é]
+REFINE [é]
+-----------END REFINE---------
+REFINE [root)]
+REFINE [root)]
+REFINE [rREFINE [tem]
+-----------END REFINE---------
+REFINE [joga)]
+REFINE [joga)]
+REFINE [joga)]
+REFINE [joga)]
+REFINE [joga]
+-----------END REFINE---------
+REFINE [(esse]
+REFINE [(esse]
+REFINE [(esse]
+REFINE [(esse]
+REFINE [esse]
+REFINE [esse]
+-----------END REFINE---------
+REFINE [negócio)]
+REFINE [negócio)]
+REFINE [negócio)]
+REFINE [negócio)]
+REFINE [negócio]
+-----------END REFINE---------
+REFINE [(negócio]
+REFINE [(negócio]
+REFINE [(negócio]
+REFINE [(negócio]
+REFINE [negócio]
+REFINE [negócio]
+-----------END REFINE---------
+REFINE [tem)]
+REFINE [tem)]
+REFINE [tem)]
+REFINE [tem)]
+REFINE [tem]
+-----------END REFINE---------
+REFINE [(de]
+REFINE [(de]
+REFINE [(de]
+REFINE [(de]
+REFINE [de]
+REFINE [de]
+-----------END REFINE---------
+REFINE [negócio)]
+REFINE [negócio)]
+REFINE [negócio)]
+REFINE [negócio)]
+REFINE [negócio]
+-----------END REFINE---------
+REFINE [(nome]
+REFINE [(nome]
+REFINE [(nome]
+REFINE [(nome]
+REFINE [nome]
+REFINE [nome]
+-----------END REFINE---------
+REFINE [negócio)]
+REFINE [negócio)]
+REFINE [negócio)]
+REFINE [negócio)]
+REFINE [negócio]
+-----------END REFINE---------
+REFINE [(.]
+REFINE [(.]
+REFINE [(.]
+REFINE [(.]
+REFINE [.]
+REFINE [.]
+-----------END REFINE---------
+REFINE [é)]
+REFINE [é)]
+REFINE [é)]
+REFINE [é)]
+REFINE [é]
+-----------END REFINE---------
+chatGPT|:|<@><#>Seleção<@>é<#>isso<@>é<#>,<@>é<#>joga<@>é<#>quem<@>joga<#>está<@>joga<#>melhor<@>está<#>,<@>joga<#>não<@>tem<#>tem<@>joga<#>esse<@>negócio<#>negócio<@>tem<#>de<@>negócio<#>nome<@>negócio<#>.<@>é|:|UDA:0.500<#>DDA: 0.375
+GoldTree |:|Seleção<@>isso<@>nsubj<#>é<@>isso<@>cop<#>isso<@>root<@>root<#>,<@>joga<@>punct<#>joga<@>isso<@>acl<#>quem<@>melhor<@>nsubj<#>está<@>melhor<@>cop<#>melhor<@>joga<@>csubj<#>,<@>tem<@>punct<#>não<@>tem<@>advmod<#>tem<@>joga<@>conj<#>esse<@>negócio<@>det<#>negócio<@>tem<@>nsubj<#>de<@>nome<@>case<#>nome<@>negócio<@>nmod<#>.<@>isso<@>punct
+>--<
+A melhor equipe é que deve jogar .
+MESSAGE|:|Na sentença "'",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(lucília -> atribui)
+(salgado -> lucília)
+(atribui -> root)
+(-as -> atribui)
+(a_ -> estado)
+(o -> estado)
+(estado -> atribui)
+(: -> atribui)Na sentença " ",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(' -> iria)
+(não -> iria)
+(iria -> root)
+(defender -> iria)
+(um -> projecto)
+(projecto -> defender)
+(que -> rentável)
+(não -> rentável)
+(fosse -> rentável)
+(rentável -> projecto)
+(' -> iria)
+(. -> iria)..
+Liste as relações de dependência sintática na sentença "A melhor equipe é que deve jogar .", usando o formato (token dependente -> token cabeça).
+REPLY|:|As relações de dependência sintática na sentença "A melhor equipe é que deve jogar ." são:
+
+(equipe -> A)
+(equipe -> melhor)
+(é -> equipe)
+(deve -> é)
+(jogar -> deve)
+(. -> jogar)
+REFINE [(equipe]
+REFINE [(equipe]
+REFINE [(equipe]
+REFINE [(equipe]
+REFINE [equipe]
+REFINE [equipe]
+-----------END REFINE---------
+REFINE [A)]
+REFINE [A)]
+REFINE [A)]
+REFINE [A)]
+REFINE [A]
+-----------END REFINE---------
+REFINE [(equipe]
+REFINE [(equipe]
+REFINE [(equipe]
+REFINE [(equipe]
+REFINE [equipe]
+REFINE [equipe]
+-----------END REFINE---------
+REFINE [melhor)]
+REFINE [melhor)]
+REFINE [melhor)]
+REFINE [melhor)]
+REFINE [melhor]
+-----------END REFINE---------
+REFINE [(é]
+REFINE [(é]
+REFINE [(é]
+REFINE [(é]
+REFINE [é]
+REFINE [é]
+-----------END REFINE---------
+REFINE [equipe)]
+REFINE [equipe)]
+REFINE [equipe)]
+REFINE [equipe)]
+REFINE [equipe]
+-----------END REFINE---------
+REFINE [(deve]
+REFINE [(deve]
+REFINE [(deve]
+REFINE [(deve]
+REFINE [deve]
+REFINE [deve]
+-----------END REFINE---------
+REFINE [é)]
+REFINE [é)]
+REFINE [é)]
+REFINE [é)]
+REFINE [é]
+-----------END REFINE---------
+REFINE [(jogar]
+REFINE [(jogar]
+REFINE [(jogar]
+REFINE [(jogar]
+REFINE [jogar]
+REFINE [jogar]
+-----------END REFINE---------
+REFINE [deve)]
+REFINE [deve)]
+REFINE [deve)]
+REFINE [deve)]
+REFINE [deve]
+-----------END REFINE---------
+REFINE [(.]
+REFINE [(.]
+REFINE [(.]
+REFINE [(.]
+REFINE [.]
+REFINE [.]
+-----------END REFINE---------
+REFINE [jogar)]
+REFINE [jogar)]
+REFINE [jogar)]
+REFINE [jogar)]
+REFINE [jogar]
+-----------END REFINE---------
+chatGPT|:|<@><#>equipe<@>A<#>equipe<@>melhor<#>é<@>equipe<#>deve<@>é<#>jogar<@>deve<#>.<@>jogar|:|UDA:0.500<#>DDA: 0.250
+GoldTree |:|A<@>equipe<@>det<#>melhor<@>equipe<@>amod<#>equipe<@>deve<@>nsubj<#>é<@>jogar<@>discourse<#>que<@>é<@>fixed<#>deve<@>root<@>root<#>jogar<@>deve<@>xcomp<#>.<@>jogar<@>punct
+>--<
+O NÚMERO 32
+MESSAGE|:|Na sentença "P",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(também -> manda)
+(me -> manda)
+(manda -> root)
+(presentes -> manda)
+(de -> manda)
+(vez -> de)
+(em -> de)
+(quando -> de)
+(. -> manda)Na sentença "r",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(preços -> sobem)
+(sobem -> root)
+(3,12 -> %)
+(% -> sobem)
+(em -> belo)
+(belo -> sobem)
+(horizonte -> belo)..
+Liste as relações de dependência sintática na sentença "O NÚMERO 32", usando o formato (token dependente -> token cabeça).
+REPLY|:|Na sentença "O NÚMERO 32", as relações de dependência sintática são as seguintes:
+
+(32 -> NÚMERO)
+(NÚMERO -> O)
+REFINE [(32]
+REFINE [(32]
+REFINE [(32]
+REFINE [(32]
+REFINE [32]
+REFINE [32]
+-----------END REFINE---------
+REFINE [NÚMERO)]
+REFINE [NÚMERO)]
+REFINE [NÚMERO)]
+REFINE [NÚMERO)]
+REFINE [NÚMERO]
+-----------END REFINE---------
+REFINE [(NÚMERO]
+REFINE [(NÚMERO]
+REFINE [(NÚMERO]
+REFINE [(NÚMERO]
+REFINE [NÚMERO]
+REFINE [NÚMERO]
+-----------END REFINE---------
+REFINE [O)]
+REFINE [O)]
+REFINE [O)]
+REFINE [O)]
+REFINE [O]
+-----------END REFINE---------
+chatGPT|:|<@><#>32<@>NÚMERO<#>NÚMERO<@>O|:|UDA:0.667<#>DDA: 0.333
+GoldTree |:|O<@>NÚMERO<@>det<#>NÚMERO<@>root<@>root<#>32<@>NÚMERO<@>nummod
+>--<
+... casos positivos de dengue em Monte Aprazível ( 38 km de Rio Preto-SP ) foram divulgados ontem por o Ersa ( Escritório Regional de Saúde ) de Rio Preto .
+MESSAGE|:|Na sentença "J",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(em -> paz)
+(paz -> root)
+(com -> jsd)
+(a -> jsd)
+(jsd -> paz)Na sentença "a",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(jason -> assassino)
+(é -> assassino)
+(o -> assassino)
+(maior -> assassino)
+(assassino -> root)
+(de -> todos)
+(todos -> assassino)
+(, -> vítimas)
+(com -> vítimas)
+(126 -> vítimas)
+(vítimas -> assassino)
+(. -> assassino)..
+Liste as relações de dependência sintática na sentença "... casos positivos de dengue em Monte Aprazível ( 38 km de Rio Preto-SP ) foram divulgados ontem por o Ersa ( Escritório Regional de Saúde ) de Rio Preto .", usando o formato (token dependente -> token cabeça).
+REPLY|:|(as -> casos)
+(... -> casos)
+(de -> casos)
+(dengue -> casos)
+(em -> Aprazível)
+(Monte -> Aprazível)
+(Aprazível -> casos)
+(38 -> km)
+(km -> Aprazível)
+(de -> km)
+(Rio -> Preto-SP)
+(Preto-SP -> km)
+(Rio -> Preto-SP)
+(det -> foram)
+(divulgados -> casos)
+(ontem -> divulgados)
+(por -> divulgados)
+(o -> Ersa)
+(Ersa -> divulgados)
+(Escritório -> Saúde)
+(Regional -> Saúde)
+(de -> Regional)
+(Saúde -> Ersa)
+(Rio -> Saúde)
+(Preto -> Rio)
+(. -> foram)
+REFINE [(...]
+REFINE [(...]
+REFINE [(...]
+REFINE [(...]
+REFINE [...]
+REFINE [...]
+-----------END REFINE---------
+REFINE [casos)]
+REFINE [casos)]
+REFINE [casos)]
+REFINE [casos)]
+REFINE [casos]
+-----------END REFINE---------
+REFINE [(de]
+REFINE [(de]
+REFINE [(de]
+REFINE [(de]
+REFINE [de]
+REFINE [de]
+-----------END REFINE---------
+REFINE [casos)]
+REFINE [casos)]
+REFINE [casos)]
+REFINE [casos)]
+REFINE [casos]
+-----------END REFINE---------
+REFINE [(dengue]
+REFINE [(dengue]
+REFINE [(dengue]
+REFINE [(dengue]
+REFINE [dengue]
+REFINE [dengue]
+-----------END REFINE---------
+REFINE [casos)]
+REFINE [casos)]
+REFINE [casos)]
+REFINE [casos)]
+REFINE [casos]
+-----------END REFINE---------
+REFINE [(em]
+REFINE [(em]
+REFINE [(em]
+REFINE [(em]
+REFINE [em]
+REFINE [em]
+-----------END REFINE---------
+REFINE [Aprazível)]
+REFINE [Aprazível)]
+REFINE [Aprazível)]
+REFINE [Aprazível)]
+REFINE [Aprazível]
+-----------END REFINE---------
+REFINE [(Monte]
+REFINE [(Monte]
+REFINE [(Monte]
+REFINE [(Monte]
+REFINE [Monte]
+REFINE [Monte]
+-----------END REFINE---------
+REFINE [Aprazível)]
+REFINE [Aprazível)]
+REFINE [Aprazível)]
+REFINE [Aprazível)]
+REFINE [Aprazível]
+-----------END REFINE---------
+REFINE [(Aprazível]
+REFINE [(Aprazível]
+REFINE [(Aprazível]
+REFINE [(Aprazível]
+REFINE [Aprazível]
+REFINE [Aprazível]
+-----------END REFINE---------
+REFINE [casos)]
+REFINE [casos)]
+REFINE [casos)]
+REFINE [casos)]
+REFINE [casos]
+-----------END REFINE---------
+REFINE [(38]
+REFINE [(38]
+REFINE [(38]
+REFINE [(38]
+REFINE [38]
+REFINE [38]
+-----------END REFINE---------
+REFINE [km)]
+REFINE [km)]
+REFINE [km)]
+REFINE [km)]
+REFINE [km]
+-----------END REFINE---------
+REFINE [(km]
+REFINE [(km]
+REFINE [(km]
+REFINE [(km]
+REFINE [km]
+REFINE [km]
+-----------END REFINE---------
+REFINE [Aprazível)]
+REFINE [Aprazível)]
+REFINE [Aprazível)]
+REFINE [Aprazível)]
+REFINE [Aprazível]
+-----------END REFINE---------
+REFINE [(de]
+REFINE [(de]
+REFINE [(de]
+REFINE [(de]
+REFINE [de]
+REFINE [de]
+-----------END REFINE---------
+REFINE [km)]
+REFINE [km)]
+REFINE [km)]
+REFINE [km)]
+REFINE [km]
+-----------END REFINE---------
+REFINE [(Rio]
+REFINE [(Rio]
+REFINE [(Rio]
+REFINE [(Rio]
+REFINE [Rio]
+REFINE [Rio]
+-----------END REFINE---------
+REFINE [Preto-SP)]
+REFINE [Preto-SP)]
+REFINE [Preto-SP)]
+REFINE [Preto-SP)]
+REFINE [Preto-SP]
+-----------END REFINE---------
+REFINE [(Preto-SP]
+REFINE [(Preto-SP]
+REFINE [(Preto-SP]
+REFINE [(Preto-SP]
+REFINE [Preto-SP]
+REFINE [Preto-SP]
+-----------END REFINE---------
+REFINE [km)]
+REFINE [km)]
+REFINE [km)]
+REFINE [km)]
+REFINE [km]
+-----------END REFINE---------
+REFINE [(Rio]
+REFINE [(Rio]
+REFINE [(Rio]
+REFINE [(Rio]
+REFINE [Rio]
+REFINE [Rio]
+-----------END REFINE---------
+REFINE [Preto-SP)]
+REFINE [Preto-SP)]
+REFINE [Preto-SP)]
+REFINE [Preto-SP)]
+REFINE [Preto-SP]
+-----------END REFINE---------
+REFINE [(det]
+REFINE [(det]
+REFINE [(det]
+REFINE [(det]
+REFINE [det]
+REFINE [det]
+-----------END REFINE---------
+REFINE [foram)]
+REFINE [foram)]
+REFINE [foram)]
+REFINE [foram)]
+REFINE [foram]
+-----------END REFINE---------
+REFINE [(divulgados]
+REFINE [(divulgados]
+REFINE [(divulgados]
+REFINE [(divulgados]
+REFINE [divulgados]
+REFINE [divulgados]
+-----------END REFINE---------
+REFINE [casos)]
+REFINE [casos)]
+REFINE [casos)]
+REFINE [casos)]
+REFINE [casos]
+-----------END REFINE---------
+REFINE [(ontem]
+REFINE [(ontem]
+REFINE [(ontem]
+REFINE [(ontem]
+REFINE [ontem]
+REFINE [ontem]
+-----------END REFINE---------
+REFINE [divulgados)]
+REFINE [divulgados)]
+REFINE [divulgados)]
+REFINE [divulgados)]
+REFINE [divulgados]
+-----------END REFINE---------
+REFINE [(por]
+REFINE [(por]
+REFINE [(por]
+REFINE [(por]
+REFINE [por]
+REFINE [por]
+-----------END REFINE---------
+REFINE [divulgados)]
+REFINE [divulgados)]
+REFINE [divulgados)]
+REFINE [divulgados)]
+REFINE [divulgados]
+-----------END REFINE---------
+REFINE [(o]
+REFINE [(o]
+REFINE [(o]
+REFINE [(o]
+REFINE [o]
+REFINE [o]
+-----------END REFINE---------
+REFINE [Ersa)]
+REFINE [Ersa)]
+REFINE [Ersa)]
+REFINE [Ersa)]
+REFINE [Ersa]
+-----------END REFINE---------
+REFINE [(Ersa]
+REFINE [(Ersa]
+REFINE [(Ersa]
+REFINE [(Ersa]
+REFINE [Ersa]
+REFINE [Ersa]
+-----------END REFINE---------
+REFINE [divulgados)]
+REFINE [divulgados)]
+REFINE [divulgados)]
+REFINE [divulgados)]
+REFINE [divulgados]
+-----------END REFINE---------
+REFINE [(Escritório]
+REFINE [(Escritório]
+REFINE [(Escritório]
+REFINE [(Escritório]
+REFINE [Escritório]
+REFINE [Escritório]
+-----------END REFINE---------
+REFINE [Saúde)]
+REFINE [Saúde)]
+REFINE [Saúde)]
+REFINE [Saúde)]
+REFINE [Saúde]
+-----------END REFINE---------
+REFINE [(Regional]
+REFINE [(Regional]
+REFINE [(Regional]
+REFINE [(Regional]
+REFINE [Regional]
+REFINE [Regional]
+-----------END REFINE---------
+REFINE [Saúde)]
+REFINE [Saúde)]
+REFINE [Saúde)]
+REFINE [Saúde)]
+REFINE [Saúde]
+-----------END REFINE---------
+REFINE [(de]
+REFINE [(de]
+REFINE [(de]
+REFINE [(de]
+REFINE [de]
+REFINE [de]
+-----------END REFINE---------
+REFINE [Regional)]
+REFINE [Regional)]
+REFINE [Regional)]
+REFINE [Regional)]
+REFINE [Regional]
+-----------END REFINE---------
+REFINE [(Saúde]
+REFINE [(Saúde]
+REFINE [(Saúde]
+REFINE [(Saúde]
+REFINE [Saúde]
+REFINE [Saúde]
+-----------END REFINE---------
+REFINE [Ersa)]
+REFINE [Ersa)]
+REFINE [Ersa)]
+REFINE [Ersa)]
+REFINE [Ersa]
+-----------END REFINE---------
+REFINE [(Rio]
+REFINE [(Rio]
+REFINE [(Rio]
+REFINE [(Rio]
+REFINE [Rio]
+REFINE [Rio]
+-----------END REFINE---------
+REFINE [Saúde)]
+REFINE [Saúde)]
+REFINE [Saúde)]
+REFINE [Saúde)]
+REFINE [Saúde]
+-----------END REFINE---------
+REFINE [(Preto]
+REFINE [(Preto]
+REFINE [(Preto]
+REFINE [(Preto]
+REFINE [Preto]
+REFINE [Preto]
+-----------END REFINE---------
+REFINE [Rio)]
+REFINE [Rio)]
+REFINE [Rio)]
+REFINE [Rio)]
+REFINE [Rio]
+-----------END REFINE---------
+REFINE [(.]
+REFINE [(.]
+REFINE [(.]
+REFINE [(.]
+REFINE [.]
+REFINE [.]
+-----------END REFINE---------
+REFINE [foram)]
+REFINE [foram)]
+REFINE [foram)]
+REFINE [foram)]
+REFINE [foram]
+-----------END REFINE---------
+chatGPT|:|...<@>casos<#>de<@>casos<#>dengue<@>casos<#>em<@>Aprazível<#>Monte<@>Aprazível<#>Aprazível<@>casos<#>38<@>km<#>km<@>Aprazível<#>de<@>km<#>Rio<@>Preto-SP<#>Preto-SP<@>km<#>Rio<@>Preto-SP<#>det<@>foram<#>divulgados<@>casos<#>ontem<@>divulgados<#>por<@>divulgados<#>o<@>Ersa<#>Ersa<@>divulgados<#>Escritório<@>Saúde<#>Regional<@>Saúde<#>de<@>Regional<#>Saúde<@>Ersa<#>Rio<@>Saúde<#>Preto<@>Rio<#>.<@>foram|:|UDA:0.323<#>DDA: 0.194
+GoldTree |:|...<@>divulgados<@>punct<#>casos<@>divulgados<@>nsubj<#>positivos<@>casos<@>amod<#>de<@>dengue<@>case<#>dengue<@>casos<@>nmod<#>em<@>Monte<@>case<#>Monte<@>casos<@>nmod<#>Aprazível<@>Monte<@>flat<#>(<@>km<@>punct<#>38<@>km<@>nummod<#>km<@>Monte<@>appos<#>de<@>Rio<@>case<#>Rio<@>km<@>nmod<#>Preto-SP<@>Rio<@>flat<#>)<@>km<@>punct<#>foram<@>divulgados<@>aux<#>divulgados<@>root<@>root<#>ontem<@>divulgados<@>advmod<#>por<@>Ersa<@>case<#>o<@>Ersa<@>det<#>Ersa<@>divulgados<@>obl<#>(<@>Escritório<@>punct<#>Escritório<@>Ersa<@>appos<#>Regional<@>Escritório<@>flat<#>de<@>Saúde<@>case<#>Saúde<@>Escritório<@>nmod<#>)<@>Escritório<@>punct<#>de<@>Rio<@>case<#>Rio<@>Ersa<@>nmod<#>Preto<@>Rio<@>flat<#>.<@>divulgados<@>punct
+>--<
+A região vive uma epidemia de a doença .
+MESSAGE|:|Na sentença "A",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(' -> vêm)
+(pois -> vêm)
+(então -> vêm)
+(, -> então)
+(vêm -> root)
+(para -> cá)
+(cá -> vêm)
+(as -> manifestações)
+(manifestações -> vêm)
+(' -> vêm)
+(. -> vêm)Na sentença "s",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(assinaram -> root)
+(o -> acordo)
+(acordo -> assinaram)
+(luxemburgo -> assinaram)
+(, -> bélgica)
+(bélgica -> l-----------END REFINE---------
+REFINE [divulgados)]
+REFINE [divulgados)]
+REFINE [divulgados)]
+REFINE [divulgados)]
+REFINE [divulgados]
+-----------END REFINE---------
+REFINE [(ontem]
+REFINE [(ontem]
+REFINE [(ontem]
+REFINE [(ontem]
+REFINE [ontem]
+REFINE [ontem]
+-----------END REFINE---------
+REFINE [divulgados)]
+REFINE [divulgados)]
+REFINE [divulgados)]
+REFINE [divulgados)]
+REFINE [divulgados]
+-----------END REFINE---------
+REFINE [(divulgados]
+REFINE [(divulgados]
+REFINE [(divulgados]
+REFINE [(divulgados]
+REFINE [divulgados]
+REFINE [divulgados]
+-----------END REFINE---------
+REFINE [foram)]
+REFINE [foram)]
+REFINE [foram)]
+REFINE [foram)]
+REFINE [foram]
+-----------END REFINE---------
+REFINE [(por]
+REFINE [(por]
+REFINE [(por]
+REFINE [(por]
+REFINE [por]
+REFINE [por]
+-----------END REFINE---------
+REFINE [divulgados)]
+REFINE [divulgados)]
+REFINE [divulgados)]
+REFINE [divulgados)]
+REFINE [divulgados]
+-----------END REFINE---------
+REFINE [(Ersa]
+REFINE [(Ersa]
+REFINE [(Ersa]
+REFINE [(Ersa]
+REFINE [Ersa]
+REFINE [Ersa]
+-----------END REFINE---------
+REFINE [por)]
+REFINE [por)]
+REFINE [por)]
+REFINE [por)]
+REFINE [por]
+-----------END REFINE---------
+REFINE [(Escritório]
+REFINE [(Escritó-----------END REFINE---------
+REFINE [vive)]
+REFINE [vive)]
+REFINE [vive)]
+REFINE [vive)]
+REFINE [vive]
+-----------END REFINE---------
+REFINE [(de]
+REFINE [(de]
+REFINE [(de]
+REFINE [(de]
+REFINE [de]
+REFINE [de]
+-----------END REFINE---------
+REFINE [epidemia)]
+REFINE [epidemia)]
+REFINE [epidemia)]
+REFINE [epidemia)]
+REFINE [epidemia]
+-----------END REFINE---------
+REFINE [(do]
+REFINE [(do]
+REFINE [(do]
+REFINE [(do]
+REFINE [do]
+REFINE [do]
+-----------END REFINE---------
+REFINE [doença)]
+REFINE [doença)]
+REFINE [doença)]
+REFINE [doença)]
+REFINE [doença]
+-----------END REFINE---------
+REFINE [(doença]
+REFINE [(doença]
+REFINE [(doença]
+REFINE [(doença]
+REFINE [doença]
+REFINE [doença]
+-----------END REFINE---------
+REFINE [vive)]
+REFINE [vive)]
+REFINE [vive)]
+REFINE [vive)]
+REFINE [vive]
+-----------END REFINE---------
+REFINE [(.]
+REFINE [(.]
+REFINE [(.]
+REFINE [(.]
+REFINE [.]
+REFINE [.]
+-----------END REFINE---------
+REFINE [vive)]
+REFINE [vive)]
+REFINE [vive)]
+REFINE [vive)]
+REFINE [vive]
+-----------END REFINE---------
+chatGPT|:|região<@>vive<#>uma<@>epidemia<#>epidemia<@>vive<#>de<@>epidemia<#>do<@>doença<#>doença<@>vive<#>.<@>vive|:|UDA:0.444<#>DDA: 0.444
+GoldTree |:|A<@>região<@>det<#>região<@>vive<@>nsubj<#>vive<@>root<@>root<#>uma<@>epidemia<@>det<#>epidemia<@>vive<@>obj<#>de<@>doença<@>case<#>a<@>doença<@>det<#>doença<@>epidemia<@>nmod<#>.<@>vive<@>punct
+>--<
+A cidade de Monte Aprazível tem 68 casos confirmados .
+MESSAGE|:|Na sentença "A",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(como -> fica)
+(a -> atração)
+(atração -> fica)
+(fica -> paga)
+(em -> propriedade)
+(uma -> propriedade)
+(propriedade -> fica)
+(particular -> propriedade)
+(, -> fica)
+(paga -> root)
+(se -> paga)
+(r$ -> paga)
+(20 -> r$)
+(para -> entrar)
+(entrar -> paga)
+(. -> paga)Na sentença " ",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(a -> limites)
+(partir -> a)
+(de -> a)
+(os -> limites)
+(limites -> determinadas)
+(físicos -> limites)
+(e -> condições)
+(as -> condições)
+(condições -> limites)
+(de -> contorno)
+(contorno -> condições)
+(são -> determinadas)
+(determinadas -> root)
+(as -> regiões)
+(regiões -> determinadas)
+(de -> atuação)
+(atuação -> regiões)
+(de -> corrente)
+(a -> corrente)
+(corrente -> atuação)
+(induzida -> corrente)
+(. -> determinadas)..
+Liste as relações de dependência sintática na sentença "A cidade de Monte Aprazível tem 68 casos confirmados .", usando o formato (token dependente -> token cabeça).
+REPLY|:|(A -> cidade)
+(cidade -> de)
+(Monte -> cidade)
+(Aprazível -> Monte)
+(de -> tem)
+(tem -> cidade)
+(68 -> tem)
+(casos -> confirmados)
+(confirmados -> tem)
+(. -> tem)
+REFINE [(cidade]
+REFINE [(cidade]
+REFINE [(cidade]
+REFINE [(cidade]
+REFINE [cidade]
+REFINE [cidade]
+-----------END REFINE---------
+REFINE [de)]
+REFINE [de)]
+REFINE [de)]
+REFINE [de)]
+REFINE [de]
+-----------END REFINE---------
+REFINE [(Monte]
+REFINE [(Monte]
+REFINE [(Monte]
+REFINE [(Monte]
+REFINE [Monte]
+REFINE [Monte]
+-----------END REFINE---------
+REFINE [cidade)]
+REFINE [cidade)]
+REFINE [cidade)]
+REFINE [cidade)]
+REFINE [cidade]
+-----------END REFINE---------
+REFINE [(Aprazível]
+REFINE [(Aprazível]
+REFINE [(Aprazível]
+REFINE [(Aprazível]
+REFINE [Aprazível]
+REFINE [Aprazível]
+-----------END REFINE---------
+REFINE [Monte)]
+REFINE [Monte)]
+REFINE [Monte)]
+REFINE [Monte)]
+REFINE [Monte]
+-----------END REFINE---------
+REFINE [(de]
+REFINE [(de]
+REFINE [(de]
+REFINE [(de]
+REFINE [de]
+REFINE [de]
+-----------END REFINE---------
+REFINE [tem)]
+REFINE [tem)]
+REFINE [tem)]
+REFINE [tem)]
+REFINE [tem]
+-----------END REFINE---------
+REFINE [(tem]
+REFINE [(tem]
+REFINE [(tem]
+REFINE [(tem]
+REFINE [tem]
+REFINE [tem]
+-----------END REFINE---------
+REFINE [cidade)]
+REFINE [cidade)]
+REFINE [cidade)]
+REFINE [cidade)]
+REFINE [cidade]
+-----------END REFINE---------
+REFINE [(68]
+REFINE [(68]
+REFINE [(68]
+REFINE [(68]
+REFINE [68]
+REFINE [68]
+-----------END REFINE---------
+REFINE [tem)]
+REFINE [tem)]
+REFINE [tem)]
+REFINE [tem)]
+REFINE [tem]
+-----------END REFINE---------
+REFINE [(casos]
+REFINE [(casos]
+REFINE [(casos]
+REFINE [(casos]
+REFINE [casos]
+REFINE [casos]
+-----------END REFINE---------
+REFINE [confirmados)]
+REFINE [confirmados)]
+REFINE [confirmados)]
+REFINE [confirmados)]
+REFINE [confirmados]
+-----------END REFINE---------
+REFINE [(confirmados]
+REFINE [(confirmados]
+REFINE [(confirmados]
+REFINE [(confirmados]
+REFINE [confirmados]
+REFINE [confirmados]
+-----------END REFINE---------
+REFINE [tem)]
+REFINE [tem)]
+REFINE [tem)]
+REFINE [tem)]
+REFINE [tem]
+-----------END REFINE---------
+REFINE [(.]
+REFINE [(.]
+REFINE [(.]
+REFINE [(.]
+REFINE [.]
+REFINE [.]
+-----------END REFINE---------
+REFINE [tem)]
+REFINE [tem)]
+REFINE [tem)]
+REFINE [tem)]
+REFINE [tem]
+-----------END REFINE---------
+chatGPT|:|cidade<@>de<#>Monte<@>cidade<#>Aprazível<@>Monte<#>de<@>tem<#>tem<@>cidade<#>68<@>tem<#>casos<@>confirmados<#>confirmados<@>tem<#>.<@>tem|:|UDA:0.500<#>DDA: 0.300
+GoldTree |:|A<@>cidade<@>det<#>cidade<@>tem<@>nsubj<#>de<@>Monte<@>case<#>Monte<@>cidade<@>nmod<#>Aprazível<@>Monte<@>flat<#>tem<@>root<@>root<#>68<@>casos<@>nummod<#>casos<@>tem<@>obj<#>confirmados<@>casos<@>acl<#>.<@>tem<@>punct
+>--<
+Rio Preto tem três casos positivos .
+MESSAGE|:|Na sentença "A",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(grupo -> atira)
+(atira -> root)
+(tomates -> atira)
+(em -> protesto)
+(protesto -> atira)
+(contra -> gilmar)
+(gilmar -> protesto)
+(mendes -> gilmar)
+(em -> são)
+(são -> protesto)
+(paulo -> são)
+(. -> atira)Na sentença "s",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(as -> guerras)
+(guerras -> vistas)
+(vistas -> root)
+(por_ -> árabes)
+(os -> árabes)
+(árabes -> vistas)..
+Liste as relações de dependência sintática na sentença "Rio Preto tem três casos positivos .", usando o formato (token dependente -> token cabeça).
+REPLY|:|(preto -> Rio)
+(tres -> tem)
+(casos -> tem)
+(positivos -> tem)
+(. -> tem)
+REFINE [(tres]
+REFINE [(tres]
+REFINE [(tres]
+REFINE [(tres]
+REFINE [tres]
+REFINE [tres]
+-----------END REFINE---------
+REFINE [tem)]
+REFINE [tem)]
+REFINE [tem)]
+REFINE [tem)]
+REFINE [tem]
+-----------END REFINE---------
+REFINE [(casos]
+REFINE [(casos]
+REFINE [(casos]
+REFINE [(casos]
+REFINE [casos]
+REFINE [casos]
+-----------END REFINE---------
+REFINE [tem)]
+REFINE [tem)]
+REFINE [tem)]
+REFINE [tem)]
+REFINE [tem]
+-----------END REFINE---------
+REFINE [(positivos]
+REFINE [(positivos]
+REFINE [(positivos]
+REFINE [(positivos]
+REFINE [positivos]
+REFINE [positivos]
+-----------END REFINE---------
+REFINE [tem)]
+REFINE [tem)]
+REFINE [tem)]
+REFINE [tem)]
+REFINE [tem]
+-----------END REFINE---------
+REFINE [(.]
+REFINE [(.]
+REFINE [(.]
+REFINE [(.]
+REFINE [.]
+REFINE [.]
+-----------END REFINE---------
+REFINE [tem)]
+REFINE [tem)]
+REFINE [tem)]REFINE [.]
+-----------END REFINE---------
+REFINE [tem)]
+REFINE [tem)]
+REFINE [tem)]
+REFINE [tem)]
+REFINE [tem]
+-----------END REFINE---------
+chatGPT|:|cidade<@>Aprazível<#>de<@>cidade<#>Monte<@>cidade<#>Aprazível<@>tem<#>tem<@>casos<#>casos<@>confirmados<#>confirmados<@>tem<#>.<@>tem|:|UDA:0.400<#>DDA: 0.200
+GoldTree |:|A<@>cidade<@>det<#>cidade<@>tem<@>nsubj<#>de<@>Monte<@>case<#>Monte<@>cidade<@>nmod<#>Aprazível<@>Monte<@>flat<#>tem<@>root<@>root<#>68<@>casos<@>nummod<#>casos<@>tem<@>obj<#>confirmados<@>casos<@>acl<#>.<@>tem<@>punct
+>--<
+Rio Preto tem três casos positivos .
+MESSAGE|:|Na sentença "E",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(com -> jean-paul)
+(jean-paul -> root)
+(belmondo -> jean-paul)
+(, -> jacques)
+(jacques -> jean-paul)
+(villeret -> jacques)
+(e -> michel)
+(michel -> jean-paul)
+(constantin -> michel)Na sentença "m",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(em -> teerã)
+(teerã -> encontra)
+(, -> teerã)
+(moscou -> encontra)
+(encontra -> root)
+(um -> encontra)
+(de -> aliados)
+(seus -> aliados)
+(principais -> aliados)
+(aliados -> um)
+(econômicos -> aliados)
+(e -> militares)
+(militares -> econômicos)
+(. -> encontra)..
+Liste as relações de dependência sintática na sentença "Rio Preto tem três casos positivos .", usando o formato (token dependente -> token cabeça).
+REPLY|:|(Rio -> Preto)
+(Preto -> tem)
+(tem -> root)
+(três -> casos)
+(casos -> tem)
+(positivos -> casos)
+(. -> tem)
+REFINE [(Preto]
+REFINE [(Preto]
+REFINE [(Preto]
+REFINE [(Preto]
+REFINE [Preto]
+REFINE [Preto]
+-----------END REFINE---------
+REFINE [tem)]
+REFINE [tem)]
+REFINE [tem)]
+REFINE [tem)]
+REFINE [tem]
+-----------END REFINE---------
+REFINE [(tem]
+REFINE [(tem]
+REFINE [(tem]
+REFINE [(tem]
+REFINE [tem]
+REFINE [tem]
+-----------END REFINE---------
+REFINE [root)]
+REFINE [root)]
+REFINE [root)]
+REFINE [root)]
+REFINE [root]
+-----------END REFINE---------
+REFINE [(três]
+REFINE [(três]
+REFINE [(três]
+REFINE [(três]
+REFINE [três]
+REFINE [três]
+-----------END REFINE---------
+REFINE [casos)]
+REFINE [casos)]
+REFINE [casos)]
+REFINE [casos)]
+REFINE [casos]
+-----------END REFINE---------
+REFINE [(casos]
+REFINE [(casos]
+REFINE [(casos]
+REFINE [(casos]
+REFINE [casos]
+REFINE [casos]
+-----------END REFINE---------
+REFINE [tem)]
+REFINE [tem)]
+REFINE [tem)]
+REFINE [tem)]
+REFINE [tem]
+-----------END REFINE---------
+REFINE [(positivos]
+REFINE [(positivos]
+REFINE [(positivos]
+REFINE [(positivos]
+REFINE [positivos]
+REFINE [positivos]
+-----------END REFINE---------
+REFINE [casos)]
+REFINE [casos)]
+REFINE [casos)]
+REFINE [casos)]
+REFINE [casos]
+-----------END REFINE---------
+REFINE [(.]
+REFINE [(.]
+REFINE [(.]
+REFINE [(.]
+REFINE [.]
+REFINE [.]
+-----------END REFINE---------
+REFINE [tem)]
+REFINE [tem)]
+REFINE [tem)]
+REFINE [tem)]
+REFINE [tem]
+-----------END REFINE---------
+chatGPT|:|Preto<@>tem<#>tem<@>root<#>três<@>casos<#>casos<@>tem<#>positivos<@>casos<#>.<@>tem|:|UDA:0.714<#>DDA: 0.714
+GoldTree |:|Rio<@>tem<@>nsubj<#>Preto<@>Rio<@>flat<#>tem<@>root<@>root<#>três<@>casos<@>nummod<#>casos<@>tem<@>obj<#>positivos<@>casos<@>amod<#>.<@>tem<@>punct
+>--<
+Policiais Federais de o MS entram em greve
+MESSAGE|:|Na sentença "M",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(a -> embalagem)
+(embalagem -> luxo)
+(é -> luxo)
+(de -> luxo)
+(luxo -> root)
+(e -> gostou)
+(o -> primeiro-ministro)
+(primeiro-ministro -> gostou)
+(gostou -> luxo)
+(. -> luxo)Na sentença "u",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(mudanças -> root)
+(em -> delegação)
+(a -> delegação)
+(delegação -> mudanças)
+(portuguesa -> delegação)
+(de -> unita)
+(a -> unita)
+(unita -> delegação)..
+Liste as relações de dependência sintática na sentença "Policiais Federais de o MS entram em greve", usando o formato (token dependente -> token cabeça).
+REPLY|:|Na sentença "Policiais Federais de o MS entram em greve", as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça):
+
+(Policiais -> entram)
+(Federais -> Policais)
+(de -> entram)
+(o -> MS)
+(MS -> de)
+(entram -> em)
+(em -> greve)
+(greve -> entram)
+REFINE [(Policiais]
+REFINE [(Policiais]
+REFINE [(Policiais]
+REFINE [(Policiais]
+REFINE [Policiais]
+REFINE [Policiais]
+-----------END REFINE---------
+REFINE [entram)]
+REFINE [entram)]
+REFINE [entram)]
+REFINE [entram)]
+REFINE [entram]
+-----------END REFINE---------
+REFINE [(Federais]
+REFINE [(Federais]
+REFINE [(Federais]
+REFINE [(Federais]
+REFINE [Federais]
+REFINE [Federais]
+-----------END REFINE---------
+REFINE [Policais)]
+REFINE [Policais)]
+REFINE [Policais)]
+REFINE [Policais)]
+REFINE [Policais]
+-----------END REFINE---------
+REFINE [(de]
+REFINE [(de]
+REFINE [(de]
+REFINE [(de]
+REFINE [de]
+REFINE [de]
+-----------END REFINE---------
+REFINE [entram)]
+REFINE [entram)]
+REFINE [entram)]
+REFINE [entram)]
+REFINE [entram]
+-----------END REFINE---------
+REFINE [(o]
+REFINE [(o]
+REFINE [(o]
+REFINE [(o]
+REFINE [o]
+REFINE [o]
+-----------END REFINE---------
+REFINE [MS)]
+REFINE [MS)]
+REFINE [MS)]
+REFINE [MS)]
+REFINE [MS]
+-----------END REFINE---------
+REFINE [(MS]
+REFINE [(MS]
+REFINE [(MS]
+REFINE [(MS]
+REFINE [MS]
+REFINE [MS]
+-----------END REFINE---------
+REFINE [de)]
+REFINE [de)]
+REFINE [de)]
+REFINE [de)]
+REFINE [de]
+-----------END REFINE---------
+REFINE [(entram]
+REFINE [(entram]
+REFINE [(entram]
+REFINE [(entram]
+REFINE [entram]
+REFINE [entram]
+-----------END REFINE---------
+REFINE [em)]
+REFINE [em)]
+REFINE [em)]
+REFINE [em)]
+REFINE [em]
+-----------END REFINE---------
+REFINE [(em]
+REFINE [(em]
+REFINE [(em]
+REFINE [(em]
+REFINE [em]
+REFINE [em]
+-----------END REFINE---------
+REFINE [greve)]
+REFINE [greve)]
+REFINE [greve)]
+REFINE [greve)]
+REFINE [greve]
+-----------END REFINE---------
+REFINE [(greve]
+REFINE [(greve]
+REFINE [(greve]
+REFINE [(greve]
+REFINE [greve]
+REFINE [greve]
+-----------END REFINE---------
+REFINE [entram)]
+REFINE [entram)]
+REFINE [entram)]
+REFINE [entram)]
+REFINE [entram]
+-----------END REFINE---------
+chatGPT|:|<@><#>Policiais<@>entram<#>Federais<@>Policais<#>de<@>entram<#>o<@>MS<#>MS<@>de<#>entram<@>em<#>em<@>greve<#>greve<@>entram|:|UDA:0.625<#>DDA: 0.500
+GoldTree |:|Policiais<@>entram<@>nsubj<#>Federais<@>Policiais<@>amod<#>de<@>MS<@>case<#>o<@>MS<@>det<#>MS<@>Policiais<@>nmod<#>entram<@>root<@>root<#>em<@>greve<@>case<#>greve<@>entram<@>obl
+>--<
+Os policiais federais de Mato Grosso de o Sul entraram em greve ontem , em adesão a o movimento iniciado em o Distrito Federal .
+MESSAGE|:|Na sentença "G",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(longe -> tem)
+(de -> blumenau)
+(blumenau -> longe)
+(, -> longe)
+(oktoberfest -> tem)
+(de -> sp)
+(sp -> oktoberfest)
+(tem -> root)
+(tudo -> tem)
+(para -> pegar)
+(pegar -> tem)
+(, -> futuro)
+(mas -> futuro)
+(só -> futuro)
+(em -> futuro)
+(o -> futuro)
+(futuro -> pegar)
+(. -> tem)Na sentença "r",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(gráfico -> root)
+(1 -> gráfico)
+(: -> água)
+(água -> gráfico)
+(- -> 500)
+(500 -> água)
+(a -> hz)
+(– -> hz)
+(500 -> hz)
+(hz -> água)..
+Liste as relações de dependência sintática na sentença "Os policiais federais de Mato Grosso de o Sul entraram em greve ontem , em adesão a o movimento iniciado em o Distrito Federal .", usando o formato (token dependente -> token cabeça).
+REPLY|:|(policiais -> federais)
+(federais -> Os)
+(Mato -> de)
+(Grosso -> de)
+(de -> policiais)
+(Sul -> de)
+(entraram -> policiais)
+(greve -> entraram)
+(ontem -> entraram)
+(adesão -> greve)
+(a -> adesão)
+(o -> movimento)
+(iniciado -> movimento)
+(e -> iniciado)
+(o -> Distrito)
+(Distrito -> em)
+(Federal -> Distrito)
+(em -> iniciado)
+(a -> greve)
+REFINE [(federais]
+REFINE [(federais]
+REFINE [(federais]
+REFINE [(federais]
+REFINE [federais]
+REFINE [federais]
+-----------END REFINE---------
+REFINE [Os)]
+REFINE [Os)]
+REFINE [Os)]
+REFINE [Os)]
+REFINE [Os]
+-----------END REFINE---------
+REFINE [(Mato]
+REFINE [(Mato]
+REFINE [(Mato]
+REFINE [(Mato]
+REFINE [Mato]
+REFINE [Mato]
+-----------END REFINE---------
+REFINE [de)]
+REFINE [de)]
+REFINE [de)]
+REFINE [de)]
+REFINE [de]
+-----------END REFINE---------
+REFINE [(Grosso]
+REFINE [(Grosso]
+REFINE [(Grosso]
+REFINE [(Grosso]
+REFINE [Grosso]
+REFINE [Grosso]
+-----------END REFINE---------
+REFINE REFINE [df]
+-----------END REFINE---------
+chatGPT|:|<@><#>policiais<@>Os<#>policiais<@>federais<#>policiais<@>de<#>Sul<@>Mato<#>Sul<@>Grosso<#>Sul<@>do<#>federais<@>policiais<#>de<@>policiais<#>entraram<@>policiais<#>greve<@>entraram<#>onem<@>em<#>adesão<@>em<#>movimento<@>ao<#>iniciado<@>movimento<#>df<@>no<#>iniciado<@>df|:|UDA:0.280<#>DDA: 0.120
+GoldTree |:|Os<@>policiais<@>det<#>policiais<@>entraram<@>nsubj<#>federais<@>policiais<@>amod<#>de<@>Mato<@>case<#>Mato<@>policiais<@>nmod<#>Grosso<@>Mato<@>flat<#>de<@>Sul<@>case<#>o<@>Sul<@>det<#>Sul<@>Mato<@>nmod<#>entraram<@>root<@>root<#>em<@>greve<@>case<#>greve<@>entraram<@>obl<#>ontem<@>entraram<@>advmod<#>,<@>adesão<@>punct<#>em<@>adesão<@>case<#>adesão<@>entraram<@>obl<#>a<@>movimento<@>case<#>o<@>movimento<@>det<#>movimento<@>adesão<@>nmod<#>iniciado<@>movimento<@>acl<#>em<@>Distrito<@>case<#>o<@>Distrito<@>det<#>Distrito<@>iniciado<@>obl<#>Federal<@>Distrito<@>flat<#>.<@>entraram<@>punct
+>--<
+A reivindicação é de equiparação salarial com a Polícia Civil de o DF , o que representaria um reajuste de 300 % .
+MESSAGE|:|Na sentença "'",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(após -> dióxido)
+(o -> dióxido)
+(dióxido -> capturado)
+(de -> carbono)
+(carbono -> dióxido)
+(ser -> capturado)
+(capturado -> transporta)
+(em -> plantas)
+(as -> plantas)
+(plantas -> capturado)
+(e -> usinas)
+(usinas -> plantas)
+(indústrias -> usinas)
+(, -> capturado)
+(ele -> transporta)
+(será -> necessário)
+(necessário -> capturado)
+(transporta -> root)
+(lo -> transporta)
+(até -> local)
+(o -> local)
+(local -> transporta)
+(designado -> local)
+(para -> injeção)
+(injeção -> designado)
+(e -> armazenamento)
+(armazenamento -> injeção)
+(, -> designado)
+(a -> situe)
+(o -> a)
+(menos -> a)
+(que -> a)
+(o -> local)
+(local -> situe)
+(de -> captura)
+(captura -> local)
+(se -> situe)
+(situe -> transporta)
+(bem -> situe)
+(acima -> situe)
+(de -> local)
+(o -> local)
+(local -> acima)
+(a -> armazenado)
+(ser -> armazenado)
+(armazenado -> situe)
+(. -> transporta)Na sentença " ",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(' -> temos)
+(temos -> root)
+(todos -> temos)
+(de -> agarrar)
+(agarrar -> temos)
+(as -> oportunidades)
+(oportunidades -> agarrar)
+(em -> clubes)
+(os -> clubes)
+(diferentes -> clubes)
+(clubes -> temos)
+(onde -> jogamos)
+(jogamos -> clubes)
+(. -> temos)
+(' -> temos)..
+Liste as relações de dependência sintática na sentença "A reivindicação é de equiparação salarial com a Polícia Civil de o DF , o que representaria um reajuste de 300 % .", usando o formato (token dependente -> token cabeça).
+REPLY|:|Na sentença "A reivindicação é de equiparação salarial com a Polícia Civil de o DF, o que representaria um reajuste de 300%.", as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça):
+
+(reivindicação -> é)
+(A -> reivindicação)
+(de -> equiparação)
+(equiparação -> reivindicação)
+(salarial -> equiparação)
+(com -> equiparação)
+(a -> Polícia Civil)
+(Polícia Civil -> equiparação)
+(de -> DF)
+(o -> DF)
+(DF -> Polícia Civil)
+(, -> reivindicação)
+(o -> representaria)
+(que -> representaria)
+(representaria -> reivindicação)
+(um -> reajuste)
+(reajuste -> representaria)
+(de -> reajuste)
+(300 -> reajuste)
+(% -> reajuste)
+(. -> é)
+REFINE [(reivindicação]
+REFINE [(reivindicação]
+REFINE [(reivindicação]
+REFINE [(reivindicação]
+REFINE [reivindicação]
+REFINE [reivindicação]
+-----------END REFINE---------
+REFINE [é)]
+REFINE [é)]
+REFINE [é)]
+REFINE [é)]
+REFINE [é]
+-----------END REFINE---------
+REFINE [(A]
+REFINE [(A]
+REFINE [(A]
+REFINE [(A]
+REFINE [A]
+REFINE [A]
+-----------END REFINE---------
+REFINE [reivindicação)]
+REFINE [reivindicação)]
+REFINE [reivindicação)]
+REFINE [reivindicação)]
+REFINE [reivindicação]
+-----------END REFINE---------
+REFINE [(de]
+REFINE [(de]
+REFINE [(de]
+REFINE [(de]
+REFINE [de]
+REFINE [de]
+-----------END REFINE---------
+REFINE [equiparação)]
+REFINE [equiparação)]
+REFINE [equiparação)]
+REFINE [equiparação)]
+REFINE [equiparação]
+-----------END REFINE---------
+REFINE [(equiparação]
+REFINE [(equiparação]
+REFINE [(equiparação]
+REFINE [(equiparação]
+REFINE [equiparação]
+REFINE [equiparação]
+-----------END REFINE---------
+REFINE [reivindicação)]
+REFINE [reivindicação)]
+REFINE [reivindicação)]
+REFINE [reivindicação)]
+REFINE [reivindicação]
+-----------END REFINE---------
+REFINE [(salarial]
+REFINE [(salarial]
+REFINE [(salarial]
+REFINE [(salarial]
+REFINE [salarial]
+REFINE [salarial]
+-----------END REFINE---------
+REFINE [equiparação)]
+REFINE [equiparação)]
+REFINE [equiparação)]
+REFINE [equiparação)]
+REFINE [equiparação]
+-----------END REFINE---------
+REFINE [(com]
+REFINE [(com]
+REFINE [(com]
+REFINE [(com]
+REFINE [com]
+REFINE [com]
+-----------END REFINE---------
+REFINE [equiparação)]
+REFINE [equiparação)]
+REFINE [equiparação)]
+REFINE [equiparação)]
+REFINE [equiparação]
+-----------END REFINE---------
+REFINE [(a]
+REFINE [(a]
+REFINE [(a]
+REFINE [(a]
+REFINE [a]
+REFINE [a]
+-----------END REFINE---------
+REFINE [Polícia Civil)]
+REFINE [Polícia Civil)]
+REFINE [Polícia]
+REFINE [Polícia]
+REFINE [Polícia]
+-----------END REFINE---------
+REFINE [(Polícia Civil]
+REFINE [(Polícia Civil]
+REFINE [Civil]
+REFINE [Civil]
+REFINE [Civil]
+REFINE [Civil]
+-----------END REFINE---------
+REFINE [equiparação)]
+REFINE [equiparação)]
+REFINE [equiparação)]
+REFINE [equiparação)]
+REFINE [equiparação]
+-----------END REFINE---------
+REFINE [(de]
+REFINE [(de]
+REFINE [(de]
+REFINE [(de]
+REFINE [de]
+REFINE [de]
+-----------END REFINE---------
+REFINE [DF)]
+REFINE [DF)]
+REFINE [DF)]
+REFINE [DF)]
+REFINE [DF]
+-----------END REFINE---------
+REFINE [(o]
+REFINE [(o]
+REFINE [(o]
+REFINE [(o]
+REFINE [o]
+REFINE [o]
+-----------END REFINE---------
+REFINE [DF)]
+REFINE [DF)]
+REFINE [DF)]
+REFINE [DF)]
+REFINE [DF]
+-----------END REFINE---------
+REFINE [(DF]
+REFINE [(DF]
+REFINE [(DF]
+REFINE [(DF]
+REFINE [DF]
+REFINE [DF]
+-----------END REFINE---------
+REFINE [Polícia Civil)]
+REFINE [Polícia Civil)]
+REFINE [Polícia]
+REFINE [Polícia]
+REFINE [Polícia]
+-----------END REFINE---------
+REFINE [(,]
+REFINE [(,]
+REFINE [(,]
+REFINE [(,]
+REFINE [,]
+REFINE [,]
+-----------END REFINE---------
+REFINE [reivindicação)]
+REFINE [reivindicação)]
+REFINE [reivindicação)]
+REFINE [reivindicação)]
+REFINE [reivindicação]
+-----------END REFINE---------
+REFINE [(o]
+REFINE [(o]
+REFINE [(o]
+REFINE [(o]
+REFINE [o]
+REFINE [o]
+-----------END REFINE---------
+REFINE [representaria)]
+REFINE [representaria)]
+REFINE [representaria)]
+REFINE [representaria)]
+REFINE [representaria]
+-----------END REFINE---------
+REFINE [(que]
+REFINE [(que]
+REFINE [(que]
+REFINE [(que]
+REFINE [que]
+REFINE [que]
+-----------END REFINE---------
+REFINE [representaria)]
+REFINE [representaria)]
+REFINE [representaria)]
+REFINE [representaria)]
+REFINE [representaria]
+-----------END REFINE---------
+REFINE [(representaria]
+REFINE [(representaria]
+REFINE [(representaria]
+REFINE [(representaria]
+REFINE [representaria]
+REFINE [representaria]
+-----------END REFINE---------
+REFINE [reivindicação)]
+REFINE [reivindicação)]
+REFINE [reivindicação)]
+REFINE [reivindicação)]
+REFINE [reivindicação]
+-----------END REFINE---------
+REFINE [(um]
+REFINE [(um]
+REFINE [(um]
+REFINE [(um]
+REFINE [um]
+REFINE [um]
+-----------END REFINE---------
+REFINE [reajuste)]
+REFINE [reajuste)]
+REFINE [reajuste)]
+REFINE [reajuste)]
+REFINE [reajuste]
+-----------END REFINE---------
+REFINE [(reajuste]
+REFINE [(reajuste]
+REFINE [(reajuste]
+REFINE [(reajuste]
+REFINE [reajuste]
+REFINE [reajuste]
+-----------END REFINE---------
+REFINE [represREFINE [com)]
+REFINE [com)]
+REFINE [com)]
+REFINE [com)]
+REFINE [com]
+-----------END REFINE---------
+REFINE [(com]
+REFINE [(com]
+REFINE [(com]
+REFINE [(com]
+REFINE [com]
+REFINE [com]
+-----------END REFINE---------
+REFINE [equiparação)]
+REFINE [equiparação)]
+REFINE [equiparação)]
+REFINE [equiparação)]
+REFINE [equiparação]
+-----------END REFINE---------
+REFINE [(DF]
+REFINEREFINE [(300]
+REFINE [(300]
+REFINE [(300]
+REFINE [300]
+REFINE [300]
+-----------END REFINE---------
+REFINE [reajuste)]
+REFINE [reajuste)]
+REFINE [reajuste)]
+REFINE [reajuste)]
+REFINE [reajuste]
+-----------END REFINE---------
+REFINE [(%]
+REFINE [(%]
+REFINE [(%]
+REFINE [(%]
+REFINE [%]
+REFINE [%]
+-----------END REFINE---------
+REFINE [reajuste)]
+REFINE [reajuste)]
+REFINE [reajuste)]
+REFINE [reajuste)]
+REFINE [reajuste]
+-----------END REFINE---------
+REFINE [(.]
+REFINE [(.]
+REFINE [(.]
+REFINE [(.]
+REFINE [.]
+REFINE [.]
+-----------END REFINE---------
+REFINE [é)]
+REFINE [é)]
+REFINE [é)]
+REFINE [é)]
+REFINE [é]
+-----------END REFINE---------
+chatGPT|:|<@><#>reivindicação<@>é<#>A<@>reivindicação<#>de<@>equiparação<#>equiparação<@>reivindicação<#>salarial<@>equiparação<#>com<@>equiparação<#>a<@>Polícia<#>Civil<@>equiparação<#>de<@>DF<#>o<@>DF<#>DF<@>Polícia<#>,<@>reivindicação<#>o<@>representaria<#>que<@>representaria<#>representaria<@>reivindicação<#>um<@>reajuste<#>reajuste<@>representaria<#>de<@>reajuste<#>300<@>reajuste<#>%<@>reajuste<#>.<@>é|:|UDA:0.565<#>DDA: 0.478
+GoldTree |:|A<@>reivindicação<@>det<#>reivindicação<@>equiparação<@>nsubj<#>é<@>equiparação<@>cop<#>de<@>equiparação<@>case<#>equiparação<@>root<@>root<#>salarial<@>equiparação<@>amod<#>com<@>Polícia<@>case<#>a<@>Polícia<@>det<#>Polícia<@>equiparação<@>nmod<#>Civil<@>Polícia<@>flat<#>de<@>DF<@>case<#>o<@>DF<@>det<#>DF<@>Polícia<@>nmod<#>,<@>equiparação<@>punct<#>o<@>equiparação<@>appos<#>que<@>representaria<@>nsubj<#>representaria<@>o<@>acl<#>um<@>reajuste<@>det<#>reajuste<@>representaria<@>obj<#>de<@>%<@>case<#>300<@>%<@>nummod<#>%<@>reajuste<@>nmod<#>.<@>equiparação<@>punct
+>--<
+Em Mato Grosso , a paralisação está prevista para começar hoje .
+MESSAGE|:|Na sentença "T",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(a -> argila)
+(argila -> possui)
+(a7 -> argila)
+(possui -> root)
+(maior -> concentração)
+(concentração -> possui)
+(de -> óxido)
+(óxido -> concentração)
+(de -> silício)
+(silício -> óxido)
+(( -> sio2)
+(sio2 -> possui)
+(, -> %)
+(59,4 -> %)
+(% -> sio2)
+(p/p -> %)
+() -> sio2)
+(, -> seguida)
+(seguida -> concentração)
+(por -> óxido)
+(óxido -> seguida)
+(de -> alumínio)
+(alumínio -> óxido)
+(( -> al2o3)
+(al2o3 -> possui)
+(, -> %)
+(13,6 -> %)
+(% -> al2o3)
+(p/p -> %)
+() -> al2o3)
+(. -> possui)Na sentença "e",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(tem -> root)
+(uma -> orientação)
+(orientação -> tem)
+(, -> estratégia)
+(uma -> estratégia)
+(estratégia -> orientação)
+(. -> tem)..
+Liste as relações de dependência sintática na sentença "Em Mato Grosso , a paralisação está prevista para começar hoje .", usando o formato (token dependente -> token cabeça).
+REPLY|:|(Em -> Mato Grosso)
+(Mato Grosso -> paralisação)
+(paralisação -> está)
+(está -> prevista)
+(prevista -> começar)
+(começar -> hoje)
+(hoje -> está)
+(está -> root)
+(., -> está)
+REFINE [(Mato Grosso]
+REFINE [(Mato Grosso]
+REFINE [Grosso]
+REFINE [Grosso]
+REFINE [Grosso]
+REFINE [Grosso]
+-----------END REFINE---------
+REFINE [paralisação)]
+REFINE [paralisação)]
+REFINE [paralisação)]
+REFINE [paralisação)]
+REFINE [paralisação]
+-----------END REFINE---------
+REFINE [(paralisação]
+REFINE [(paralisação]
+REFINE [(paralisação]
+REFINE [(paralisação]
+REFINE [paralisação]
+REFINE [paralisação]
+-----------END REFINE---------
+REFINE [está)]
+REFINE [está)]
+REFINE [está)]
+REFINE [está)]
+REFINE [está]
+-----------END REFINE---------
+REFINE [(está]
+REFINE [(está]
+REFINE [(está]
+REFINE [(está]
+REFINE [está]
+REFINE [está]
+-----------END REFINE---------
+REFINE [prevista)]
+REFINE [prevista)]
+REFINE [prevista)]
+REFINE [prevista)]
+REFINE [prevista]
+-----------END REFINE---------
+REFINE [(prevista]
+REFINE [(prevista]
+REFINE [(prevista]
+REFINE [(prevista]
+REFINE [prevista]
+REFINE [prevista]
+-----------END REFINE---------
+REFINE [começar)]
+REFINE [começar)]
+REFINE [começar)]
+REFINE [começar)]
+REFINE [começar]
+-----------END REFINE---------
+REFINE [(começar]
+REFINE [(começar]
+REFINE [(começar]
+REFINE [(começar]
+REFINE [começar]
+REFINE [começar]
+-----------END REFINE---------
+REFINE [hoje)]
+REFINE [hoje)]
+REFINE [hoje)]
+REFINE [hoje)]
+REFINE [hoje]
+-----------END REFINE---------
+REFINE [(hoje]
+REFINE [(hoje]
+REFINE [(hoje]
+REFINE [(hoje]
+REFINE [hoje]
+REFINE [hoje]
+-----------END REFINE---------
+REFINE [está)]
+REFINE [está)]
+REFINE [está)]
+REFINE [está)]
+REFINE [está]
+-----------END REFINE---------
+REFINE [(está]
+REFINE [(está]
+REFINE [(está]
+REFINE [(está]
+REFINE [está]
+REFINE [está]
+-----------END REFINE---------
+REFINE [root)]
+REFINE [root)]
+REFINE [root)]
+REFINE [root)]
+REFINE [root]
+-----------END REFINE---------
+REFINE [(.,]
+REFINE [(.,]
+REFINE [(.,]
+REFINE [(.,]
+REFINE [.,]
+REFINE [.,]
+-----------END REFINE---------
+REFINE [está)]
+REFINE [está)]
+REFINE [está)]
+REFINE [está)]
+REFINE [está]
+-----------END REFINE---------
+chatGPT|:|Grosso<@>paralisação<#>paralisação<@>está<#>está<@>prevista<#>prevista<@>começar<#>começar<@>hoje<#>hoje<@>está<#>está<@>root<#>.,<@>está|:|UDA:0.250<#>DDA: 0.083
+GoldTree |:|Em<@>Mato<@>case<#>Mato<@>prevista<@>obl<#>Grosso<@>Mato<@>flat<#>,<@>Mato<@>punct<#>a<@>paralisação<@>det<#>paralisação<@>prevista<@>nsubj<#>está<@>prevista<@>cop<#>prevista<@>root<@>root<#>para<@>começar<@>mark<#>começar<@>prevista<@>xcomp<#>hoje<@>começar<@>advmod<#>.<@>prevista<@>punct
+>--<
+Todas receberam beijos de Itamar .
+MESSAGE|:|Na sentença "A",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(fizeram -> root)
+(uma -> análise)
+(análise -> fizeram)
+(comparativa -> análise)
+(de -> dados)
+(estes -> dados)
+(dados -> análise)
+(, -> áreas)
+(sobre -> áreas)
+(as -> áreas)
+(áreas -> fizeram)
+(marítimas -> áreas)
+(, -> áreas)
+(com -> mapas)
+(os -> mapas)
+(mapas -> fizeram)
+(geológicos -> mapas)
+(de -> região)
+(a -> região)
+(região -> mapas)
+(emersa -> região)
+(adjacente -> região)
+(, -> fizeram)
+(através -> fizeram)
+(de -> abordagem)
+(uma -> abordagem)
+(abordagem -> através)
+(puramente -> qualitativa)
+(qualitativa -> abordagem)
+(. -> fizeram)Na sentença "s",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(assim -> iniciou)
+(se -> iniciou)
+(iniciou -> root)
+(a -> história)
+(recente -> história)
+(história -> iniciou)
+(de -> desporto)
+(este -> desporto)
+(desporto -> história)
+(. -> iniciou)..
+Liste as relações de dependência sintática na sentença "Todas receberam beijos de Itamar .", usando o formato (token dependente -> token cabeça).
+REPLY|:|(Todas -> receberam)
+(receberam -> root)
+(beijos -> receberam)
+(de -> beijos)
+(Itamar -> beijos)
+(. -> receberam)
+REFINE [(receberam]
+REFINE [(receberam]
+REFINE [(receberam]
+REFINE [(receberam]
+REFINE [receberam]
+REFINE [receberam]
+-----------END REFINE---------
+REFINE [root)]
+REFINE [root)]
+REFINE [root)]
+REFINE [root)]
+REFINE [root]
+-----------END REFINE---------
+REFINE [(beijos]
+REFINE [(beijos]
+REFINE [(beijos]
+REFINE [(beijos]
+REFINE [beijos]
+REFINE [beijos]
+-----------END REFINE---------
+REFINE [receberam)]
+REFINE [receberam)]
+REFINE [receberam)]
+REFINE [receberam)]
+REFINE [receberam]
+-----------END REFINE---------
+REFINE [(de]
+REFINE [(de]
+REFINE [(de]
+REFINE [(de]
+REFINE [de]
+REFINE [de]
+-----------END REFINE---------
+REFINE [beijos)]
+REFINE [beijos)]
+REFINE [beijos)]
+REFINE [beijos)]
+REFINE [beijos]
+-----------END REFINE---------
+REFINE [(Itamar]
+REFINE [(Itamar]
+REFINE [(Itamar]
+REFINE [(Itamar]
+REFINE [chatGPT|:|<@><#>Em<@>Mato<#>Grosso<@>paralisação<#>,<@>paralisação<#>a<@>paralisação<#>paralisação<@>prevista<#>prevista<@>começar<#>para<@>começar<#>começar<@>hoje<#>hoje<@>root<#>.<@>hoje|:|UDA:0.500<#>DDA: 0.333
+GoldTree |:|Em<@>Mato<@>case<#>Mato<@>prevista<@>obl<#>Grosso<@>Mato<@>flat<#>,<@>Mato<@>punct<#>a<@>paralisação<@>det<#>paralisação<@>prevista<@>nsubj<#>está<@>prevista<@>cop<#>prevista<@>root<@>root<#>para<@>começar<@>mark<#>começar<@>prevista<@>xcomp<#>hoje<@>começar<@>advmod<#>.<@>prevista<@>punct
+>--<
+Todas receberam beijos de Itamar .
+MESSAGE|:|Na sentença "L",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(a -> ferramenta)
+(ferramenta -> imprescindível)
+(de -> sistema)
+(sistema -> ferramenta)
+(de -> sistema)
+(informação -> sistema)
+(geográfica -> sistema)
+(foi -> imprescindível)
+(imprescindível -> root)
+(para -> projetar)
+(projetar -> imprescindível)
+(a -> rede)
+(rede -> projetar)
+(de -> carbodutos)
+(carbodutos -> rede)
+(entre -> fontes)
+(as -> fontes)
+(fontes -> rede)
+(de -> captura)
+(captura -> fontes)
+(e -> reservatórios)
+(os -> reservatórios)
+(reservatórios -> fontes)
+(de -> destino)
+(destino -> reservatórios)
+(. -> imprescindível)Na sentença "e",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(lembrei -> root)
+(de -> bifões)
+(os -> bifões)
+(bifões -> lembrei)
+(que -> comi)
+(comi -> bifões)
+(, -> ano)
+(em -> ano)
+(o -> ano)
+(ano -> comi)
+(passado -> ano)
+(, -> ano)
+(em -> cidade)
+(a -> cidade)
+(cidade -> comi)
+(de -> cabo)
+(o -> cabo)
+(cabo -> cidade)
+(. -> lembrei)..
+Liste as relações de dependência sintática na sentença "Todas receberam beijos de Itamar .", usando o formato (token dependente -> token cabeça).
+REPLY|:|(receberam -> Todas)
+(beijos -> receberam)
+(de -> beijos)
+(Itamar -> beijos)
+(. -> receberam)
+REFINE [(beijos]
+REFINE [(beijos]
+REFINE [(beijos]
+REFINE [(beijos]
+REFINE [beijos]
+REFINE [beijos]
+-----------END REFINE---------
+REFINE [receberam)]
+REFINE [receberam)]
+REFINE [receberam)]
+REFINE [receberam)]
+REFINE [receberam]
+-----------END REFINE---------
+REFINE [(de]
+REFINE [(de]
+REFINE [(de]
+REFINE [(de]
+REFINE [de]
+REFINE [de]
+-----------END REFINE---------
+REFINE [beijos)]
+REFINE [beijos)]
+REFINE [beijos)]
+REFINE [beijos)]
+REFINE [beijos]
+-----------END REFINE---------
+REFINE [(Itamar]
+REFINE [(Itamar]
+REFINE [(Itamar]
+REFINE [(Itamar]
+REFINE [Itamar]
+REFINE [Itamar]
+-----------END REFINE---------
+REFINE [beijos)]
+REFINE [beijos)]
+REFINE [beijos)]
+REFINE [beijos)]
+REFINE [beijos]
+-----------END REFINE---------
+REFINE [(.]
+REFINE [(.]
+REFINE [(.]
+REFINE [(.]
+REFINE [.]
+REFINE [.]
+-----------END REFINE---------
+REFINE [receberam)]
+REFINE [receberam)]
+REFINE [receberam)]
+REFINE [receberam)]
+REFINE [receberam]
+-----------END REFINE---------
+chatGPT|:|beijos<@>receberam<#>de<@>beijos<#>Itamar<@>beijos<#>.<@>receberam|:|UDA:0.500<#>DDA: 0.500
+GoldTree |:|Todas<@>receberam<@>nsubj<#>receberam<@>root<@>root<#>beijos<@>receberam<@>obj<#>de<@>Itamar<@>case<#>Itamar<@>beijos<@>nmod<#>.<@>receberam<@>punct
+>--<
+Fu foi a mais calorosa .
+MESSAGE|:|Na sentença "O",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(mas -> há)
+(também -> há)
+(há -> root)
+(muitas -> outras)
+(outras -> há)
+(que -> poderiam)
+(poderiam -> outras)
+(ser -> poderiam)
+(como -> ana)
+(a -> ana)
+(ana -> ser)
+(e -> desmobilizaram)
+(se -> desmobilizaram)
+(desmobilizaram -> ser)
+(. -> há)Na sentença " ",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(o -> presidente)
+(presidente -> root)
+(e -> golfinhos)
+(os -> golfinhos)
+(golfinhos -> presidente)..
+Liste as relações de dependência sintática na sentença "Fu foi a mais calorosa .", usando o formato (token dependente -> token cabeça).
+REPLY|:|Na sentença "Fu foi a mais calorosa .", as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça):
+(Fu -> foi)
+(foi -> root)
+(a -> calorosa)
+(a -> mais)
+(cara -> calorosa)
+(calorosa -> foi)
+(. -> foi)
+REFINE [(Fu]
+REFINE [(Fu]
+REFINE [(Fu]
+REFINE [(Fu]
+REFINE [Fu]
+REFINE [Fu]
+-----------END REFINE---------
+REFINE [foi)]
+REFINE [foi)]
+REFINE [foi)]
+REFINE [foi)]
+REFINE [foi]
+-----------END REFINE---------
+REFINE [(foi]
+REFINE [(foi]
+REFINE [(foi]
+REFINE [(foi]
+REFINE [foi]
+REFINE [foi]
+-----------END REFINE---------
+REFINE [root)]
+REFINE [root)]
+REFINE [root)]
+REFINE [root)]
+REFINE [root]
+-----------END REFINE---------
+REFINE [(a]
+REFINE [(a]
+REFINE [(a]
+REFINE [(a]
+REFINE [a]
+REFINE [a]
+-----------END REFINE---------
+REFINE [calorosa)]
+REFINE [calorosa)]
+REFINE [calorosa)]
+REFINE [calorosa)]
+REFINE [calorosa]
+-----------END REFINE---------
+REFINE [(a]
+REFINE [(a]
+REFINE [(a]
+REFINE [(a]
+REFINE [a]
+REFINE [a]
+-----------END REFINE---------
+REFINE [mais)]
+REFINE [mais)]
+REFINE [mais)]
+REFINE [mais)]
+REFINE [mais]
+-----------END REFINE---------
+REFINE [(cara]
+REFINE [(cara]
+REFINE [(cara]
+REFINE [(cara]
+REFINE [cara]
+REFINE [cara]
+-----------END REFINE---------
+REFINE [calorosa)]
+REFINE [calorosa)]
+REFINE [calorosa)]
+REFINE [calorosa)]
+REFINE [calorosa]
+-----------END REFINE---------
+REFINE [(calorosa]
+REFINE [(calorosa]
+REFINE [(calorosa]
+REFINE [(calorosa]
+REFINE [calorosa]
+REFINE [calorosa]
+-----------END REFINE---------
+REFINE [foi)]
+REFINE [foi)]
+REFINE [foi)]
+REFINE [foi)]
+REFINE [foi]
+-----------END REFINE---------
+REFINE [(.]
+REFINE [(.]
+REFINE [(.]
+REFINE [(.]
+REFINE [.]
+REFINE [.]
+-----------END REFINE---------
+REFINE [foi)]
+REFINE [foi)]
+REFINE [foi)]
+REFINE [foi)]
+REFINE [foi]
+-----------END REFINE---------
+chatGPT|:|Fu<@>foi<#>foi<@>root<#>a<@>calorosa<#>a<@>mais<#>cara<@>calorosa<#>calorosa<@>foi<#>.<@>foi|:|UDA:0.333<#>DDA: 0.167
+GoldTree |:|Fu<@>calorosa<@>nsubj<#>foi<@>calorosa<@>cop<#>a<@>calorosa<@>det<#>mais<@>calorosa<@>advmod<#>calorosa<@>root<@>root<#>.<@>calorosa<@>punct
+>--<
+Beijou , abraçou duas vezes e conversou por alguns minutos com o conterrâneo presidente .
+MESSAGE|:|Na sentença "A",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(lucas -> figuras)
+(pires -> lucas)
+(ou -> nuno)
+(nuno -> lucas)
+(abecasis -> nuno)
+(são -> figuras)
+(figuras -> root)
+(de -> quem)
+(quem -> fala)
+(se -> fala)
+(fala -> figuras)
+(a_ -> direita)
+(a -> direita)
+(direita -> fala)
+(de -> psd)
+(o -> psd)
+(psd -> direita)
+(e -> fala)
+(mesmo -> dentro)
+(dentro -> fala)
+(de -> partido)
+(este -> partido)
+(partido -> dentro)
+(. -> figuras)Na sentença " ",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(a -> triatleta)
+(triatleta -> tem)
+(portuguesa -> triatleta)
+(tem -> root)
+(muitos -> admiradores)
+(admiradores -> tem)
+(em -> roth)
+(roth -> tem)
+(: -> tem)..
+Liste as relações de dependência sintática na sentença "Beijou , abraçou duas vezes e conversou por alguns minutos com o conterrâneo presidente .", usando o formato (token dependente -> token cabeça).
+REPLY|:|(beijou -> abraçou)
+(beijou -> conversou)
+(abraçou -> vezes)
+(abraçou -> conterrâneo)
+(conversou -> minutos)
+(conversou -> presidente)
+(presidente -> conterrâneo)
+REFINE [(beijou]
+REFINE [(beijou]
+REFINE [(beijou]
+REFINE [(beijou]
+REFINE [beijou]
+REFINE [beijou]
+-----------END REFINE---------
+REFINE [conversou)]
+REFINE [conversou)]
+REFINE [conversou)]
+REFINE [conversou)]
+REFINE [conversou]
+-----------END REFINE---------
+REFINE [(abraçou]
+REFINE [(abraçou]
+REFINE [(abraçou]
+REFINE [(abraçou]
+REFINE [abra�MESSAGE|:|Na sentença "E",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(a -> demissão)
+(demissão -> revés)
+(de -> hans-dietrich)
+(hans-dietrich -> demissão)
+(genscher -> hans-dietrich)
+(e -> crise)
+(a -> crise)
+(crise -> demissão)
+(política -> crise)
+(que -> atravessa)
+(atravessa -> crise)
+(o -> governo)
+(governo -> atravessa)
+(de -> bona)
+(bona -> governo)
+(( -> tendo)
+(tendo -> crise)
+(em -> pano)
+(pano -> tendo)
+(de -> pano)
+(fundo -> pano)
+(uma -> derrapagem)
+(« -> derrapagem)
+(derrapagem -> tendo)
+(» -> derrapagem)
+(económica -> derrapagem)
+(, -> resultado)
+(resultado -> derrapagem)
+(de -> unificação)
+(a -> unificação)
+(unificação -> resultado)
+(, -> está)
+(que -> está)
+(está -> unificação)
+(a -> afectar)
+(afectar -> está)
+(a -> alemanha)
+(alemanha -> afectar)
+(e -> exportada)
+(a -> exportada)
+(ser -> exportada)
+(inevitavelmente -> exportada)
+(« -> exportada)
+(exportada -> afectar)
+(» -> exportada)
+(para -> países)
+(os -> países)
+(outros -> países)
+(países -> exportada)
+(europeus -> países)
+() -> tendo)
+(é -> revés)
+(, -> talvez)
+(talvez -> revés)
+(, -> talvez)
+(o -> revés)
+(maior -> revés)
+(revés -> root)
+(que -> tem)
+(a -> presidência)
+(presidência -> tem)
+(portuguesa -> presidência)
+(tem -> revés)
+(de -> enfrentar)
+(enfrentar -> tem)
+(não -> enfrentar)
+(só -> enfrentar)
+(quanto -> enfrentar)
+(a -> aprovação)
+(a -> aprovação)
+(aprovação -> enfrentar)
+(de -> pacote)
+(o -> pacote)
+(pacote -> aprovação)
+(delors -> pacote)
+(( -> apoiante)
+(genscher -> apoiante)
+(era -> apoiante)
+(um -> apoiante)
+(sincero -> apoiante)
+(apoiante -> pacote)
+(de -> perspectivas)
+(as -> perspectivas)
+(novas -> perspectivas)
+(perspectivas -> apoiante)
+(financeiras -> perspectivas)
+(para -> comunidade)
+(a -> comunidade)
+(comunidade -> perspectivas)
+() -> apoiante)
+(como -> quanto)
+(quanto -> aprovação)
+(a -> generalidade)
+(a -> generalidade)
+(generalidade -> quanto)
+(de -> dossiers)
+(os -> dossiers)
+(« -> dossiers)
+(dossiers -> generalidade)
+(» -> dossiers)
+(que -> cima)
+(estão -> cima)
+(em -> cima)
+(cima -> dossiers)
+(de -> mesa)
+(a -> mesa)
+(mesa -> cima)
+(. -> revés)Na sentença "l",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(ele -> favorito)
+(era -> favorito)
+(o -> favorito)
+(favorito -> root)
+(para -> eleições)
+(as -> eleições)
+(eleições -> favorito)
+(programadas -> eleições)
+(para -> 21)
+(21 -> programadas)
+(de -> agosto)
+(agosto -> 21)
+(. -> favorito)..
+Liste as relações de dependência sintática na sentença "« Eu torci muito por você , viu ? » , disse Itamar a Fu .", usando o formato (token dependente -> token cabeça).
+REPLY|:|As relações de dependência sintática na sentença "« Eu torci muito por você , viu ? » , disse Itamar a Fu ." são mostradas abaixo no formato (token dependente -> token cabeça):
+
+(torci -> Eu)
+(muito -> torci)
+(por -> torci)
+(você -> por)
+(, -> torci)
+(viu -> torci)
+(? -> viu)
+(disse -> torci)
+(Itamar -> disse)
+(a -> disse)
+(Fu -> disse)
+REFINE [(torci]
+REFINE [(torci]
+REFINE [(torci]
+REFINE [(torci]
+REFINE [torci]
+REFINE [torci]
+-----------END REFINE---------
+REFINE [Eu)]
+REFINE [Eu)]
+REFINE [Eu)]
+REFINE [Eu)]
+REFINE [Eu]
+-----------END REFINE---------
+REFINE [(muito]
+REFINE [(muito]
+REFINE [(muito]
+REFINE [(muito]
+REFINE [muito]
+REFINE [muito]
+-----------END REFINE---------
+REFINE [torci)]
+REFINE [torci)]
+REFINE [torci)]
+REFINE [torci)]
+REFINE [torci]
+-----------END REFINE---------
+REFINE [(por]
+REFINE [(por]
+REFINE [(por]
+REFINE [(por]
+REFINE [por]
+REFINE [por]
+-----------END REFINE---------
+REFINE [torci)]
+REFINE [torci)]
+REFINE [torci)]
+REFINE [torci)]
+REFINE [torci]
+-----------END REFINE---------
+REFINE [(você]
+REFINE [(você]
+REFINE [(você]
+REFINE [(você]
+REFINE [você]
+REFINE [você]
+-----------END REFINE---------
+REFINE [por)]
+REFINE [por)]
+REFINE [por)]
+REFINE [por)]
+REFINE [por]
+-----------END REFINE---------
+REFINE [(,]
+REFINE [(,]
+REFINE [(,]
+REFINE [(,]
+REFINE [,]
+REFINE [,]
+-----------END REFINE---------
+REFINE [torci)]
+REFINE [torci)]
+REFINE [torci)]
+REFINE [torci)]
+REFINE [torci]
+-----------END REFINE---------
+REFINE [(viu]
+REFINE [(viu]
+REFINE [(viu]
+REFINE [(viu]
+REFINE [viu]
+REFINE [viu]
+-----------END REFINE---------
+REFINE [torci)]
+REFINE [torci)]
+REFINE [torci)]
+REFINE [torci)]
+REFINE [torci]
+-----------END REFINE---------
+REFINE [(?]
+REFINE [(?]
+REFINE [(?]
+REFINE [(?]
+REFINE [?]
+REFINE [?]
+-----------END REFINE---------
+REFINE [viu)]
+REFINE [viu)]
+REFINE [viu)]
+REFINE [viu)]
+REFINE [viu]
+-----------END REFINE---------
+REFINE [(disse]
+REFINE [(disse]
+REFINE [(disse]
+REFINE [(disse]
+REFINE [disse]
+REFINE [disse]
+-----------END REFINE---------
+REFINE [torci)]
+REFINE [torci)]
+REFINE [torci)]
+REFINE [torci)]
+REFINE [torci]
+-----------END REFINE---------
+REFINE [(Itamar]
+REFINE [(Itamar]
+REFINE [(Itamar]
+REFINE [(Itamar]
+REFINE [Itamar]
+REFINE [Itamar]
+-----------END REFINE---------
+REFINE [disse)]
+REFINE [disse)]
+REFINE [disse)]
+REFINE [disse)]
+REFINE [disse]
+-----------END REFINE---------
+REFINE [(a]
+REFINE [(a]
+REFINE [(a]
+REFINE [(a]
+REFINE [a]
+REFINE [a]
+-----------END REFINE---------
+REFINE [disse)]
+REFINE [disse)]
+REFINE [disse)]
+REFINE [disse)]
+REFINE [disse]
+-----------END REFINE---------
+REFINE [(Fu]
+REFINE [(Fu]
+REFINE [(Fu]
+REFINE [(Fu]
+REFINE [Fu]
+REFINE [Fu]
+-----------END REFINE---------
+REFINE [disse)]
+REFINE [disse)]
+REFINE [disse)]
+REFINE [disse)]
+REFINE [disse]
+-----------END REFINE---------
+chatGPT|:|<@><#>torci<@>Eu<#>muito<@>torci<#>por<@>torci<#>você<@>por<#>,<@>torci<#>viu<@>torci<#>?<@>viu<#>disse<@>torci<#>Itamar<@>disse<#>a<@>disse<#>Fu<@>disse|:|UDA:0.500<#>DDA: 0.312
+GoldTree |:|«<@>torci<@>punct<#>Eu<@>torci<@>nsubj<#>torci<@>disse<@>parataxis<#>muito<@>torci<@>advmod<#>por<@>você<@>case<#>você<@>torci<@>obj<#>,<@>torci<@>punct<#>viu<@>torci<@>discourse<#>?<@>torci<@>punct<#>»<@>torci<@>punct<#>,<@>torci<@>punct<#>disse<@>root<@>root<#>Itamar<@>disse<@>nsubj<#>a<@>Fu<@>case<#>Fu<@>disse<@>obj<#>.<@>disse<@>punct
+>--<
+Cada usuário pode importar programas até o valor de US$ 200 mil .
+MESSAGE|:|Na sentença "L",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(o -> livro)
+(livro -> oferece)
+(de -> marilena)
+(marilena -> livro)
+(ansaldi -> marilena)
+(também -> oferece)
+(oferece -> root)
+(detalhes -> oferece)
+(sobre -> uma)
+(uma -> detalhes)
+(de -> experiências)
+(as -> experiências)
+(mais -> bem-sucedidas)
+(bem-sucedidas -> experiências)
+(experiências -> uma)
+(culturais -> experiências)
+(de -> são)
+(são -> experiências)
+(paulo -> são)
+(: -> teatro)
+(o -> teatro)
+(teatro -> experiências)
+(de -> dança)
+(a -> dança)
+(dança -> teatro)
+(, -> funcionou)
+(que -> funcionou)
+(funcionou -> teatro)
+(a -> 1975)
+(partir -> a)
+(de -> a)
+(1975 -> funcionou)
+(em -> sala)
+(a -> sala)
+(sala -> funcionou)
+(gil -> sala)
+(vicente -> sala)
+(de -> teatro)
+(o -> teatro)
+(teatro -> sala)
+(ruth -> teatro)
+(escobar -> teatro)
+(. -> oferece)Na sentença "i",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(lisboa-valladolid -> recebe)
+(recebe -> root)
+(' -> luz)
+(luz -> recebe)
+(verde -> luz)
+(' -> luz)
+(de -> doze)
+(os -> doze)
+(doze -> recebe)..
+Liste as relações de dependência sintática na sentença "Cada usuário pode importar programas até o valor de US$ 200 mil .", usando o formato (token dependente -> token cabeça).
+REPLY|:|(Cada -> usuário)
+(usuário -> pode)
+(pode -> importar)
+(importar -> programas)
+(programas -> até)
+(até -> valor)
+(valor -> o)
+(o -> de)
+(de -> US$)
+(US$ -> mil)
+(mil -> .)
+REFINE [(usuário]
+REFINE [(usuário]
+REFINE [(usuário]
+REFINE [(usuário]
+REFINE [usuário]
+REFINE [usuário]
+-----------END REFINE---------
+REFINE [pode)]
+REFINE [pode)]
+REFINE [pode)]
+REFINE [pode)]
+REFINE [pode]
+-----------END REFINE---------
+REFINE [(pode]
+REFINE [(pode]
+REFINE [(pode]
+REFINE [(pode]
+REFINE [pode]
+REFINE [pode]
+-----------END REFINE---------
+REFINE [importar)]
+REFINE [importar)]
+REFINE [importar)]
+REFINE [importar)]
+REFINE [importar]
+-----------END REFINE---------
+REFINE [(importar]
+REFINE [(importar]
+REFINE [(importar]
+REFINE [(importar]
+REFINE [importar]
+REFINE [importar]
+-----------END REFINE---------
+REFINE [programas)]
+REFINE [programas)]
+REFINE [programas)]
+REFINE [programas)]
+REFINE [programas]
+-----------END REFINE---------
+REFINE [(programas]
+REFINE [(programas]
+REFINE [(programas]
+REFINE [(programas]
+REFINE [programas]
+REFINE [programas]
+-----------END REFINE---------
+REFINE [até)]
+REFINE [até)]
+REFINE [até)]
+REFINE [até)]
+REFINE [até]
+-----------END REFINE---------
+REFINE [(até]
+REFINE [(até]
+REFINE [(até]
+REFINE [(até]
+REFINE [até]
+REFINE [até]
+-----------END REFINE---------
+REFINE [valor)]
+REFINE [valor)]
+REFINE [valor)]
+REFINE [valor)]
+REFINE [valor]
+-----------END REFINE---------
+REFINE [(valor]
+REFINE [(valor]
+REFINE [(valor]
+REFINE [(valor]
+REFINE [valor]
+REFINE [valor]
+-----------END REFINE---------
+REFINE [o)]
+REFINE [o)]
+REFINE [o)]
+REFINE [o)]
+REFINE [o]
+-----------END REFINE---------
+REFINE [(o]
+REFINE [(o]
+REFINE [(o]
+REFINE [(o]
+REFINE [o]
+REFINE [o]
+-----------END REFINE---------
+REFINE [de)]
+REFINE [de)]
+REFINE [de)]
+REFINE [de)]
+REFINE [de]
+-----------END REFINE---------
+REFINE [(de]
+REFINE [(de]
+REFINE [(de]
+REFINE [(de]
+REFINE [de]
+REFINE [de]
+-----------END REFINE---------
+REFINE [US$)]
+REFINE [US$)]
+REFINE [US$)]
+REFINE [US$)]
+REFINE [US$]
+-----------END REFINE---------
+REFINE [(US$]
+REFINE [(US$]
+REFINE [(US$]
+REFINE [(US$]
+REFINE [US$]
+REFINE [US$]
+-----------END REFINE---------
+REFINE [mil)]
+REFINE [mil)]
+REFINE [mil)]
+REFINE [mil)]
+REFINE [mil]
+-----------END REFINE---------
+REFINE [(mil]
+REFINE [(mil]
+REFINE [(mil]
+REFINE [(mil]
+REFINE [mil]
+REFINE [mil]
+-----------END REFINE---------
+REFINE [.)]
+REFINE [.)]
+REFINE [.)]
+REFINE [.)]
+REFINE [.]
+-----------END REFINE---------
+chatGPT|:|usuário<@>pode<#>pode<@>importar<#>importar<@>programas<#>programas<@>até<#>até<@>valor<#>valor<@>o<#>o<@>de<#>de<@>US$<#>US$<@>mil<#>mil<@>.|:|UDA:0.462<#>DDA: 0.231
+GoldTree |:|Cada<@>usuário<@>det<#>usuário<@>pode<@>nsubj<#>pode<@>root<@>root<#>importar<@>pode<@>xcomp<#>programas<@>importar<@>obj<#>até<@>valor<@>case<#>o<@>valor<@>det<#>valor<@>importar<@>obl<#>de<@>US$<@>case<#>US$<@>valor<@>nmod<#>200<@>US$<@>nummod<#>mil<@>200<@>flat<#>.<@>importar<@>punct
+>--<
+Os pedidos até US$ 20 mil dispensam guia de importação .
+MESSAGE|:|Na sentença "A",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(os -> livros)
+(meus -> livros)
+(livros -> pessoais)
+(são -> pessoais)
+(estritamente -> pessoais)
+(pessoais -> root)
+(, -> solitários)
+(solitários -> pessoais)
+(e -> púdicos)
+(altamente -> púdicos)
+(púdicos -> pessoais)
+(. -> pessoais)Na sentença " ",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(a -> cinética)
+(cinética -> refere)
+(de -> inibição)
+(inibição -> cinética)
+(de -> hidratos)
+(hidratos -> inibição)
+(de -> gás)
+(gás -> hidratos)
+(geralmente -> refere)
+(se -> refere)
+(refere -> root)
+(a -> processos)
+(os -> processos)
+(processos -> refere)
+(por -> quais)
+(os -> quais)
+(quais -> alteradas)
+(as -> etapas)
+(etapas -> alteradas)
+(de -> nucleação)
+(nucleação -> etapas)
+(e -> crescimento)
+(de -> crescimento)
+(crescimento -> nucleação)
+(de -> cristais)
+(cristais -> crescimento)
+(de -> hidratos)
+(hidratos -> cristais)
+(são -> alteradas)
+(alteradas -> processos)
+(. -> refere)..
+Liste as relações de dependência sintática na sentença "Os pedidos até US$ 20 mil dispensam guia de importação .", usando o formato (token dependente -> token cabeça).
+REPLY|:|Na sentença "Os pedidos até US$ 20 mil dispensam guia de importação .", as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça):
+
+(pedidos -> Os)
+(até -> pedidos)
+(US$ -> 20)
+(mil -> US$)
+(dispensam -> pedidos)
+(guia -> dispensam)
+(de -> guia)
+(importação -> guia)
+(. -> dispensam)
+REFINE [(pedidos]
+REFINE [(pedidos]
+REFINE [(pedidos]
+REFINE [(pedidos]
+REFINE [pedidos]
+REFINE [pedidos]
+-----------END REFINE---------
+REFINE [Os)]
+REFINE [Os)]
+REFINE [Os)]
+REFINE [Os)]
+REFINE [Os]
+-----------END REFINE---------
+REFINE [(até]
+REFINE [(até]
+REFINE [(até]
+REFINE [(até]
+REFINE [até]
+REFINE [até]
+-----------END REFINE---------
+REFINE [pedidos)]
+REFINE [pedidos)]
+REFINE [pedidos)]
+REFINE [pedidos)]
+REFINE [pedidos]
+-----------END REFINE---------
+REFINE [(US$]
+REFINE [(US$]
+REFINE [(US$]
+REFINE [(US$]
+REFINE [US$]
+REFINE [US$]
+-----------END REFINE---------
+REFINE [20)]
+REFINE [20)]
+REFINE [20)]
+REFINE [20)]
+REFINE [20]
+-----------END REFINE---------
+REFINE [(mil]
+REFINE [(mil]
+REFINE [(mil]
+REFINE [(mil]
+REFINE [mil]
+REFINE [mil]
+-----------END REFINE---------
+REFINE [US$)]
+REFINE [US$)]
+REFINE [US$)]
+REFINE [US$)]
+REFINE [US$]
+-----------END REFINE---------
+REFINE [(dispensam]
+REFINE [(dispensam]
+REFINE [(dispensam]
+REFINE [(dispensam]
+REFINE [dispensam]
+REFINE [dispensam]
+-----------END REFINE---------
+REFINE [pedidos)]
+REFINE [pedidos)]
+REFINE [pedidos)]
+REFINE [pedidos)]
+REFINE [pedidos]
+-----------END REFINE---------
+REFINE [(guia]
+REFINE [(guia]
+REFINE [(guia]
+REFINE [(guia]
+REFINE [guia]
+REFINE [guia]
+-----------END REFINE---------
+REFINE [dispensam)]
+REFINE [dispensam)]
+REFINE [dispensam)]
+REFINE [dispensam)]
+REFINE [dispensam]
+-----------END REFINE---------
+REFINE [(de]
+REFINE [(de]
+REFINE [(de]
+REFINE [(de]
+REFINE [de]
+REFINE [de]
+-----------END REFINE---------
+REFINE [guia)]
+REFINE [guia)]
+REFINE [guia)]
+REFINE [guia)]
+REFINE [guia]
+-----------END REFINE---------
+REFINE [(importação]
+REFINE [(importação]
+REFINE [(importação]
+REFINE [(importação]
+REFINE [importação]
+REFINE [importação]
+-----------END REFINE---------
+REFINE [guia)]
+REFINE [guia)]
+REFINE [guia)]
+REFINE [guia)]
+REFINE [guia]
+-----------END REFINE---------
+REFINE [(.]
+REFINE [(.]
+REFINE [(.]
+REFINE [(.]
+REFINE [.]
+REFINE [.]
+-----------END REFINE---------
+REFINE [dispensam)]
+REFINE [dispensam)]
+REFINE [dispensam)]
+REFINE [dispensam)]
+REFINE [dispensam]
+-----------END REFINE---------
+chatGPT|:|<@><#>pedidos<@>Os<#>até<@>pedidos<#>US$<@>20<#>mil<@>US$<#>dispensam<@>pedidos<#>guia<@>dispensam<#>de<@>guia<#>importação<@>guia<#>.<@>dispensam|:|UDA:0.545<#>DDA: 0.273
+GoldTree |:|Os<@>pedidos<@>det<#>pedidos<@>dispensam<@>nsubj<#>até<@>US$<@>case<#>US$<@>pedidos<@>nmod<#>20<@>US$<@>nummod<#>mil<@>20<@>flat<#>dispensam<@>root<@>root<#>guia<@>dispensam<@>obj<#>de<@>importação<@>case<#>importação<@>guia<@>nmod<#>.<@>dispensam<@>punct
+>--<
+Se o valor de a compra for baixo , é melhor pedir encomenda por correio normal .
+MESSAGE|:|Na sentença "P",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(figura -> root)
+(2-4 -> figura)
+(– -> rota)
+(rota -> figura)
+(convencional -> rota)
+(de -> produção)
+(produção -> rota)
+(de -> etanol)
+(etanol -> produção)Na sentença "e",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(pedro -> assume)
+(lamy -> pedro)
+(assume -> root)
+(os -> erros)
+(seus -> erros)
+(erros -> assume)
+(em -> enna)
+(enna -> erros)
+(e -> prepara)
+(prepara -> assume)
+(-se -> prepara)
+(já -> prepara)
+(para -> hockenheim)
+(hockenheim -> prepara)..
+Liste as relações de dependência sintática na sentença "Se o valor de a compra for baixo , é melhor pedir encomenda por correio normal .", usando o formato (token dependente -> token cabeça).
+REPLY|:|Na sentença "Se o valor de a compra for baixo , é melhor pedir encomenda por correio normal .", as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça):
+
+Se -> valor
+valor -> compra
+compra -> de
+de -> a
+a -> for
+for -> baixo
+baixo -> melhor
+melhor -> pedir
+pedir -> encomenda
+encomenda -> por
+por -> correio
+correio -> normal
+normal -> .
+REFINE [Se]
+REFINE [Se]
+REFINE [Se]
+REFINE [Se]
+REFINE [Se]
+REFINE [Se]
+-----------END REFINE---------
+REFINE [valor]
+REFINE [valor]
+REFINE [valor]
+REFINE [valor]
+REFINE [valor]
+-----------END REFINE---------
+REFINE [valor]
+REFINE [valor]
+REFINE [valor]
+REchatGPT|:|<@><#>Se<@>compra<#>o<@>valor<#>compra<@>valor<#>de<@>compra<#>a<@>compra<#>compra<@>for<#>for<@>melhor<#>baixo<@>for<#>é<@>pedir<#>perdir<@>é<#>encomenda<@>pedir<#>por<@>encomenda<#>correio<@>encomenda<#>normal<@>correio<#>.<@>é|:|UDA:0.412<#>DDA: 0.353
+GoldTree |:|Se<@>baixo<@>mark<#>o<@>valor<@>det<#>valor<@>baixo<@>nsubj<#>de<@>compra<@>case<#>a<@>compra<@>det<#>compra<@>valor<@>nmod<#>for<@>baixo<@>cop<#>baixo<@>melhor<@>advcl<#>,<@>melhor<@>punct<#>é<@>melhor<@>cop<#>melhor<@>root<@>root<#>pedir<@>melhor<@>csubj<#>encomenda<@>pedir<@>obj<#>por<@>correio<@>case<#>correio<@>pedir<@>obl<#>normal<@>correio<@>amod<#>.<@>melhor<@>punct
+>--<
+Por o correio expresso o frete custa próximo de US$ 50 .
+MESSAGE|:|Na sentença "M",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(' -> significa)
+(significa -> root)
+(tudo -> significa)
+(, -> significa)
+(significa -> significa)
+(a -> liberdade)
+(liberdade -> significa)
+(' -> significa)
+(. -> significa)Na sentença "e",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(metade -> reprova)
+(de -> entrevistados)
+(os -> entrevistados)
+(entrevistados -> metade)
+(reprova -> root)
+(o -> serviço)
+(serviço -> reprova)
+(. -> reprova)..
+Liste as relações de dependência sintática na sentença "Por o correio expresso o frete custa próximo de US$ 50 .", usando o formato (token dependente -> token cabeça).
+REPLY|:|As relações de dependência sintática na sentença "Por o correio expresso o frete custa próximo de US$ 50 ." são:
+
+(correio -> Por)
+(expresso -> correio)
+(frete -> custa)
+(custa -> Por)
+(próximo -> custa)
+(50 -> próximo)
+(. -> custa)
+REFINE [(correio]
+REFINE [(correio]
+REFINE [(correio]
+REFINE [(correio]
+REFINE [correio]
+REFINE [correio]
+-----------END REFINE---------
+REFINE [Por)]
+REFINE [Por)]
+REFINE [Por)]
+REFINE [Por)]
+REFINE [Por]
+-----------END REFINE---------
+REFINE [(expresso]
+REFINE [(expresso]
+REFINE [(expresso]
+REFINE [(expresso]
+REFINE [expresso]
+REFINE [expresso]
+-----------END REFINE---------
+REFINE [correio)]
+REFINE [correio)]
+REFINE [correio)]
+REFINE [correio)]
+REFINE [correio]
+-----------END REFINE---------
+REFINE [(frete]
+REFINE [(frete]
+REFINE [(frete]
+REFINE [(frete]
+REFINE [frete]
+REFINE [frete]
+-----------END REFINE---------
+REFINE [custa)]
+REFINE [custa)]
+REFINE [custa)]
+REFINE [custa)]
+REFINE [custa]
+-----------END REFINE---------
+REFINE [(custa]
+REFINE [(custa]
+REFINE [(custa]
+REFINE [(custa]
+REFINE [custa]
+REFINE [custa]
+-----------END REFINE---------
+REFINE [Por)]
+REFINE [Por)]
+REFINE [Por)]
+REFINE [Por)]
+REFINE [Por]
+-----------END REFINE---------
+REFINE [(próximo]
+REFINE [(próximo]
+REFINE [(próximo]
+REFINE [(próximo]
+REFINE [próximo]
+REFINE [próximo]
+-----------END REFINE---------
+REFINE [custa)]
+REFINE [custa)]
+REFINE [custa)]
+REFINE [custa)]
+REFINE [custa]
+-----------END REFINE---------
+REFINE [(50]
+REFINE [(50]
+REFINE [(50]
+REFINE [(50]
+REFINE [50]
+REFINE [50]
+-----------END REFINE---------
+REFINE [próximo)]
+REFINE [próximo)]
+REFINE [próximo)]
+REFINE [próximo)]
+REFINE [próximo]
+-----------END REFINE---------
+REFINE [(.]
+REFINE [(.]
+REFINE [(.]
+REFINE [(.]
+REFINE [.]
+REFINE [.]
+-----------END REFINE---------
+REFINE [custa)]
+REFINE [custa)]
+REFINE [custa)]
+REFINE [custa)]
+REFINE [custa]
+-----------END REFINE---------
+chatGPT|:|<@><#>correio<@>Por<#>expresso<@>correio<#>frete<@>custa<#>custa<@>Por<#>próximo<@>custa<#>50<@>próximo<#>.<@>custa|:|UDA:0.417<#>DDA: 0.333
+GoldTree |:|Por<@>correio<@>case<#>o<@>correio<@>det<#>correio<@>custa<@>obl<#>expresso<@>correio<@>amod<#>o<@>frete<@>det<#>frete<@>custa<@>nsubj<#>custa<@>root<@>root<#>próximo<@>custa<@>advmod<#>de<@>US$<@>case<#>US$<@>próximo<@>obl<#>50<@>US$<@>nummod<#>.<@>custa<@>punct
+>--<
+Se não quiser se aventurar por a importação direta , existem empresas , como a Brasoftware ( tel. 011/253-1588 ) que importam programas sob encomenda .
+MESSAGE|:|Na sentença "F",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(até -> perdem)
+(já -> perdem)
+(perdem -> root)
+(em -> casa)
+(casa -> perdem)Na sentença "o",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(foi -> trabalho)
+(um -> trabalho)
+(trabalho -> root)
+(mais -> romântico)
+(romântico -> trabalho)
+(. -> trabalho)..
+Liste as relações de dependência sintática na sentença "Se não quiser se aventurar por a importação direta , existem empresas , como a Brasoftware ( tel. 011/253-1588 ) que importam programas sob encomenda .", usando o formato (token dependente -> token cabeça).
+REPLY|:|(Se -> aventurar)
+(quiser -> aventurar)
+(aventurar -> root)
+(por -> importação)
+( a -> importação)
+(importação -> aventurar)
+(direta -> importação)
+(existem -> empresas)
+(empresas -> importam)
+(, -> empresas)
+(como -> Brasoftware)
+(a -> Brasoftware)
+(Brasoftware -> importam)
+(( -> tel.)
+(011/253-1588 -> tel.)
+(tel. -> Brasoftware)
+( ) -> programas)
+(programas -> importam)
+(sob -> encomenda)
+(encomenda -> programas)
+(. -> aventurar)
+REFINE [(quiser]
+REFINE [(quiser]
+REFINE [(quiser]
+REFINE [(quiser]
+REFINE [quiser]
+REFINE [quiser]
+-----------END REFINE---------
+REFINE [aventurar)]
+REFINE [aventurar)]
+REFINE [aventurar)]
+REFINE [aventurar)]
+REFINE [aventurar]
+-----------END REFINE---------
+REFINE [(aventurar]
+REFINE [(aventurar]
+REFINE [(aventurar]
+REFINE [(aventurar]
+REFINE [aventurar]
+REFINE [aventurar]
+-----------END REFINE---------
+REFINE [root)]
+REFINE [root)]
+REFINE [root)]
+REFINE [root)]
+REFINE [root]
+-----------END REFINE---------
+REFINE [(por]
+REFINE [(por]
+REFINE [(por]
+REFINE [(por]
+REFINE [por]
+REFINE [por]
+-----------END REFINE---------
+REFINE [importação)]
+REFINE [importação)]
+REFINE [importação)]
+REFINE [importação)]
+REFINE [importação]
+-----------END REFINE---------
+REFINE [( a]
+REFINE [( a]
+REFINE [a]
+REFINE [a]
+REFINE [a]
+REFINE [a]
+-----------END REFINE---------
+REFINE [importação)]
+REFINE [importação)]
+REFINE [importação)]
+REFINE [importação)]
+REFINE [importação]
+-----------END REFINE---------
+REFINE [(importação]
+REFINE [(importação]
+REFINE [(importação]
+REFINE [(importação]
+REFINE [importação]
+REFINE [importação]
+-----------END REFINE---------
+REFINE [aventurar)]
+REFINE [aventurar)]
+REFINE [aventurar)]
+REFINE [aventurar)]
+REFINE [aventurar]
+-----------END REFINE---------
+REFINE [(direta]
+REFINE [(direta]
+REFINE [(direta]
+REFINE [(direta]
+REFINE [direta]
+REFINE [direta]
+-----------END REFINE---------
+REFINE [importação)]
+REFINE [importação)]
+REFINE [importação)]
+REFINE [importação)]
+REFINE [importação]
+-----------END REFINE---------
+REFINE [(existem]
+REFINE [(existem]
+REFINE [(existem]
+REFINE [(existem]
+REFINE [existem]
+REFINE [existem]
+-----------END REFINE---------
+REFINE [empresas)]
+REFINE [empresas)]
+REFINE [empresas)]
+REFINE [empresas)]
+REFINE [empresas]
+-----------END REFINE---------
+REFINE [(empresas]
+REFINE [(empresas]
+REFINE [(empresas]
+REFINE [(empresas]
+REFINE [empresas]
+REFINE [empresas]
+-----------END REFINE---------
+REFINE [importam)]
+REFINE [importam)]
+REFINE [importam)]
+REFINE [importam)]
+REFINE [importam]
+-----------END REFINE---------
+REFINE [(,]
+REFINE [(,]
+REFINE [(,]
+REFINE [(,]
+REFINE [,]
+REFINE [,]
+-----------END REFINE---------
+REFINE [empresas)]
+REFINE [empresas)]
+REFINE [empresas)]
+REFINE [empresas)]
+REFINE [empresas]
+-----------END REFINE---------
+REFINE [(como]
+REFINE [(como]
+REFINE [(como]
+REFINE [(coMESSAGE|:|Na sentença "O",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(hoje -> deverá)
+(o -> embaixador)
+(embaixador -> deverá)
+(norte-americano -> embaixador)
+(deverá -> root)
+(regressar -> deverá)
+(a -> pristina)
+(pristina -> regressar)
+(. -> deverá)Na sentença " ",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(o -> técnico)
+(técnico -> disse)
+(portista -> técnico)
+(disse -> root)
+(ainda -> disse)
+(que -> trabalhar)
+(costi-----------END REFINE---------
+REFINE [importam)]
+REFINE [importam)]
+REFINE [importam)]
+REFINE [importam)]
+REFINE [importam]
+-----------END REFINE---------
+REFINE [((]
+REFINE [((]
+REFINE [((]
+REFINE [((]
+REFINE [(]
+REFINE [(]
+-----------END REFINE---------
+REFINE [tel.)]
+REFINE [tel.)]
+REFINE [tel.)]
+REFINE [tel.)]
+REFINE [tel.]
+-----------END REFINE---------
+REFINE [(011/253-1588]
+REFINE [(011/253-1588]
+REFINE [(011/253-1588]
+REFINE [(011/253-1588]
+REFINE [011/253-1588]
+REFINE [011/253-1588]
+-----------END REFINE---------
+REFINE [tel.)]
+REFINE [tel.)]
+REFINE [tel.)]
+REFINE [tel.)]
+REFINE [tel.]
+-----------END REFINE---------
+REFINE [(tel.]
+REFINE [(tel.]
+REFINE [(tel.]
+REFINE [(tel.]
+REFINE [tel.]
+REFINE [tel.]
+-----------END REFINE---------
+REFINE [Brasoftware)]
+REFINE [Brasoftware)]
+REFINE [Brasoftware)]
+REFINE [Brasoftware)]
+REFINE [Brasoftware]
+-----------END REFINE---------
+REFINE [( )]
+REFINE [( )]
+REFINE [)]
+REFINE [)]
+REFINE [)]
+REFINE [)]
+-----------END REFINE---------
+REFINE [programas)]
+REFINE [programas)]
+REFINE [programas)]
+REFINE [programas)]
+REFINE [programas]
+-----------END REFINE---------
+REFINE [(programas]
+REFINE [(programas]
+REFINE [(programas]
+REFINE [(programas]
+REFINE [programas]
+REFINE [programas]
+-----------END REFINE---------
+REFINE [importam)]
+REFINE [importam)]
+REFINE [importam)]
+REFINE [importam)]
+REFINE [importam]
+-----------END REFINE---------
+REFINE [(sob]
+REFINE [(sob]
+REFINE [(sob]
+REFINE [(sob]
+REFINE [sob]
+REFINE [sob]
+-----------END REFINE---------
+REFINE [encomenda)]
+REFINE [encomenda)]
+REFINE [encomenda)]
+REFINE [encomenda)]
+REFINE [encomenda]
+-----------END REFINE---------
+REFINE [(encomenda]
+REFINE [(encomenda]
+REFINE [(encomenda]
+REFINE [(encomenda]
+REFINE [encomenda]
+REFINE [encomenda]
+-----------END REFINE---------
+REFINE [programas)]
+REFINE [programas)]
+REFINE [programas)]
+REFINE [programas)]
+REFINE [programas]
+-----------END REFINE---------
+REFINE [(.]
+REFINE [(.]
+REFINE [(.]
+REFINE [(.]
+REFINE [.]
+REFINE [.]
+-----------END REFINE---------
+REFINE [aventurar)]
+REFINE [aventurar)]
+REFINE [aventurar)]
+REFINE [aventurar)]
+REFINE [aventurar]
+-----------END REFINE---------
+chatGPT|:|quiser<@>aventurar<#>aventurar<@>root<#>por<@>importação<#>a<@>importação<#>importação<@>aventurar<#>direta<@>importação<#>existem<@>empresas<#>empresas<@>importam<#>,<@>empresas<#>como<@>Brasoftware<#>a<@>Brasoftware<#>Brasoftware<@>importam<#>(<@>tel.<#>011/253-1588<@>tel.<#>tel.<@>Brasoftware<#>)<@>programas<#>programas<@>importam<#>sob<@>encomenda<#>encomenda<@>programas<#>.<@>aventurar|:|UDA:0.577<#>DDA: 0.462
+GoldTree |:|Se<@>quiser<@>mark<#>não<@>quiser<@>advmod<#>quiser<@>existem<@>advcl<#>se<@>aventurar<@>expl<#>aventurar<@>quiser<@>xcomp<#>por<@>importação<@>case<#>a<@>importação<@>det<#>importação<@>aventurar<@>obl<#>direta<@>importação<@>amod<#>,<@>quiser<@>punct<#>existem<@>root<@>root<#>empresas<@>existem<@>nsubj<#>,<@>Brasoftware<@>punct<#>como<@>Brasoftware<@>case<#>a<@>Brasoftware<@>det<#>Brasoftware<@>empresas<@>nmod<#>(<@>tel.<@>punct<#>tel.<@>Brasoftware<@>appos<#>011/253-1588<@>tel.<@>nummod<#>)<@>tel.<@>punct<#>que<@>importam<@>nsubj<#>importam<@>empresas<@>acl<#>programas<@>importam<@>obj<#>sob<@>encomenda<@>case<#>encomenda<@>programas<@>nmod<#>.<@>existem<@>punct
+>--<
+Segundo Ricardo Jordão , gerente de marketing de a Brasoftware , o produto -- entregue em o máximo em 15 dias -- sai por um preço similar a a importação feita por o usuário .
+MESSAGE|:|Na sentença "O",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(jogo -> estádio)
+(em -> estádio)
+(o -> estádio)
+(estádio -> root)
+(de -> estádio)
+(as -> estádio)
+(antas -> estádio)
+(, -> horas)
+(a_ -> horas)
+(as -> horas)
+(16 -> horas)
+(horas -> estádio)
+(. -> estádio)Na sentença "s",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(os -> negócios)
+(negócios -> root)
+(escuros -> negócios)
+(de -> urânio)
+(o -> urânio)
+(urânio -> negócios)
+(português -> urânio)..
+Liste as relações de dependência sintática na sentença "Segundo Ricardo Jordão , gerente de marketing de a Brasoftware , o produto -- entregue em o máximo em 15 dias -- sai por um preço similar a a importação feita por o usuário .", usando o formato (token dependente -> token cabeça).
+REPLY|:|(segundo -> Jordão)
+(Jordão -> gerente)
+(de -> Jordão)
+(marketing -> Jordão)
+(do -> marketing)
+(a -> Brasoftware)
+(Brasoftware -> gerente)
+(o -> produto)
+(entregue -> produto)
+(máximo -> entregue)
+(em -> entregue)
+(dias -> entregue)
+(sai -> produto)
+(por -> sai)
+(preço -> sai)
+(similar -> preço)
+(a -> importação)
+(importação -> usuário)
+(feita -> importação)
+(por -> feita)
+(usuário -> preço)
+REFINE [(Jordão]
+REFINE [(Jordão]
+REFINE [(Jordão]
+REFINE [(Jordão]
+REFINE [Jordão]
+REFINE [Jordão]
+-----------END REFINE---------
+REFINE [gerente)]
+REFINE [gerente)]
+REFINE [gerente)]
+REFINE [gerente)]
+REFINE [gerente]
+-----------END REFINE---------
+REFINE [(de]
+REFINE [(de]
+REFINE [(de]
+REFINE [(de]
+REFINE [de]
+REFINE [de]
+-----------END REFINE---------
+REFINE [Jordão)]
+REFINE [Jordão)]
+REFINE [Jordão)]
+REFINE [Jordão)]
+REFINE [Jordão]
+-----------END REFINE---------
+REFINE [(marketing]
+REFINE [(marketing]
+REFINE [(marketing]
+REFINE [(marketing]
+REFINE [marketing]
+REFINE [marketing]
+-----------END REFINE---------
+REFINE [Jordão)]
+REFINE [Jordão)]
+REFINE [Jordão)]
+REFINE [Jordão)]
+REFINE [Jordão]
+-----------END REFINE---------
+REFINE [(do]
+REFINE [(do]
+REFINE [(do]
+REFINE [(do]
+REFINE [do]
+REFINE [do]
+-----------END REFINE---------
+REFINE [marketing)]
+REFINE [marketing)]
+REFINE [marketing)]
+REFINE [marketing)]
+REFINE [marketing]
+-----------END REFINE---------
+REFINE [(a]
+REFINE [(a]
+REFINE [(a]
+REFINE [(a]
+REFINE [a]
+REFINE [a]
+-----------END REFINE---------
+REFINE [Brasoftware)]
+REFINE [Brasoftware)]
+REFINE [Brasoftware)]
+REFINE [Brasoftware)]
+REFINE [Brasoftware]
+-----------END REFINE---------
+REFINE [(Brasoftware]
+REFINE [(Brasoftware]
+REFINE [(Brasoftware]
+REFINE [(Brasoftware]
+REFINE [Brasoftware]
+REFINE [Brasoftware]
+-----------END REFINE---------
+REFINE [gerente)]
+REFINE [gerente)]
+REFINE [gerente)]
+REFINE [gerente)]
+REFINE [gerente]
+-----------END REFINE---------
+REFINE [(o]
+REFINE [(o]
+REFINE [(o]
+REFINE [(o]
+REFINE [o]
+REFINE [o]
+-----------END REFINE---------
+REFINE [produto)]
+REFINE [produto)]
+REFINE [produto)]
+REFINE [produto)]
+REFINE [produto]
+-----------END REFINE---------
+REFINE [(entregue]
+REFINE [(entregue]
+REFINE [(entregue]
+REFINE [(entregue]
+REFINE [entregue]
+REFINE [entregue]
+-----------END REFINE---------
+REFINE [produto)]
+REFINE [produto)]
+REFINE [produto)]
+REFINE [produto)]
+REFINE [produto]
+-----------END REFINE---------
+REFINE [(máximo]
+REFINE [(máximo]
+REFINE [(máximo]
+REFINE [(máximo]
+REFINE [máximo]
+REFINE [máximo]
+-----------END REFINE---------
+REFINE [entregue)]
+REFINE [entregue)]
+REFINE [entregue)]
+REFINE [entregue)]
+REFINE [entregue]
+-----------END REFINE---------
+REFINE [(em]
+REFINE [(em]
+REFINE [(em]
+REFINE [(em]
+REFINE [em]
+REFINE [em]
+-----------END REFINE---------
+REFINE [entregue)]
+REFINE [entregue)]
+REFINE [entregue)]
+REFINE [entregue)]
+REFINE [entregue]
+-----------END REFINE---------
+REFINE [(dias]
+REFINE [(dias]
+REFINE [(dias]
+REFINE [(dias]
+REFINE [diasMESSAGE|:|Na sentença "P",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(fazemos -> root)
+(um -> número)
+(número -> fazemos)
+(de -> dança)
+(dança -> número)
+(. -> fazemos)Na sentença "r",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(procuravam -> root)
+(mulheres -> procuravam)
+(a_ -> volante)
+(o -> volante)
+(volante -> mulheres)
+(de -> carros)
+(bons -> carros)
+(carros -> volante)
+(. -> procuravam)..
+Liste as relações de dependência sintática na sentença "Segundo Ricardo Jordão , gerente de marketing de a Brasoftware , o produto -- entregue em o máximo em 15 dias -- sai por um preço similar a a importação feita por o usuário .", usando o formato (token dependente -> token cabeça).
+REPLY|:|(Segundo -> Jordão)
+(Jordão -> root)
+(, -> Jordão)
+(gerente -> Jordão)
+(de -> gerente)
+(marketing -> gerente)
+(a -> Brasoftware)
+(Brasoftware -> de)
+(, -> Jordão)
+(o -> produto)
+(produto -> Jordão)
+(entregue -> produto)
+(em -> entregue)
+(o -> máximo)
+(máximo -> entregue)
+(em -> máximo)
+(15 -> máximo)
+(dias -> em)
+(sai -> Jordão)
+(por -> sai)
+(um -> preço)
+(preço -> por)
+(similar -> preço)
+(a -> importação)
+(importação -> similar)
+(feita -> importação)
+(por -> feita)
+(o -> usuário)
+(usuario -> por)
+(. -> Jordão)
+REFINE [(Jordão]
+REFINE [(Jordão]
+REFINE [(Jordão]
+REFINE [(Jordão]
+REFINE [Jordão]
+REFINE [Jordão]
+-----------END REFINE---------
+REFINE [root)]
+REFINE [root)]
+REFINE [root)]
+REFINE [root)]
+REFINE [root]
+-----------END REFINE---------
+REFINE [(,]
+REFINE [(,]
+REFINE [(,]
+REFINE [(,]
+REFINE [,]
+REFINE [,]
+-----------END REFINE---------
+REFINE [Jordão)]
+REFINE [Jordão)]
+REFINE [Jordão)]
+REFINE [Jordão)]
+REFINE [Jordão]
+-----------END REFINE---------
+REFINE [(gerente]
+REFINE [(gerente]
+REFINE [(gerente]
+REFINE [(gerente]
+REFINE [gerente]
+REFINE [gerente]
+-----------END REFINE---------
+REFINE [Jordão)]
+REFINE [Jordão)]
+REFINE [Jordão)]
+REFINE [Jordão)]
+REFINE [Jordão]
+-----------END REFINE---------
+REFINE [(de]
+REFINE [(de]
+REFINE [(de]
+REFINE [(de]
+REFINE [de]
+REFINE [de]
+-----------END REFINE---------
+REFINE [gerente)]
+REFINE [gerente)]
+REFINE [gerente)]
+REFINE [gerente)]
+REFINE [gerente]
+-----------END REFINE---------
+REFINE [(marketing]
+REFINE [(marketing]
+REFINE [(marketing]
+REFINE [(marketing]
+REFINE [marketing]
+REFINE [marketing]
+-----------END REFINE---------
+REFINE [gerente)]
+REFINE [gerente)]
+REFINE [gerente)]
+REFINE [gerente)]
+REFINE [gerente]
+-----------END REFINE---------
+REFINE [(a]
+REFINE [(a]
+REFINE [(a]
+REFINE [(a]
+REFINE [a]
+REFINE [a]
+-----------END REFINE---------
+REFINE [Brasoftware)]
+REFINE [Brasoftware)]
+REFINE [Brasoftware)]
+REFINE [Brasoftware)]
+REFINE [Brasoftware]
+-----------END REFINE---------
+REFINE [(Brasoftware]
+REFINE [(Brasoftware]
+REFINE [(Brasoftware]
+REFINE [(Brasoftware]
+REFINE [Brasoftware]
+REFINE [Brasoftware]
+-----------END REFINE---------
+REFINE [de)]
+REFINE [de)]
+REFINE [de)]
+REFINE [de)]
+REFINE [de]
+-----------END REFINE---------
+REFINE [(,]
+REFINE [(,]
+REFINE [(,]
+REFINE [(,]
+REFINE [,]
+REFINE [,]
+-----------END REFINE---------
+REFINE [Jordão)]
+REFINE [Jordão)]
+REFINE [Jordão)]
+REFINE [Jordão)]
+REFINE [Jordão]
+-----------END REFINE---------
+REFINE [(o]
+REFINE [(o]
+REFINE [(o]
+REFINE [(o]
+REFINE [o]
+REFINE [o]
+-----------END REFINE---------
+REFINE [produto)]
+REFINE [produto)]
+REFINE [produto)]
+REFINE [produto)]
+REFINE [produto]
+-----------END REFINE---------
+REFINE [(produto]
+REFINE [(produto]
+REFINE [(produto]
+REFINE [(produto]
+REFINE [produto]
+REFINE [produto]
+-----------END REFINE---------
+REFINE [Jordão)]
+REFINE [Jordão)]
+REFINE [Jordão)]
+REFINE [Jordão)]
+REFINE [Jordão]
+-----------END REFINE---------
+REFINE [(entregue]
+REFINE [(entregue]
+REFINE [(entregue]
+REFINE [(entregue]
+REFINE [entregue]
+REFINE [entregue]
+-----------END REFINE---------
+REFINE [produto)]
+REFINE [produto)]
+REFINE [produto)]
+REFINE [produto)]
+REFINE [produto]
+-----------END REFINE---------
+REFINE [(em]
+REFINE [(em]
+REFINE [(em]
+REFINE [(em]
+REFINE [em]
+REFINE [em]
+-----------END REFINE---------
+REFINE [entregue)]
+REFINE [entregue)]
+REFINE [entregue)]
+REFINE [entregue)]
+REFINE [entregue]
+-----------END REFINE---------
+REFINE [(o]
+REFINE [(o]
+REFINE [(o]
+REFINE [(o]
+REFINE [o]
+REFINE [o]
+-----------END REFINE---------
+REFINE [máximo)]
+REFINE [máximo)]
+REFINE [máximo)]
+REFINE [máximo)]
+REFINE [máximo]
+-----------END REFINE---------
+REFINE [(máximo]
+REFINE [(máximo]
+REFINE [(máximo]
+REFINE [(máximo]
+REFINE [máximo]
+REFINE [máximo]
+-----------END REFINE---------
+REFINE [entregue)]
+REFINE [entregue)]
+REFINE [entregue)]
+REFINE [entregue)]
+REFINE [entregue]
+-----------END REFINE---------
+REFINE [(em]
+REFINE [(em]
+REFINE [(em]
+REFINE [(em]
+REFINE [em]
+REFINE [em]
+-----------END REFINE---------
+REFINE [máximo)]
+REFINE [máximo)]
+REFINE [máximo)]
+REFINE [máximo)]
+REFINE [máximo]
+-----------END REFINE---------
+REFINE [(15]
+REFINE [(15]
+REFINE [(15]
+REFINE [(15]
+REFINE [15]
+REFINE [15]
+-----------END REFINE---------
+REFINE [máximo)]
+REFINE [máximo)]
+REFINE [máximo)]
+REFINE [máximo)]
+REFINE [máximo]
+-----------END REFINE---------
+REFINE [(dias]
+REFINE [(dias]
+REFINE [(dias]
+REFINE [(dias]
+REFINE [dias]
+REFINE [dias]
+-----------END REFINE---------
+REFINE [em)]
+REFINE [em)]
+REFINE [em)]
+REFINE [em)]
+REFINE [em]
+-----------END REFINE---------
+REFINE [(sai]
+REFINE [(sai]
+REFINE [(sai]
+REFINE [(sai]
+REFINE [sai]
+REFINE [sai]
+-----------END REFINE---------
+REFINE [Jordão)]
+REFINE [Jordão)]
+REFINE [Jordão)]
+REFINE [Jordão)]
+REFINE [Jordão]
+-----------END REFINE---------
+REFINE [(por]
+REFINE [(por]
+REFINE [(por]
+REFINE [(por]
+REFINE [por]
+REFINE [por]
+-----------END REFINE---------
+REFINE [sai)]
+REFINE [sai)]
+REFINE [sai)]
+REFINE [sai)]
+REFINE [sai]
+-----------END REFINE---------
+REFINE [(um]
+REFINE [(um]
+REFINE [(um]
+REFINE [(um]
+REFINE [um]
+REFINE [um]
+-----------END REFINE---------
+REFINE [preço)]
+REFINE [preço)]
+REFINE [preço)]
+REFINE [preço)]
+REFINE [preço]
+-----------END REFINE---------
+REFINE [(preço]
+REFINE [(preço]
+REFINE [(preço]
+REFINE [(preço]
+REFINE [preço]
+REFINE [preço]
+-----------END REFINE---------
+REFINE [por)]
+REFINE [por)]
+REFINE [por)]
+REFINE [por)]
+REFINE [por]
+-----------END REFINE---------
+REFINE [(similar]
+REFINE [(similar]
+REFINE [(similar]
+REFINE [(similar]
+REFINE [similar]
+REFINE [similar]
+-----------END REFINE---------
+REFINE [preço)]
+REFINE [preço)]
+REFINE [preço)]
+REFINE [preço)]
+REFINE [preço]
+-----------END REFINE---------
+REFINE [(a]
+REFINE [(a]
+REFINE [(a]
+REFINE [(a]
+REFINE [a]
+REFINE [a]
+-----------END REFINE---------
+REFINE [importação)]
+REFINE [importação)]
+REFINE [importação)]
+REFINE [importação)]
+REFINE [importação]
+-----------END REFINE---------
+REFINE [(importação]
+REFINE [(importação]
+REFINE [(importação]
+REFINE [(importação]
+REFINE [importação]
+REFINE [importação]
+-----------END REFINE---------
+REFINE [similar)]
+REFINE [similar)]
+REFINE [similar)]
+REFINE [similar)]
+REFINE [similar]
+-----------END REFINE---------
+REFINE [(feita]
+REFINE [(feita]
+REFINE [(feita]
+REFINE [(feita]
+REFINE [feita]
+REFINE [feita]
+-----------END REFINE---------
+REFINE [importação)]
+REFINE [importação)]
+REFINE [importação)]
+REFINE [importação)]
+REFINE [importação]
+-----------END REFINE---------
+REFINE [(por]
+REFINE [(por]
+REFINE [(por]
+REFINE [(por]
+REFINE [por]
+REFINE [por]
+-----------END REFINE---------
+REFINE [feita)]
+REFINE [feita)]
+REFINE [feita)]
+REFINE [feita)]
+REFINE [feita]
+-----------END REFINE---------
+REFINE [(o]
+REFINE [(o]
+REFINE [(o]
+REFINE [(o]
+REFINE [o]
+REFINE [o]
+-----------END REFINE---------
+REFINE [usuário)]
+REFINE [usuário)]
+REFINE [usuário)]
+REFINE [usuário)]
+REFINE [usuário]
+-----------END REFINE---------
+REFINE [(usuario]
+REFINE [(usuario]
+REFINE [(usuario]
+REFINE [(usuario]
+REFINE [usuario]
+REFINE [usuario]
+-----------END REFINE---------
+REFINE [por)]
+REFINE [por)]
+REFINE [por)]
+REFINE [por)]
+REFINE [por]
+-----------END REFINE---------
+REFINE [(.]
+REFINE [(.]
+REFINE [(.]
+REFINE [(.]
+REFINE [.]
+REFINE [.]
+-----------END REFINE---------
+REFINE [Jordão)]
+REFINE [Jordão)]
+REFINE [Jordão)]
+REFINE [Jordão)]
+REFINE [Jordão]
+-----------END REFINE---------
+chatGPT|:|Jordão<@>root<#>,<@>Jordão<#>gerente<@>Jordão<#>de<@>gerente<#>marketing<@>gerente<#>a<@>Brasoftware<#>Brasoftware<@>de<#>,<@>Jordão<#>o<@>produto<#>produto<@>Jordão<#>entregue<@>produto<#>em<@>entregue<#>o<@>máximo<#>máximo<@>entregue<#>em<@>máximo<#>15<@>máximo<#>dias<@>em<#>sai<@>Jordão<#>por<@>sai<#>um<@>preço<#>preço<@>por<#>similar<@>preço<#>a<@>importação<#>importação<@>similar<#>feita<@>importação<#>por<@>feita<#>o<@>usuário<#>usuario<@>por<#>.<@>Jordão|:|UDA:0.457<#>DDA: 0.371
+GoldTree |:|Segundo<@>Ricardo<@>case<#>Ricardo<@>sai<@>obl<#>Jordão<@>Ricardo<@>flat<#>,<@>Ricardo<@>punct<#>gerente<@>Ricardo<@>appos<#>de<@>marketing<@ARRIET CHANIN -- A artista mostra 15 monotipias trabalhadas em papel artesanal de folha de bananeira e 12 gravuras em metal , que são instrumentos musicais e conchas .
+MESSAGE|:|Na sentença "2",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(a -> cleópatra)
+(cleópatra -> root)
+(! -> cleópatra)
+(... -> cleópatra)Na sentença " ",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(2 -> contexto)
+(contexto -> root)
+(geológico -> contexto)
+(regional -> contexto)..
+Liste as relações de dependência sintática na sentença "ARRIET CHANIN -- A artista mostra 15 monotipias trabalhadas em papel artesanal de folha de bananeira e 12 gravuras em metal , que são instrumentos musicais e conchas .", usando o formato (token dependente -> token cabeça).
+REPLY|:|As relações de dependência sintática na sentença "ARRIET CHANIN -- A artista mostra 15 monotipias trabalhadas em papel artesanal de folha de bananeira e 12 gravuras em metal , que são instrumentos musicais e conchas ." são as seguintes:
+
+(ARRIET -> CHANIN)
+(CHANIN -> root)
+(-- -> CHANIN)
+(A -> artista)
+(artista -> CHANIN)
+(mostra -> artista)
+(15 -> monotipias)
+(monotipias -> mostra)
+(trabalhadas -> monotipias)
+(em -> trabalhadas)
+(papel -> artesanal)
+(artesanal -> papel)
+(de -> papel)
+(folha -> bananeira)
+(bananeira -> folha)
+(e -> 15)
+(gravuras -> metal)
+(em -> gravuras)
+(metal -> gravuras)
+(, -> gravuras)
+(que -> gravuras)
+(, -> gravuras)
+(são -> instrumentos)
+(instrumentos -> gravuras)
+(musicais -> instrumentos)
+(e -> instrumentos)
+(conchas -> instrumentos)
+REFINE [(ARRIET]
+REFINE [(ARRIET]
+REFINE [(ARRIET]
+REFINE [(ARRIET]
+REFINE [ARRIET]
+REFINE [ARRIET]
+-----------END REFINE---------
+REFINE [CHANIN)]
+REFINE [CHANIN)]
+REFINE [CHANIN)]
+REFINE [CHANIN)]
+REFINE [CHANIN]
+-----------END REFINE---------
+REFINE [(CHANIN]
+REFINE [(CHANIN]
+REFINE [(CHANIN]
+REFINE [(CHANIN]
+REFINE [CHANIN]
+REFINE [CHANIN]
+-----------END REFINE---------
+REFINE [root)]
+REFINE [root)]
+REFINE [root)]
+REFINE [root)]
+REFINE [root]
+-----------END REFINE---------
+REFINE [(--]
+REFINE [(--]
+REFINE [(--]
+REFINE [(--]
+REFINE [--]
+REFINE [--]
+-----------END REFINE---------
+REFINE [CHANIN)]
+REFINE [CHANIN)]
+REFINE [CHANIN)]
+REFINE [CHANIN)]
+REFINE [CHANIN]
+-----------END REFINE---------
+REFINE [(A]
+REFINE [(A]
+REFINE [(A]
+REFINE [(A]
+REFINE [A]
+REFINE [A]
+-----------END REFINE---------
+REFINE [artista)]
+REFINE [artista)]
+REFINE [artista)]
+REFINE [artista)]
+REFINE [artista]
+-----------END REFINE---------
+REFINE [(artista]
+REFINE [(artista]
+REFINE [(artista]
+REFINE [(artista]
+REFINE [artista]
+REFINE [artista]
+-----------END REFINE---------
+REFINE [CHANIN)]
+REFINE [CHANIN)]
+REFINE [CHANIN)]
+REFINE [CHANIN)]
+REFINE [CHANIN]
+-----------END REFINE---------
+REFINE [(mostra]
+REFINE [(mostra]
+REFINE [(mostra]
+REFINE [(mostra]
+REFINE [mostra]
+REFINE [mostra]
+-----------END REFINE---------
+REFINE [artista)]
+REFINE [artista)]
+REFINE [artista)]
+REFINE [artista)]
+REFINE [artista]
+-----------END REFINE---------
+REFINE [(15]
+REFINE [(15]
+REFINE [(15]
+REFINE [(15]
+REFINE [15]
+REFINE [15]
+-----------END REFINE---------
+REFINE [monotipias)]
+REFINE [monotipias)]
+REFINE [monotipias)]
+REFINE [monotipias)]
+REFINE [monotipias]
+-----------END REFINE---------
+REFINE [(monotipias]
+REFINE [(monotipias]
+REFINE [(monotipias]
+REFINE [(monotipias]
+REFINE [monotipias]
+REFINE [monotipias]
+-----------END REFINE---------
+REFINE [mostra)]
+REFINE [mostra)]
+REFINE [mostra)]
+REFINE [mostra)]
+REFINE [mostra]
+-----------END REFINE---------
+REFINE [(trabalhadas]
+REFINE [(trabalhadas]
+REFINE [(trabalhadas]
+REFINE [(trabalhadas]
+REFINE [trabalhadas]
+REFINE [trabalhadas]
+-----------END REFINE---------
+REFINE [monotipias)]
+REFINE [monotipias)]
+REFINE [monotipias)]
+REFINE [monotipias)]
+REFINE [monotipias]
+-----------END REFINE---------
+REFINE [(em]
+REFINE [(em]
+REFINE [(em]
+REFINE [(em]
+REFINE [em]
+REFINE [em]
+-----------END REFINE---------
+REFINE [trabalhadas)]
+REFINE [trabalhadas)]
+REFINE [trabalhadas)]
+REFINE [trabalhadas)]
+REFINE [trabalhadas]
+-----------END REFINE---------
+REFINE [(papel]
+REFINE [(papel]
+REFINE [(papel]
+REFINE [(papel]
+REFINE [papel]
+REFINE [papel]
+-----------END REFINE---------
+REFINE [artesanal)]
+REFINE [artesanal)]
+REFINE [artesanal)]
+REFINE [artesanal)]
+REFINE [artesanal]
+-----------END REFINE---------
+REFINE [(artesanal]
+REFINE [(artesanal]
+REFINE [(artesanal]
+REFINE [(artesanal]
+REFINE [artesanal]
+REFINE [artesanal]
+-----------END REFINE---------
+REFINE [papel)]
+REFINE [papel)]
+REFINE [papel)]
+REFINE [papel)]
+REFINE [papel]
+-----------END REFINE---------
+REFINE [(de]
+REFINE [(de]
+REFINE [(de]
+REFINE [(de]
+REFINE [de]
+REFINE [de]
+-----------END REFINE---------
+REFINE [papel)]
+REFINE [papel)]
+REFINE [papel)]
+REFINE [papel)]
+REFINE [papel]
+-----------END REFINE---------
+REFINE [(folha]
+REFINE [(folha]
+REFINE [(folha]
+REFINE [(folha]
+REFINE [folha]
+REFINE [folha]
+-----------END REFINE---------
+REFINE [bananeira)]
+REFINE [bananeira)]
+REFINE [bananeira)]
+REFINE [bananeira)]
+REFINE [bananeira]
+-----------END REFINE---------
+REFINE [(bananeira]
+REFINE [(bananeira]
+REFINE [(bananeira]
+REFINE [(bananeira]
+REFINE [bananeira]
+REFINE [bananeira]
+-----------END REFINE---------
+REFINE [folha)]
+REFINE [folha)]
+REFINE [folha)]
+REFINE [folha)]
+REFINE [folha]
+-----------END REFINE---------
+REFINE [(e]
+REFINE [(e]
+REFINE [(e]
+REFINE [(e]
+REFINE [e]
+REFINE [e]
+-----------END REFINE---------
+REFINE [15)]
+REFINE [15)]
+REFINE [15)]
+REFINE [15)]
+REFINE [15]
+-----------END REFINE---------
+REFINE [(gravuras]
+REFINE [(gravuras]
+REFINE [(gravuras]
+REFINE [(gravuras]
+REFINE [gravuras]
+REFINE [gravuras]
+-----------END REFINE---------
+REFINE [metal)]
+REFINE [metal)]
+REFINE [metal)]
+REFINE [metal)]
+REFINE [metal]
+-----------END REFINE---------
+REFINE [(em]
+REFINE [(em]
+REFINE [(em]
+REFINE [(em]
+REFINE [em]
+REFINE [em]
+-----------END REFINE---------
+REFINE [gravuras)]
+REFINE [gravuras)]
+REFINE [gravuras)]
+REFINE [gravuras)]
+REFINE [gravuras]
+-----------END REFINE---------
+REFINE [(metal]
+REFINE [(metal]
+REFINE [(metal]
+REFINE [(metal]
+REFINE [metal]
+REFINE [metal]
+-----------END REFINE---------
+REFINE [gravuras)]
+REFINE [gravuras)]
+REFINE [gravuras)]
+REFINE [gravuras)]
+REFINE [gravuras]
+-----------END REFINE---------
+REFINE [(,]
+REFINE [(,]
+REFINE [(,]
+REFINE [(,]
+REFINE [,]
+REFINE [,]
+-----------END REFINE---------
+REFINE [gravuras)]
+REFINE [gravuras)]
+REFINE [gravuras)]
+REFINE [gravuras)]
+REFINE [gravuras]
+-----------END REFINE---------
+REFINE [(que]
+REFINE [(que]
+REFINE [(que]
+REFINE [(que]
+REFINE [que]
+REFINE [que]
+-----------END REFINE---------
+REFINE [gravuras)]
+REFINE [gravuras)]
+REFINE [gravuras)]
+REFINE [gravuras)]
+REFINE [gravuras]
+-----------END REFINE---------
+REFINE [(,]
+REFINE [(,]
+REFINE [(,]
+REFINE [(,]
+REFINE [,]
+REFINE [,]
+-----------END REFINE---------
+REFINE [gravuras)]
+REFINE [gravuras)]
+REFINE [gravuras)]
+REFINE [gravuras)]
+REFINE [gravuras]
+-----------END REFINE--MESSAGE|:|Na sentença "A",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(' -> vale)
+(vale -> manoel)
+(abraão -> vale)
+(' -> vale)
+(, -> vale)
+(de -> manoel)
+(manoel -> root)
+(de -> manoel)
+(oliveira -> manoel)
+(. -> manoel)Na sentença " ",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(a -> realidade)
+(realidade -> diferente)
+(portuguesa -> realidade)
+(é -> diferente)
+(bem -> diferente)
+(diferente -> root)
+(. -> diferente)..
+Liste as relações de dependência sintática na sentença "ARRIET CHANIN -- A artista mostra 15 monotipias trabalhadas em papel artesanal de folha de bananeira e 12 gravuras em metal , que são instrumentos musicais e conchas .", usando o formato (token dependente -> token cabeça).
+REPLY|:|As relações de dependência sintática na sentença "ARRIET CHANIN -- A artista mostra 15 monotipias trabalhadas em papel artesanal de folha de bananeira e 12 gravuras em metal , que são instrumentos musicais e conchas ." são as seguintes:
+
+- (ARRIET -> CHANIN)
+- (CHANIN -> --)
+- (ARTISTA -> mostra)
+- (A -> ARTISTA)
+- (MONOTIPIAS -> mostra)
+- (15 -> MONOTIPIAS)
+- (TRABALHADAS -> MONOTIPIAS)
+- (EM -> TRABALHADAS)
+- (PAPEL -> TRABALHADAS)
+- (ARTESANAL -> PAPEL)
+- (DE -> PAPEL)
+- (FOLHA -> BANANEIRA)
+- (DE -> BANANEIRA)
+- (BANANEIRA -> PAPEL)
+- (E -> GRAVURAS)
+- (12 -> GRAVURAS)
+- (EM -> GRAVURAS)
+- (METAL -> GRAVURAS)
+- (QUE -> SÃO)
+- (SÃO -> GRAVURAS)
+- (INSTRUMENTOS -> SÃO)
+- (MUSICAS -> INSTRUMENTOS)
+- (E -> CONCHAS)
+- (CONCHAS -> INSTRUMENTOS)
+- (. -> MOSTRA)
+REFINE [- (ARRIET]
+REFINE [- (ARRIET]
+REFINE [(ARRIET]
+REFINE [(ARRIET]
+REFINE [ARRIET]
+REFINE [ARRIET]
+-----------END REFINE---------
+REFINE [CHANIN)]
+REFINE [CHANIN)]
+REFINE [CHANIN)]
+REFINE [CHANIN)]
+REFINE [CHANIN]
+-----------END REFINE---------
+REFINE [- (CHANIN]
+REFINE [- (CHANIN]
+REFINE [(CHANIN]
+REFINE [(CHANIN]
+REFINE [CHANIN]
+REFINE [CHANIN]
+-----------END REFINE---------
+REFINE [--)]
+REFINE [--)]
+REFINE [--)]
+REFINE [--)]
+REFINE [--]
+-----------END REFINE---------
+REFINE [- (ARTISTA]
+REFINE [- (ARTISTA]
+REFINE [(ARTISTA]
+REFINE [(ARTISTA]
+REFINE [ARTISTA]
+REFINE [ARTISTA]
+-----------END REFINE---------
+REFINE [mostra)]
+REFINE [mostra)]
+REFINE [mostra)]
+REFINE [mostra)]
+REFINE [mostra]
+-----------END REFINE---------
+REFINE [- (A]
+REFINE [- (A]
+REFINE [(A]
+REFINE [(A]
+REFINE [A]
+REFINE [A]
+-----------END REFINE---------
+REFINE [ARTISTA)]
+REFINE [ARTISTA)]
+REFINE [ARTISTA)]
+REFINE [ARTISTA)]
+REFINE [ARTISTA]
+-----------END REFINE---------
+REFINE [- (MONOTIPIAS]
+REFINE [- (MONOTIPIAS]
+REFINE [(MONOTIPIAS]
+REFINE [(MONOTIPIAS]
+REFINE [MONOTIPIAS]
+REFINE [MONOTIPIAS]
+-----------END REFINE---------
+REFINE [mostra)]
+REFINE [mostra)]
+REFINE [mostra)]
+REFINE [mostra)]
+REFINE [mostra]
+-----------END REFINE---------
+REFINE [- (15]
+REFINE [- (15]
+REFINE [(15]
+REFINE [(15]
+REFINE [15]
+REFINE [15]
+-----------END REFINE---------
+REFINE [MONOTIPIAS)]
+REFINE [MONOTIPIAS)]
+REFINE [MONOTIPIAS)]
+REFINE [MONOTIPIAS)]
+REFINE [MONOTIPIAS]
+-----------END REFINE---------
+REFINE [- (TRABALHADAS]
+REFINE [- (TRABALHADAS]
+REFINE [(TRABALHADAS]
+REFINE [(TRABALHADAS]
+REFINE [TRABALHADAS]
+REFINE [TRABALHADAS]
+-----------END REFINE---------
+REFINE [MONOTIPIAS)]
+REFINE [MONOTIPIAS)]
+REFINE [MONOTIPIAS)]
+REFINE [MONOTIPIAS)]
+REFINE [MONOTIPIAS]
+-----------END REFINE---------
+REFINE [- (EM]
+REFINE [- (EM]
+REFINE [(EM]
+REFINE [(EM]
+REFINE [EM]
+REFINE [EM]
+-----------END REFINE---------
+REFINE [TRABALHADAS)]
+REFINE [TRABALHADAS)]
+REFINE [TRABALHADAS)]
+REFINE [TRABALHADAS)]
+REFINE [TRABALHADAS]
+-----------END REFINE---------
+REFINE [- (PAPEL]
+REFINE [- (PAPEL]
+REFINE [(PAPEL]
+REFINE [(PAPEL]
+REFINE [PAPEL]
+REFINE [PAPEL]
+-----------END REFINE---------
+REFINE [TRABALHADAS)]
+REFINE [TRABALHADAS)]
+REFINE [TRABALHADAS)]
+REFINE [TRABALHADAS)]
+REFINE [TRABALHADAS]
+-----------END REFINE---------
+REFINE [- (ARTESANAL]
+REFINE [- (ARTESANAL]
+REFINE [(ARTESANAL]
+REFINE [(ARTESANAL]
+REFINE [ARTESANAL]
+REFINE [ARTESANAL]
+-----------END REFINE---------
+REFINE [PAPEL)]
+REFINE [PAPEL)]
+REFINE [PAPEL)]
+REFINE [PAPEL)]
+REFINE [PAPEL]
+-----------END REFINE---------
+REFINE [- (DE]
+REFINE [- (DE]
+REFINE [(DE]
+REFINE [(DE]
+REFINE [DE]
+REFINE [DE]
+-----------END REFINE---------
+REFINE [PAPEL)]
+REFINE [PAPEL)]
+REFINE [PAPEL)]
+REFINE [PAPEL)]
+REFINE [PAPEL]
+-----------END REFINE---------
+REFINE [- (FOLHA]
+REFINE [- (FOLHA]
+REFINE [(FOLHA]
+REFINE [(FOLHA]
+REFINE [FOLHA]
+REFINE [FOLHA]
+-----------END REFINE---------
+REFINE [BANANEIRA)]
+REFINE [BANANEIRA)]
+REFINE [BANANEIRA)]
+REFINE [BANANEIRA)]
+REFINE [BANANEIRA]
+-----------END REFINE---------
+REFINE [- (DE]
+REFINE [- (DE]
+REFINE [(DE]
+REFINE [(DE]
+REFINE [DE]
+REFINE [DE]
+-----------END REFINE---------
+REFINE [BANANEIRA)]
+REFINE [BANANEIRA)]
+REFINE [BANANEIRA)]
+REFINE [BANANEIRA)]
+REFINE [BANANEIRA]
+-----------END REFINE---------
+REFINE [- (BANANEIRA]
+REFINE [- (BANANEIRA]
+REFINE [(BANANEIRA]
+REFINE [(BANANEIRA]
+REFINE [BANANEIRA]
+REFINE [BANANEIRA]
+-----------END REFINE---------
+REFINE [PAPEL)]
+REFINE [PAPEL)]
+REFINE [PAPEL)]
+REFINE [PAPEL)]
+REFINE [PAPEL]
+-----------END REFINE---------
+REFINE [- (E]
+REFINE [- (E]
+REFINE [(E]
+REFINE [(E]
+REFINE [E]
+REFINE [E]
+-----------END REFINE---------
+REFINE [GRAVURAS)]
+REFINE [GRAVURAS)]
+REFINE [GRAVURAS)]
+REFINE [GRAVURAS)]
+REFINE [GRAVURAS]
+-----------END REFINE---------
+REFINE [- (12]
+REFINE [- (12]
+REFINE [(12]
+REFINE [(12]
+REFINE [12]
+REFINE [12]
+-----------END REFINE---------
+REFINE [GRAVURAS)]
+REFINE [GRAVURAS)]
+REFINE [GRAVURAS)]
+REFINE [GRAVURAS)]
+REFINE [GRAVURAS]
+-----------END REFINE---------
+REFINE [- (EM]
+REFINE [- (EM]
+REFINE [(EM]
+REFINE [(EM]
+REFINE [EM]
+REFINE [EM]
+-----------END REFINE---------
+REFINE [GRAVURAS)]
+REFINE [GRAVURAS)]
+REFINE [GRAVURAS)]
+REFINE [GRAVURAS)]
+REFINE [GRAVURAS]
+-----------END REFINE---------
+REFINE [- (METAL]
+REFINE [- (METAL]
+REFINE [(METAL]
+REFINE [(METAL]
+REFINE [METAL]
+REFINE [METAL]
+-----------END REFINE---------
+REFINE [GRAVURAS)]
+REFINE [GRAVURAS)]
+REFINE [GRAVURAS)]
+REFINE [GRAVURAS)]
+REFINE [GRAVURAS]
+-----------END REFINE---------
+REFINE [- (QUE]
+REFINE [- (QUE]
+REFINE [(QUE]
+REFINE [(QUE]
+REFINE [QUE]
+REFINE [QUE]
+-----------END REFINE---------
+REFINE [SÃO)]
+REFINE [SÃO)]
+REFINE [SÃO)]
+REFINE [SÃO)]
+REFINE [SÃO]
+-----------END REFINE---------
+REFINE [- (SÃO]
+REFINE [- (SÃO]
+REFINE [(SÃO]
+REFINE [(SÃO]
+REFINE [SÃO]
+REFINE [SÃO]
+-----------END REFINE---------
+REFINE [GRAVURAS)]
+REFINE [GRAVURAS)]
+REFINE [GRAVURAS)]
+REFINE [GRAVURAS)]
+REFINE [GRAVURAS]
+-----------END REFINE---------
+REFINE [- (INSTRUMENTOS]
+REFINE [- (INSTRUMENTOS]
+REFINE [(INSTRUMENTOS]
+REFINE [(INSTRUMENTOS]
+REFINE [INSTRUMENTOS]
+REFINE [INSTRUMENTOS]
+-----------END REFINE---------
+REFINE [SÃO)]
+REFINE [SÃO)]
+REFINE [SÃO)]
+REFINE [SÃO)]
+REFINE [SÃO]
+-----------END REFINE---------
+REFINE [- (MUSICAS]
+REFINE [- (MUSICAS]
+REFINE [(MUSICAS]
+REFINE [(MUSICAS]
+REFINE [MUSICAS]
+REFINE [MUSICAS]
+-----------END REFINE---------
+REFINE [INSTRUMENTOS)]
+REFINE [INSTRUMENTOS)]
+REFINE [INSTRUMENTOS)]
+REFINE [INSTRUMENTOS)]
+REFINE [INSTRUMENTOS]
+-----------END REFINE---------
+REFINE [- (E]
+REFINE [- (E]
+REFINE [(E]
+REFINE [(E]
+REFINE [E]
+REFINE [E]
+-----------END REFINE---------
+REFINE [CONCHAS)]
+REFINE [CONCHAS)]
+REFINE [CONCHAS)]
+REFINE [CONCHAS)]
+REFINE [CONCHAS]
+-----------END REFINE---------
+REFINE [- (CONCHAS]
+REFINE [- (CONCHAS]
+REFINE [(CONCHAS]
+REFINE [(CONCHAS]
+REFINE [CONCHAS]
+REFINE [CONCHAS]
+-----------END REFINE---------
+REFINE [INSTRUMENTOS)]
+REFINE [INSTRUMENTOS)]
+REFINE [INSTRUMENTOS)]
+REFINE [INSTRUMENTOS)]
+REFINE [INSTRUMENTOS]
+-----------END REFINE---------
+REFINE [- (.]
+REFINE [- (.]
+REFINE [(.]
+REFINE [(.]
+REFINE [.]
+REFINE [.]
+-----------END REFINE---------
+REFINE [MOSTRA)]
+REFINE [MOSTRA)]
+REFINE [MOSTRA)]
+REFINE [MOSTRA)]
+REFINE [MOSTRA]
+-----------END REFINE---------
+chatGPT|:|<@><#>ARRIET<@>CHANIN<#>CHANIN<@>--<#>ARTISTA<@>mostra<#>A<@>ARTISTA<#>MONOTIPIAS<@>mostra<#>15<@>MONOTIPIAS<#>TRABALHADAS<@>MONOTIPIAS<#>EM<@>TRABALHADAS<#>PAPEL<@>TRABALHADAS<#>ARTESANAL<@>PAPEL<#>DE<@>PAPEL<#>FOLHA<@>BANANEIRA<#>DE<@>BANANEIRA<#>BANANEIRA<@>PAPEL<#>E<@>GRAVURAS<#>12<@>GRAVURAS<#>EM<@>GRAVURAS<#>METAL<@>GRAVURAS<#>QUE<@>SÃO<#>SÃO<@>GRAVURAS<#>INSTRUMENTOS<@>SÃO<#>MUSICAS<@>INSTRUMENTOS<#>E<@>CONCHAS<#>CONCHAS<@>INSTRUMENTOS<#>.<@>MOSTRA|:|UDA:0.552<#>DDA: 0.448
+GoldTree |:|ARRIET<@>root<@>root<#>CHANIN<@>ARRIET<@>flat<#>--<@>ARRIET<@>punct<#>A<@>artista<@>det<#>artista<@>mostra<@>nsubj<#>mostra<@>ARRIET<@>parataxis<#>15<@>monotipias<@>nummod<#>monotipias<@>mostra<@>obj<#>trabalhadas<@>monotipias<@>acl<#>em<@>papel<@>case<#>papel<@>trabalhadas<@>obl<#>artesanal<@>papel<@>amod<#>de<@>folha<@>case<#>folha<@>papel<@>nmod<#>de<@>bananeira<@>case<#>bananeira<@>folha<@>nmod<#>e<@>gravuras<@>cc<#>12<@>gravuras<@>nummod<#>gravuras<@>monotipias<@>conj<#>em<@>metal<@>case<#>metal<@>gravuras<@>nmod<#>,<@>instrumentos<@>punct<#>que<@>instrumentos<@>nsubj<#>são<@>instrumentos<@>cop<#>instrumentos<@>gravuras<@>acl<#>musicais<@>instrumentos<@>amod<#>e<@>conchas<@>cc<#>conchas<@>instrumentos<@>conj<#>.<@>ARRIET<@>punct
+>--<
+De seg a sex de as 11h a as 19h e sáb de as 10h a as 13h .
+MESSAGE|:|Na sentença "A",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(um -> escritor)
+(grande -> escritor)
+(escritor -> root)
+(em -> jornalismo)
+(o -> jornalismo)
+(jornalismo -> escritor)
+(português -> jornalismo)Na sentença " ",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(a -> certidão)
+(certidão -> root)
+(de -> nascimento)
+(nascimento -> certidão)
+(de -> posat)
+(o -> posat)
+(posat -> certidão)..
+Liste as relações de dependência sintática na sentença "De seg a sex de as 11h a as 19h e sáb de as 10h a as 13h .", usando o formato (token dependente -> token cabeça).
+REPLY|:|(seg -> De)
+(a -> De)
+(-> -> seg)
+(a -> seg)
+(11h -> a)
+(as -> a)
+(19h -> a)
+(e -> a)
+(sáb -> e)
+(-> -> sáb)
+(a -> sáb)
+(10h -> a)
+(as -> a)
+(13h -> a)
+(. -> a)
+REFINE [(a]
+REFINE [(a]
+REFINE [(a]
+REFINE [(a]
+REFINE [a]
+REFINE [a]
+-----------END REFINE---------
+REFINE [De)]
+REFINE [De)]
+REFINE [De)]
+REFINE [De)]
+REFINE [De]
+-----------END REFINE---------
+REFINE [(a]
+REFINE [(a]
+REFINE [(a]
+REFINE [(a]
+REFINE [a]
+REFINE [a]
+-----------END REFINE---------
+REFINE [seg)]
+REFINE [seg)]
+REFINE [seg)]
+REFINE [seg)]
+REFINE [seg]
+-----------END REFINE---------
+REFINE [(11h]
+REFINE [(11h]
+REFINE [(11h]
+REFINE [(11h]
+REFINE [11h]
+REFINE [11h]
+-----------END REFINE---------
+REFINE [a)]
+REFINE [a)]
+REFINE [a)]
+REFINE [a)]
+REFINE [a]
+-----------END REFINE---------
+REFINE [(as]
+REFINE [(as]
+REFINE [(as]
+REFINE [(as]
+REFINE [as]
+REFINE [as]
+-----------END REFINE---------
+REFINE [a)]
+REFINE [a)]
+REFINE [a)]
+REFINE [a)]
+REFINE [a]
+-----------END REFINE---------
+REFINE [(19h]
+REFINE [(19h]
+REFINE [(19h]
+REFINE [(19h]
+REFINE [19h]
+REFINE [19h]
+-----------END REFINE---------
+REFINE [a)]
+REFINE [a)]
+REFINE [a)]
+REFINE [a)]
+REFINE [a]
+-----------END REFINE---------
+REFINE [(e]
+REFINE [(e]
+REFINE [(e]
+REFINE [(e]
+REFINE [e]
+REFINE [e]
+-----------END REFINE---------
+REFINE [a)]
+REFINE [a)]
+REFINE [a)]
+REFINE [a)]
+REFINE [a]
+-----------END REFINE---------
+REFINE [(sáb]
+REFINE [(sáb]
+REFINE [(sáb]
+REFINE [(sáb]
+REFINE [sáb]
+REFINE [sáb]
+-----------END REFINE---------
+REFINE [e)]
+REFINE [e)]
+REFINE [e)]
+REFINE [e)]
+REFINE [e]
+-----------END REFINE---------
+REFINE [(a]
+REFINE [(a]
+REFINE [(a]
+REFINE [(a]
+REFINE [a]
+REFINE [a]
+-----------END REFINE---------
+REFINE [sáb)]
+REFINE [sáb)]
+REFINE [sáb)]
+REFINE [sáb)]
+REFINE [sáb]
+-----------END REFINE---------
+REFINE [(10h]
+REFINE [(10h]
+REFINE [(10h]
+REFINE [(10h]
+REFINE [10h]
+REFINE [10h]
+-----------END REFINE---------
+REFINE [a)]
+REFINE [a)]
+REFINE [a)]
+REFINE [a)]
+REFINE [a]
+-----------END REFINE---------
+REFINE [(as]
+REFINE [(as]
+REFINE [(as]
+REFINE [(as]
+REFINE [as]
+REFINE [as]
+-----------END REFINE---------
+REFINE [a)]
+REFINE [a)]
+REFINE [a)]
+REFINE [a)]
+REFINE [a]
+-----------END REFINE---------
+REFINE [(13h]
+REFINE [(13h]
+REFINE [(13h]
+REFINE [(13h]
+REFINE [13h]
+REFINE [13h]
+-----------END REFINE---------
+REFINE [a)]
+REFINE [a)]
+REFINE [a)]
+REFINE [a)]
+REFINE [a]
+-----------END REFINE---------
+REFINE [(.]
+REFINE [(.]
+REFINE [(.]
+REFINE [(.]
+REFINE [.]
+REFINE [.]
+-----------END REFINE---------
+REFINE [a)]
+REFINE [a)]
+REFINE [a)]
+REFINE [a)]
+REFINE [a]
+-----------END REFINE---------
+chatGPT|:|a<@>De<#>(<@><#>a<@>seg<#>11h<@>a<#>as<@>a<#>19h<@>a<#>e<@>a<#>sáb<@>e<#>(<@><#>a<@>sáb<#>10h<@>a<#>as<@>a<#>13h<@>a<#>.<@>a|:|UDA:0.158<#>DDA: 0.000
+GoldTree |:|De<@>seg<@>case<#>seg<@>root<@>root<#>a<@>sex<@>case<#>sex<@>seg<@>nmod<#>de<@>11h<@>case<#>as<@>11h<@>det<#>11h<@>sex<@>nmod<#>a<@>19h<@>case<#>as<@>19h<@>det<#>19h<@>11h<@>nmod<#>e<@>sáb<@>cc<#>sáb<@>seg<@>conj<#>de<@>10h<@>case<#>as<@>10h<@>det<#>10h<@>sáb<@>nmod<#>a<@>13h<@>case<#>as<@>13h<@>det<#>13h<@>10h<@>nmod<#>.<@>seg<@>punct
+>--<
+Preços de as obras : de R$ 50 a R$ 500 .
+MESSAGE|:|Na sentença "É",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(ii.4 -> processamento)
+(- -> ii.4)
+(processamento -> root)
+(offshore -> processamento)Na sentença " ",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(é -> este)
+(este -> root)
+(o -> obstáculo)
+(único -> obstáculo)
+(obstáculo -> este)
+(. -> este)..
+Liste as relações de dependência sintática na sentença "Preços de as obras : de R$ 50 a R$ 500 .", usando o formato (token dependente -> token cabeça).
+REPLY|:|Preços -> obras
+obras -> de
+de -> Preços
+: -> obras
+de -> R$
+R$ -> 50
+a -> R$
+R$ -> 500
+. -> Preços
+REFINE [obras]
+REFINE [obras]
+REFINE [obras]
+REFINE [obras]
+REFINE [obras]
+REFINE [obras]
+-----------END REFINE---------
+REFINE [de]
+REFINE [de]
+REFINE [de]
+REFINE [de]
+REFINE [de]
+-----------END REFINE---------
+REFINE [de]
+REFINE [de]
+REFINE [de]
+REFINE [de]
+REFINE [de]
+REFINE [de]
+-----------END REFINE---------
+REFINE [Preços]
+REFINE [Preços]
+REFINE [Preços]
+REFINE [Preços]
+REFINE [Preços]
+-----------END REFINE---------
+REFINE [:]
+REFINE [:]
+REFINE [:]
+REFINE [:]
+REFINE [:]
+REFINE [:]
+-----------END REFINE---------
+REFINE [obras]
+REFINE [obras]
+REFINE [obras]
+REFINE [obras]
+REFINE [obras]
+-----------END REFINE---------
+REFINE [de]
+REFINE [de]
+REFINE [de]
+REFINE [de]
+REFINE [de]
+REFINE [de]
+-----------END REFINE---------
+REFINE [R$]
+REFINE [R$]
+REFINE [R$]
+REFINE [R$]
+REFINE [R$]
+-----------END REFINE---------
+REFINE [R$]
+REFINE [R$]
+REFINE [R$]
+REFINE [R$]
+REFINE [R$]
+REFINE [R$]
+-----------END REFINE---------
+REFINE [50]
+REFINE [50]
+REFINE [50]
+REFINE [50]
+REFINE [50]
+-----------END REFINE---------
+REFINE [a]
+REFINE [a]
+REFINE [a]
+REFINE [a]
+REFINE [a]
+REFINE [a]
+-----------END REFINE---------
+REFINE [R$]
+REFINE [R$]
+REFINE [R$]
+REFINE [R$]
+REFINE [R$]
+-----------END REFINE---------
+REFINE [R$]
+REFINE [R$]
+REFINE [R$]
+REFINE [R$]
+REFINE [R$]
+REFINE [R$]
+-----------END REFINE---------
+REFINE [500]
+REFINE [500]
+REFINE [500]
+REFINE [500]
+REFINE [500]
+-----------END REFINE---------
+REFINE [.]
+REFINE [.]
+REFINE [.]
+REFINE [.]
+REFINE [.]
+REFINE [.]
+-----------END REFINE---------
+REFINE [Preços]
+REFINE [Preços]
+REFINE [Preços]
+REFINE [Preços]
+REFINE [Preços]
+-----------END REFINE---------
+chatGPT|:|obras<@>de<#>de<@>Preços<#>:<@>obras<#>de<@>R$<#>R$<@>50<#>a<@>R$<#>R$<@>500<#>.<@>Preços|:|UDA:0.500<#>DDA: 0.250
+GoldTree |:|Preços<@>root<@>root<#>de<@>obras<@>case<#>as<@>obras<@>det<#>obras<@>Preços<@>nmod<#>:<@>Preços<@>punct<#>de<@>R$<@>case<#>R$<@>Preços<@>appos<#>50<@>R$<@>nummod<#>a<@>R$<@>case<#>R$<@>R$<@>conj<#>500<@>R$<@>nummod<#>.<@>Preços<@>punct
+>--<
+Até 30 de setembro .
+MESSAGE|:|Na sentença "É",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(' -> lógico)
+(não -> lógico)
+(é -> lógico)
+(lógico -> root)
+(que -> vá)
+(um -> jogador)
+(jogador -> vá)
+(português -> jogador)
+(vá -> lógico)
+(participar -> vá)
+(de -> repartição)
+(a -> repartição)
+(repartição -> participar)
+(de -> receitas)
+(as -> receitas)
+(receitas -> repartição)
+(de -> reino)
+(o -> reino)
+(reino -> receitas)
+(unido -> reino)
+(' -> lógico)
+(. -> lógico)Na sentença " ",  as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(é -> dado)
+(um -> dado)
+(pequeno -> dado)
+(dado -> root)
+(, -> dado)
+(mas -> dado)
+(é -> dado)
+(um -> dado)
+(pequeno -> dado)
+(dado -> dado)
+(muito -> importante)
+(importante -> dado)
+(' -> dado)
+(. -> dado)..
+Liste as relações de dependência sintática na sentença "Até 30 de setembro .", usando o formato (token dependente -> token cabeça).
+REPLY|:|Na sentença "Até 30 de setembro .", as relações de dependência sintática são mostradas abaixo no formato (token dependente -> token cabeça),
+(Até -> setembro)
+(30 -> setembro)
+(de -> setembro)
+(setembro -> Até)
+(. -> setembro)
+REFINE [(Até]
+REFINE [(Até]
+REFINE [(Até]
+REFINE [(Até]
+REFINE [Até]
+REFINE [Até]
+-----------END REFINE---------
+REFINE [setembro)]
+REFINE [setembro)]
+REFINE [setembro)]
+REFINE [setembro)]
+REFINE [setembro]
+-----------END REFINE---------
+REFINE [(30]
+REFINE [(30]
+REFINE [(30]
+REFINE [(30]
+REFINE [30]
+REFINE [30]
+-----------END REFINE---------
+REFINE [setembro)]
+REFINE [setembro)]
+REFINE [setembro)]
+REFINE [setembro)]
+REFINE [setembro]
+-----------END REFINE---------
+REFINE [(de]
+REFINE [(de]
+REFINE [(de]
+REFINE [(de]
+REFINE [de]
+REFINE [de]
+-----------END REFINE---------
+REFINE [setembro)]
+REFINE [setembro)]
+REFINE [setembro)]
+REFINE [setembro)]
+REFINE [setembro]
+-----------END REFINE---------
+REFINE [(setembro]
+REFINE [(setembro]
+REFINE [(setembro]
+REFINE [(setembro]
+REFINE [setembro]
+REFINE [setembro]
+-----------END REFINE---------
+REFINE [Até)]
+REFINE [Até)]
+REFINE [Até)]
+REFINE [Até)]
+REFINE [Até]
+-----------END REFINE---------
+REFINE [(.]
+REFINE [(.]
+REFINE [(.]
+REFINE [(.]
+REFINE [.]
+REFINE [.]
+-----------END REFINE---------
+REFINE [setembro)]
+REFINE [setembro)]
+REFINE [setembro)]
+REFINE [setembro)]
+REFINE [setembro]
+-----------END REFINE---------
+chatGPT|:|Até<@>setembro<#>30<@>setembro<#>de<@>setembro<#>setembro<@>Até<#>.<@>setembro|:|UDA:0.400<#>DDA: 0.200
+GoldTree |:|Até<@>30<@>case<#>30<@>root<@>root<#>de<@>setembro<@>case<#>setembro<@>30<@>nmod<#>.<@>30<@>punct
+>--<

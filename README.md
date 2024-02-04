@@ -34,7 +34,7 @@ The result is recorded on `MI_results/results_MI.txt`
 
 <h2>Training DMV</h2>
 
-Clone this <a href="https://github.com/jxhe/struct-learning-with-flow/">repository</a> and replace the code `replace_dmv_codes/modules/util.py`, `replace_dmv_codes/modules/dmv_viterbi_model.py` and `replace_dmv_codes/dmv_viterbi_code.py` by their respectives in the original repository. <br>
+Clone this <a href="https://github.com/jxhe/struct-learning-with-flow/">repository</a> and replace the code `replace_dmv_codes/modules/util.py`, `replace_dmv_codes/modules/dmv_viterbi_model.py` and `replace_dmv_codes/dmv_viterbi_train.py` by their respectives in the original repository. <br>
 
 
 In the lines 124 you must change the maximum tokens per sentence in  `parse_args = init_config(40)` and `main(parse_args,40)` in line 125, for sentence at most 40 tokens. <br>

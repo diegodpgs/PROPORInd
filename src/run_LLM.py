@@ -1,3 +1,5 @@
+#@author: Diego Pedro, 13 January 2024
+#@e-mail  diego.silva@ifam.edu.br
 from udmodel import *
 import argparse
 import os

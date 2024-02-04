@@ -1,4 +1,4 @@
-# DG_MI_model
+# PROPORInd
 
 
 This project induce dependency grammar in two ways: using Mutual Information and DMV algorithm. The code used for DMV can be found in this <a href="https://github.com/jxhe/struct-learning-with-flow/">repository</a>.
@@ -49,5 +49,13 @@ Copy the files results to the `DMV_results/DMV_<size>` folder. <br>
 
 To summarized the DMV results for each sentence, since the original code do note provide that information, you can run. <br>
 ```
-python3 summarize_dmv_results.py --PATH_R ~/DG_MI_model/DMV_results/DMV_10/ --PATH_CV ~/ProjectGit/DG_MI_model/data_cv/
+python3 summarize_dmv_results.py --PATH_R ~/PROPORInd/DMV_results/DMV_10/ --PATH_CV ~/PROPORInd/data_cv/
 ```
+
+
+<h2>Training LLM</h2>
+
+Tu rum LLM you need create an account in openAI and subscrive to use chaGPT. You need to run for each fold in cross validation, for each language.
+
+```
+python3 run_LLM.py --PATHtest ~/PROPORInd/data_cv/Akuntsu__0__test.conllu --openkey [your key] --PATHtrain ~/PROPORInd/data_cv/Akuntsu__0__train.conllu --shot [0, 1 or 2] --fixed [True or False] --requests [how many requests to API] --max_len_sent_train 10

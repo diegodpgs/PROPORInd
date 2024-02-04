@@ -1,6 +1,9 @@
+#@author: Diego Pedro, 13 January 2024
+#@e-mail  diego.silva@ifam.edu.br
 from collections import defaultdict
 from collections import Counter
 from udmodel import *
+from edit import *
 import numpy as np
 import os
 import time
@@ -8,81 +11,102 @@ import random
 
 class MImodel:
 
-  def __init__(self,sentence_length):
+  def __init__(self,case_sensitive=False):
     self.ud_model = UDModel()
     self.mult_dists_x = {}
     self.mult_dists_yx = {}
-    self.matchs_DDA = {}
-    self.matchs_UDA = {}
-    self.total_compared_relation = {}
-    self.syntatic_relations_testset = {}
+    self.output = {}
     self.smoothing = 'null'
     self.deprel = ['nsubj','obj','iobj','csubj','ccomp','xcomp','obl','vocative','expl','dislocated','advcl','advmod','discourse','aux','cop','mark','nmod','appos','nummod','acl','amod','det','clf','case','conj','cc','fixed','flat','compound','list','parataxis','orphan','goeswith','reparandum','punct','root','dep']
     self.__content__ = 'FORM'
-    self.sentence_length = sentence_length
     self.__initVariables()
+    self.case_sensitive = case_sensitive
 
   def __initVariables(self):
+      self.output = {'DDA':dict([(dp,[0,0]) for dp in self.deprel]),
+                     'UDA':dict([(dp,[0,0]) for dp in self.deprel])}
 
-    
-      self.matchs_DDA = dict([(dp,0) for dp in self.deprel])
-      self.matchs_UDA = dict([(dp,0) for dp in self.deprel])
-      self.total_compared_relation = 0
+  def editSearch(self,a):
 
-  def __smoothing(self,token_frequency,total_tokens_frequency):
+    minor_string = ''
+    minor_value = 100
+    equals_strings = 1
+    prob = 0
+    tokens = list(self.mult_dists_x.copy().keys())
+    average_distance = [[] for i in range(100)]
+
+    for token in tokens:
+      v = edit_distance(a,token)
+      average_distance[v].append(self.mult_dists_x.copy()[token])
+
+      if v < minor_value:
+        minor_value = v
+        minor_string = token 
+        equals_strings = 1
+        prob = self.mult_dists_x.copy()[token]
+
+    return np.average(average_distance[minor_value])
+
+
+  def __smoothing(self,token_frequency,total_tokens_frequency,token=None):
+
+    if token_frequency != 0:
+        return token_frequency
 
     if self.smoothing == 'null':
       return token_frequency
 
     if self.smoothing == 'laplace':
-
-      if token_frequency != 0:
-        return token_frequency
-
       return 1/total_tokens_frequency
+
+    if self.smoothing == 'edit':
+
+      if token == None:
+        return 1/total_tokens_frequency
+
+      prob = self.editSearch(token)
+
+      if prob == 0:
+        return 1/total_tokens_frequency
+
+      return prob
+
 
   def computeMI(self,language,x,y):
     """For reference: https://people.cs.umass.edu/~elm/Teaching/Docs/mutInf.pdf
-       For white house
+       Example: white house
        y = freq(white)
        x = freq(house)
+       yx = white<#>house
     """
 
     IM = 0
-    totalfreq = float(np.sum(list(self.mult_dists_yx.values())))
-    distx = self.__smoothing(self.mult_dists_x[x],totalfreq)
-    disty = self.__smoothing(self.mult_dists_x[y],totalfreq)
-    distyx = self.__smoothing(self.mult_dists_yx['%s<#>%s' % (y,x)],totalfreq)
+    totalfreq = float(np.sum(list(self.mult_dists_yx.copy().values())))
+    distx = self.__smoothing(self.mult_dists_x.copy()[x],totalfreq,x)
+    disty = self.__smoothing(self.mult_dists_x.copy()[y],totalfreq,y)
+    distyx = self.__smoothing(self.mult_dists_yx.copy()['%s<#>%s' % (y,x)],totalfreq)
 
-    
     if distyx == 0:
         return 0
     join = distyx/totalfreq
 
     return join*(np.log2(distyx)+np.log2(totalfreq)-np.log2(distx)-np.log2(disty))
 
-  def __is_validconst__(self,line):
-    idtoken = line.split()[0]
-
-    return True if idtoken[0].isdigit() and ('.' not in idtoken and '-' not in idtoken) else False
-
-  def computeDist(self,CONLLU_file):
+  def computeDist(self,CONLLU_file_name,max_train_len):
 
       dist_x = defaultdict(int)
       dist_yx = defaultdict(int)
-      index = 0
       previous_token = ''
-      previous_lema = ''
+      #print('DIST',CONLLU_file_name)
+      sentences = [self.ud_model.get_sentence_form(s['sentence']) for s in self.ud_model.parseConllu(CONLLU_file_name)]
 
-      while index < len(CONLLU_file):
-       
-        if self.ud_model.end_sentence__(CONLLU_file[index]):
-          previous_token = ''
-          previous_lema = ''
-        elif self.__is_validconst__(CONLLU_file[index]):
+      for sentence in sentences:
+        tokens = sentence.split() if self.case_sensitive else sentence.lower().split()
 
+        if len(tokens) > max_train_len:
+          continue
 
-          token = CONLLU_file[index].split('\t')[1]
+        for token in tokens: 
           dist_x[token] += 1
 
 
@@ -91,12 +115,10 @@ class MImodel:
 
           previous_token = token
 
-
-        index += 1
-
       return dist_x, dist_yx
 
   def combination(self,language, sentence,distance_limit):
+    """ Root == 0"""
     
     list_combinations = []
     for index_c1, const1 in enumerate(sentence):
@@ -104,96 +126,100 @@ class MImodel:
       for index_c2 in range(index_c1,len(sentence)):
         if index_c1 == index_c2:
           continue
-
+        
         if index_c2 - index_c1 <= distance_limit:
 
           const1_form = const1[self.__content__].replace('--','-')
           const2_form = sentence[index_c2][self.__content__].replace('--','-')
 
-          list_combinations.append((self.computeMI(language,const1[self.__content__],sentence[index_c2][self.__content__]),const1_form,const2_form))
-          
+          if not self.case_sensitive:
+            const1_form = const1_form.lower()
+            const2_form = const2_form.lower()
 
-    list_combinations = list(set(list_combinations)) #Remove duplicates
+          list_combinations.append((self.computeMI(language,const1[self.__content__],\
+                              sentence[index_c2][self.__content__]),const1_form,const2_form,index_c1+1,index_c2+1))
+          
     list_combinations.sort()
 
     return list_combinations[::-1]
 
  
 
-  def __processPairs(self,relations,permutation_pairs,language,max_distance_relations,log=False):
+  def __processPairs(self,relations_target,permutation_pairs,language,max_distance_relations,log=False):
 
-    if len(relations) == 0:
+    if len(relations_target) == 0:
         return
-    relations_pairs = []
+    relations_target_pairs = {}
 
 
-    for r in relations:
+    for r in relations_target:
+      relations_target_pairs[r['PAIR']] = r['DEPREL']
 
-      relations_pairs.append('%s<#>%s' % (r['HEAD'],r['DEP']))
-
-      if r['DEPREL'] not in self.syntatic_relations_testset:
-        self.syntatic_relations_testset[r['DEPREL']] = 0
-
-
-      self.syntatic_relations_testset[r['DEPREL']] += 1
-
-    relations_pairs_buffer = relations_pairs.copy()
+      self.output['UDA'][r['DEPREL']][1] += 1
+      self.output['DDA'][r['DEPREL']][1] += 1
 
     for index_pair,perm_pair in enumerate(permutation_pairs):
-      A = len(perm_pair[1])
-      B = len(perm_pair[2])
+        A = len(perm_pair[1])
+        B = len(perm_pair[2])
 
-      if A > B :#and self.mult_dists_x[perm_pair[1]] > self.mult_dists_x[perm_pair[2]]:
-       perm_pair_hd  = '%s<#>%s' % (perm_pair[1],perm_pair[2])
-       perm_pair_dh  = '%s<#>%s' % (perm_pair[2],perm_pair[1])
-      else:
-        perm_pair_hd  = '%s<#>%s' % (perm_pair[2],perm_pair[1])
-        perm_pair_dh  = '%s<#>%s' % (perm_pair[1],perm_pair[2])
-
-
-
-      self.total_compared_relation += 1
-
-      if perm_pair_hd in relations_pairs_buffer:
-        index_relation = relations_pairs.index(perm_pair_hd)
         
-          
-        self.matchs_UDA[relations[index_relation]['DEPREL']] += 1
-        self.matchs_DDA[relations[index_relation]['DEPREL']] += 1
+        perm_pair_dh  = '%d<#>%d' % (perm_pair[-2],perm_pair[-1])
+        perm_pair_hd  = '%d<#>%d' % (perm_pair[-1],perm_pair[-2])
 
-        while perm_pair_hd in relations_pairs_buffer:
-          relations_pairs_buffer.remove(perm_pair_hd) #To avoid compare to the same relation
+        if perm_pair_dh in relations_target_pairs.keys():
 
-      elif perm_pair_dh in relations_pairs_buffer:
-        index_relation = relations_pairs.index(perm_pair_dh)
+          self.output['UDA'][relations_target_pairs[perm_pair_dh]][0] += 1
+          self.output['DDA'][relations_target_pairs[perm_pair_dh]][0] += 1
 
-        self.matchs_UDA[relations[index_relation]['DEPREL']] += 1
+        elif perm_pair_hd in relations_target_pairs.keys():
+          self.output['UDA'][relations_target_pairs[perm_pair_hd]][0] += 1
 
-        while perm_pair_dh in relations_pairs_buffer:
-          relations_pairs_buffer.remove(perm_pair_dh) #To avoid compare to the same relation
-
-
-  def train(self,data_train,smoothing='null'):
+  def train(self,data_train,smoothing='null',max_train_len=10):
     self.smoothing = smoothing
     
 
-    dists = self.computeDist(data_train)
+    dists = self.computeDist(data_train,max_train_len)
     self.mult_dists_x = dists[0]
     self.mult_dists_yx = dists[1]
+
+  def summary_results(self):
+
+
+    UDA_output = [values[0] for key, values in self.output['UDA'].items()]
+    UDA_target = [values[1] for key, values in self.output['UDA'].items()]
+    DDA_output = [values[0] for key, values in self.output['DDA'].items()]
+    DDA_target = [values[1] for key, values in self.output['DDA'].items()]
+    tdp = sum([i[1] for k,i in self.output['UDA'].items()])/10
+    
+    UDA_syn_output, DDA_syn_output = [],[]
+
+    for dep_rel in self.deprel:
+
+      if self.output['DDA'][dep_rel][1] > tdp and self.output['DDA'][dep_rel][0] > 0:
+        DDA_syn_output.append((self.output['DDA'][dep_rel][0]/self.output['DDA'][dep_rel][1],dep_rel))
+
+      if self.output['UDA'][dep_rel][1] > tdp and self.output['UDA'][dep_rel][0] > 0:
+        UDA_syn_output.append((self.output['UDA'][dep_rel][0]/self.output['UDA'][dep_rel][1],dep_rel))
+
+    UDA_syn_output.sort()
+    DDA_syn_output.sort()
+
+    UDA = sum(UDA_output)/sum(UDA_target)
+    DDA = sum(DDA_output)/sum(DDA_target)
+    return UDA,DDA,UDA_syn_output[::-1],DDA_syn_output[::-1]
+
 
   def testExp(self,data_test,language,max_distance_relations,max_length_sentence):
     
 
     parsed = self.ud_model.parseConllu(data_test) 
-    parsed = ({'depRel':[lp[0] for lp in parsed],'sentence':[lp[1][1] for lp in parsed]}) 
+    parsed = {'depRel':[lp['depRel'] for lp in parsed],'sentence':[lp['sentence'] for lp in parsed]} 
 
 
     total_sentences = len(parsed['sentence'])
     permutation_count = 0
     previous_precision = 0
     sentences_processed = 0
-
-    self.syntatic_relations_testset = {}
 
     for index_sentence, sentence in enumerate(parsed['sentence']):
       
@@ -214,12 +240,7 @@ class MImodel:
 
         self.__processPairs(relations,p[0:len(relations)],language,max_distance_relations)
 
-    if sum(self.syntatic_relations_testset.values()) == 0:
-      return 0,0
-    UDA = sum(self.matchs_UDA.values())/sum(self.syntatic_relations_testset.values())
-    DDA = sum(self.matchs_DDA.values())/sum(self.syntatic_relations_testset.values())
-
-    return UDA,DDA
+    return self.summary_results()
 
 
            

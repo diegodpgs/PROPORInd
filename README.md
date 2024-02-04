@@ -15,16 +15,17 @@ First, run the cv.py code to create cross validation data.
 
 
 ```
-python3 cv.py --PATH_data ~/DG_MI_model/data --PATH_dest ~/DG_MI_model/data_cv
+python3 cv.py --PATH_data ~/PROPORInd/data --PATH_test ~/PROPORInd/data_cv
 ```
 
+Ten files will be generated: 5 test files and 5 train files
 
 <h2>Training MI</h2>
 
-Run run_MI.py. Max_d_r means the maximum distance between two token within the relation. Max_s is the maximum sentence distance allowed. The code run a combination of these configurations. <br>
+Run run_MI.py. Max_d_r means the maximum distance between two token within the relation. Max_l_train is the maximum sentence distance allowed. The smoothing could be used as laplace or edit distance. The code run a combination of these configurations. <br>
 
 ```
-python3 run_MI.py --PATH ~/DG_MI_model/data_cv/ --max_d_r 2,3,4,5 --max_s 10,40
+python3 run_MI.py --PATH_cv ~/PROPORInd/data_cv/ --max_d_r 2,3,4,5 --max_l_train 10 --smoothing edit
 ```
 
 The result is recorded on `MI_results/results_MI.txt`

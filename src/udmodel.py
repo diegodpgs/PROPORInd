@@ -1,3 +1,5 @@
+#@author: Diego Pedro, 13 January 2024
+#@e-mail  diego.silva@ifam.edu.br
 import collections as cl
 import numpy as np 
 
@@ -20,18 +22,24 @@ class UDModel:
               'XPOS':field[4],
               'FEATS':field[5],
               'HEAD':field[6],
-              'DEPREL':field[7]}
+              'DEPREL':field[7],
+              'PAIR':'%s<#>%s' % (field[0],field[6])}
 
   def end_sentence__(self,line):
-      return True if len(line) == 0 else False
+      return True if len(line) <= 1 else False
 
   def is_validconst__(self,line):
-      idtoken = line.split()[0]
+      try:
+        idtoken = line.split()[0]
 
-      return True if idtoken[0].isdigit() and ('.' not in idtoken and '-' not in idtoken) else False
+        return True if idtoken[0].isdigit() and ('.' not in idtoken and '-' not in idtoken) else False
 
+      except:
+        print(f'[{line}]')
+        print(len(line),type(line),ord(line[0]))
+        raise Exception()
 
-  def getSentenceDepRelations(self,sentence,content='FORM'):
+  def getSentenceDepRelations(self,sentence,content='FORM',root=False):
       deprel = []
       ids = dict([(const['ID'],const['FORM']) for const in sentence])
       idspos = dict([(const['ID'],const['UPOS']) for const in sentence])
@@ -42,19 +50,23 @@ class UDModel:
           line['DEPREL'] = line['DEPREL'].split(':')[0]
 
         if line['HEAD'] == '0':
+          if not root:
+            continue
           deprel.append({'HEAD':'root',
                         'DEP':line[content],
                         'DEPREL':line['DEPREL'],
                         'UPOSD':line['UPOS'],
                         'UPOSH':line['UPOS'],
-                        'distance_dep_relation':line['distance_dep_relation']})
+                        'distance_dep_relation':line['distance_dep_relation'],
+                        'PAIR':line['PAIR']})
         else:
           deprel.append({'HEAD':ids[line['HEAD']],
                         'DEP':line[content],
                         'UPOSD':line['UPOS'],
                         'UPOSH':idspos[line['HEAD']],
                         'DEPREL':line['DEPREL'],
-                        'distance_dep_relation':line['distance_dep_relation']})
+                        'distance_dep_relation':line['distance_dep_relation'],
+                        'PAIR':line['PAIR']})
 
 
       return deprel
@@ -65,19 +77,20 @@ class UDModel:
       return ' '.join([const['FORM'] for const in sentence])
 
 
-  def parseConllu(self,data_CONLLU):
+  def parseConllu(self,file_name_CONLLU):
       conllu_parsed = []
       es = 0
 
       sentence = []
       sent_id = ''
-      for line in open(data_CONLLU).read().split('\n'):
+      
+      for line in open(file_name_CONLLU).read().lower().split('\n'):
 
           if '# sent_id = ' in line:
             sent_id = line.split('# sent_id = ')[1]
 
           if self.end_sentence__(line):
-            conllu_parsed.append((self.getSentenceDepRelations(sentence),(sent_id,sentence)))
+            conllu_parsed.append({'depRel':self.getSentenceDepRelations(sentence),'sent_id':sent_id,'sentence':sentence})
             sentence = []
             es += 1
 
@@ -86,18 +99,18 @@ class UDModel:
 
       
 
-      print('%s\n%d Sentences\n%d dependency relations' % (data_CONLLU,len(conllu_parsed[1:-1]),sum([len(i[0]) for i in conllu_parsed[1:-1]])))
+      print('%s\n%d Sentences\n%d dependency relations' % (file_name_CONLLU,len(conllu_parsed[1:-1]),sum([len(i['depRel']) for i in conllu_parsed[1:-1]])))
       return conllu_parsed[0:-1]
 
-  def statistical(self,writer_statistical,data_CONLLU):
+  def statistical(self,writer_statistical,file_name_CONLLU):
     
-      conllu_parsed = self.parseConllu(data_CONLLU)
+      conllu_parsed = self.parseConllu(file_name_CONLLU)
 
       data = {'distance_dep_relation':[], 'UPOS_dep':[],'token':[],'sentence_len':[],'DEPREL':[]}
 
       for sentence in conllu_parsed:
-        depSen = sentence[0]
-        data['sentence_len'].append(len(sentence[1][1]))
+        depSen = sentence['depRel']
+        data['sentence_len'].append(len(sentence['sentence']))
 
         for const in depSen:
           data['distance_dep_relation'].append(const['distance_dep_relation'])
@@ -116,10 +129,13 @@ class UDModel:
                                                      min([len(td) for td in data['token']]),
                                                      max([len(td) for td in data['token']])))
 
-      writer_statistical.write('Sentence length|Total:%d|Average:%.3f|Min:%d|Max:%d\n' % (len(data['sentence_len']),
+      writer_statistical.write('Types:%d\n' % (len(set(data['token']))))
+      writer_statistical.write('Complexity:%.3f\n' % (len(data['token'])/len(set(data['token'])))) 
+      writer_statistical.write('Sentence length|Total:%d|Average:%.3f|Min:%d|Max:%d|STD:%.3f\n' % (len(data['sentence_len']),
                                                      np.average(data['sentence_len']),
                                                      min(data['sentence_len']),
-                                                     max(data['sentence_len'])))
+                                                     max(data['sentence_len']),
+                                                     np.std(data['sentence_len'])))
 
       writer_statistical.write('Sentence length|10:%.3f|40:%.3f\n' % ([s<= 10 for s in data['sentence_len']].count(True)/len(data['sentence_len']),
                                                      [s<= 40 for s in data['sentence_len']].count(True)/len(data['sentence_len'])))
